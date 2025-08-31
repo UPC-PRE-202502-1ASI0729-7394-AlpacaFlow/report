@@ -8,7 +8,7 @@
 
 ### Código: 1ASI0729
 
-### Curso: Desarrollo de Aplicaciones Webs - Presencial
+### Curso: Desarrollo de Aplicaciones Open Source - Presencial
 
 ### NRC: 7394
 
@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td>Nikaido Vargas, Javier Masaru</td>
-      <td></td>
+      <td>U20221G099</td>
     </tr>
     <tr>
       <td>Cuba Pareja, Joaquin Antonio</td>
@@ -48,7 +48,7 @@
     </tr>
     <tr>
       <td>Rivera Ayala, Gabriel Alejandro</td>
-      <td></td>
+      <td>U202223279</td>
     </tr>
   </tbody>
 </table>
@@ -172,27 +172,27 @@
 
 ### 1.1.1. Descripción de la Startup
 
-**RurasqaySoft** es una startup tecnológica enfocada en el desarrollo de soluciones digitales innovadoras para el sector salud, con especial atención en el cuidado de pacientes geriátricos. Nuestro propósito es aprovechar la tecnología para mejorar la calidad de vida de los adultos mayores mediante herramientas accesibles, seguras y sostenibles que permitan un monitoreo constante, una atención preventiva y una conexión más cercana entre pacientes, familiares e instituciones de salud.
+**AlpacaFlow** es una startup tecnológica enfocada en el desarrollo de soluciones digitales innovadoras para el sector salud, con especial atención en el cuidado de pacientes geriátricos. Nuestro propósito es aprovechar la tecnología para mejorar la calidad de vida de los adultos mayores mediante herramientas accesibles, seguras y sostenibles que permitan un monitoreo constante, una atención preventiva y una conexión más cercana entre pacientes, familiares e instituciones de salud.
 
 Nuestra solución es MediTrack, una plataforma de salud digital que utiliza parches inteligentes como dispositivos IoT para el monitoreo remoto de pacientes geriatricos. MediTrack permite registrar signos vitales, detectar emergencias y compartir información en tiempo real con familiares, médicos y aseguradoras, garantizando un cuidado preventivo, seguro y personalizado.
 
-La propuesta de RurasqaySoft se centra en construir un ecosistema de salud digital inclusivo, escalable y orientado a resultados, donde los parches inteligentes y las plataformas de gestión se convierten en un puente entre innovación tecnológica y bienestar social. Buscamos que cada adulto mayor pueda ser monitoreado en tiempo real, reduciendo riesgos, optimizando diagnósticos y facilitando la toma de decisiones médicas y familiares.
+La propuesta de AlpacaFlow se centra en construir un ecosistema de salud digital inclusivo, escalable y orientado a resultados, donde los parches inteligentes y las plataformas de gestión se convierten en un puente entre innovación tecnológica y bienestar social. Buscamos que cada adulto mayor pueda ser monitoreado en tiempo real, reduciendo riesgos, optimizando diagnósticos y facilitando la toma de decisiones médicas y familiares.
 
 **Misión:** Desarrollar herramientas digitales accesibles y efectivas que permitan a pacientes, familias e instituciones de salud monitorear y gestionar la salud de los adultos mayores en tiempo real, brindando seguridad, confianza y eficiencia.
 
-**Visión:** En los próximos 5 años, consolidar a RurasqaySoft como una la empresa líder en soluciones de salud digital en Latinoamérica, siendo reconocidos por nuestra capacidad de mejorar la calidad de vida y prevenir riesgos mediante el uso de innovación tecnológica accesible y escalable.
+**Visión:** En los próximos 5 años, consolidar a AlpacaFlow como una la empresa líder en soluciones de salud digital en Latinoamérica, siendo reconocidos por nuestra capacidad de mejorar la calidad de vida y prevenir riesgos mediante el uso de innovación tecnológica accesible y escalable.
 
 **Alcance del proyecto:** El alcance inicial de MediTrack está orientado al cuidado geriátrico, ofreciendo una plataforma web y móvil que integra dispositivos IoT en forma de parches inteligentes para registrar signos vitales, alertar en casos de emergencia y compartir información en tiempo real con familiares, médicos y aseguradoras. A mediano plazo, buscamos ampliar el impacto de la solución hacia hospitales, clínicas y casas de reposo, consolidando un modelo de monitoreo preventivo y predictivo que transforme la manera en que se gestiona la salud de los adultos mayores en Latinoamérica.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                     | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                        |
-| ---------------------------------------- | ------------------------------------ | ---------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![]()                                    | Beingolea Montalvo, Sebastian Martin | U202217853 | Ingeniería de Software | comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico.                                                                                                            |
-| ![](/assets/chapter1/gabriel.jpg)                                    | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.                                                                                                                                         |
-| ![]()                                    | Cuba Pareja, Joaquin Antonio         | U201621281 | Ingeniería de Software | Investigador, Innovador, Analista, Cooperativo.                                                                                                                                    |
-| ![]()                                    | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software. |
-| ![marcelo](/assets/chapter1/marcelo.png) | Barrientos Quispe, Marcelo           | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                             |
+| Foto                                     | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                     |
+| ---------------------------------------- | ------------------------------------ | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![]()                                    | Beingolea Montalvo, Sebastian Martin | U202217853 | Ingeniería de Software | comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico.                                                                                                                                                                                                                                                                                                                         |
+| ![](/assets/chapter1/gabriel.jpg)        | Rivera Ayala, Gabriel Alejandro      | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. |
+| ![]()                                    | Cuba Pareja, Joaquin Antonio         | U201621281 | Ingeniería de Software | Investigador, Innovador, Analista, Cooperativo.                                                                                                                                                                                                                                                                                                                                                 |
+| ![]()                                    | Rioja Nuñez, Franco Diego            | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                              |
+| ![marcelo](/assets/chapter1/marcelo.png) | Barrientos Quispe, Marcelo           | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                          |
 
 ## 1.2. Solution Profile
 
@@ -304,6 +304,7 @@ Y ante esta problemática nos surge la siguiente pregunta: ¿Cómo podríamos cr
 **Domain:** Salud digital, cuidado geriátrico, tecnología portátil (wearables).
 
 **Customer Segments:**
+
 - Familiares de pacientes geriátrico
 - Personal médico de clínicas.
 - Personal de las casas de reposo
@@ -352,24 +353,29 @@ Business Assumptions
 User Assumptions
 
 ¿Quién es el usuario?
+
 - Allegados de adultos mayores: Hijos, nietos o cuidadores principales que viven con el adulto mayor o a distancia, preocupados por su salud, seguridad y bienestar. Tienen acceso a smartphones y/o computadoras, y buscan una forma sencilla y confiable de monitorear a sus seres queridos.
 - Clínicas y casas de reposo: Personal médico, enfermeras y administradores que necesitan una herramienta para monitorear a múltiples pacientes de manera simultánea. Buscan optimizar la gestión, mejorar la eficiencia del personal y acceder a datos históricos para un cuidado más proactivo.
 
 ¿Dónde encaja nuestro producto en su vida?
+
 - Para los allegados: Se integra en la rutina diaria como una capa de seguridad y tranquilidad. La aplicación móvil se convierte en una herramienta constante para verificar el estado de un ser querido, sin necesidad de llamadas o visitas constantes.
 - Para las clínicas y casas de reposo: Se convierte en una herramienta central para la gestión de pacientes. Se utiliza durante los turnos de trabajo para monitorear, priorizar alertas y generar reportes, mejorando la calidad del servicio y la comunicación con los familiares.
 
 ¿Qué problemas resuelve nuestro producto?
+
 - Incertidumbre y preocupación: Las familias eliminan la ansiedad al tener datos de salud en tiempo real.
 - Falta de monitoreo continuo: La solución permite un seguimiento constante de signos vitales y movilidad, incluso a distancia.
 - Ineficiencia en la gestión: Las instituciones pueden monitorear a múltiples residentes de forma simultánea, recibiendo alertas automáticas que les permiten reaccionar rápidamente ante emergencias.
 - Prevención limitada: La disponibilidad de datos históricos ayuda a identificar patrones y a tomar decisiones médicas preventivas.
 
 ¿Cuándo y cómo se usa nuestro producto?
+
 - Para el usuario B2C (familiar): La app web se usa varias veces al día para chequear el estado del adulto mayor, o al recibir una alerta. La instalación del parche es un proceso inicial y sencillo, y el monitoreo es automático.
 - Para el usuario B2B (institución): El dashboard se usa de forma continua en una computadora o tablet en la estación de enfermería. Se consulta para ver el estado de los pacientes, verificar alertas y generar reportes para el personal o los familiares.
 
 ¿Qué características son importantes?
+
 - Alertas en tiempo real: Por caídas, cambios bruscos en signos vitales o anomalías en el patrón de movilidad.
 - Dashboard visual: Una interfaz clara con gráficos y un mapa de movilidad.
 - Historial de datos: La capacidad de ver métricas de salud a lo largo del tiempo.
