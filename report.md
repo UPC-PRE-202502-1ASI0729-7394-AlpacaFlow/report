@@ -352,12 +352,12 @@ Business Assumptions
 User Assumptions
 
 ¿Quién es el usuario?
-- Familiares de adultos mayores: Hijos, nietos o cuidadores principales que viven con el adulto mayor o a distancia, preocupados por su salud, seguridad y bienestar. Tienen acceso a smartphones y/o computadoras, y buscan una forma sencilla y confiable de monitorear a sus seres queridos.
-- Clínicas, hospitales y casas de reposo: Personal médico, enfermeras y administradores que necesitan una herramienta para monitorear a múltiples pacientes de manera simultánea. Buscan optimizar la gestión, mejorar la eficiencia del personal y acceder a datos históricos para un cuidado más proactivo.
+- Allegados de adultos mayores: Hijos, nietos o cuidadores principales que viven con el adulto mayor o a distancia, preocupados por su salud, seguridad y bienestar. Tienen acceso a smartphones y/o computadoras, y buscan una forma sencilla y confiable de monitorear a sus seres queridos.
+- Clínicas y casas de reposo: Personal médico, enfermeras y administradores que necesitan una herramienta para monitorear a múltiples pacientes de manera simultánea. Buscan optimizar la gestión, mejorar la eficiencia del personal y acceder a datos históricos para un cuidado más proactivo.
 
 ¿Dónde encaja nuestro producto en su vida?
-- Para las familias: Se integra en la rutina diaria como una capa de seguridad y tranquilidad. La aplicación móvil se convierte en una herramienta constante para verificar el estado de un ser querido, sin necesidad de llamadas o visitas constantes.
-- Para las instituciones: Se convierte en una herramienta central para la gestión de pacientes. Se utiliza durante los turnos de trabajo para monitorear, priorizar alertas y generar reportes, mejorando la calidad del servicio y la comunicación con los familiares.
+- Para los allegados: Se integra en la rutina diaria como una capa de seguridad y tranquilidad. La aplicación móvil se convierte en una herramienta constante para verificar el estado de un ser querido, sin necesidad de llamadas o visitas constantes.
+- Para las clínicas y casas de reposo: Se convierte en una herramienta central para la gestión de pacientes. Se utiliza durante los turnos de trabajo para monitorear, priorizar alertas y generar reportes, mejorando la calidad del servicio y la comunicación con los familiares.
 
 ¿Qué problemas resuelve nuestro producto?
 - Incertidumbre y preocupación: Las familias eliminan la ansiedad al tener datos de salud en tiempo real.
@@ -366,7 +366,7 @@ User Assumptions
 - Prevención limitada: La disponibilidad de datos históricos ayuda a identificar patrones y a tomar decisiones médicas preventivas.
 
 ¿Cuándo y cómo se usa nuestro producto?
-- Para el usuario B2C (familiar): La app se usa varias veces al día para chequear el estado del adulto mayor, o al recibir una alerta. La instalación del parche es un proceso inicial y sencillo, y el monitoreo es automático.
+- Para el usuario B2C (familiar): La app web se usa varias veces al día para chequear el estado del adulto mayor, o al recibir una alerta. La instalación del parche es un proceso inicial y sencillo, y el monitoreo es automático.
 - Para el usuario B2B (institución): El dashboard se usa de forma continua en una computadora o tablet en la estación de enfermería. Se consulta para ver el estado de los pacientes, verificar alertas y generar reportes para el personal o los familiares.
 
 ¿Qué características son importantes?
