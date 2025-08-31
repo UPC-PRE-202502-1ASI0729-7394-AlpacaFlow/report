@@ -413,6 +413,8 @@ Cuando el 75% de los profesionales de la salud encuestados indiquen que el histo
 
 #### 1.2.2.4. Lean UX Canvas
 
+![Lean UX Canvas](/assets/chapter1/leanUXcanvas.jpg "Lean UX Canvas Image")
+
 ## 1.3. Segmentos objetivo
 
 - **Allegados de pacientes geriátricos**
