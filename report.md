@@ -210,7 +210,11 @@
 
 - ¿Con qué frecuencia lo visitas o te comunicas con él/ella?
 
-- ¿Qué herramientas o dispositivos digitales sueles usar en tu día a día?
+- ¿Qué dispositivo usas más para comunicarte con tu familiar o cuidador?
+
+- ¿Qué apps o canales usas con más frecuencia?
+
+- ¿Qué navegador usas más en tu día a día?
 
 - ¿Qué preocupaciones principales tienes sobre la salud y seguridad de tu familiar adulto mayor?
 
@@ -236,7 +240,13 @@
 
 - ¿Cuántos pacientes adultos mayores atiendes en promedio a la semana?
 
-- ¿Qué herramientas digitales o sistemas de monitoreo utilizas actualmente en tu práctica médica?
+- ¿Qué dispositivo usas más para tu trabajo?
+
+- ¿Qué canales digitales utilizas con pacientes y familiares?
+
+- ¿Qué navegador usas con frecuencia en el trabajo?
+
+- ¿Qué sistema de monitoreo de pacientes utilizas en tus prácticas médicas?
 
 - ¿Qué dificultades enfrentas en el monitoreo de la salud de pacientes geriátricos?
 
@@ -265,6 +275,10 @@
 - ¿Qué herramientas o protocolos utilizas actualmente para monitorear su estado de salud?
 
 - ¿Qué canales usas para comunicarte con las familias de los residentes?
+
+- ¿Qué navegadores usan en los equipos de la residencia?
+
+- ¿Qué sistemas de monitoreo utilizas para saber el estado de salud actual de los asistidos?
 
 - ¿Qué problemas frecuentes enfrentas en el cuidado y supervisión de los adultos mayores?
 
