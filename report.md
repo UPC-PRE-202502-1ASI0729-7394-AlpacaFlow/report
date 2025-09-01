@@ -290,7 +290,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 - ¿Qué características clínicas consideras imprescindibles para confiar en un sistema de monitoreo remoto?
 
-- ¿Qué obstáculos podrían dificultar la adopción en tu clínica (costos, capacitación, confianza en los datos)?
+- ¿Qué obstáculos podrían dificultar la adopción en tu clínica?
 
 - ¿Consideras que deberían cubrir parte del costo de una solución como esta?
 
@@ -322,7 +322,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 - ¿Qué funcionalidades considerarías imprescindibles para implementarlo en tu institución?
 
-- ¿Qué obstáculos crees que existirían para adoptarlo (costo, capacitación del personal, confianza en los dispositivos)?
+- ¿Qué obstáculos crees que existirían para adoptarlo?
 
 - ¿Crees que los familiares estarían dispuestos a pagar un valor adicional por contar con esta tecnología en la casa de reposo?
 
