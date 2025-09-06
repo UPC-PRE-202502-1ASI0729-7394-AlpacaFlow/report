@@ -418,6 +418,15 @@ A continuación, se detallan las tareas que realizan.
 
 ### 2.3.3. User Journey Mapping
 
+#### Luis Jimenez
+![LuisJimenezJourneyM.jpg](assets/chapter2/LuisJimenezJourneyM.jpg)
+
+#### Carla Fernandez
+![CarlaFernandezJourneyM.jpg](assets/chapter2/CarlaFernandezJourneyM.jpg)
+
+#### Valeria Pancorbo
+![ValeriaPancorboJourneyM.jpg](assets/chapter2/ValeriaPancorboJourneyM.jpg)
+
 ### 2.3.4. Empathy Mapping
 
 ### Empathy Mapping – Doctor
