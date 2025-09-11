@@ -370,6 +370,26 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
   En conjunto, la entrevistada transmite una perspectiva realista de la atención geriátrica: utiliza recursos tecnológicos básicos, combina canales formales con herramientas de comunicación cotidiana, es consciente de las dificultades en el seguimiento de los adultos mayores y reconoce el potencial de una solución digital, aunque también señala las limitaciones económicas y organizativas que podrían frenar su adopción.
 
+  #### Entrevistas segmento objectivo Allegados a paciente geriatrico
+
+  ##### Allegado
+
+  - Nombres: Paolo
+  - Apellidos: Chinen Guembes
+  - Distrito: Magdalena
+ 
+  - Resumen:
+
+
+  Paolo Chinen, de 21 años, es estudiante de Dirección y Gestión de Proyectos Animados en Toulouse y de la Asociación Peruano Japonesa. Es nieto de un adulto mayor con quien mantiene comunicación frecuente, visitándolo una o dos veces por semana y, cuando no puede, recurriendo a llamadas o videollamadas. Los   principales medios que utiliza para comunicarse son el celular, especialmente a través de WhatsApp para mensajes y llamadas, además de Facebook Messenger, dado que su abuelo emplea esa plataforma. Su navegador habitual es Google Chrome.
+
+  Entre sus principales preocupaciones destacan la salud y seguridad de su abuelo, particularmente el riesgo de caídas cuando está solo. Menciona un caso vivido en el que su abuelo cayó de la cama y se lesionó, lo que derivó en una visita al hospital. Actualmente, monitorea su estado de salud mediante           visitas presenciales y conversando con su madre, quien lo acompaña con mayor frecuencia.
+
+  Respecto a soluciones tecnológicas, Paolo considera valioso recibir información en tiempo real sobre caídas, pulso y localización. Ante emergencias, su reacción es coordinar primero con su madre y, en caso de no estar disponible, con otros familiares cercanos. Afirma que se sentiría confiado usando una       aplicación de monitoreo siempre que sea fácil de usar y confiable.
+
+  Entre las funcionalidades más relevantes para él estarían las alertas en tiempo real, un historial de incidentes útil para consultas médicas y el acceso rápido a emergencias. Sin embargo, identifica como posibles barreras el costo y las dudas sobre la precisión de la detección de emergencias. Aun así,         manifiesta disposición a pagar una suscripción mensual, ya que prioriza la tranquilidad y salud de su abuelo.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
