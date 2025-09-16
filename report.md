@@ -233,20 +233,185 @@
 ## 4.1. Style Guidelines
 
 ### 4.1.1. General Style Guidelines
+Una guía de estilo o style guideline es un compendio de normas y recomendaciones
+que definen cómo deben redactarse, diseñarse o presentarse documentos, contenidos 
+web, software u otras producciones creativas. A continuación, se detallan las 
+especificaciones correspondientes a los parámetros aplicados en la estructura del
+proyecto:
+
+ **Branding:**
+
+**Brand Overview:**
+
+AlpacaFlow se enfoca en desarrollar una solucion tecnologica orientada al sector de salud
+para el cuidado de pacientes geriatricos mediante Meditrack. Por lo que implementa una plataforma encargada 
+de administrar el cuidado mediante agentes de diferente contexto. Como allegados al paciente, personal 
+de casas de reposo y personal medico de clinicas. Asimismo favorece a la gestion y calidad 
+de cuidado del paciente, como alerta inmediata, dashboard intuitivo para la administracion y vigilancia
+del estado del paciente.
+
+**Mision:** Desarrollar herramientas digitales accesibles y efectivas que permitan a pacientes, 
+familias e instituciones de salud monitorear y gestionar la salud de los adultos mayores en tiempo real,
+brindando seguridad, confianza y eficiencia.
+
+**Vision:**  En los próximos 5 años, consolidar a RurasqaySoft como una la empresa líder en soluciones
+de salud digital en Latinoamérica, siendo reconocidos por nuestra capacidad de mejorar la calidad de 
+vida y prevenir riesgos mediante el uso de innovación tecnológica accesible y escalable.
+
+**Brand Name:**
+
+El nombre de la propuesta de la solucion es Meditrack. Enfocada en el sector de salud y dispositivos tecnologicos
+para dar sentido a una plataforma que emplea dispositivos IoT para maximizar la intervencion de la tecnologica en la salud.
+
+<img src="assets/chapter4/LogoMeditrack.jpeg" alt="logo-meditrack" style="width:300px; height:auto;"/>
+
+**Colores:**
+
+Los colores transmiten la presencia inicial hacia los usuarios. Mostrando indicios de la aplicacion
+adecuada de la paleta de colores qe pueden generar un impacto. El rojo demuestra la urgencia, cuidado y salud medica 
+para evidenciar el monitorio constante, el negro aporta seriedad y confianza tecnologica. El azul es empleado 
+como la calma, tecnologica confiable y garantiza seguridad. El blanco complementa al rojo como signo de limpieza, claridad
+y simplicidad.
+
+<img src="assets/chapter4/Colors.png" alt="logo-colors" style="width:300px; height:auto;"/>
+
+**Tipografia**
+
+La tipografía define la jerarquía visual entre los distintos grupos de contenido de la página y desempeña un papel
+clave en la orientación del usuario dentro de la interfaz. Para este proyecto se eligió la familia tipográfica
+“Montserrat”, en estilos Medium y Normal, con el fin de asegurar una lectura clara y fluida. Asimismo, se implementa 
+una estructura jerárquica en cuatro niveles para organizar los elementos del modelado web (body y heading):
+- Heading 01: Presenta un tamaño de 52px.
+- Heading 02: Presenta un tamaño de 36px.
+- Heading 03: Presenta un tamaño de 24px.
+- Heading 04: Presenta un tamaño de 18px.
 
 ### 4.1.2. Web Style Guidelines
+MediTrack emplea un enfoque serio y confiable, con un estilo que busca balancear datos tecnicos complejos con una 
+experiencia visualmente amigable.
+
+**Tarjetas y visualizaciones:**
+
+Se emplea componentes "cards" para presentar elementos que el usuario pueda visualizar como prioridad y de manera organizada
+para que pueda tener una adecuada visualizacion.
+
+**Botones:**
+
+Se utilizan los botones segun la utilidad requerida, teniendo botones redondeados para permitir acciones como continuar
+o respuesta a propuestas de la plataforma, permiten al usuario acceder a funcionalidades importantes. 
+Los botones cuentan con un estilo que permite al usuario conocer su utilidad sin realizar acciones innecesarias, asi como 
+un contraste que permita identificarlos facilmente.
+
+**Tablas:**
+
+Las tablas muestran el contraste y organizacion adecuado para que no agoten la vision del usuario, asi como la ubicacion
+para instanciar registros. Las tablas presentadas permiten acciones pertinentes para cumplir eficientemente su funcionalidad.
+
+
+
+**Pantallas emergentes:**
+
+Pop-ups propios (no de navegador) para confirmación de acciones importantes. Como confirmaciones o rechazos ante acciones
+que el usuario pueda tomar la decision. Permiten mostrar el mensaje principal de manera pertinente con un diseño que se diferencie
+de la pantalla y muestre su relevancia.
+
+
 
 ## 4.2. Information Architecture
+Meditrack busca optimizar adecuadamente sus procesos y flujos funcionales, ya que es juega un rol importante en el nucleo del
+negocio, ya que el usuario debe estar consciente del espacio donde se encuentra, lo que evita malas experiencias y orientan
+su estancia en la aplicacion, por lo que los procesos donde se vea involucrado deben tener un adecuado orden. Mediante el panel de control
+el usuario puede acceder a las funcionalidades de forma facil y centrada, asimismo los elementos encontrados orientan sobre el estado
+del sistema.
+
 
 ### 4.2.1. Organization Systems
+La organizacion visual de contenido se ha diseñada teniendo en cuenta las distintas funcionalidades que se tiene para 
+cubrir el proceso de cuidado a pacientes geriatricos. A lo largo de la plataforma, se utilizan diferentes tipos de organizacion
+visual para facilitar el acceso, comprension y uso eficiente de las herramientas disponibles.
+
+**Organizacion Jeraraquica**
+
+La estructura presentada en la Landing Page y paneles de administracion. En estos espacios, se presenta la informacion de manera descendente 
+segun su relevancia, emepezando por el valor de la aplicacion, presentacion de solucion, productos y planes disponibles.
+
+**Organizacion Secuencial**
+
+En procesos como registro de usuario o de pacientes, se cuenta con la presentacion secuencial de paneles que revelan de manera
+concreta el mensaje principal, dando la opcion de regreso para evitar malas experiencias y tenga facilidad de uso.
+
+**Organizacion Matricial**
+
+Los elementos presentados como el dashboard utiliza una organizacion matricial que permite al usuario tener una vista general del estado
+de su operacion, asi como uso de elementos interactivos que dan valor a su permanencia en el sistema.
 
 ### 4.2.2. Labeling Systems
 
+Los encabezados se encuentran implementados en las pantallas que no corresponden al flujo central de la aplicación, 
+proporcionando un resumen conciso y representativo del contenido de cada vista. En el panel de control, las secciones 
+están complementadas con etiquetas textuales que, junto con los elementos gráficos, informan al usuario sobre el 
+contenido accesible en dichas áreas. En consecuencia, todas las tarjetas incluidas en esta vista disponen de títulos 
+asignados para garantizar su correcta identificación. De igual forma, la barra de navegación mantiene de manera persistente 
+las etiquetas correspondientes a las vistas principales, al panel de control y al registro de procesos.
+
 ### 4.2.3. SEO Tags and Meta Tags
 
+**Título:**
+Es una de las etiquetas más relevantes y suele colocarse antes de cualquier otra metaetiqueta. Los motores de búsqueda 
+la utilizan como encabezado en las páginas de resultados (SERP).
+
+ `<title>Meditrack - Tecnologia confiable para el cuidado de pacientes geriatricos</title>`
+
+
+**Codificación de caracteres:**
+
+Permite que los caracteres especiales se representen correctamente en la página web.
+
+`<meta charset="utf-8">`
+
+**Descripción:**
+
+Proporciona un resumen breve del contenido del sitio, ofreciendo a los usuarios una idea clara de lo que encontrarán al 
+acceder a la página.
+
+`<meta name="description" content="MediTrack is a web application focused on the care of geriatric patients"/>`
+
+**Palabras clave:**
+
+Incluye los términos relacionados con la temática o el contenido principal de la página, facilitando su indexación en 
+los motores de búsqueda.
+
+`<meta name="keywords" content="process, management, application, records, mushroom, analysis,
+careful"/>`
+
+**Autor y Derechos de Autor:**
+
+Se emplea para registrar los datos del creador del sitio, así como la información referente a la propiedad intelectual y 
+derechos de autor.
+
+`<meta name="author" content="Meditrack"/>`
+
+`<meta name="copyright" content="Copyright AlpacaFlow team" />`
+
+
 ### 4.2.4. Searching Systems
+Los sistemas de busqueda de Meditrack estan diseñados para que el usuario pueda encontrar informacion especifica de manera 
+agil, incluso dentro de grandes volumenes de datos historicos.
+- Busqueda por texto: Pacientes, historial, datos.
+- Filtros combinables: Variables, situaciones, fecha.
+- Resultados con etiquetas para poder ordenar.
 
 ### 4.2.5. Navigation Systems
+Los sistemas de navegación de MediTrack permiten al usuario recorrer los diferentes módulos y procesos de forma 
+estructurada, intuitiva y adaptativa al dispositivo utilizado.
+
+- Menú lateral fijo (web desktop): Accesos a los principales módulos.
+- Menú hamburguesa (responsive): Versión simplificada para móviles.
+- Barra superior contextual: Con accesos rápidos a perfil, notificaciones, ayuda.
+- Flujo secuencial: Registro paso a paso.
+- Breadcrumbs: En vistas de detalle, para mantener contexto.
+- Call To Action claros: “Registrar cambios”, “Crear analisis”, “Ver historial”.
+
 
 ## 4.3. Landing Page UI Design
 
