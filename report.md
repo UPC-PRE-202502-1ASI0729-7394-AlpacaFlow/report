@@ -129,6 +129,7 @@
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
+
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -149,11 +150,13 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
+
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
+
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -324,6 +327,73 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 ### 2.2.2. Registro de entrevistas
 
+#### Entrevistas segmento objetivo allegados de adultos mayores
+
+##### Allegado Aulto Mayor
+
+- Nombres: Andres
+- Apellidos: Cocca
+- Edad: 19
+- Distrito: San Miguel
+- URL:
+- Timing:
+- Inicio:
+- Fin:
+
+![video screenshoot](/assets/chapter2/allegado-interview-1.png "Video screenshoot allegado interview 1")
+
+- Resumen:
+
+El entrevistado es un joven de 19 años que reside en San Miguel y actualmente se desempeña como estudiante universitario. No trabaja, pero tiene experiencia en el cuidado de su bisabuela, una persona adulta mayor que enfrentaba problemas de salud relacionados con la edad, como afecciones cardíacas y de presión arterial. Su rol consistía en apoyarla en actividades cotidianas, incluyendo mandados, asistencia en la alimentación y atención general, lo que muestra un nivel de compromiso familiar y sensibilidad hacia el cuidado de personas mayores.
+
+En cuanto a su relación con la tecnología, manifiesta interés en contar con una aplicación que le permita monitorear los datos biométricos de su familiar, así como recibir alertas en caso de detectar irregularidades. Esto refleja una preocupación genuina por la prevención y la detección temprana de complicaciones de salud, además de una disposición positiva hacia la incorporación de soluciones digitales en el cuidado.
+
+Respecto al uso de dispositivos y programas, señala que su navegador de preferencia es Google Chrome, el cual utiliza para sus actividades diarias. Maneja también herramientas como Excel para la gestión de información, lo que indica un nivel de familiaridad con la organización de datos, aunque su experiencia tecnológica se encuentra más vinculada a un contexto académico que clínico.
+
+Sobre el monitoreo de los adultos mayores, reconoce que actualmente depende de la observación personal y de su apoyo directo en la vida cotidiana de su bisabuela, sin contar con un sistema de seguimiento en tiempo real. En ese sentido, resalta el valor que tendría una herramienta digital capaz de registrar y reportar datos médicos de manera automática, ya que permitiría reducir la incertidumbre y mejorar la capacidad de respuesta ante emergencias.
+
+En relación con su disposición a utilizar nuevas soluciones como MediTrack, se muestra abierto e interesado, siempre que el sistema garantice confiabilidad y precisión en los datos. Su motivación principal se centra en facilitar el cuidado y la prevención de riesgos para los adultos mayores a su cargo.
+
+En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el cuidado de adultos mayores. Combina sensibilidad personal con interés en herramientas digitales, identificando en la tecnología una aliada clave para mejorar la seguridad y el bienestar de las personas mayores, pese a que su experiencia se limita al ámbito familiar y no profesional.
+
+##### Allegado Adulto Mayor
+
+- Nombres: Paolo
+- Apellidos: Chinen Guembes
+- Edad: 21
+- Distrito: Magdalena
+- URL:
+- Timing:
+- Inicio:
+- Fin:
+
+![video screenshoot](/assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
+
+- Resumen:
+
+Paolo Chinen, de 21 años, es estudiante de Dirección y Gestión de Proyectos Animados en Toulouse y de la Asociación Peruano Japonesa. Es nieto de un adulto mayor con quien mantiene comunicación frecuente, visitándolo una o dos veces por semana y, cuando no puede, recurriendo a llamadas o videollamadas. Los principales medios que utiliza para comunicarse son el celular, especialmente a través de WhatsApp para mensajes y llamadas, además de Facebook Messenger, dado que su abuelo emplea esa plataforma. Su navegador habitual es Google Chrome.
+
+Entre sus principales preocupaciones destacan la salud y seguridad de su abuelo, particularmente el riesgo de caídas cuando está solo. Menciona un caso vivido en el que su abuelo cayó de la cama y se lesionó, lo que derivó en una visita al hospital. Actualmente, monitorea su estado de salud mediante visitas presenciales y conversando con su madre, quien lo acompaña con mayor frecuencia.
+
+Respecto a soluciones tecnológicas, Paolo considera valioso recibir información en tiempo real sobre caídas, pulso y localización. Ante emergencias, su reacción es coordinar primero con su madre y, en caso de no estar disponible, con otros familiares cercanos. Afirma que se sentiría confiado usando una aplicación de monitoreo siempre que sea fácil de usar y confiable.
+
+Entre las funcionalidades más relevantes para él estarían las alertas en tiempo real, un historial de incidentes útil para consultas médicas y el acceso rápido a emergencias. Sin embargo, identifica como posibles barreras el costo y las dudas sobre la precisión de la detección de emergencias. Aun así, manifiesta disposición a pagar una suscripción mensual, ya que prioriza la tranquilidad y salud de su abuelo.
+
+##### Allegado Adulto Mayor
+
+- Nombres:
+- Apellidos:
+- Edad:
+- Distrito:
+- URL:
+- Timing:
+- Inicio:
+- Fin:
+
+![video screenshoot](/assets/chapter2/allegado-interview-3.png "Video screenshoot allegado interview 3")
+
+- Resumen:
+
 #### Entrevistas segmento objectivo profesionales de la salud
 
 ##### Doctor Medico General
@@ -370,25 +440,87 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
   En conjunto, la entrevistada transmite una perspectiva realista de la atención geriátrica: utiliza recursos tecnológicos básicos, combina canales formales con herramientas de comunicación cotidiana, es consciente de las dificultades en el seguimiento de los adultos mayores y reconoce el potencial de una solución digital, aunque también señala las limitaciones económicas y organizativas que podrían frenar su adopción.
 
-  #### Entrevistas segmento objectivo Allegados a paciente geriatrico
+  ##### Doctor Medico General
 
-  ##### Allegado
+- Nombres:
+- Apellidos:
+- Edad:
+- Distrito:
+- URL:
+- Timing:
+- Inicio:
+- Fin:
 
-  - Nombres: Paolo
-  - Apellidos: Chinen Guembes
-  - Distrito: Magdalena
- 
-  - Resumen:
+![video screenshoot](/assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 3")
 
+- Resumen:
 
-  Paolo Chinen, de 21 años, es estudiante de Dirección y Gestión de Proyectos Animados en Toulouse y de la Asociación Peruano Japonesa. Es nieto de un adulto mayor con quien mantiene comunicación frecuente, visitándolo una o dos veces por semana y, cuando no puede, recurriendo a llamadas o videollamadas. Los   principales medios que utiliza para comunicarse son el celular, especialmente a través de WhatsApp para mensajes y llamadas, además de Facebook Messenger, dado que su abuelo emplea esa plataforma. Su navegador habitual es Google Chrome.
+#### Entrevistas segmento objetivo personal de casas de reposo
 
-  Entre sus principales preocupaciones destacan la salud y seguridad de su abuelo, particularmente el riesgo de caídas cuando está solo. Menciona un caso vivido en el que su abuelo cayó de la cama y se lesionó, lo que derivó en una visita al hospital. Actualmente, monitorea su estado de salud mediante           visitas presenciales y conversando con su madre, quien lo acompaña con mayor frecuencia.
+##### Cuidadores Casas De Reposo
 
-  Respecto a soluciones tecnológicas, Paolo considera valioso recibir información en tiempo real sobre caídas, pulso y localización. Ante emergencias, su reacción es coordinar primero con su madre y, en caso de no estar disponible, con otros familiares cercanos. Afirma que se sentiría confiado usando una       aplicación de monitoreo siempre que sea fácil de usar y confiable.
+- Nombres: Ana Rosa
+- Apellidos: Quispe
+- Edad: 48
+- Distrito: Madrid - España
+- URL:
+- Timing:
+- Inicio:
+- Fin:
 
-  Entre las funcionalidades más relevantes para él estarían las alertas en tiempo real, un historial de incidentes útil para consultas médicas y el acceso rápido a emergencias. Sin embargo, identifica como posibles barreras el costo y las dudas sobre la precisión de la detección de emergencias. Aun así,         manifiesta disposición a pagar una suscripción mensual, ya que prioriza la tranquilidad y salud de su abuelo.
+![video screenshoot](/assets/chapter2/casas-de-reposo-interview-1.png "Video screenshoot casas de reposo interview 1")
 
+- Resumen:
+
+La entrevistada es Ana Rosa Quispe, profesional en asistencia social con una trayectoria de más de diez años en la Beneficencia de Lima, donde se dedicó al cuidado y apoyo de adultos mayores en situación de vulnerabilidad. Actualmente continúa su labor en España, trabajando de manera particular en la asistencia de personas mayores. Su experiencia refleja un compromiso sostenido con este grupo etario, aunque también reconoce los múltiples desafíos que ha enfrentado en el desempeño de su trabajo.
+
+Durante su paso por la Beneficencia de Lima, señala que se enfrentó a grandes complicaciones derivadas de las condiciones de los adultos mayores, quienes en su mayoría presentaban diversas enfermedades y malestares. A esto se sumaba la escasez de personal profesional y la falta de comunicación efectiva entre los equipos, lo que dificultaba brindar un servicio integral y oportuno. Explica que estas limitaciones generaban un ambiente de trabajo muy exigente, en el que el cuidado resultaba agotador y en ocasiones altamente estresante.
+
+En cuanto a las herramientas que utilizaba en esa etapa, menciona principalmente Internet Explorer como navegador y Excel como recurso para la organización de datos. Aunque cumplían un rol básico, reconoce que resultaban insuficientes para gestionar la complejidad del cuidado de los adultos mayores.
+
+Con esta experiencia, considera indispensable contar con una aplicación que permita un monitoreo más organizado y eficiente de la salud de los adultos mayores, incorporando especialmente sistemas de alertas que faciliten la detección temprana de emergencias o irregularidades. A su juicio, una herramienta de este tipo no solo contribuiría a mejorar la calidad de la atención, sino también a reducir la carga emocional y el nivel de estrés que enfrentan los cuidadores en el día a día.
+
+En conjunto, la entrevistada transmite una visión crítica y realista de las limitaciones del cuidado institucional de adultos mayores, pero también muestra apertura hacia la incorporación de soluciones digitales. Su experiencia evidencia la necesidad urgente de herramientas tecnológicas que optimicen la organización, refuercen la comunicación entre profesionales y garanticen la seguridad de los adultos mayores en entornos de casas de reposo.
+
+##### Cuidadores Casas De Reposo
+
+- Nombres: Fanny
+- Apellidos: Mendivil
+- Edad: 57
+- Distrito: Novara - Italia
+- URL:
+- Timing:
+- Inicio:
+- Fin:
+
+![video screenshoot](/assets/chapter2/casas-de-reposo-interview-2.png "Video screenshoot casas de reposo interview 2")
+
+- Resumen:
+
+La entrevistada es Fanny Mendívil, de 57 años, quien actualmente reside en Italia y trabaja en la asistencia de adultos mayores tanto de manera particular como colectiva. Su experiencia le ha permitido conocer de cerca las demandas físicas y emocionales del cuidado, señalando que esta labor puede resultar muy estresante y requiere de un trato constante desde la calma y la paciencia, especialmente considerando que muchos de los adultos mayores a su cargo padecen enfermedades crónicas, principalmente de tipo cardíaco y respiratorio.
+
+En su rutina de trabajo destaca la importancia del monitoreo frecuente, ya que considera esencial revisar periódicamente el estado de salud de los adultos mayores para prevenir complicaciones y responder de manera oportuna ante cualquier emergencia. Este aspecto de su labor refuerza su interés en contar con herramientas digitales que optimicen la supervisión diaria.
+
+Respecto a la tecnología, menciona que su navegador de preferencia es Google Chrome y que utiliza principalmente su teléfono celular como dispositivo central en sus actividades cotidianas. Esto refleja un perfil práctico y adaptado al uso de herramientas móviles, lo que le facilitaría la incorporación de aplicaciones diseñadas para el cuidado de adultos mayores.
+
+Considera de gran valor la implementación de una solución como MediTrack, especialmente si permite un monitoreo más organizado y la generación de alertas inmediatas frente a irregularidades en los datos biométricos. Para ella, este tipo de herramienta no solo representaría una mejora en la seguridad de los adultos mayores, sino también un apoyo fundamental para los cuidadores, al reducir el nivel de carga y estrés que conlleva la atención constante.
+
+En conjunto, Fanny Mendívil transmite una visión realista y empática del cuidado de adultos mayores. Reconoce las dificultades de la labor, pero al mismo tiempo se muestra abierta a la innovación tecnológica, identificando en aplicaciones móviles una oportunidad concreta para mejorar la calidad del cuidado, el bienestar de los adultos mayores y la propia salud emocional de quienes los asisten.
+
+##### Cuidadores Casas De Reposo
+
+- Nombres:
+- Apellidos:
+- Edad:
+- Distrito:
+- URL:
+- Timing:
+- Inicio:
+- Fin:
+
+![video screenshoot](/assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
+
+- Resumen:
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -439,12 +571,15 @@ A continuación, se detallan las tareas que realizan.
 ### 2.3.3. User Journey Mapping
 
 #### Luis Jimenez
+
 ![LuisJimenezJourneyM.jpg](assets/chapter2/LuisJimenezJourneyM.jpg)
 
 #### Carla Fernandez
+
 ![CarlaFernandezJourneyM.jpg](assets/chapter2/CarlaFernandezJourneyM.jpg)
 
 #### Valeria Pancorbo
+
 ![ValeriaPancorboJourneyM.jpg](assets/chapter2/ValeriaPancorboJourneyM.jpg)
 
 ### 2.3.4. Empathy Mapping
