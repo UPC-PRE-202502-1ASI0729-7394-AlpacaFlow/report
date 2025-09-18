@@ -414,10 +414,85 @@ estructurada, intuitiva y adaptativa al dispositivo utilizado.
 
 
 ## 4.3. Landing Page UI Design
-
 ### 4.3.1. Landing Page Wireframe
 
+**Landing Page para Desktop Web Browser**
+
+Se presenta la landing page en el desktop web browser. Incluye secciones relevantes para la presencia del usuario, como 
+mostrar informacion precisa sobre la solucion presentada, ademas de presentar el producto de la manera mas cercana a la 
+plataforma web, mediante secciones como mision-vision, about the product y planes. 
+
+<img src="assets/chapter4/Landing-wireframe1.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe2.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe3.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe4.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe5.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+
+**Landing Page para Mobile Web Browser**
+
+Se presenta la landing page en la visa del mobile web browser. Se incluye los contenidos mostrados en la landing page para 
+desktop, pero considerando el diseño responsibe para mantener el aspecto visual.
+
+<img src="assets/chapter4/Landing-mobile-wireframe1.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-wireframe2.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-wireframe3.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+
+
 ### 4.3.2. Landing Page Mock-up
+
+**Landing page en español**
+
+#### Landing Page para Desktop Web Browser
+El wireframe de la versión desktop en navegador web de la landing page fue útil para estructurar la disposición de los 
+elementos. Con base en este esquema, se desarrolló el mock-up de la landing page, que incluye los mismos contenidos 
+descritos previamente. En la imagen siguiente se observa la aplicación de la paleta de colores primarios y secundarios, 
+así como la tipografía previamente establecida.
+
+<img src="assets/chapter4/Landing-mockup1.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup2.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup3.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+
+
+#### Landing Page para Mobile Web Browser
+De igual manera, el mock-up de la landing page en vista mobile web browser incorpora los mismos elementos señalados 
+previamente. Se aprecia que la tipografía seleccionada y el contraste de colores entre el texto y el fondo favorecen la 
+legibilidad de la información en ambos dispositivos.
+
+<img src="assets/chapter4/Landing-mockup-mobile1.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile2.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile3.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile4.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile5.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile6.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+
+
+
+### Landing page en inglés
+
+#### Landing Page para Desktop Web Browser
+Con el fin de mejorar la accesibilidad de la información, el equipo consideró importante incorporar la opción de cambio
+de idioma en la landing page. Por esta razón, se muestran evidencias gráficas de la versión en español e inglés en la
+vista desktop web browser.
+
+<img src="assets/chapter4/Landing-English1.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English2.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English3.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English4.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English5.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+
+#### Landing Page para Mobile Web Browser
+Se incorpora el lenguaje ingles en la landing page para mobile.
+
+<img src="assets/chapter4/Landing-mobile-English1.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English2.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English3.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English4.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English5.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English6.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+
+
+
 
 ## 4.4. Web Applications UX/UI Design
 
