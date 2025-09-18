@@ -497,6 +497,12 @@ Se incorpora el lenguaje ingles en la landing page para mobile.
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
+Enlace para acceder al [Figma](https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1)
+
+**Web Application para Desktop Web Browser**
+
+
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -507,12 +513,47 @@ Se incorpora el lenguaje ingles en la landing page para mobile.
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
+El Domain Driven Design (DDD) busca lograr una comprensión común del dominio que define el espacio del problema. Este 
+enfoque facilita la colaboración entre desarrolladores y expertos del área gracias a la perspectiva que ofrece. No se 
+limita únicamente al uso de un lenguaje ubicuo, sino que incluye un conjunto de patrones, prácticas y representaciones 
+arquitectónicas del sistema. Todos estos elementos tienen como finalidad alinear el software con el dominio y fortalecer 
+la visión compartida que promueve DDD.
 
 ### 4.6.1. Software Architecture Context Diagram
+Este diagrama de contexto muestra la vista de alto nivel de las relaciones entre la plataforma MediTrack y los sistemas 
+externos, asi como el rol de los usuarios. 
+
+<img src="assets/chapter4/Context-diagram.png" alt="context-diagram" style="width:300px; height:auto;"/>
+
 
 ### 4.6.2. Software Architecture Container Diagrams
 
+El diagrama de contenedores ofrece una visión general de alto nivel sobre las relaciones entre las aplicaciones y las
+fuentes de datos que intervienen en la ejecución de a plataforma MediTrack
+
+<img src="assets/chapter4/Container-diagram.png" alt="container-diagram" style="width:300px; height:auto;"/>
+
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+Los diagramas de componentes proporcionan una visión de las relaciones entre los principales elementos del sistema de 
+software. Dichos componentes describen con mayor detalle la implementación de los módulos correspondientes dentro del programa.
+
+**User Management Bounded Context**
+<img src="assets/chapter4/Component-userBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**RelationshipManagement Bounded Context**
+<img src="assets/chapter4/Component-RMBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Divice Management Bounded Context**
+<img src="assets/chapter4/Component-DMBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Dashboard an analytics Bounded Context**
+<img src="assets/chapter4/Component-DABC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Report Bounded Context**
+<img src="assets/chapter4/Component-RCBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
 
 ## 4.7. Software Object-Oriented Design
 
