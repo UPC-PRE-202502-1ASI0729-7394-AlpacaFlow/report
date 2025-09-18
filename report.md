@@ -332,7 +332,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 ##### Allegado Aulto Mayor
 
 - Nombres: Andres
-- Apellidos: Cocca
+- Apellidos: Coca
 - Edad: 19
 - Distrito: San Miguel
 - URL:
@@ -381,18 +381,25 @@ Entre las funcionalidades más relevantes para él estarían las alertas en tiem
 
 ##### Allegado Adulto Mayor
 
-- Nombres:
-- Apellidos:
-- Edad:
-- Distrito:
-- URL:
-- Timing:
-- Inicio:
-- Fin:
-
+- Nombres:  Alexis
+- Apellidos: Yokota
+- Edad: 25 años
+- Distrito: Huaral
 ![video screenshoot](/assets/chapter2/allegado-interview-3.png "Video screenshoot allegado interview 3")
 
 - Resumen:
+
+
+Alexis Yokota, de 25 años, reside en Huaral y actualmente estudia en el clínico. Su relación con el adulto mayor es la de hijo. La frecuencia con la que visita a su padre varía según su disponibilidad: puede ser semanal, dos veces al mes o incluso una vez al mes. Cuando no lo ve en persona, se comunica principalmente a través del celular usando WhatsApp, y en caso de no recibir respuesta, recurre a las llamadas telefónicas. Su navegador habitual es Safari.
+
+Entre sus principales preocupaciones sobre la salud de su padre se encuentran la posibilidad de una recaída o un segundo derrame, así como los descuidos en su dieta que puedan provocar descompensaciones de presión arterial. Para el monitoreo actual, explica que existe un control diario de la presión con tensiómetro y oxímetro, realizado tres veces al día después de cada comida. También mantiene un registro de su alimentación, tomando fotos de lo que consume para vigilar su dieta.
+
+En cuanto a situaciones de riesgo, menciona que le hubiera gustado prevenir la hipertensión de su padre, ya que en su momento no logró que se cuidara adecuadamente. Respecto a la información más valiosa en tiempo real, considera crucial conocer detalles sobre la dieta, la presión arterial y otros signos vitales. En caso de emergencia, su reacción inmediata sería llamar a emergencias y actuar rápidamente para estabilizarlo.
+
+Alexis afirma que se sentiría cómodo usando una aplicación de monitoreo de salud, pues actualmente él y su familia realizan el seguimiento mediante un chat grupal, y una herramienta especializada podría organizar mejor la información. Considera imprescindibles funciones como alertas en tiempo real ante emergencias y un sistema de reconocimiento o felicitación por el progreso del paciente.
+
+Como posibles barreras de adopción identifica la dificultad de uso, la necesidad de capacitar a cuidadores o enfermeras en la aplicación, y el costo. También menciona que sería importante que la app permita que varios familiares participen en el seguimiento. Finalmente, manifiesta disposición a pagar por una solución que le brinde tranquilidad y apoyo en el cuidado de su padre.
+#### Entrevistas segmento objectivo profesionales de la salud
 
 #### Entrevistas segmento objectivo profesionales de la salud
 
