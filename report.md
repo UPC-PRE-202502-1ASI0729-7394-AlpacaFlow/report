@@ -347,12 +347,118 @@ de su operacion, asi como uso de elementos interactivos que dan valor a su perma
 
 ### 4.2.2. Labeling Systems
 
-Los encabezados se encuentran implementados en las pantallas que no corresponden al flujo central de la aplicación, 
-proporcionando un resumen conciso y representativo del contenido de cada vista. En el panel de control, las secciones 
-están complementadas con etiquetas textuales que, junto con los elementos gráficos, informan al usuario sobre el 
-contenido accesible en dichas áreas. En consecuencia, todas las tarjetas incluidas en esta vista disponen de títulos 
-asignados para garantizar su correcta identificación. De igual forma, la barra de navegación mantiene de manera persistente 
-las etiquetas correspondientes a las vistas principales, al panel de control y al registro de procesos.
+1. **Navegación Principal (Navbar)**
+
+| Clave JS       | Etiqueta Simplificada |
+| -------------- | --------------------- |
+| `nav-home`     | Inicio                |
+| `nav-services` | Servicios             |
+| `nav-about`    | Nosotros              |
+| `nav-plans`    | Planes                |
+| `nav-contact`  | Contacto              |
+
+2. **Sección Hero**
+
+| Clave JS               | Etiqueta Simplificada |
+| ---------------------- | --------------------- |
+| `hero-title`           | Título principal      |
+| `hero-description`     | Descripción destacada |
+| `hero-discover-button` | Botón: Descubrir      |
+| `hero-plans-button`    | Botón: Ver planes     |
+
+3.  **Servicios - Parte 1: Problemas y Soluciones**
+
+| Clave JS                              | Etiqueta Simplificada        |
+| ------------------------------------- | ---------------------------- |
+| `services-title`                      | Título de sección            |
+| `services-description`                | Introducción a los servicios |
+| `services-problems-title`             | Título: Problemas actuales   |
+| `services-problems-description`       | Descripción de los problemas |
+| `services-problem-[1-3]-title`        | Problema N (título)          |
+| `services-problem-[1-3]-description`  | Problema N (descripción)     |
+| `services-solution-title`             | Título: Nuestra solución     |
+| `services-solution-description`       | Descripción de la solución   |
+| `services-solution-[1-3]-title`       | Solución N (título)          |
+| `services-solution-[1-3]-description` | Solución N (descripción)     |
+
+4.  **Sección de Impacto**
+
+| Clave JS            | Etiqueta Simplificada |
+| ------------------- | --------------------- |
+| `impact-title`      | Título de impacto     |
+| `impact-[1-4]-text` | Métrica/Beneficio N   |
+
+5.  **Servicios - Parte 2: Tecnología**
+
+| Clave JS                                   | Etiqueta Simplificada      |
+| ------------------------------------------ | -------------------------- |
+| `services-part2-tag`                       | Etiqueta destacada         |
+| `services-part2-title`                     | Título de sección          |
+| `services-part2-description`               | Descripción tecnológica    |
+| `services-part2-feature-title`             | Título: Características    |
+| `services-part2-feature-description`       | Descripción general        |
+| `services-part2-feature-[1-6]-title`       | Característica N (título)  |
+| `services-part2-feature-[1-6]-description` | Característica N (detalle) |
+
+6.  **Misión y Visión**
+
+| Clave JS                     | Etiqueta Simplificada |
+| ---------------------------- | --------------------- |
+| `mission-vision-tag`         | Etiqueta filosófica   |
+| `mission-vision-title`       | Título principal      |
+| `mission-vision-description` | Descripción general   |
+| `mission-title`              | Título misión         |
+| `mission-description`        | Descripción misión    |
+| `vision-title`               | Título visión         |
+| `vision-description`         | Descripción visión    |
+
+7.  **Planes de Servicio**
+
+| Clave JS                   | Etiqueta Simplificada     |
+| -------------------------- | ------------------------- |
+| `plans-title`              | Título de sección         |
+| `plan-[1-3]-title`         | Plan N (nombre)           |
+| `plan-[1-3]-price`         | Plan N (precio)           |
+| `plan-[1-3]-recommended`   | Plan N (destacado)        |
+| `plan-[1-3]-feature-[1-5]` | Plan N - Característica M |
+| `plan-[1-3]-button`        | Plan N - Botón CTA        |
+
+8.  **Contacto**
+
+| Clave JS                       | Etiqueta Simplificada |
+| ------------------------------ | --------------------- |
+| `contact-title`                | Título de sección     |
+| `contact-description`          | Descripción breve     |
+| `contact-name-placeholder`     | Campo: Nombre         |
+| `contact-email-placeholder`    | Campo: Correo         |
+| `contact-phone-placeholder`    | Campo: Teléfono       |
+| `contact-interest-placeholder` | Campo: Interés        |
+| `contact-send-button`          | Botón: Enviar         |
+
+9. **Footer (Pie de página)**
+
+| Clave JS                | Etiqueta Simplificada        |
+| ----------------------- | ---------------------------- |
+| `footer-brand-name`     | Nombre de marca              |
+| `footer-brand-platform` | Nombre de la plataforma      |
+| `footer-description`    | Descripción de empresa       |
+| `footer-email`          | Correo de contacto           |
+| `footer-phone`          | Teléfono                     |
+| `footer-location`       | Ubicación                    |
+| `footer-company-title`  | Sección: Empresa             |
+| `footer-about-us`       | Enlace: Sobre nosotros       |
+| `footer-contact`        | Enlace: Contacto             |
+| `footer-product-title`  | Sección: Producto            |
+| `footer-meditrack`      | Enlace: Meditrack            |
+| `footer-features`       | Enlace: Características      |
+| `footer-pricing`        | Enlace: Precios              |
+| `footer-legal-title`    | Sección: Legal               |
+| `footer-privacy`        | Enlace: Privacidad           |
+| `footer-terms`          | Enlace: Términos de Servicio |
+| `footer-cookies`        | Enlace: Cookies              |
+| `footer-security`       | Enlace: Seguridad            |
+| `footer-copyright-part` |                              |
+| `[1-2]`                 | Aviso legal                  |
 
 ### 4.2.3. SEO Tags and Meta Tags
 
@@ -501,12 +607,438 @@ Enlace para acceder al [Figma](https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH
 
 **Web Application para Desktop Web Browser**
 
+Los siguientes Wireframes fueron para ser base a los muck-ups proximos a presentar.
 
+- Selección de Usuario
 
+Permite a nuestros usuarios escoger a que tipo de inicio de sesión accederán, para que posteriormente ingresen sus credenciales
+
+![Seleccionar Usuario](./assets/chapter4/wireframe-1.png)
+
+- Inicio de Sesión
+
+Permite al usuario iniciar sesión a través de sus credenciales.
+
+![Inicio de Sesión](./assets/chapter4/wireframe-2.png)
+
+- Escoger un plan
+
+Permite a un nuevo usuario escoger un plan previo al registro.
+
+![Escoger plan](./assets/chapter4/wireframe-3.png)
+
+- Registro
+
+Permite a un nuevo usuario o entidad regitrarse a la plataforma adjuntando sus datos.
+
+Registro allegado con el plan freemium:
+
+![Registro nuevo usuario freemium](./assets/chapter4/wireframe-4.png)
+
+Registro allegado con el plan premium:
+
+![Registro nuevo usuario premium](./assets/chapter4/wireframe-6.png)
+
+Registro de una entidad:
+
+![Registro de una entidad](./assets/chapter4/wireframe-7.png)
+
+- Registro de Adulto Mayor
+
+Posterior al registro del allegado se permite registrar al adulto mayor
+
+![Registro de un adulto mayor](./assets/chapter4/wireframe-5.png)
+
+- Dashboard Allegado Freemium y Premium
+
+Luego del registro del paciente, el allegado podrá visualizar el dashboard dependiendo del plan que elegido con anterioridad.
+
+Dashboard Freemium
+
+Perfil Adulto Mayor
+
+![Perfil freemium](./assets/chapter4/wireframe-8.png)
+
+Estadísticas
+
+![Estadísticas freemium](./assets/chapter4/wireframe-9.png)
+
+Alertas
+
+![Alertas freemium](./assets/chapter4/wireframe-10.png)
+
+Dashboard Premium
+
+Perfil Adulto Mayor
+
+![Perfil premium](assets/chapter4/w-premium-1.png)
+
+Estadísticas
+
+![Estadísticas premium](./assets/chapter4/w-premium-2.png)
+
+Alertas
+
+![Alertas premium](./assets/chapter4/w-premium-3.png)
+
+Soporte
+
+![Soporte premium](./assets/chapter4/wireframe-14.png)
+
+- Dashboard Personal de Clínica - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una clínica ejecutará acciones con el fin de administrar a los doctores y los adultos mayores a quienes asignará un doctor encargado
+
+Dashboard del administrador sin doctores
+
+![Dashboard del administrador sin doctores](./assets/chapter4/w-15.png)
+
+Formulario para agregar a un doctor
+
+![Formulario para agregar a un doctor](./assets/chapter4/w-16.png)
+
+Doctor visible en el dashboard
+
+![Doctor visible en el dashboard](./assets/chapter4/w-17.png)
+
+Asignació de un adulto mayor para el doctor
+
+![Asignació de un adulto mayor para el doctor](./assets/chapter4/w-18.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/w-19.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/w-20.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/w-21.png)
+
+- Dashboard Personal de Clínica - Doctor
+
+Se visualiza el dashboard donde el doctor registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud y dar chequeos.
+
+![Formulario de soporte](./assets/chapter4/w-22.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-23.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-24.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-25.png)
+
+- Dashboard Personal de Casas de Reposo - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una casa de reposo ejecutará acciones con el fin de administrar a los cuidadores y los adultos mayores a quienes asignará un doctor encargado.
+
+Dashboard del administrador sin cuidadores
+
+![Dashboard del administrador sin cuidadores](./assets/chapter4/w-26.png)
+
+Formulario para agregar a un cuidador
+
+![Formulario para agregar a un cuidador](./assets/chapter4/w-27.png)
+
+Cuidador visible en el dashboard
+
+![Cuidador visible en el dashboard](./assets/chapter4/w-28.png)
+
+Asignació de un adulto mayor para el cuidador
+
+![Asignació de un adulto mayor para el cuidador](./assets/chapter4/w-29.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/w-30.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/w-31.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/w-32.png)
+
+- Dashboard Personal de Casas de Reposo - Cuidador
+
+Se visualiza el dashboard donde el cuidador registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud.
+
+![Formulario de soporte](./assets/chapter4/w-33.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-34.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-35.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-36.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+[Ver proyecto en lucidchart](https://lucid.app/lucidspark/b1c3fed1-0457-43fd-996b-a2e5f89d3dcd/edit?invitationId=inv_02b8548c-fef4-4095-b7f5-c52e0eec7ce6)
+https://lucid.app/lucidspark/b1c3fed1-0457-43fd-996b-a2e5f89d3dcd/edit?invitationId=inv_02b8548c-fef4-4095-b7f5-c52e0eec7ce6
+
+#### User Goal: Registro Usuario
+
+User persona: Allegados
+Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
+preferencia y se registra en la plataforma.
+
+<img src="assets/chapter4/WF-1.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro Clinica o Casa de Reposo
+
+User persona: Clinica y Casa de reposo
+Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
+con la platforma e ingresa sus credenciales para poder identificarse como administrador.
+
+<img src="assets/chapter4/WF-2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de paciente como allegado
+
+User persona: Allegado
+Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
+de allegado
+
+<img src="assets/chapter4/WF-3.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de medicos
+
+User persona: Clinica
+Explicacion de flujo: El administrador de la clinica inicia sesion, agrega un medico mediante un formulario y verifica
+que el registro haya sido exitoso.
+
+<img src="assets/chapter4/WF-4.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar un paciente a un medico
+
+User persona: Clinica
+Explicacion de flujo: Se asigna un paciente a un medico registrado, mediante un formulario para completar los datos
+personales y verificar si se asigno correctamente.
+
+<img src="assets/chapter4/WF-5.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de signos vitales
+
+User persona: Clinica
+Explicacion de flujo: Se selecciona a un paciente geriatrico para ver su historial de estado para el registro de salud,
+ademas de contar con un analisis estadistico sobre el estado actual.
+
+<img src="assets/chapter4/WF-6.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+#### User Goal: Registro de cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se ingresa a la plataforma y se selecciona en agregar cuidador, se completa un formulario con informacion
+personal del cuidador y se confirma el registro correcto.
+
+<img src="assets/chapter4/WF-7.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar paciente a cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona al cuidador objetivo y se selecciona en agregar paciente,
+
+<img src="assets/chapter4/WF-9.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de estado de paciente geriatrico
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona a un paciente y se verifica el historial de notificacion, ademas se puede acceder a
+un analisis estadistico en tiempo real para controlar los signos vitales.
+
+<img src="assets/chapter4/WF-8.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
 ### 4.4.3. Web Applications Mock-ups
+
+Los siguientes Muck-ups fueron elaborados a base de los wireframes presentados con anteoridad. Representan con fidelidad lo que nuestros usuarios van a visualizar en nuestra aplicación web.
+
+- Selección de Usuario
+
+Permite a nuestros usuarios escoger a que tipo de inicio de sesión accederán, para que posteriormente ingresen sus credenciales
+
+![Seleccionar Usuario](./assets/chapter4/seleccionar-segmento.png)
+
+- Inicio de Sesión
+
+Permite al usuario iniciar sesión a través de sus credenciales.
+
+![Inicio de Sesión](./assets/chapter4/login.png)
+
+- Escoger un plan
+
+Permite a un nuevo usuario escoger un plan previo al registro.
+
+![Escoger plan](./assets/chapter4/seleccionar-plan.png)
+
+- Registro
+
+Permite a un nuevo usuario o entidad regitrarse a la plataforma adjuntando sus datos.
+
+Registro allegado con el plan freemium:
+
+![Registro nuevo usuario freemium](./assets/chapter4/crear-cuenta-free.png)
+
+Registro allegado con el plan premium:
+
+![Registro nuevo usuario premium](./assets/chapter4/crear-cuenta-free.png)
+
+Registro de una entidad:
+
+![Registro de una entidad](./assets/chapter4/crear-cuenta-enterprise.png)
+
+- Registro de Adulto Mayor
+
+Posterior al registro del allegado se permite registrar al adulto mayor
+
+![Registro de un adulto mayor](./assets/chapter4/agregar-adulto-allegado.png)
+
+- Dashboard Allegado Freemium y Premium
+
+Luego del registro del paciente, el allegado podrá visualizar el dashboard dependiendo del plan que elegido con anterioridad.
+
+Dashboard Freemium
+
+Perfil Adulto Mayor
+
+![Perfil freemium](./assets/chapter4/prefil-free.png)
+
+Estadísticas
+
+![Estadísticas freemium](./assets/chapter4/estadisticas-free.png)
+
+Alertas
+
+![Alertas freemium](./assets/chapter4/alertas-free.png)
+
+Dashboard Premium
+
+Perfil Adulto Mayor
+
+![Perfil premium](./assets/chapter4/perfil-prem.png)
+
+Estadísticas
+
+![Estadísticas premium](./assets/chapter4/estadisticas-pre.png)
+
+Alertas
+
+![Alertas premium](./assets/chapter4/alertas-pre.png)
+
+Soporte
+
+![Soporte premium](./assets/chapter4/soporte-pre.png)
+
+- Dashboard Personal de Clínica - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una clínica ejecutará acciones con el fin de administrar a los doctores y los adultos mayores a quienes asignará un doctor encargado
+
+Dashboard del administrador sin doctores
+
+![Dashboard del administrador sin doctores](./assets/chapter4/admin-clinica-1.png)
+
+Formulario para agregar a un doctor
+
+![Formulario para agregar a un doctor](./assets/chapter4/admin-clinica-2.png)
+
+Doctor visible en el dashboard
+
+![Doctor visible en el dashboard](./assets/chapter4/admin-clinica-3.png)
+
+Asignació de un adulto mayor para el doctor
+
+![Asignació de un adulto mayor para el doctor](./assets/chapter4/admin-clinica-4.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/admin-clinica-5.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/admin-clinica-6.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/admin-clinica-7.png)
+
+- Dashboard Personal de Clínica - Doctor
+
+Se visualiza el dashboard donde el doctor registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud y dar chequeos.
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-1.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-2.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-3.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-4.png)
+
+- Dashboard Personal de Casas de Reposo - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una casa de reposo ejecutará acciones con el fin de administrar a los cuidadores y los adultos mayores a quienes asignará un doctor encargado.
+
+Dashboard del administrador sin cuidadores
+
+![Dashboard del administrador sin cuidadores](./assets/chapter4/admin-casa-1.png)
+
+Formulario para agregar a un cuidador
+
+![Formulario para agregar a un cuidador](./assets/chapter4/admin-casa-2.png)
+
+Cuidador visible en el dashboard
+
+![Cuidador visible en el dashboard](./assets/chapter4/admin-casa-3.png)
+
+Asignació de un adulto mayor para el cuidador
+
+![Asignació de un adulto mayor para el cuidador](./assets/chapter4/admin-casa-6.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/admin-casa-4.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/admin-casa-5.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/admin-casa-7.png)
+
+- Dashboard Personal de Casas de Reposo - Cuidador
+
+Se visualiza el dashboard donde el cuidador registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud.
+
+![Formulario de soporte](./assets/chapter4/cuidador-1.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-2.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-3.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-4.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 Enlace para acceder a [Lucidchard](https://lucid.app/lucidchart/a6da7c11-ad99-4658-a4c8-2b630c5794eb/edit?invitationId=inv_5c2699bb-77b5-4655-93e3-7e771f566105)
@@ -582,6 +1114,8 @@ un analisis estadistico en tiempo real para controlar los signos vitales.
 
 ## 4.5. Web Applications Prototyping
 
+
+
 ## 4.6. Domain-Driven Software Architecture
 El Domain Driven Design (DDD) busca lograr una comprensión común del dominio que define el espacio del problema. Este 
 enfoque facilita la colaboración entre desarrolladores y expertos del área gracias a la perspectiva que ofrece. No se 
@@ -636,9 +1170,19 @@ software. Dichos componentes describen con mayor detalle la implementación de l
 
 ### 4.7.1. Class Diagrams
 
+En esta sección se presenta y explica el Diagrama de Clases UML correspondiente al sistema desarrollado. El propósito de este diagrama es representar de manera estructurada los elementos principales de cada producto de software y, cuando es aplicable, de cada bounded context identificado durante la fase de Event Storming.
+
+El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino también sus atributos y métodos, especificando el alcance (public, private, protected) en cada caso. Asimismo, se definen las relaciones entre clases, indicando la multiplicidad, la dirección y la calificación de los vínculos con nombres claros y consistentes.
+
+Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama independiente por bounded context (User Management, Device Management, Dashboard & Analytics, Relationship Management, Report, Identity & Access Management). Esto permite reflejar con precisión las responsabilidades de cada contexto y la forma en que interactúan sus entidades internas.
+
+<img src="assets/chapter4/UMLDiagram.png" alt="UMLDiagram" width="100%">
+
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams
+
+![Diagrama de base de datos.png](assets/chapter4/Diagrama%20de%20base%20de%20datos.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
