@@ -225,6 +225,30 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) y CAME (Corregir, Afrontar, Mantener y Explotar) de nuestra solución MediTrack frente a los competidores analizados.
+
+# Matriz FODA
+
+| **Interno / Externo** | **Positivo**                                                                | **Negativo**                                                           |
+| --------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Interno**           | **Fortalezas (F):**                                                         | **Debilidades (D):**                                                   |
+|                       | - Integración única de movilidad + métricas de salud.                       | - Requiere validación clínica para ganar confianza.                    |
+|                       | - Modelo de negocio flexible (Freemium, Premium, Enterprise).               | - Adopción tecnológica limitada en adultos mayores y cuidadores.       |
+|                       | - Escalabilidad de B2C (familias) a B2B (clínicas y casas de reposo)\*\*.   | - Recursos iniciales limitados frente a grandes competidores globales. |
+| **Externo**           | **Oportunidades (O):**                                                      | **Amenazas (A):**                                                      |
+|                       | - Creciente demanda de telemedicina y monitoreo geriátrico en LatAm.        | - Competencia fuerte de wearables globales (Apple, Fitbit).            |
+|                       | - Baja oferta de soluciones especializadas en adultos mayores en la región. | - Startups especializadas (VitalConnect, BioSticker, CarePredict).     |
+|                       | - Tendencia de gobiernos y aseguradoras a impulsar salud digital.           | - Regulaciones sanitarias estrictas para aprobación médica.            |
+
+# Matriz CAME
+
+| Estrategia                      | Acción                                                                                                                                                                                                                                                         |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **C (Corregir Debilidades):**   | - Validar clínicamente los parches inteligentes mediante pilotos en clínicas. <br> - Diseñar interfaces simples y capacitaciones para mejorar adopción por parte de adultos mayores y cuidadores.                                                              |
+| **A (Afrontar Amenazas):**      | - Diferenciarse de Apple/Fitbit con un enfoque 100% en geriatría. <br> - Reforzar la propuesta de valor con mapa de movilidad visual que los competidores no integran. <br> - Ajustar precios accesibles para el mercado latinoamericano.                      |
+| **M (Mantener Fortalezas):**    | - Seguir potenciando la escalabilidad de uso individual a institucional. <br> - Mantener el modelo freemium-premium-enterprise como ventaja comercial. <br> - Continuar desarrollando el dashboard visual como punto de diferenciación.                        |
+| **E (Explotar Oportunidades):** | - Expandir en Latinoamérica con alianzas con clínicas, casas de reposo y aseguradoras. <br> - Posicionarse como pionero en soluciones de monitoreo geriátrico digital en la región. <br> - Aprovechar incentivos y programas gubernamentales de salud digital. |
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
@@ -340,7 +364,7 @@ Realizar un análisis competitivo de MediTrack es importante para identificar la
 - Inicio:
 - Fin:
 
-![video screenshoot](/assets/chapter2/allegado-interview-1.png "Video screenshoot allegado interview 1")
+![video screenshoot](assets/chapter2/allegado-interview-1.png "Video screenshoot allegado interview 1")
 
 - Resumen:
 
@@ -367,7 +391,7 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Inicio:
 - Fin:
 
-![video screenshoot](/assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
+![video screenshoot](assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
 
 - Resumen:
 
@@ -385,7 +409,7 @@ Entre las funcionalidades más relevantes para él estarían las alertas en tiem
 - Apellidos: Yokota
 - Edad: 25 años
 - Distrito: Huaral
-![video screenshoot](/assets/chapter2/allegado-interview-3.png "Video screenshoot allegado interview 3")
+![video screenshoot](assets/chapter2/allegado-interview-3.png "Video screenshoot allegado interview 3")
 
 - Resumen:
 
@@ -408,7 +432,7 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Nombres: Vicente Alonso
 - Apellidos: Cuba Pareja
 - Distrito: Miraflores
-  ![video screenshoot](/assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
+  ![video screenshoot](assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
 - Resumen:
 
   El entrevistado es un médico general que trabaja en un centro de salud de nivel 14, donde diariamente atiende a pacientes geriátricos. Su experiencia se centra en la atención de adultos mayores, representando la mayoría de los casos que recibe, con un promedio semanal que oscila entre 75 y 100 pacientes. Se muestra comprometido con este grupo etario y expresa naturalidad al describir su trabajo, lo que refleja una personalidad práctica y orientada al servicio.
@@ -430,7 +454,7 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Nombres: Valentina
 - Apellidos: Pareja Centeno
 - Distrito: Surco
-  ![video screenshoot](/assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
+  ![video screenshoot](assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
 - Resumen:
 
   La entrevistada es la doctora Valentina, médica general con experiencia en la atención de pacientes geriátricos. Señala que un número importante de adultos mayores acuden regularmente a consulta, con un promedio semanal de entre 50 y 60 pacientes. Su respuesta refleja un contacto constante con este grupo etario y un reconocimiento de las particularidades que presenta su atención.
@@ -454,7 +478,7 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Edad: 56
 - Distrito: Pueblo Libre
 
-![video screenshoot](/assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 3")
+![video screenshoot](assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 3")
 
 - Resumen:
 
@@ -481,7 +505,7 @@ Sin embargo, identifica posibles obstáculos para la adopción en su clínica: e
 - Inicio:
 - Fin:
 
-![video screenshoot](/assets/chapter2/casas-de-reposo-interview-1.png "Video screenshoot casas de reposo interview 1")
+![video screenshoot](assets/chapter2/casas-de-reposo-interview-1.png "Video screenshoot casas de reposo interview 1")
 
 - Resumen:
 
@@ -506,7 +530,7 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Inicio:
 - Fin:
 
-![video screenshoot](/assets/chapter2/casas-de-reposo-interview-2.png "Video screenshoot casas de reposo interview 2")
+![video screenshoot](assets/chapter2/casas-de-reposo-interview-2.png "Video screenshoot casas de reposo interview 2")
 
 - Resumen:
 
@@ -527,7 +551,7 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 - Edad: 56
 - Distrito: Pueblo Libre
 
-![video screenshoot](/assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
+![video screenshoot](assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
 
 - Resumen:
 
@@ -543,21 +567,33 @@ Sin embargo, identifica posibles obstáculos para su adopción, como el costo y 
 
 ### 2.2.3. Análisis de entrevistas
 
+**Segmento 1: Allegados de adultos mayores**
+
+Este grupo incluye a familiares directos (nietos e hijos) que, sin ser profesionales de la salud, participan activamente en el cuidado de adultos mayores. Los entrevistados (19-58 años) muestran una preocupación clara por la salud de sus mayores, reportando problemas como hipertensión, mareos y caídas. Actualmente realizan un monitoreo limitado mediante observación directa o llamadas, sin herramientas especializadas. Todos usan Google Chrome con alfabetización digital básica-intermedia, consideran útil MediTrack si es precisa, fácil y accesible, valorando funciones como alertas de caídas, monitoreo de presión y geolocalización. El 66% ha experimentado emergencias que refuerzan la necesidad de monitoreo preventivo, y aunque todos están dispuestos a pagar por seguridad, el 66% desconfía de la precisión de datos digitales. En conclusión, este segmento proactivo y emocionalmente involucrado se alinea con la propuesta de MediTrack, siendo el principal desafío demostrar precisión, confiabilidad y facilidad de uso.
+
+**Segmento 2: Médicos**
+
+Este segmento comprende médicos generales con experiencia en atención a adultos mayores en Lima ejerciendo activamente en centros de salud de nivel básico a intermedio. El 100% atiende entre 50-100 adultos mayores semanalmente, usa herramientas digitales básicas como el sistema ESSI combinado con WhatsApp o correo electrónico para comunicación con familiares, percibe limitaciones en el monitoreo fuera de consulta, considera que MediTrack mejoraría la prevención y respuesta ante emergencias, está dispuesto a adoptar herramientas digitales clínicamente validadas, identifica como barreras el costo, la capacitación y resistencia al cambio, cree que los costos deben ser compartidos entre sistema de salud y familias, y valora principalmente las alertas en tiempo real y seguimiento de tratamiento. Este segmento técnico y orientado a resultados requiere que MediTrack cumpla estándares médicos, ofrezca interfaz profesional y se presente como aliado en la gestión clínica.
+
+**Segmento 3: Cuidadores en Casas de Reposo**
+
+Este segmento incluye cuidadores con experiencia directa en instituciones geriátricas en Perú y Europa, con edades entre 48-57 años. El 100% tiene más de 10 años de experiencia cuidando adultos mayores, reporta que el trabajo es estresante debido a la falta de personal y recursos, y muestra alta apertura a soluciones digitales como MediTrack. Todos utilizan Google Chrome y teléfonos móviles como herramientas principales, demostrando adaptabilidad tecnológica práctica. El 100% considera que una aplicación reduciría el estrés y mejoraría la eficiencia mediante alertas tempranas y mejor seguimiento, destacando como funcionalidades clave las alertas inmediatas, monitoreo de signos vitales y organización de tratamientos. Todos señalan la necesidad de mejorar la comunicación entre cuidadores, familiares y médicos. Este segmento representa una audiencia altamente receptiva que valora la herramienta tanto para los adultos mayores como para su propio apoyo profesional, por lo que la estrategia debe enfatizar la reducción de carga laboral y facilidad de uso.
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
 ### User Persona – Doctor
 
-![Doctor](/assets/chapter2/Doctor.png)
+![Doctor](assets/chapter2/Doctor.png)
 
 ### User Persona – Allegado de Adulto Mayor
 
-![Allegado](/assets/chapter2/AnaRojas.png)
+![Allegado](assets/chapter2/AnaRojas.png)
 
 ### User Persona – Enfermera
 
-![Enfermera](/assets/chapter2/CarlaFernandez.png)
+![Enfermera](assets/chapter2/CarlaFernandez.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -616,6 +652,47 @@ A continuación, se detallan las tareas que realizan.
 ![Carla Fernández Empathy.png](assets%2Fchapter2%2FCarla%20Fern%C3%A1ndez%20Empathy.png)
 
 ## 2.4. Big Picture EventStorming
+
+El equipo llevó a cabo una sesión colaborativa de Big Picture Event Storming (BPES) con el propósito de comprender de manera integral el dominio del negocio de MediTrack. Esta dinámica permitió identificar los eventos significativos del sistema, sus relaciones y dependencias, construyendo así una visión de alto nivel sobre los procesos clave. El ejercicio no solo buscó mapear el landscape del negocio, sino también detectar oportunidades de mejora, riesgos potenciales y áreas críticas para la futura implementación tecnológica.
+
+### Resumen del proceso:
+
+La sesión se desarrolló siguiendo la guía de pasos recomendada en BPES Step-by-Step Guide
+, adaptándola al contexto de MediTrack. El flujo de trabajo incluyó:
+
+Exploración inicial del dominio: Cada integrante aportó conocimiento desde su rol, identificando interacciones entre usuarios principales (adultos mayores, médicos, cuidadores, administradores de clínica y familiares).
+
+Identificación de eventos clave: Se mapearon eventos de negocio como “Usuario registrado”, “Agregado miembro de familia”, “Dispositivo IoT registrado”, “Dato de presión arterial registrado” o “Se envió alerta crítica”
+
+Agrupación en bounded contexts: Los eventos se organizaron en agregados y bounded contexts tales como:
+
+User Management
+
+Device Management
+
+Dashboard & Analytics
+
+Relationship Management
+
+Report Management
+
+Identity & Access Management
+
+Detección de políticas y reglas de negocio: Se documentaron políticas asociadas, como la necesidad de validación de datos, gestión de usuarios premium/enterprise y generación de reportes automatizados
+
+### Capturas y explicación de etapas
+
+En la siguiente imagen del mapa de eventos se visualizan los eventos distribuidos en tarjetas (post-its), conectados con agregados y bounded contexts:
+
+<img src="assets/chapter2/BigPictureEventStormig-MediTrack.jpg" alt="Big Picture EventStorming" width="100%">
+
+Zona de Registro y Validación: Incluye eventos como creación de cuenta, validación de credenciales y asociación de familiares. Esta sección refleja la importancia de la seguridad y la confiabilidad de datos de los adultos mayores.
+
+Zona de Monitoreo y Dispositivos IoT: Representa los registros de signos vitales (frecuencia cardíaca, presión arterial, saturación de oxígeno, temperatura) y la generación automática de alertas críticas. Se evidencia la integración con dispositivos de salud como un punto central del dominio
+
+Zona de Relación y Gestión Médica: Destaca la asignación de adultos mayores a médicos o cuidadores, mostrando la necesidad de coordinación multi-actor.
+
+Zona de Reportes y Analítica: Muestra la generación de documentos PDF, reportes de actividad y analítica para clínicas y familiares, revelando la orientación a trazabilidad y toma de decisiones.
 
 ## 2.5. Ubiquitous Language
 
