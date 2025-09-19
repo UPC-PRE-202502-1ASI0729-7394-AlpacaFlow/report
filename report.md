@@ -308,15 +308,15 @@ Impact Mapping es una técnica visual que facilita la definición clara de los o
 
 Impact Map para el segmento de Personal casas de reposo:
 
-![impact map ](/assets/chapter3/impact-map-casa.png "Impact Mapping cuidadores")
+![impact map ](assets/chapter3/impact-map-casa.png "Impact Mapping cuidadores")
 
 Impact Map para el segmento de Doctores de clínicas:
 
-![impact map ](/assets/chapter3/impact-map-doctor.png "Impact Mapping doctores")
+![impact map ](assets/chapter3/impact-map-doctor.png "Impact Mapping doctores")
 
 Impact Map para el segmento de Familiares:
 
-![impact map ](/assets/chapter3/impact-map-allegado.png "Impact Mapping familiares")
+![impact map ](assets/chapter3/impact-map-allegado.png "Impact Mapping familiares")
 
 ## 3.3. Product Backlog
 
