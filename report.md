@@ -94,7 +94,6 @@ Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-Al
 
 <img src="assets/chapter1/network-3.png" alt="Team Collaboration Network" width="100%">
 
-
 # Contenido
 
 ## Tabla de Contenidos
@@ -165,6 +164,7 @@ Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-Al
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
+
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -185,11 +185,13 @@ Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-Al
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
+
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
+
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -2576,7 +2578,20 @@ Durante el **Sprint 1** del desarrollo de **MediTrack**, se ejecutaron las prime
 
 ## Conclusiones y recomendaciones
 
-## Video About-the-Product
+Consolidación del trabajo colaborativo
+A pesar de que la gráfica de GitHub mostró un único usuario con mayor carga de commits, el uso de Trello y la asignación de tareas evidenció que todos los integrantes participaron activamente, lo que refleja la capacidad del equipo para trabajar en conjunto.
+
+Mejora en la organización y gestión de tareas
+La implementación de Trello permitió dividir el backlog en tareas claras y manejables, lo que mejoró la coordinación y facilitó la asignación de responsabilidades en función de las habilidades de cada miembro.
+
+Avance en la calidad del producto
+Se logró construir una landing page completa, con secciones clave como soluciones, planes, misión, visión y contacto, lo cual representa un avance en la presentación profesional y en la experiencia inicial para los usuarios.
+
+Aprendizaje sobre integración y control de versiones
+El equipo identificó dificultades en la integración de cambios en GitHub, lo que resalta la necesidad de mejorar la sincronización y las buenas prácticas en control de versiones para futuros sprints.
+
+Enfoque en la experiencia del usuario
+El sprint permitió validar la importancia de la navegabilidad, el diseño responsive y los llamados a la acción (CTA), lo que servirá como base para seguir optimizando la usabilidad y la accesibilidad en los próximos incrementos del producto.
 
 # Bibliografía
 
@@ -2592,4 +2607,3 @@ Durante el **Sprint 1** del desarrollo de **MediTrack**, se ejecutaron las prime
 
 - Organización Panamericana de la Salud. (s. f.). Health in the Americas country profile: Peru [Perfil país]. OPS.
 
-# Anexos
