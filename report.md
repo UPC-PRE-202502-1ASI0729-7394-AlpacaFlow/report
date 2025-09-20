@@ -505,6 +505,12 @@ Durante el Sprint 1 del proyecto MediTrack, el equipo de AlpacaFlow se enfocó e
 
 #### 5.2.1.3. Sprint Backlog 1
 
+Durante el primer sprint backlog, el equipo de MediTrack tuvo como objetivo principal diseñar y completar la Landing Page. Para la organización y gestión de los miembros se utilizó Trello, lo que permitió dividir las user stories en tareas manejables y asignarlas a cada integrante según sus habilidades. El propósito de este sprint fue construir en su totalidad la landing page, asegurando que fuera atractiva, funcional y alineada con la propuesta de valor de MediTrack.
+
+![Landing Page Settings](./assets/chapter5/medi-trello.png)
+
+[Trello MediTrack](https://trello.com/invite/b/68ce4ba3a9cf2239270c2cd3/ATTI8d7ced15e22c90258829bd96cb36bae55FF3F4E7/1asi0729-7394-meditrack)
+
 | Sprint # | Sprint 1 |
 | -------- | -------- |
 
