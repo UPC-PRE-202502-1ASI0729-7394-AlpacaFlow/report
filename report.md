@@ -8,7 +8,7 @@
 
 ### Código: 1ASI0729
 
-### Curso: Desarrollo de Aplicaciones Webs - Presencial
+### Curso: Desarrollo de Aplicaciones Open Source - Presencial
 
 ### NRC: 7394
 
@@ -627,15 +627,15 @@ A continuación, se detallan las tareas que realizan.
 
 #### Luis Jimenez
 
-![LuisJimenezJourneyM.jpg](assets/chapter2/LuisJimenezJourneyM.jpg)
+![LuisJimenezJourneyMap.jpg](assets/chapter2/LuisJimenezJourneyMap.png)
 
 #### Carla Fernandez
 
-![CarlaFernandezJourneyM.jpg](assets/chapter2/CarlaFernandezJourneyM.jpg)
+![CarlaFernandezJourney.jpg](assets/chapter2/CarlaFernandezJourneyMap.png)
 
 #### Valeria Pancorbo
 
-![ValeriaPancorboJourneyM.jpg](assets/chapter2/ValeriaPancorboJourneyM.jpg)
+![ValeriaPancorboJourneyM.jpg](assets/chapter2/ValeriaPancorboJourneyMap.png)
 
 ### 2.3.4. Empathy Mapping
 
