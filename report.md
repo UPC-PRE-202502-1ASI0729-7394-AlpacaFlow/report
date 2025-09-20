@@ -350,21 +350,9 @@ GitHub será la herramienta principal para el control de versiones del proyecto.
 
 #### URL de Repositorios
 
-<<<<<<< HEAD
 - **Documentación e Informe**: [https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/reportt)
 - **Landing Page**: [https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page)
 
-=======
-- **Documentación e Informe**: [https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report)
-
-https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report
-
-
-- **Landing Page**: [https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page)
-
-https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page
-
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 Cada repositorio contendrá todos los archivos relacionados con el proyecto.
 
 #### Modelo de GitFlow
@@ -375,11 +363,7 @@ Cada repositorio contendrá todos los archivos relacionados con el proyecto.
 
 #### Ramas principales
 
-<<<<<<< HEAD
 - **Main (`main`)**  
-=======
-- **Master (`master`)**  
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
   Rama principal del proyecto. Aquí siempre estará el código estable y listo para ser desplegado en producción.
 
 - **Desarrollo (`develop`)**  
@@ -425,7 +409,6 @@ Se seguirá el estándar **Conventional Commits** para garantizar claridad y con
 ### 5.1.3. Source Code Style Guide & Conventions
 
 #### HTML
-<<<<<<< HEAD
 
 Prácticas aplicadas en el desarrollo de la Landing Page estática:
 
@@ -435,19 +418,10 @@ Prácticas aplicadas en el desarrollo de la Landing Page estática:
    ```html
    <img src="images/image-hero.png" alt="Persona frente a computadora" />
    ```
-=======
-Prácticas aplicadas en el desarrollo de la Landing Page estática:
-1. Uso de `href=#id` para permitir una navegación interna fluida.  
-2. Inclusión de atributos `alt` en todas las imágenes para mostrar texto alternativo en caso de error de carga.  
-   Ejemplo:  
-   ```html
-   <img src="images/image-hero.png" alt="Persona frente a computadora"/>
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 3. Obtención de íconos en formato SVG desde Lucide.
 4. Uso de la convención kebab-case para nombrar id y clases.
 
 #### CSS
-<<<<<<< HEAD
 
 1. Uso de Flexbox Grid para estructurar y diseñar la Landing Page de manera responsive.
 2. Definición de colores en formato HEX.
@@ -456,14 +430,6 @@ Prácticas aplicadas en el desarrollo de la Landing Page estática:
 #### JS
 
 1. Declaración de funciones siguiendo la convención de nomenclatura camelCase.
-=======
-  1. Uso de Flexbox Grid para estructurar y diseñar la Landing Page de manera responsive.
-  2. Definición de colores en formato HEX.
-  3. Inclusión de comentarios al inicio de cada archivo CSS para identificar las secciones de la página.
-
-#### JS
-  1. Declaración de funciones siguiendo la convención de nomenclatura camelCase.
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 
 #### GERKHIN
 
@@ -486,33 +452,22 @@ El archivo `index.html` fue definido como el punto de entrada principal del siti
 
 ![Landing Page Image](./assets/chapter5/landing-image.png)
 
-<<<<<<< HEAD
-=======
-//TODO
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 ![Landing Page Settings](./assets/chapter5/landing-settings.png)
 
 - **Landing URL**: [https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/](https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/)
 
-<<<<<<< HEAD
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
 
 Durante el Sprint 1 del proyecto MediTrack, el equipo de AlpacaFlow se enfocó en el diseño y desarrollo funcional de la Landing Page de la plataforma. Se implementaron las secciones principales como el mensaje de bienvenida, los botones de registro y navegación y la información de contacto. También se trabajó en aspectos de interacción, incluyendo la fijación del encabezado al hacer scroll y una presentación atractiva de la propuesta de valor. El equipo logró finalizar todas las tareas planificadas, priorizando siempre la navegación fluida, la accesibilidad y la claridad en la comunicación con los nuevos usuarios. AlpacaFlow implementó la totalidad de las funcionalidades de la Landing Page y realizó el diseño completo de la misma, incorporando llamados a la acción (CTA), diseño responsive, sección de planes, testimonios, preguntas frecuentes y una navegación optimizada y fluida, concluyendo con éxito todo lo necesario para garantizar una mejor experiencia de usuario.
-=======
-https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
 
-Durante el Sprint 1 del proyecto MediTrack, el equipo de RurasqaySoft se enfocó en el diseño y desarrollo funcional de la Landing Page de la plataforma. Se implementaron las secciones principales como el mensaje de bienvenida, los botones de registro y navegación y la información de contacto. También se trabajó en aspectos de interacción, incluyendo la fijación del encabezado al hacer scroll y una presentación atractiva de la propuesta de valor. El equipo logró finalizar todas las tareas planificadas, priorizando siempre la navegación fluida, la accesibilidad y la claridad en la comunicación con los nuevos usuarios. RurasqaySoft implementó la totalidad de las funcionalidades de la Landing Page y realizó el diseño completo de la misma, incorporando llamados a la acción (CTA), diseño responsive, sección de planes, testimonios, preguntas frecuentes y una navegación optimizada y fluida, concluyendo con éxito todo lo necesario para garantizar una mejor experiencia de usuario.
-
 #### 5.2.1.1. Sprint Planning 1
 
-<<<<<<< HEAD
 | **Sprint #** | Sprint 1 |
 | ------------ | -------- |
 
@@ -537,35 +492,6 @@ Durante el Sprint 1 del proyecto MediTrack, el equipo de RurasqaySoft se enfocó
 | **Sprint 1 Goal**              | Nuestro objetivo fue **diseñar, desarrollar y desplegar la Landing Page de MediTrack** con una experiencia visual clara, navegación fluida y compatibilidad responsive. Buscamos validar la propuesta de valor inicial y brindar a los usuarios un acceso confiable a la información principal de la plataforma. |
 | **Sprint 1 Velocity**          | 18                                                                                                                                                                                                                                                                                                               |
 | **Sum of Story Points**        | 18                                                                                                                                                                                                                                                                                                               |
-=======
-# Sprint 1
-
-| **Sprint #** | Sprint 1 |
-|--------------|----------|
-
-| **Sprint Planning Background** | |
-|--------------------------------|--------------------------------------------------------------------|
-| **Date**                       | 1 de septiembre del 2025                                           |
-| **Time**                       | 10:00 PM                                                          |
-| **Location**                   | Vía Discord                                                       |
-| **Prepared By**                | Barrientos Quispe Marcelo                                         |
-| **Attendees (to planning)**    | Nikaido Javier, Rioja Gabriel, Rivera Juaquin, Cuba Parejo, Fernandez Fredy |
-
----
-
-| **Sprint 1 – Review Summary**       | Se alcanzó la meta de desplegar la landing page |
-|-------------------------------------|-------------------------------------------------|
-| **Sprint 1 – Retrospective Summary** | Más coordinación y compromiso de trabajo        |
-
----
-
-| **Sprint Goal & User Stories** | |
-|--------------------------------|-----------------------------------------------------------|
-| **Sprint 1 Goal**              | Desplegar y entregar la landing page con una alta fidelidad          |
-| **Sprint 1 Velocity**          | 21                                                         |
-| **Sum of Story Points**        |                                             |
-
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -599,100 +525,73 @@ Durante el Sprint 1 del proyecto MediTrack, el equipo de RurasqaySoft se enfocó
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
-| Repository                                                              | Branch | Commit Id | Commit Message                             | Commit Message Body                        | Committed on (Date) |
-| ----------------------------------------------------------------------- | ------ | --------- | ------------------------------------------ | ------------------------------------------ | ------------------- |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main   | 8f6d10a   | chore: added .gitignore file               | chore: added .gitignore file               | 23/04/25            |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main   | 693651e   | docs: add readme and license               | docs: add readme and license               | 23/04/25            |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main   | 18dc7e84  | feat: added assets and main html, css file | feat: added assets and main html, css file | 23/04/25            |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main   | 05c8d43   | feat: added scripts for animations         | feat: added scripts for animations         | 23/04/25            |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main   | 6c9b91c   | feat: added section of success stories     | feat: added section of success stories     | 24/04/25            |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main   | 0c48fcd   | fix: remove unnecessary logs in scripts    | fix: remove unnecessary logs in scripts    | 24/04/25            |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main   | 21arabe   | fix: fix premium printing cart             | fix: fix premium printing cart             | 24/04/25            |
-
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page    | develop | 21a7ebe    | fix: fix premium printing cart    | fix: fix premium printing cart                | 23/04/25            |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page    | develop | 0c48fcd   | fix: remove unnecessary logs in scripts | fix: remove unnecessary logs in scripts    | 23/04/25            |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page    | develop | d5c8d43   | feat: added scripts for animations| feat: added scripts for animations            | 23/04/25            |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page    | develop | 186e704   | feat: added assets and main html, css file | feat: added assets and main html, css file    | 23/04/25            |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page    | develop | 693651e   | docs: add readme and license      | docs: add readme and license                  | 23/04/25            |
-| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page    | develop | 8f6d10a   | chore: added .gitignore file      | chore: added .gitignore file                  | 23/04/25            |
+| Repository                                                              | Branch  | Commit Id | Commit Message                             | Commit Message Body                        | Committed on (Date) |
+| ----------------------------------------------------------------------- | ------- | --------- | ------------------------------------------ | ------------------------------------------ | ------------------- |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 8f6d10a   | chore: added .gitignore file               | chore: added .gitignore file               | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 693651e   | docs: add readme and license               | docs: add readme and license               | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 186c704   | feat: added assets and main html, css file | feat: added assets and main html, css file | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | d5c8d43   | feat: added scripts for animations         | feat: added scripts for animations         | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 6c9b91c   | feat: added section of success stories     | First Merge                                | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 0c48fcd   | fix: remove unnecessary logs in scripts    | fix: remove unnecessary logs in scripts    | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 6b69ab7   | feat: added section of success stories     | Second Merge                               | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 21arabe   | fix: fix premium printing cart             | fix: fix premium printing cart             | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | 21a7ebe   | fix: fix premium printing cart             | Third Merge                                | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | 0c48fcd   | fix: remove unnecessary logs in scripts    | fix: remove unnecessary logs in scripts    | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | d5c8d43   | feat: added scripts for animations         | feat: added scripts for animations         | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | 186e704   | feat: added assets and main html, css file | feat: added assets and main html, css file | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | 693651e   | docs: add readme and license               | docs: add readme and license               | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | 8f6d10a   | chore: added .gitignore file               | chore: added .gitignore file               | 12/09/25            |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 Durante el Sprint 1 se logró implementar de manera satisfactoria la Landing Page del proyecto. Esta página incluye diferentes secciones orientadas a brindar a los usuarios información clara y completa acerca del producto y sus funcionalidades más relevantes.
 
-<<<<<<< HEAD
 #### Estructura de la Landing Page
 
 ##### 1. Hero Section
 
-=======
-# Estructura de la Landing Page
-
-## 1. Hero Section
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 Incluye nuestro **header**, que contiene tanto el **logo** como la **navegación** principal para recorrer la página web.
 
 ![Landing Page Image](./assets/chapter5/landing-image.png)
 
 ---
 
-<<<<<<< HEAD
 ##### 2. Desafíos y Problemáticas
 
-=======
-## 2. Desafíos y Problemáticas
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 Sección donde presentamos los **desafíos y problemáticas** que afrontamos, explicando el contexto y la importancia de la solución que ofrecemos.
 
 ![Landing Page Image](./assets/chapter5/landing-desafio.png)
 
 ---
 
-<<<<<<< HEAD
 ##### 3. Sobre Nosotros
 
-=======
-## 3. Sobre Nosotros
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 Un apartado para dar a conocer **quiénes somos**, nuestra historia, valores y el propósito que nos impulsa.
 
 ![Landing Page Image](./assets/chapter5/landing-mas.png)
 
 ---
 
-<<<<<<< HEAD
 ##### 4. Planes y Servicios
 
-=======
-## 4. Planes y Servicios
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 Aquí mostramos los distintos **planes y servicios** que ofrecemos, detallando beneficios y opciones para nuestros usuarios.
 
 ![Landing Page Image](./assets/chapter5/landing-planes.png)
 
 ---
 
-<<<<<<< HEAD
 ##### 5. Formulario y Footer
 
-=======
-## 5. Formulario y Footer
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 Sección final con un **formulario de contacto** para interactuar con los usuarios y el **footer** que incluye enlaces útiles y redes sociales.
 
 ![Landing Page Image](./assets/chapter5/landing-form-fotter.png)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Para este primer sprint no se vio una ejecutación de servicios.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-<<<<<<< HEAD
 # Sprint 1 - MediTrack
 
 Durante el **Sprint 1** del desarrollo de **MediTrack**, se ejecutaron las primeras tareas de despliegue, centradas en la **publicación de la Landing Page**.
@@ -736,10 +635,6 @@ Durante el **Sprint 1** del desarrollo de **MediTrack**, se ejecutaron las prime
 
 > **Nota:**  
 > Para este repositorio se evidenció el trabajo colaborativo de los estudiantes. Sin embargo, la gráfica de GitHub muestra que un solo usuario realizó la mayoría de los cambios. Esto se debió a la falta de tiempo y a errores imprevistos que impidieron que los demás integrantes integraran sus aportes. Aun así, podemos asegurar que el trabajo fue realizado de manera colaborativa por todo el equipo.
-=======
-#### 5.2.1.8. Team Collaboration Insights during Sprint
-
->>>>>>> 705a2275e503624710f41f714b9b4602acbe647f
 
 # Conclusiones
 
