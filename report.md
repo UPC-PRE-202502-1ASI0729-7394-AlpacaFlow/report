@@ -55,7 +55,7 @@
 
 ## AGOSTO - 2025
 
-# Control de versiones
+#### Control de versiones
 
 | Versión | Fecha    | Autor(es)                       | Descripción de cambios                                               |
 | ------- | -------- | ------------------------------- | -------------------------------------------------------------------- |
@@ -74,13 +74,26 @@
 | 1.12    | 15/09/25 | Barrientos Quispe, Marcelo      | Inclusión de contenido detallado en el análisis de entrevistas.      |
 | 1.13    | 15/09/25 | Fernandez Camayo, Carlos Fredy  | Agregados resúmenes estructurados de las entrevistas.                |
 
-# Project Report Collaboration Insights
+#### Project Report Collaboration Insights
+
+- Barrientos Quispe, Marcelo
+- Cuba Pareja, Joaquin Antonio
+- Fernandez Camayo, Carlos Fredy
+- Nikaido Vargas, Javier Masaru
+- Rivera Ayala, Gabriel Alejandro
 
 Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report)
 
-https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report
+#### TB1
 
-<img src="assets/chapter1/repo-commits.png" alt="Team Collaboration commits" width="100%">
+<img src="assets/chapter1/image-commits.png" alt="Team Collaboration commits" width="100%">
+
+<img src="assets/chapter1/network-1.png" alt="Team Collaboration Network" width="100%">
+
+<img src="assets/chapter1/network-2.png" alt="Team Collaboration Network" width="100%">
+
+<img src="assets/chapter1/network-3.png" alt="Team Collaboration Network" width="100%">
+
 
 # Contenido
 
