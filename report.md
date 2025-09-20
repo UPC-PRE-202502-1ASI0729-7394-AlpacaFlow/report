@@ -164,7 +164,6 @@ Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-Al
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
-
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -185,13 +184,11 @@ Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-Al
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
-
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
-
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -233,13 +230,13 @@ La propuesta de AlpacaFlow se centra en construir un ecosistema de salud digital
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                                                  | Apellido y Nombre               | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                                 |
-| --------------------------------------------------------------------- | ------------------------------- | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![fredy](/assets/chapter1/Fredy.png)                                  | Fernandez Camayo, Carlos Fredy  | U202217853 | Ingeniería de Software | Estudiante de ingenieria de software, enfocado al aprendizaje continuo de desarrollo de aplicaciones web y moviles, me caracterizo por la comunicación efectiva, trabajo en equipo, empatía y pensamiento crítico.                                                                                                                                                                                          |
-| ![gabriel](/assets/chapter1/gabriel.jpg)                              | Rivera Ayala, Gabriel Alejandro | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.             |
-| ![joaquin](/assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image") | Cuba Pareja, Joaquin Antonio    | U201621281 | Ingeniería de Software | Soy estudiante de Ingeniería de Software con conocimientos en desarrollo web y programación. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo. |
-| ![masaru](/assets/chapter1/Masaru.jpeg)                               | Nikaido Vargas, Javier Masaru   | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                                          |
-| ![marcelo](/assets/chapter1/marcelo.png)                              | Barrientos Quispe, Marcelo      | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                                      |
+| Foto                                                                 | Apellido y Nombre               | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------------------------------------------------------------- | ------------------------------- | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![fredy](assets/chapter1/Fredy.png)                                  | Fernandez Camayo, Carlos Fredy  | U202217853 | Ingeniería de Software | Estudiante de ingenieria de software, enfocado al aprendizaje continuo de desarrollo de aplicaciones web y moviles, me caracterizo por la comunicación efectiva, trabajo en equipo, empatía y pensamiento crítico.                                                                                                                                                                                          |
+| ![gabriel](assets/chapter1/gabriel.jpg)                              | Rivera Ayala, Gabriel Alejandro | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.             |
+| ![joaquin](assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image") | Cuba Pareja, Joaquin Antonio    | U201621281 | Ingeniería de Software | Soy estudiante de Ingeniería de Software con conocimientos en desarrollo web y programación. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo. |
+| ![masaru](assets/chapter1/Masaru.jpeg)                               | Nikaido Vargas, Javier Masaru   | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                                          |
+| ![marcelo](assets/chapter1/marcelo.png)                              | Barrientos Quispe, Marcelo      | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                                      |
 
 ## 1.2. Solution Profile
 
@@ -707,8 +704,8 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 - Apellidos: Coca
 - Edad: 19
 - Distrito: San Miguel
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
-- Timing:[Timming Entrevista Andres Coca](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- [Timming Entrevista Andres Coca](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
 - Inicio:(00:00)
 - Fin:(09:25)
 
@@ -734,8 +731,8 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Apellidos: Chinen Guembes
 - Edad: 21
 - Distrito: Magdalena
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19)
-- Timing:[Timming Entrevista Paolo Chinen](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19)
+- [Timming Entrevista Paolo Chinen](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19)
 - Inicio:(1:09:55)
 - Fin:(1:14:52)
 
@@ -757,8 +754,8 @@ Entre las funcionalidades más relevantes para él estarían las alertas en tiem
 - Apellidos: Yokota
 - Edad: 25 años
 - Distrito: Huaral
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19)
-- Timing:[Timming Entrevista Alexis Yokota](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19)
+- [Timming Entrevista Alexis Yokota](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19)
 - Inicio:(1:01:52)
 - Fin:(01:09:54)
 
@@ -785,8 +782,8 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Nombres: Vicente Alonso
 - Apellidos: Cuba Pareja
 - Distrito: Miraflores
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19)
-- Timing:[Timming Entrevista Vicente Cuba](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19)
+- [Timming Entrevista Vicente Cuba](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19)
 - Inicio:(44:39)
 - Fin:(57:11)
   ![video screenshoot](assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
@@ -811,8 +808,8 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Nombres: Valentina
 - Apellidos: Pareja Centeno
 - Distrito: Surco
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319)
-- Timing:[Timming Entrevista Valentina Pareja](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319)
+- [Timming Entrevista Valentina Pareja](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319)
 - Inicio:(57:12)
 - Fin:(1:01:51)
 
@@ -840,8 +837,8 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Apellidos: Rivera Chipana
 - Edad: 56
 - Distrito: Pueblo Libre
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19)
-- Timing:[Timming Entrevista Alcides Rivera](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19)
+- [Timming Entrevista Alcides Rivera](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19)
 - Inicio:(1:14:53)
 - Fin:(1:29:41)
 
@@ -867,8 +864,8 @@ Sin embargo, identifica posibles obstáculos para la adopción en su clínica: e
 - Apellidos: Quispe
 - Edad: 48
 - Distrito: Madrid - España
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=IFJU7k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY2LjQ2fX0%3D)
-- Timing:[Timming Entrevista Ana Quispe](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=4u06Hj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY4LjE1fX0%3D)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=IFJU7k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY2LjQ2fX0%3D)
+- [Timming Entrevista Ana Quispe](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=4u06Hj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY4LjE1fX0%3D)
 - Inicio:(09:26)
 - Fin:(34:17)
 
@@ -892,8 +889,8 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Apellidos: Mendivil
 - Edad: 57
 - Distrito: Novara - Italia
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19)
-- Timing:[Timming Entrevista Fanny Mendivil](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19)
+- [Timming Entrevista Fanny Mendivil](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19)
 - Inicio:(34:18)
 - Fin:(44:38)
 
@@ -917,8 +914,8 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 - Apellidos: Ayala Maurtua
 - Edad: 56
 - Distrito: Pueblo Libre
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19)
-- Timing:[Timming Entrevista Judith Ayala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19)
+- [Timming Entrevista Judith Ayala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19)
 - Inicio:(1:24:23)
 - Fin:(1:29:41)
 
@@ -2606,4 +2603,3 @@ El sprint permitió validar la importancia de la navegabilidad, el diseño respo
 - Instituto Nacional de Estadística e Informática. (2025, 26 de marzo). 42.0 % of the households of the country has among their members, at least one person of 60 years old and older or older adult [Nota de prensa]. Gobierno del Perú.
 
 - Organización Panamericana de la Salud. (s. f.). Health in the Americas country profile: Peru [Perfil país]. OPS.
-
