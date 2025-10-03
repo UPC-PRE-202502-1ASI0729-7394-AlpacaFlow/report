@@ -82,7 +82,10 @@
 - Nikaido Vargas, Javier Masaru
 - Rivera Ayala, Gabriel Alejandro
 
-Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report)
+Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report) 
+
+https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report
+
 
 #### TB1
 
@@ -93,7 +96,6 @@ Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-Al
 <img src="assets/chapter1/network-2.png" alt="Team Collaboration Network" width="100%">
 
 <img src="assets/chapter1/network-3.png" alt="Team Collaboration Network" width="100%">
-
 
 # Contenido
 
@@ -165,7 +167,6 @@ Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-Al
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
-
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -186,13 +187,11 @@ Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-Al
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
-
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
-
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -234,13 +233,13 @@ La propuesta de AlpacaFlow se centra en construir un ecosistema de salud digital
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                                                  | Apellido y Nombre               | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                                 |
-| --------------------------------------------------------------------- | ------------------------------- | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![fredy](/assets/chapter1/Fredy.png)                                  | Fernandez Camayo, Carlos Fredy  | U202217853 | Ingeniería de Software | Estudiante de ingenieria de software, enfocado al aprendizaje continuo de desarrollo de aplicaciones web y moviles, me caracterizo por la comunicación efectiva, trabajo en equipo, empatía y pensamiento crítico.                                                                                                                                                                                          |
-| ![gabriel](/assets/chapter1/gabriel.jpg)                              | Rivera Ayala, Gabriel Alejandro | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.             |
-| ![joaquin](/assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image") | Cuba Pareja, Joaquin Antonio    | U201621281 | Ingeniería de Software | Soy estudiante de Ingeniería de Software con conocimientos en desarrollo web y programación. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo. |
-| ![masaru](/assets/chapter1/Masaru.jpeg)                               | Nikaido Vargas, Javier Masaru   | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                                          |
-| ![marcelo](/assets/chapter1/marcelo.png)                              | Barrientos Quispe, Marcelo      | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                                      |
+| Foto                                                                 | Apellido y Nombre               | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------------------------------------------------------------- | ------------------------------- | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![fredy](assets/chapter1/Fredy.png)                                  | Fernandez Camayo, Carlos Fredy  | U202217853 | Ingeniería de Software | Estudiante de ingenieria de software, enfocado al aprendizaje continuo de desarrollo de aplicaciones web y moviles, me caracterizo por la comunicación efectiva, trabajo en equipo, empatía y pensamiento crítico.                                                                                                                                                                                          |
+| ![gabriel](assets/chapter1/gabriel.jpg)                              | Rivera Ayala, Gabriel Alejandro | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.             |
+| ![joaquin](assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image") | Cuba Pareja, Joaquin Antonio    | U201621281 | Ingeniería de Software | Soy estudiante de Ingeniería de Software con conocimientos en desarrollo web y programación. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo. |
+| ![masaru](assets/chapter1/Masaru.jpeg)                               | Nikaido Vargas, Javier Masaru   | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                                          |
+| ![marcelo](assets/chapter1/marcelo.png)                              | Barrientos Quispe, Marcelo      | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                                      |
 
 ## 1.2. Solution Profile
 
@@ -445,27 +444,59 @@ Creemos que la aplicación debe ofrecer una sección de reportes descargables pa
 
 Creemos que la aplicación debe permitir la gestión de múltiples pacientes de forma sencilla para las instituciones. Esto incluye la posibilidad de ver un resumen del estado de todos los residentes en un solo panel y acceder rápidamente a los detalles de cada uno.
 
+Business Outcomes Assumptions:
+
+- Tasa de retención de la suscripción premium/Enterprise superior al 80% después del primer trimestre.
+
+- Aumento del 70% en la adquisición de nuevos centros de reposo o clínicas anualmente.
+
+- Disminución del 25% en el tiempo de respuesta del personal ante una alerta crítica.
+
+- 75% de los profesionales de la salud encuestados que recomiendan activamente la plataforma.
+
+User Outcomes Assumptions:
+
+- Reducción de la ansiedad o preocupación relacionada con el estado de salud del familiar (p. ej., disminución de las llamadas no esenciales para verificar el estado).
+
+- El personal puede identificar y actuar ante una anomalía o caída antes de que se convierta en una emergencia grave, gracias a las alertas.
+
+- Las consultas son más eficientes y precisas porque el médico tiene acceso a datos históricos y tendencias de salud, en lugar de solo información puntual.
+
+- El personal gasta menos tiempo en rondas manuales y puede centrarse en la atención directa, gracias a la eficiencia del monitoreo simultáneo.
+
+- El paciente se siente seguro sabiendo que está siendo monitoreado de forma discreta, lo que puede incentivar una mayor actividad o movilidad.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Hypothesis Statement 01
-**Creemos que** un dashboard visual y amigable permitirá a los familiares comprender fácilmente el estado de salud de sus adultos mayores, incluso sin conocimientos médicos.
-**Sabremos que hemos tenido éxito cuando** el 85% de los usuarios B2C encuestados afirmen que el dashboard les ayuda a sentirse más tranquilos y a entender la información de salud de un solo vistazo.
+- Hypothesis Statement 1:
+Creemos que lograremos una Tasa de retención de la suscripción premium/Enterprise superior al 80% después del primer trimestre,
+Si los Familiares de adultos mayores 
+Obtienen una Reducción de la ansiedad o preocupación relacionada con el estado de salud del familiar, 
+Con el Dashboard visual y amigable que muestra los datos de forma clara y continua.
 
-Hypothesis Statement 02
-**Creemos que** las notificaciones automáticas y personalizables sobre anomalías y caídas serán el factor clave para que los usuarios confíen en la solución de MediTrack para la prevención de riesgos.
-**Sabremos que hemos tenido éxito cuando** la tasa de respuesta a una alerta sea inferior a 5 minutos en el 90% de los casos reportados por los usuarios, y el 70% de ellos afirmen que esta función les ha ayudado a intervenir a tiempo en una situación de emergencia.
+- Hypothesis Statement 2:
+Creemos que lograremos una Disminución del 25% en el tiempo de respuesta del personal ante una alerta crítica
+Si el Personal de clínicas y casas de reposo 
+Puede identificar y actuar ante una anomalía o caída antes de que se convierta en una emergencia grave,
+Con las Notificaciones automáticas y personalizables sobre anomalías en signos vitales o movilidad.
 
-Hypothesis Statement 03
-**Creemos que** un historial de salud detallado almacenado en la aplicación será de gran valor para los médicos, mejorando la calidad de las consultas y la toma de decisiones.
-**Sabremos que hemos tenido éxito cuando** al menos el 60% de los usuarios B2C y B2B reporten que han utilizado el historial de datos para una consulta médica y que el profesional de la salud lo ha valorado como una herramienta útil.
+- Hypothesis Statement 3:
+Creemos que lograremos que el 75% de los profesionales de la salud encuestados recomienden activamente la plataforma, 
+Si los Médicos 
+Observan que las consultas son más eficientes y precisas, 
+Con el Historial de salud detallado donde se almacenan los datos de monitoreo a largo plazo.
 
-Hypothesis Statement 04
-**Creemos que** la opción de generar y descargar reportes será un diferenciador clave que facilitará la comunicación entre cuidadores, familiares e instituciones, promoviendo un cuidado coordinado.
-**Sabremos que hemos tenido éxito cuando** el 50% de los usuarios B2B utilicen la función de reportes al menos una vez al mes para comunicarse con familiares o para reuniones internas.
+- Hypothesis Statement 4:
+Creemos que lograremos un Aumento del 70% en la adquisición de nuevos centros de reposo o clínicas anualmente, 
+Si las Instituciones 
+Logran que su Personal gaste menos tiempo en rondas manuales, 
+Con la funcionalidad de Gestión de múltiples pacientes en un solo panel.
 
-Hypothesis Statement 05
-**Creemos que** la función de gestión de múltiples pacientes permitirá a las instituciones aumentar significativamente la eficiencia del personal y mejorar la supervisión general del cuidado.
-**Sabremos que hemos tenido éxito cuando** las instituciones que adopten esta función reporten una reducción del 30% en las tareas manuales de monitoreo y una mejora del 25% en la satisfacción del personal con la gestión de pacientes.
+- Hypothesis Statement 5:
+Creemos que lograremos la Tasa de retención de la suscripción premium superior al 80%, 
+Si los Familiares 
+Experimentan una Mejora en la calidad de la consulta médica, 
+Con la opción de Reportes descargables para compartir fácilmente la información de salud.
 
 #### 1.2.2.4. Lean UX Canvas
 
