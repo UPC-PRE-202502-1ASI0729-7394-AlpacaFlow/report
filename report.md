@@ -650,6 +650,8 @@ A continuación, se detallan las tareas que realizan.
 
 ### 2.3.3. User Journey Mapping
 
+
+
 #### Luis Jimenez
 
 ![LuisJimenezJourneyMap.jpg](assets/chapter2/LuisJimenezJourneyMap.png)
@@ -663,6 +665,8 @@ A continuación, se detallan las tareas que realizan.
 ![ValeriaPancorboJourneyM.jpg](assets/chapter2/ValeriaPancorboJourneyMap.png)
 
 ### 2.3.4. Empathy Mapping
+
+A través de este gráfico de Empathy Mapping, se representan las percepciones, pensamientos y emociones de los usuarios al interactuar con nuestra plataforma. Este análisis facilita una comprensión más profunda de sus experiencias, expectativas y dificultades, lo que resulta esencial para diseñar una solución más acorde a sus necesidades y brindar una experiencia de usuario optimizada y centrada en el cliente.
 
 ### Empathy Mapping – Doctor
 
