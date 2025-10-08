@@ -837,6 +837,7 @@ Explicacion de flujo: Se selecciona a un paciente geriatrico para ver su histori
 ademas de contar con un analisis estadistico sobre el estado actual.
 
 <img src="assets/chapter4/WF-6.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
 #### User Goal: Registro de cuidador
 
 User persona: Casa de reposo
