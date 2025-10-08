@@ -796,7 +796,7 @@ User persona: Allegados
 Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
 preferencia y se registra en la plataforma.
 
-<img src="assets/chapter4/WF-1.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/WF1v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 #### User Goal: Registro Clinica o Casa de Reposo
 
