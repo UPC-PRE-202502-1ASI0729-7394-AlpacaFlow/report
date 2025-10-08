@@ -1049,21 +1049,21 @@ User persona: Allegados
 Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
 preferencia y se registra en la plataforma.
 
-<img src="assets/chapter4/UG-Inicio.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/UG1v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 #### User Goal: Registro Clinica o Casa de Reposo
 User persona: Clinica y Casa de reposo
 Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
 con la platforma e ingresa sus credenciales para poder identificarse como administrador.
 
-<img src="assets/chapter4/UG-Empresa.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/UG2v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 #### User Goal: Registro de paciente como allegado
 User persona: Allegado
 Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
 de allegado
 
-<img src="assets/chapter4/UG-Paciente.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/UG3v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 
 #### User Goal: Registro de medicos
