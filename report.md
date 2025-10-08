@@ -1185,15 +1185,15 @@ En esta sección se presenta y explica el Diagrama de Clases UML correspondiente
 
 El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino también sus atributos y métodos, especificando el alcance (public, private, protected) en cada caso. Asimismo, se definen las relaciones entre clases, indicando la multiplicidad, la dirección y la calificación de los vínculos con nombres claros y consistentes.
 
-Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama independiente por bounded context (User Management, Device Management, Dashboard & Analytics, Relationship Management, Report, Identity & Access Management). Esto permite reflejar con precisión las responsabilidades de cada contexto y la forma en que interactúan sus entidades internas.
+  Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama independiente por bounded context (Auth, Relative, Organization, Shared). Esto permite reflejar con precisión las responsabilidades de cada contexto y la forma en que interactúan sus entidades internas.
 
-<img src="assets/chapter4/UMLDiagram.png" alt="UMLDiagram" width="100%">
+![ClassUml](assets/chapter4/MediTrack_UML.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams
 
-![Diagrama de base de datos.png](assets/chapter4/Diagrama%20de%20base%20de%20datos.png)
+![Diagrama de base de datos.png](assets/chapter4/database-diagram.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
