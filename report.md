@@ -1142,7 +1142,7 @@ la visión compartida que promueve DDD.
 Este diagrama de contexto muestra la vista de alto nivel de las relaciones entre la plataforma MediTrack y los sistemas 
 externos, asi como el rol de los usuarios. 
 
-<img src="assets/chapter4/Context-diagram.png" alt="context-diagram" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/system-context.png" alt="context-diagram" style="width:300px; height:auto;"/>
 
 
 ### 4.6.2. Software Architecture Container Diagrams
@@ -1150,7 +1150,7 @@ externos, asi como el rol de los usuarios.
 El diagrama de contenedores ofrece una visión general de alto nivel sobre las relaciones entre las aplicaciones y las
 fuentes de datos que intervienen en la ejecución de a plataforma MediTrack
 
-<img src="assets/chapter4/Container-diagram.png" alt="container-diagram" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/container-diagram.png" alt="container-diagram" style="width:300px; height:auto;"/>
 
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -1159,26 +1159,22 @@ Los diagramas de componentes proporcionan una visión de las relaciones entre lo
 software. Dichos componentes describen con mayor detalle la implementación de los módulos correspondientes dentro del programa.
 
 
-**User Management Bounded Context**
+**Auth Bounded Context**
 
 
-<img src="assets/chapter4/Component-userBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/auth-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
 
-**RelationshipManagement Bounded Context**
+**Relative Bounded Context**
 
-<img src="assets/chapter4/Component-RMBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/relative-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
 
-**Divice Management Bounded Context**
+**Organization Bounded Context**
 
-<img src="assets/chapter4/Component-DMBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/organization-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
 
-**Dashboard an analytics Bounded Context**
+**Shared Bounded Context**
 
-<img src="assets/chapter4/Component-DABC.png" alt="component-diagram" style="width:300px; height:auto;"/>
-
-**Report Bounded Context**
-
-<img src="assets/chapter4/Component-RCBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/shared-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
 
 
 ## 4.7. Software Object-Oriented Design
