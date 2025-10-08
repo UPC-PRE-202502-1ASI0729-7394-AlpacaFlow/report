@@ -812,7 +812,7 @@ User persona: Allegado
 Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
 de allegado
 
-<img src="assets/chapter4/WF3v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/WF3V2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 #### User Goal: Registro de medicos
 
