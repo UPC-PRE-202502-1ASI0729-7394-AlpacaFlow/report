@@ -716,13 +716,10 @@ Estos commits provienen del repositorio del frontend de la organización de GitH
 Durante el desarrollo del segundo sprint se desarrolló los componentes principales con respecto al negocio.
 A continuación se muestran evidencias del frontend.
 
-![img_10.png](img_10.png)
-![img_11.png](img_11.png)
-![img_12.png](img_12.png)
-![img_13.png](img_13.png)
-![img_14.png](img_14.png)
-![img_15.png](img_15.png)
-![img_16.png](img_16.png)
+![img_10.png](/assets/chapter5/img-frontend.jpeg)
+![img_10.png](/assets/chapter5/img-frontend2.jpeg)
+![img_10.png](/assets/chapter5/img-frontend3.jpeg)
+![img_10.png](/assets/chapter5/img-frontend4.jpeg)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
