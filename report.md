@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td>Nikaido Vargas, Javier Masaru</td>
-      <td></td>
+      <td>U20221G099</td>
     </tr>
     <tr>
       <td>Cuba Pareja, Joaquin Antonio</td>
@@ -48,16 +48,55 @@
     </tr>
     <tr>
       <td>Rivera Ayala, Gabriel Alejandro</td>
-      <td></td>
+      <td>U202223279</td>
     </tr>
   </tbody>
 </table>
 
 ## AGOSTO - 2025
 
-# Registro de Versiones del Informe
+#### Control de versiones
 
-# Project Report Collaboration Insights
+| Versión | Fecha    | Autor(es)                       | Descripción de cambios                                               |
+| ------- | -------- | ------------------------------- | -------------------------------------------------------------------- |
+| 1.00    | 03/09/25 | Barrientos Quispe, Marcelo      | Definición de la estructura inicial del proyecto.                    |
+| 1.01    | 03/09/25 | Nikaido Vargas, Javier Masaru   | Agregados los resultados esperados para los estudiantes.             |
+| 1.02    | 04/09/25 | Cuba Pareja, Joaquin Antonio    | Incorporación del Lean UX Canvas como herramienta base del proyecto. |
+| 1.03    | 04/09/25 | Cuba Pareja, Joaquin Antonio    | Actualización del perfil del equipo de trabajo.                      |
+| 1.04    | 05/09/25 | Barrientos Quispe, Marcelo      | Implementación de control de versiones con Git.                      |
+| 1.05    | 08/09/25 | Nikaido Vargas, Javier Masaru   | Integración de la rama con el capítulo 1 (introducción).             |
+| 1.06    | 09/09/25 | Barrientos Quispe, Marcelo      | Creación del capítulo 2 del proyecto.                                |
+| 1.07    | 09/09/25 | Fernandez Camayo, Carlos Fredy  | Inclusión de preguntas para entrevistas con usuarios.                |
+| 1.08    | 10/09/25 | Barrientos Quispe, Marcelo      | Elaboración e incorporación del análisis de la competencia.          |
+| 1.09    | 10/09/25 | Nikaido Vargas, Javier Masaru   | Definición del recorrido del usuario basado en el user persona.      |
+| 1.10    | 11/09/25 | Rivera Ayala, Gabriel Alejandro | Adición del mapa de empatía al capítulo 2.                           |
+| 1.11    | 12/09/25 | Rivera Ayala, Gabriel Alejandro | Corrección y refinamiento del arquetipo de usuario.                  |
+| 1.12    | 15/09/25 | Barrientos Quispe, Marcelo      | Inclusión de contenido detallado en el análisis de entrevistas.      |
+| 1.13    | 15/09/25 | Fernandez Camayo, Carlos Fredy  | Agregados resúmenes estructurados de las entrevistas.                |
+| 1.14    | 20/09/25 | Barrientos Quispe, Marcelo      | Se realizaron correcciones del informe en el capitulo 1, 3 y 5      |
+
+#### Project Report Collaboration Insights
+
+- Barrientos Quispe, Marcelo
+- Cuba Pareja, Joaquin Antonio
+- Fernandez Camayo, Carlos Fredy
+- Nikaido Vargas, Javier Masaru
+- Rivera Ayala, Gabriel Alejandro
+
+Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report) 
+
+https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report
+
+
+#### TB1
+
+<img src="assets/chapter1/image-commits.png" alt="Team Collaboration commits" width="100%">
+
+<img src="assets/chapter1/network-1.png" alt="Team Collaboration Network" width="100%">
+
+<img src="assets/chapter1/network-2.png" alt="Team Collaboration Network" width="100%">
+
+<img src="assets/chapter1/network-3.png" alt="Team Collaboration Network" width="100%">
 
 # Contenido
 
@@ -129,7 +168,6 @@
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
-
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -150,13 +188,11 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
-
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
-
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -166,29 +202,416 @@
 
 # Student Outcome
 
+ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un
+rango de audiencias.
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 3
+
+| Criterio específico                                                        | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**   | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>Me esforcé en aportar al grupo, cumpliedo todas mis tareas encomendadas y ayudando en lo que aún faltaba por completar. <br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend. <br> <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Apoyé de manera activa al desarrollo del trabajo, apoyando, mejorando y arregalndo varias partes del proyecto, además de claro hacer mis tareas encomendadas. <br> <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend. <br> <br> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br> <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br> <br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br> <br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                     | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>La constante participación y aporte al gupo fue importante para mi desarrollo como estudiante, ya que pude obtener inforamción valiosa, más quen con el desarrollo de ciertos apartados sobre el análisis de usuarios br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend. <br> <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias a mi gran aporte, mejore muchas de mis habilidades con respecto al desarrollo de una aplicación de este tipo, lo que me será de mucha ayuda en mi desarrollo como profesional. <br> <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend. <br> <br> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> La participación activa en el diseño y ejecución de entrevistas al primer segmento objetivo permitió aportar información valiosa al equipo. Esta contribución fortaleció la toma de decisiones conjuntas y reflejó un liderazgo distribuido, basado en la colaboración y en la construcción colectiva de resultados. <br> <br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br> <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br> <br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Como equipo, nos dimos retroalimentación de forma constante, lo cual nos ayudó a reforzar nuestras áreas de oportunidad y mejorar nuestro desempeño.<br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                                                                     |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Nikaido Vargas, Javier Masaru**<br>**TB1** <br> Me encargué de realizar una entrevista, una buena parte del needfinding, dividir los user stories por épicas y me encargué del diagrama de la base de datos <br><br> **TP** <br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes. <br><br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Me encargué de la elaboración del wireframe, wireflow, mokups, segmentos objetivos, parte del capitulo 1, entrevistas y su diseño, landing page, muy buena parte del capitulo 4 y el capitulo 5 <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br> <br/> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP**<br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/> <br> **TP**<br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>Gracias a la elaboración del needfiding, mejoré mi habilidad para ver como se siente al cliente con varios aspectos de nuestra aplicación, loq ue me permite dar un producto muhco mejor para los usuarios.<br><br> **TP** <br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes. <br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias al desarrollo del trabajo mejoré muchas habildies, tanto como del desarrollo de la idea del proyecto, sino también con respecto al desarollo de landigns pages, ya que ahora siento que se como atraer mejor ala gente con esta sección tan importante del proyecto. <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br> <br/> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> Al elaborar los user personas y analizar entrevistas, se facilitó un espacio de diálogo y entendimiento mutuo entre los miembros del equipo, asegurando que las diferentes perspectivas fueran integradas en el desarrollo del proyecto. Este enfoque inclusivo permitió que el producto respondiera mejor a las necesidades reales de los usuarios. <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP** <br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> A lo largo del desarrollo del trabajo se logro establecer un ambiente colabortivo lo cual nos permitio refinar nuestra aprendisaje y el desarrollo del trabjo <br/> <br> **TP** El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. |
+
+
+
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
 
+**AlpacaFlow** es una startup tecnológica enfocada en el desarrollo de soluciones digitales innovadoras para el sector salud, con especial atención en el cuidado de pacientes geriátricos. Nuestro propósito es aprovechar la tecnología para mejorar la calidad de vida de los adultos mayores mediante herramientas accesibles, seguras y sostenibles que permitan un monitoreo constante, una atención preventiva y una conexión más cercana entre pacientes, familiares e instituciones de salud.
+
+Nuestra solución es MediTrack, una plataforma de salud digital que utiliza parches inteligentes como dispositivos IoT para el monitoreo remoto de pacientes geriatricos. MediTrack permite registrar signos vitales, detectar emergencias y compartir información en tiempo real con familiares, médicos y aseguradoras, garantizando un cuidado preventivo, seguro y personalizado.
+
+La propuesta de AlpacaFlow se centra en construir un ecosistema de salud digital inclusivo, escalable y orientado a resultados, donde los parches inteligentes y las plataformas de gestión se convierten en un puente entre innovación tecnológica y bienestar social. Buscamos que cada adulto mayor pueda ser monitoreado en tiempo real, reduciendo riesgos, optimizando diagnósticos y facilitando la toma de decisiones médicas y familiares.
+
+**Misión:** Desarrollar herramientas digitales accesibles y efectivas que permitan a pacientes, familias e instituciones de salud monitorear y gestionar la salud de los adultos mayores en tiempo real, brindando seguridad, confianza y eficiencia.
+
+**Visión:** En los próximos 5 años, consolidar a AlpacaFlow como una la empresa líder en soluciones de salud digital en Latinoamérica, siendo reconocidos por nuestra capacidad de mejorar la calidad de vida y prevenir riesgos mediante el uso de innovación tecnológica accesible y escalable.
+
+**Alcance del proyecto:** El alcance inicial de MediTrack está orientado al cuidado geriátrico, ofreciendo una plataforma web y móvil que integra dispositivos IoT en forma de parches inteligentes para registrar signos vitales, alertar en casos de emergencia y compartir información en tiempo real con familiares, médicos y aseguradoras. A mediano plazo, buscamos ampliar el impacto de la solución hacia hospitales, clínicas y casas de reposo, consolidando un modelo de monitoreo preventivo y predictivo que transforme la manera en que se gestiona la salud de los adultos mayores en Latinoamérica.
+
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| Foto                                                                 | Apellido y Nombre               | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------------------------------------------------------------- | ------------------------------- | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![fredy](assets/chapter1/Fredy.png)                                  | Fernandez Camayo, Carlos Fredy  | U202217853 | Ingeniería de Software | Estudiante de ingenieria de software, enfocado al aprendizaje continuo de desarrollo de aplicaciones web y moviles, me caracterizo por la comunicación efectiva, trabajo en equipo, empatía y pensamiento crítico.                                                                                                                                                                                          |
+| ![gabriel](assets/chapter1/gabriel.jpg)                              | Rivera Ayala, Gabriel Alejandro | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.             |
+| ![joaquin](assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image") | Cuba Pareja, Joaquin Antonio    | U201621281 | Ingeniería de Software | Soy estudiante de Ingeniería de Software con conocimientos en desarrollo web y programación. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo. |
+| ![masaru](assets/chapter1/Masaru.jpeg)                               | Nikaido Vargas, Javier Masaru   | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                                          |
+| ![marcelo](assets/chapter1/marcelo.png)                              | Barrientos Quispe, Marcelo      | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                                      |
 
 ## 1.2. Solution Profile
 
+El **Solution Profile** presenta una descripción general de la solución propuesta, abordando el contexto, los problemas detectados y las suposiciones estratégicas que guían el desarrollo del producto. Esta sección busca conectar los hallazgos obtenidos en la fase de descubrimiento con una propuesta clara de valor, estableciendo las bases para el diseño, validación y desarrollo de la solución.
+
 ### 1.2.1. Antecedentes y problemática
+
+En esta sección se analiza el contexto en el que surge la problemática principal, considerando los factores sociales, tecnológicos y emocionales que la rodean. A través de la **técnica de las 5 ‘W’s y 2 ‘H’s**, se busca responder de forma estructurada a las preguntas clave sobre el qué, quién, cuándo, dónde, por qué, cómo y cuánto, con el fin de comprender de manera integral la situación actual y justificar la pertinencia de la solución propuesta.
+
+**Técnica de The 5 'W's y 2 'H's**
+
+**What(Qué)?** <br>
+¿Cuál es el problema?
+
+El envejecimiento poblacional en el Perú y América Latina ha incrementado la demanda de soluciones de monitoreo en salud geriátrica. Según la Organización Panamericana de la Salud (OPS, s. f.), para el año 2050, 1 de cada 5 personas en la región será adulto mayor. Sin embargo, gran parte de esta población enfrenta limitaciones para un control adecuado de sus enfermedades crónicas debido a la falta de acceso a tecnología comprensible, la escasez de seguimiento médico continuo y la sobrecarga de los familiares que asumen su cuidado.
+
+Actualmente, muchos dispositivos de monitoreo existentes requieren habilidades tecnológicas que los adultos mayores no poseen, lo que genera una brecha digital en el cuidado geriátrico, reduciendo la calidad de atención y aumentando el riesgo de emergencias médicas no atendidas a tiempo.
+
+**When(Cuando)?** <br>
+¿Cuándo sucede el problema?
+
+El problema ocurre de manera constante, pero se intensifica en las etapas más avanzadas de la vejez, cuando las enfermedades crónicas y las limitaciones físicas o cognitivas aumentan la dependencia del adulto mayor. La necesidad de monitoreo es diaria y continua, especialmente en pacientes con hipertensión, diabetes o afecciones cardíacas.
+
+En situaciones cotidianas, como cuando los adultos mayores están solos en casa o durante la noche, las caídas o variaciones en los signos vitales pueden pasar desapercibidas, impidiendo una intervención médica oportuna y elevando el riesgo de complicaciones graves.
+
+**Where(Dónde)?** <br>
+¿Dónde surge el problema?
+
+El problema se presenta principalmente en entornos urbanos del Perú, donde la población geriátrica está en crecimiento y los sistemas de salud se encuentran sobrecargados. Según el Instituto Nacional de Estadística e Informática (INEI, 2024), el 13% de la población peruana ya supera los 60 años, y se proyecta un crecimiento sostenido en la próxima década.
+
+En las ciudades, muchos adultos mayores viven solos o en casas de reposo, lo que incrementa la necesidad de monitoreo remoto y continuo. En áreas rurales, la falta de infraestructura médica y especialistas agrava el problema, ya que limita el acceso a controles periódicos y servicios de salud adecuados.
+
+En conjunto, tanto los entornos urbanos como rurales enfrentan limitaciones en la atención geriátrica continua, reforzando la necesidad de soluciones tecnológicas locales, accesibles y adaptadas al contexto peruano.
+
+**Who(Quién)?** <br>
+¿Quiénes son los afectados?
+
+Los principales afectados son:
+
+- **Adultos mayores**, que requieren monitoreo constante de su salud pero que enfrentan dificultades para usar herramientas tecnológicas complejas.
+
+- **Familiares y allegados**, quienes muchas veces cargan con la responsabilidad de vigilar el bienestar del paciente sin contar con información precisa oportuna.
+
+- **Clínicas y hospitales**, que necesitan soluciones de telemetría que permitan descongestionar la atención presencial y realizar un seguimiento más eficiente.
+
+- **Casas de reposo y centros geriátricos**, que deben garantizar la seguridad de sus residentes y responder rápidamente ante emergencias de salud.
+
+**Why(Por qué)?** <br>
+¿Cuál es la causa del problema?
+
+- **Falta de monitoreo continuo y accesible:** Los sistemas de salud en el Perú están centrados en la atención reactiva, sin priorizar la prevención ni el seguimiento remoto.
+
+- **Limitaciones tecnológicas en adultos mayores:** Según la Encuesta Nacional de Hogares (ENAHO, INEI, 2023), solo el 22% de los adultos mayores peruanos accede regularmente a internet, y menos del 10% utiliza aplicaciones móviles de salud.
+
+- **Sobrecarga del sistema de salud:** La atención médica presencial presenta largas esperas, lo que retrasa diagnósticos y controles regulares.
+
+- **Escasez de herramientas locales adaptadas:** La mayoría de los wearables disponibles están diseñados para mercados extranjeros y no se ajustan al contexto socioeconómico ni cultural peruano.
+
+- **Dependencia de familiares y cuidadores:** La falta de sistemas confiables de alerta temprana obliga a los familiares a asumir una vigilancia constante, generando altos niveles de estrés y agotamiento emocional.
+
+**How(Cómo)?** <br>
+¿Cómo se utilizará el producto?
+
+Para responder a esta necesidad, MediTrack propone un sistema integral de monitoreo geriátrico compuesto por un parche inteligente y un dashboard digital que facilita el acceso a información médica en tiempo real.
+
+- **Para los pacientes geriátricos:** Solo deben portar el parche inteligente, el cual registra automáticamente sus signos vitales sin necesidad de conocimientos tecnológicos.
+
+- **Para los familiares:** Accederán a una plataforma intuitiva donde podrán visualizar la salud del paciente en tiempo real, recibir notificaciones de alerta y acceder al historial médico.
+
+- **Para clínicas y casas de reposo:** Podrán supervisar simultáneamente múltiples pacientes, generar reportes médicos automatizados y tomar decisiones basadas en datos objetivos.
+
+Este sistema busca mejorar la calidad de vida del adulto mayor, reducir la carga emocional de los familiares y optimizar la gestión institucional del cuidado geriátrico. Su enfoque accesible y adaptado al contexto peruano diferencia a MediTrack de otras soluciones internacionales más costosas y complejas.
+
+**How much(Cuánto)?** <br>
+¿Cuánto costará implementar la solución?
+
+La implementación de MediTrack requiere una inversión inicial orientada al desarrollo tecnológico, infraestructura de soporte y estrategias de lanzamiento. Esta inversión representa un paso clave hacia la modernización del cuidado geriátrico en el Perú, ofreciendo una alternativa local, accesible y escalable frente a dispositivos importados de alto costo.
+
+**Presupuesto estimado:**
+
+**Desarrollo de Software**
+
+- Diseño y desarrollo del dashboard web: S/ 3,500 – S/ 5,000
+
+- Backend, API y base de datos segura: S/ 3,000 – S/ 4,500
+
+- Dominio, hosting y servidores (anual): S/ 1,200 – S/ 2,000
+
+**Hardware (Parches inteligentes)**
+
+- Diseño y prototipado de parches: S/ 5,000 – S/ 7,000
+
+- Producción inicial (lote piloto de 100 unidades): S/ 8,000 – S/ 10,000
+
+**Marketing y Lanzamiento:**
+
+- Estrategia digital y materiales promocionales: S/ 2,500 – S/ 4,000
+
+- Alianzas con clínicas y casas de reposo: S/ 1,500 – S/ 2,000
+
+- Mantenimiento y Soporte (anual):
+
+- Actualizaciones de software y soporte técnico: S/ 3,000 – S/ 5,000
+
+**Total estimado:** S/ 28,700 – S/ 40,500
 
 ### 1.2.2. Lean UX Process
 
+El proceso Lean UX que adoptamos está orientado a maximizar la eficiencia en el desarrollo de nuestro producto, enfocándose en principios fundamentales como la validación continua, el pensamiento crítico y la acción rápida. A partir de esta filosofía, hemos estructurado nuestro propio enfoque Lean UX, basado en cuatro componentes esenciales: definición de problemas, formulación de suposiciones, creación de hipótesis y desarrollo de un lienzo estratégico.
+
 #### 1.2.2.1. Lean UX Problem Statement.
+
+El propósito de MediTrack es ofrecer una solución digital integral que permita monitorear en tiempo real los signos vitales y la movilidad de los adultos mayores mediante dispositivos portátiles (wearables). Nuestra meta es proporcionar tranquilidad a las familias y eficiencia al personal médico, facilitando la toma de decisiones preventivas y mejorando la calidad de vida del paciente geriátrico.
+
+El problema surge cuando familiares y cuidadores se enfrentan a la falta de información inmediata sobre el estado de salud de los adultos mayores, especialmente ante situaciones críticas como caídas o cambios súbitos en sus signos vitales. Actualmente, las plataformas de monitoreo existentes son fragmentadas, costosas o no se adaptan al entorno geriátrico local, dificultando su implementación en clínicas, casas de reposo o entornos domésticos.
+
+Hemos observado que esta situación genera preocupación constante en los familiares, sobrecarga laboral en los cuidadores y retrasos en la atención médica preventiva, lo que deriva en una menor calidad de vida para el adulto mayor.
+La ausencia de una solución accesible, escalable y de fácil uso crea una brecha entre la necesidad de monitoreo continuo y las herramientas tecnológicas disponibles actualmente.
+
+Ante esta problemática, surge la siguiente pregunta: **¿Cómo podríamos ofrecer una solución tecnológica accesible y confiable que permita monitorear la salud y el bienestar de los adultos mayores en tiempo real, brindando tranquilidad a sus familias y eficiencia al personal médico?**
+
+**Domain:** Salud digital, cuidado geriátrico, tecnología portátil (wearables).
+
+**Customer Segments:**
+
+- Familiares de pacientes geriátrico
+- Personal médico de clínicas.
+- Personal de las casas de reposo
+
+**Pain Points:**
+
+- Incertidumbre y preocupación familiar por la salud del adulto mayor.
+- Ineficiencia en el monitoreo de múltiples pacientes en clínicas y casas de reposo.
+- Riesgo de caídas y la falta de alertas en tiempo real.
+- Falta de datos históricos para la prevención médica.
+
+**Gap:** No existe una solución en el mercado que combine un monitoreo integral de signos vitales y movilidad con una plataforma visual y escalable, adaptada tanto para el uso individual en el hogar como para la gestión institucional.
+
+**Vision/Strategy:** Ser la empresa líder en soluciones de salud digital para adultos mayores en Latinoamérica, mejorando la calidad de vida y previniendo riesgos mediante una innovación tecnológica accesible y escalable.
+
+**Initial Segment:** Familias con adultos mayores en Lima Metropolitana que tienen acceso a dispositivos móviles y buscan una forma más segura de monitorear la salud de sus seres queridos.
 
 #### 1.2.2.2. Lean UX Assumptions.
 
+Los siguientes supuestos representan las creencias iniciales sobre el modelo de negocio, el mercado y la viabilidad del producto MediTrack.
+
+**Business Assumptions**
+
+Estas Business Assumptions servirán como base para formular los Feature Assumptions e Hypothesis Statements, permitiendo validar los elementos críticos del modelo durante las iteraciones del proceso Lean UX.
+
+1. Creemos que los usuarios necesitan monitorear de forma continua la salud de los adultos mayores para reducir los riesgos médicos y la carga emocional familiar.
+
+2. Creemos que una solución digital que combine parches inteligentes con un dashboard accesible puede satisfacer esta necesidad y mejorar la prevención médica.
+
+3. Creemos que nuestros clientes iniciales serán familias y pequeñas instituciones geriátricas en Lima Metropolitana que busquen seguridad y eficiencia en el cuidado.
+
+4. Creemos que el valor más importante que buscan nuestros clientes es la **tranquilidad** de tener información en tiempo real sobre la salud de sus seres queridos.
+
+5. Creemos que nuestro modelo **Freemium + Suscripción Enterprise** nos permitirá escalar en ambos segmentos (B2C y B2B) sin depender de un único flujo de ingresos.
+
+6. Creemos que nuestra ventaja competitiva radica en integrar métricas de salud y movilidad en una sola plataforma, algo que la competencia actual no ofrece.
+
+7. Creemos que podremos reducir las llamadas de emergencia y consultas médicas presenciales al proporcionar monitoreo remoto confiable.
+
+8. Reconocemos que el mayor riesgo es la desconfianza tecnológica; lo mitigaremos con pilotos gratuitos, certificaciones médicas y testimonios de usuarios reales.
+
+9. Creemos que la relación costo–beneficio de MediTrack será más accesible que las soluciones importadas equivalentes.
+
+**User Assumptions**
+
+En esta etapa del Lean UX Process, se identificaron los principales supuestos sobre los usuarios, sus necesidades y el contexto de uso del producto. Estos Assumptions representan las creencias iniciales del equipo antes de realizar pruebas o validaciones.
+
+**¿Quién es el usuario?**
+
+- Allegados de adultos mayores: Hijos, nietos o cuidadores principales que viven con el adulto mayor o a distancia, preocupados por su salud, seguridad y bienestar.
+
+- Clínicas y casas de reposo: Personal médico, cuidadores y administradores que necesitan una herramienta para monitorear a múltiples pacientes de manera simultánea.
+
+**¿Dónde encaja nuestro producto en su vida?**
+
+- Para los allegados: Se integra en su rutina diaria como una capa de seguridad y tranquilidad.
+
+- Para las clínicas y casas de reposo: Se convierte en una herramienta central de gestión y monitoreo.
+
+**¿Qué problemas resuelve nuestro producto?**
+
+- Incertidumbre y preocupación: Las familias eliminan la ansiedad al tener datos de salud en tiempo real.
+
+- Falta de monitoreo continuo: La solución permite un seguimiento constante de signos vitales y movilidad, incluso a distancia.
+
+- Ineficiencia en la gestión: Las instituciones pueden monitorear a múltiples residentes de forma simultánea, recibiendo alertas automáticas que les permiten reaccionar rápidamente ante emergencias.
+
+- Prevención limitada: La disponibilidad de datos históricos ayuda a identificar patrones y a tomar decisiones médicas preventivas.
+
+**¿Cuándo y cómo se usa nuestro producto?**
+
+- Para el usuario B2C (familiar): La app web se usa varias veces al día para chequear el estado del adulto mayor, o al recibir una alerta. La instalación del parche es un proceso inicial y sencillo, y el monitoreo es automático.
+
+- Para el usuario B2B (institución): El dashboard se usa de forma continua en una computadora o tablet en la estación de enfermería. Se consulta para ver el estado de los pacientes, verificar alertas y generar reportes para el personal o los familiares.
+
+**¿Qué características son importantes?**
+
+- Alertas en tiempo real: Por caídas, cambios bruscos en signos vitales o anomalías en el patrón de movilidad.
+- Dashboard visual: Una interfaz clara con gráficos y un mapa de movilidad.
+- Historial de datos: La capacidad de ver métricas de salud a lo largo del tiempo.
+- Reportes descargables: Para consultas médicas o comunicación con familiares.
+
+**¿Cómo debería lucir y comportarse el producto?**
+Debe ser intuitivo, sencillo y confiable. Los colores deben ser calmados (sin alarmar al usuario con rojo o naranjas, a menos que sea una alerta crítica), con una tipografía clara y botones grandes. El comportamiento debe ser rápido y responsivo, sin retrasos en la entrega de datos, y debe inspirar confianza y seguridad en el usuario.
+
+### Feature Assumptions
+
+En esta sección se detallan los supuestos relacionados con las características funcionales del producto. Cada **Feature Assumption** busca conectar las necesidades de los usuarios con las posibles soluciones de diseño, anticipando el impacto esperado en la experiencia y el comportamiento del usuario. Estas suposiciones servirán de base para la formulación de hipótesis y posteriores validaciones durante el proceso de desarrollo del producto.
+
+
+1. Creemos que un **dashboard visual y amigable** permitirá a familiares y personal médico interpretar fácilmente la salud de los adultos mayores sin conocimientos técnicos.  
+   aumentar en un 80% la comprensión de los datos de salud reportada por los usuarios.\*
+
+2. Creemos que las **notificaciones automáticas y personalizables** mejorarán la respuesta ante emergencias.
+
+3. Creemos que un **historial de datos accesible** fomentará la prevención y seguimiento médico continuo.
+
+4. Creemos que los **reportes descargables** aumentarán la comunicación efectiva entre familiares y médicos.
+
+5. Creemos que el **monitoreo de múltiples pacientes** en un solo panel mejorará la eficiencia de las instituciones.
+
+### User Outcome Assumptions
+
+- Aumento de la conexión emocional y la tranquilidad de los familiares (debido a la fácil comprensión del estado de salud).
+
+- Mejora en la capacidad de respuesta del personal de cuidado ante emergencias.
+
+- Uso constante del historial de datos por parte de los usuarios para un monitoreo más proactivo.
+
+- Aumento del valor percibido de la plataforma entre los clientes B2B.
+
+- Mejora de la eficiencia operativa y la satisfacción del personal en instituciones de salud.
+
+### Business Outcome Assumptions
+
+- Reducción del 70% en las llamadas de consulta rutinarias 
+
+- Reducción del tiempo de respuesta a emergencias a menos de 5 minutos en el 90% de los casos
+
+- Al menos el 60% de los usuarios activos consulta el historial de datos o reportes médicos al menos una vez al mes
+
+- Al menos el 50% de los clientes B2B utilicen los reportes descargables mensualmente.
+
+- Reducción del 30% en tareas manuales de monitoreo y un aumento del 25% en la satisfacción laboral
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+
+Los **Hypothesis Statements** constituyen una evolución de los Assumptions, transformándolos en afirmaciones medibles y verificables. Cada hipótesis sigue el formato propuesto por el enfoque Lean UX, integrando el *business outcome*, el *user outcome* y la *feature* correspondiente. De esta manera, se facilita la validación empírica de las ideas y se asegura que el producto responda tanto a los objetivos del negocio como a las necesidades reales del usuario.
+
+- Hypothesis Statement 1:
+
+**Creemos que** el dashboard visual e intuitivo aumentará la conexión emocional y la tranquilidad de los familiares al permitirles comprender fácilmente el estado de salud de sus seres queridos.
+
+**Sabremos que hemos tenido éxito**
+
+**Cuando** al menos un 85% de los familiares reporten una alta sensación de tranquilidad y las llamadas de consulta rutinarias se reduzcan en un 70%.
+
+- Hypothesis Statement 2:
+
+**Creemos que** las notificaciones automáticas y personalizables sobre anomalías o caídas mejorarán la capacidad de respuesta del personal de cuidado ante emergencias.
+
+**Sabremos que hemos tenido éxito**
+
+**Cuando** logremos una reducción del tiempo de respuesta a emergencias a menos de 5 minutos en el 90% de los casos registrados.
+
+- Hypothesis Statement 3:
+
+**Creemos que** ofrecer un registro detallado de salud y movilidad fomentará el uso constante del historial de datos por parte de los usuarios para un monitoreo más proactivo.
+
+**Sabremos que hemos tenido éxito**
+
+**Cuando** al menos un 60% de los usuarios activos consulten el historial de datos o reportes médicos al menos una vez al mes.
+
+- Hypothesis Statement 4:
+
+**Creemos que** la capacidad de generar y compartir reportes digitales de manera sencilla aumentará el valor percibido de la plataforma entre los clientes B2B.
+
+**Sabremos que** hemos tenido éxito
+
+**Cuando** al menos un 50% de los clientes B2B utilicen los reportes descargables mensualmente.
+
+- Hypothesis Statement 5:
+
+**Creemos que** la visualización de múltiples pacientes en un solo dashboard centralizado mejorará la eficiencia operativa y la satisfacción del personal en instituciones de salud.
+
+**Sabremos que** hemos tenido éxito
+
+**Cuando** el personal experimente una reducción del 30% en tareas manuales de monitoreo y un aumento del 25% en su satisfacción laboral.
 
 #### 1.2.2.4. Lean UX Canvas
 
+El **Lean UX Canvas** sintetiza la información clave del proceso de descubrimiento, los Assumptions y las Hypothesis Statements. Su propósito es proporcionar una visión integral y colaborativa del proyecto, ayudando al equipo a alinear la estrategia de producto, los objetivos de negocio y las métricas de validación. Este canvas se convierte en una herramienta esencial para guiar el aprendizaje continuo y priorizar las decisiones de diseño con base en evidencia.
+
+<img src="assets/chapter1/leanuxcanvas.svg" alt="Lean UX Canvas" width="100%">
+
 ## 1.3. Segmentos objetivo
+
+En esta sección se identifican y describen los **segmentos de usuarios** hacia los cuales se dirige la solución. A partir del análisis de necesidades, motivaciones y comportamientos, se definen los perfiles clave que se beneficiarán del producto. Estos segmentos servirán de referencia para la personalización de las funcionalidades, el diseño de la experiencia de usuario y las estrategias de comunicación dentro del desarrollo de MediTrack.
+
+- **Allegados de pacientes geriátricos**
+
+**Descripción:**
+
+Son familiares o cuidadores cercanos de adultos mayores que requieren atención continua. Este segmento busca soluciones que les permitan supervisar la salud de sus seres queridos de manera remota, con alertas oportunas que reduzcan la incertidumbre y brinden tranquilidad.
+
+**Características demográficas y comportamiento:**
+
+- Generalmente hijos adultos con una edad promedio entre 30 y 59 años.
+
+- Prefieren soluciones tecnológicas fáciles de usar y accesibles desde la web.
+
+- Valoran la inmediatez de la información y la posibilidad de recibir notificaciones en tiempo real ante emergencias.
+
+- Dispuestos a invertir en herramientas que garanticen la seguridad de sus familiares mayores y reduzcan la carga emocional de los cuidados.
+
+**Sustento estadístico:**
+
+- Según la OMS (2022), más del 60% de adultos mayores en América Latina dependen del apoyo directo de familiares para su cuidado.
+
+- En Perú, el 75% de personas de más de 60 años viven con familiares (INEI, 2021), lo que hace a los allegados actores claves en la toma de decisiones sobre el cuidado.
+
+- **Personal medíco de clínicas**
+
+**Descripción:**
+
+Profesionales de la salud encargados de monitorear y dar tratamiento a adultos mayores con enfermedades crónicas o en estado de recuperación. Este segmento necesita herramientas que les permitan un seguimiento ágil y confiable, reduciendo el margen de error y mejorando la atención preventiva.
+
+**Características demográficas y comportamiento:**
+
+- Médicos, enfermeros y especialistas en geriatría, con edades entre 28 y 55 años.
+
+- Manejan información crítica y requieren plataformas con altos estándares de seguridad de datos.
+
+- Se apoyan en dashboards intuitivos para la toma de decisiones clínicas.
+
+- Valoran soluciones que optimicen el tiempo de atención, reduzcan hospitalizaciones y permitan consultas remotas.
+
+**Sustento estadístico:**
+
+- La Sociedad Peruana de Geriatría (2021) señala que un adulto mayor con enfermedades crónicas requiere en promedio 7 consultas médicas al año, lo que genera sobrecarga de seguimiento.
+
+- En Latinoamérica, el 42% del personal médico afirma que las herramientas digitales mejoran la capacidad de atención y seguimiento de pacientes crónicos (IDB, 2020)
+
+- **Personal de las casas de reposo**
+
+Cuidadores y personal administrativo de residencias geriátricas que tienen a su cargo el bienestar físico y emocional de los adultos mayores que viven en sus instalaciones. Necesitan herramientas que faciliten el monitoreo colectivo de múltiples pacientes a la vez.
+
+**Descripción:**
+
+**Características demográficas y comportamiento:**
+
+- Profesionales o técnicos en enfermería y cuidado de adultos mayores, entre 25 y 50 años.
+
+- Manejan simultáneamente la atención de 10 a 30 residentes por turno, lo que dificulta el seguimiento individualizado.
+
+- Requieren soluciones que automaticen alertas y centralicen la información de varios pacientes en un solo panel de control.
+
+- Valoran la reducción de riesgos y el respaldo tecnológico como garantía de calidad del servicio.
+
+**Sustento estadístico:**
+
+- En Perú, existen más de 1,200 casas de reposo registradas y la demanda crece un 20% anual debido al envejecimiento poblacional (Minsa, 2022).
+
+- Un estudio del Banco Mundial (2020) indica que el uso de tecnologías de monitoreo en residencias geriátricas puede reducir en un 35% los incidentes críticos no detectados en adultos mayores.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -363,8 +786,8 @@ Las preguntas se adaptaron a tres segmentos clave: familiares, profesionales mé
 - Apellidos: Coca
 - Edad: 19
 - Distrito: San Miguel
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
-- Timing:[Timming Entrevista Andres Coca](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- [Timming Entrevista Andres Coca](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
 - Inicio:(00:00)
 - Fin:(09:25)
 
@@ -390,8 +813,8 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Apellidos: Chinen Guembes
 - Edad: 21
 - Distrito: Magdalena
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19)
-- Timing:[Timming Entrevista Paolo Chinen](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19)
+- [Timming Entrevista Paolo Chinen](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19)
 - Inicio:(1:09:55)
 - Fin:(1:14:52)
 
@@ -409,22 +832,18 @@ Entre las funcionalidades más relevantes para él estarían las alertas en tiem
 
 ##### Allegado Adulto Mayor
 
-- Nombres:  Alexis
+- Nombres: Alexis
 - Apellidos: Yokota
 - Edad: 25 años
 - Distrito: Huaral
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19)
-- Timing:[Timming Entrevista Alexis Yokota](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19)
+- [Timming Entrevista Alexis Yokota](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19)
 - Inicio:(1:01:52)
 - Fin:(01:09:54)
 
-
 - ![video screenshoot](assets/chapter2/allegado-interview-3.png "Video screenshoot allegado interview 3")
 
-
-
 - Resumen:
-
 
 Alexis Yokota, de 25 años, reside en Huaral y actualmente estudia en el clínico. Su relación con el adulto mayor es la de hijo. La frecuencia con la que visita a su padre varía según su disponibilidad: puede ser semanal, dos veces al mes o incluso una vez al mes. Cuando no lo ve en persona, se comunica principalmente a través del celular usando WhatsApp, y en caso de no recibir respuesta, recurre a las llamadas telefónicas. Su navegador habitual es Safari.
 
@@ -435,6 +854,7 @@ En cuanto a situaciones de riesgo, menciona que le hubiera gustado prevenir la h
 Alexis afirma que se sentiría cómodo usando una aplicación de monitoreo de salud, pues actualmente él y su familia realizan el seguimiento mediante un chat grupal, y una herramienta especializada podría organizar mejor la información. Considera imprescindibles funciones como alertas en tiempo real ante emergencias y un sistema de reconocimiento o felicitación por el progreso del paciente.
 
 Como posibles barreras de adopción identifica la dificultad de uso, la necesidad de capacitar a cuidadores o enfermeras en la aplicación, y el costo. También menciona que sería importante que la app permita que varios familiares participen en el seguimiento. Finalmente, manifiesta disposición a pagar por una solución que le brinde tranquilidad y apoyo en el cuidado de su padre.
+
 #### Entrevistas segmento objectivo profesionales de la salud
 
 #### Entrevistas segmento objectivo profesionales de la salud
@@ -444,8 +864,8 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Nombres: Vicente Alonso
 - Apellidos: Cuba Pareja
 - Distrito: Miraflores
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19)
-- Timing:[Timming Entrevista Vicente Cuba](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19)
+- [Timming Entrevista Vicente Cuba](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19)
 - Inicio:(44:39)
 - Fin:(57:11)
   ![video screenshoot](assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
@@ -470,12 +890,13 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Nombres: Valentina
 - Apellidos: Pareja Centeno
 - Distrito: Surco
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319)
-- Timing:[Timming Entrevista Valentina Pareja](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319)
+- [Timming Entrevista Valentina Pareja](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319)
 - Inicio:(57:12)
 - Fin:(1:01:51)
 
   ![video screenshoot](assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
+
 - Resumen:
 
   La entrevistada es la doctora Valentina, médica general con experiencia en la atención de pacientes geriátricos. Señala que un número importante de adultos mayores acuden regularmente a consulta, con un promedio semanal de entre 50 y 60 pacientes. Su respuesta refleja un contacto constante con este grupo etario y un reconocimiento de las particularidades que presenta su atención.
@@ -498,8 +919,8 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Apellidos: Rivera Chipana
 - Edad: 56
 - Distrito: Pueblo Libre
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19)
-- Timing:[Timming Entrevista Alcides Rivera](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19)
+- [Timming Entrevista Alcides Rivera](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19)
 - Inicio:(1:14:53)
 - Fin:(1:29:41)
 
@@ -525,8 +946,8 @@ Sin embargo, identifica posibles obstáculos para la adopción en su clínica: e
 - Apellidos: Quispe
 - Edad: 48
 - Distrito: Madrid - España
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=IFJU7k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY2LjQ2fX0%3D)
-- Timing:[Timming Entrevista Ana Quispe](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=4u06Hj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY4LjE1fX0%3D)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=IFJU7k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY2LjQ2fX0%3D)
+- [Timming Entrevista Ana Quispe](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=4u06Hj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY4LjE1fX0%3D)
 - Inicio:(09:26)
 - Fin:(34:17)
 
@@ -550,8 +971,8 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Apellidos: Mendivil
 - Edad: 57
 - Distrito: Novara - Italia
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19)
-- Timing:[Timming Entrevista Fanny Mendivil](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19)
+- [Timming Entrevista Fanny Mendivil](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19)
 - Inicio:(34:18)
 - Fin:(44:38)
 
@@ -575,8 +996,8 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 - Apellidos: Ayala Maurtua
 - Edad: 56
 - Distrito: Pueblo Libre
-- URL: [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19)
-- Timing:[Timming Entrevista Judith Ayala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19)
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19)
+- [Timming Entrevista Judith Ayala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19)
 - Inicio:(1:24:23)
 - Fin:(1:29:41)
 
@@ -743,8 +1164,9 @@ Zona de Reportes y Analítica: Muestra la generación de documentos PDF, reporte
 
 En esta sección, se definen los términos clave utilizados en el dominio de negocio de MediTrack, una plataforma digital diseñada para facilitar el monitoreo, gestión y acompañamiento de la salud de adultos mayores en clínicas, casas de reposo y entornos familiares. Siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design, estas definiciones buscan establecer un lenguaje común, claro y coherente entre todos los involucrados en el proyecto: equipo de desarrollo, diseñadores, stakeholders y usuarios finales. Este lenguaje compartido permite alinear la visión del producto con las necesidades reales de los adultos mayores y sus cuidadores, facilitando la toma de decisiones, el diseño funcional y el desarrollo de soluciones efectivas y centradas en el usuario.
 
-- Admin
-  Usuario con permisos de gestión dentro de una clínica o casa de reposo afiliada a MediTrack. Es responsable de registrar pacientes, asignar doctores y cuidadores, supervisar el estado de salud de los adultos mayores y generar reportes institucionales.
+---
+
+### Administrador de clínica
 
 - Doctor
   Profesional de la salud registrado en MediTrack por administrador. Puede acceder a la información médica de los adultos mayores asignados, registrar diagnósticos, prescribir tratamientos y generar reportes clínicos.
@@ -756,8 +1178,7 @@ En esta sección, se definen los términos clave utilizados en el dominio de neg
 - Senior citizen
   Usuario principal de MediTrack. Representa a la persona de la tercera edad que es el centro del sistema y sobre la cual se administran todos los datos médicos y de bienestar. Puede ser portador del dispositivo IoT (para el monitoreo en tiempo real) y/o utilizar la Web Application para visualizar su información y recibir notificaciones. Su perfil es gestionado y acompañado por doctores, cuidadores y administradores dentro de la plataforma.
 
-- Report
-  Registro estructurado de información relevante en la plataforma. Puede referirse a un estado clínico, evolución médica, incidente o evaluación periódica del adulto mayor. Los reportes pueden ser generados por doctores, cuidadores o administradores.
+Profesional de la salud registrado en MediTrack por administrador. Puede acceder a la información médica de los adultos mayores asignados, registrar diagnósticos, prescribir tratamientos y generar reportes clínicos.
 
 - Alert
   Notificación inmediata generada por la plataforma ante situaciones críticas o inusuales (ejemplo: caída, anomalía en signos vitales). Su objetivo es garantizar una respuesta rápida de cuidadores y doctores según la gravedad del evento.
@@ -787,9 +1208,147 @@ En esta sección, se definen los términos clave utilizados en el dominio de neg
 
 ## 3.1. User Stories
 
+# Epica 1: Landing Page e Información Inicial
+
+| USER STORY ID | TÍTULO                              | DESCRIPCIÓN                                                                | CRITERIOS DE ACEPTACIÓN                                                                   | RELACIONADO CON (Epic ID) |
+| ------------- | ----------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------- |
+| US01          | Visualización de la Landing Page    | Como visitante, quiero acceder a la landing page para conocer la solución. | Escenario: acceso correcto o falla de carga con mensaje de error.                         | EP01                      |
+| US02          | Visualizar Problemas Actuales       | Como familiar, quiero ver los problemas actuales en el cuidado geriátrico. | Escenario: scroll muestra emergencias, monitoreo irregular, desconexión familiar.         | EP01                      |
+| US03          | Visualizar Soluciones Propuestas    | Como médico, quiero ver las soluciones tecnológicas de MediTrack.          | Escenario: se muestran detección inmediata, monitoreo continuo, conexión total.           | EP01                      |
+| US04          | Visualizar Impacto en Cifras        | Como visitante, quiero ver indicadores de impacto.                         | Escenario: métricas de emergencias (-85%), satisfacción (+95%), hospitalizaciones (-85%). | EP01                      |
+| US05          | Ver Tecnologías que Salvan Vidas    | Como enfermero, quiero conocer los sensores y dispositivos.                | Escenario: muestra conectividad, seguridad, autonomía, sensores, tiempo real.             | EP01                      |
+| US06          | Ver Nuestra Misión                  | Como familiar, quiero entender la misión de MediTrack.                     | Escenario: misión clara enfocada en mejorar calidad de vida.                              | EP01                      |
+| US07          | Ver Nuestra Visión                  | Como médico, quiero conocer la visión a futuro de MediTrack.               | Escenario: metas a 5 años y liderazgo en LATAM.                                           | EP01                      |
+| US08          | Consultar Plan Gratuito             | Como visitante, quiero ver el plan gratuito.                               | Escenario: beneficios: signos vitales, alertas, acceso web.                               | EP01                      |
+| US09          | Consultar Plan Premium              | Como allegado, quiero ver el plan premium.                                 | Escenario: informes personalizados, soporte prioritario.                                  | EP01                      |
+| US10          | Consultar Plan Enterprise           | Como médico o institución, quiero ver el plan enterprise.                  | Escenario: opción de contacto directo.                                                    | EP01                      |
+| US11          | Acceder al Formulario de Contacto   | Como visitante, quiero llenar un formulario.                               | Escenario: datos enviados generan confirmación.                                           | EP01                      |
+| US12          | Información de Contacto Alternativa | Como médico, quiero ver datos de contacto directo.                         | Escenario: se muestran teléfono, correo y dirección.                                      | EP01                      |
+
+---
+
+# Epica 2: Registro e Inicio de Sesión
+
+| USER STORY ID | TÍTULO                                   | DESCRIPCIÓN                                                         | CRITERIOS DE ACEPTACIÓN                                            | RELACIONADO CON (Epic ID) |
+| ------------- | ---------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------- |
+| US13          | Acceso al formulario de inicio de sesión | Como visitante, quiero acceder al formulario de login.              | Escenarios: acceso desde landing page o enlace directo.            | EP01                      |
+| US14          | Iniciar Sesión en MediTrack              | Como usuario registrado, quiero iniciar sesión con credenciales.    | Escenarios: éxito o error de credenciales inválidas.               | EP01                      |
+| US15          | Visualizar Planes Disponibles            | Como visitante, quiero ver los planes al no tener cuenta.           | Escenario: muestra 3 planes con nombre, características y precio.  | EP01                      |
+| US16          | Registrarse en MediTrack                 | Como nuevo usuario, quiero completar formulario de registro.        | Escenarios: éxito crea cuenta; error muestra validación de campos. | EP01                      |
+| US17          | Adaptar Dashboard según Plan             | Como usuario registrado, quiero que el dashboard se adapte al plan. | Escenarios: funcionalidades disponibles/restringidas según plan.   | EP01                      |
+
+---
+
+# Epica 3: Gestión de Clínicas
+
+| USER STORY ID | TÍTULO                                            | DESCRIPCIÓN                                                 | CRITERIOS DE ACEPTACIÓN                                                        | RELACIONADO CON (Epic ID) |
+| ------------- | ------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------- |
+| US18          | Registro de clínica                               | Como representante, quiero registrar a mi clínica.          | Escenarios: éxito, error por datos inválidos, clínica ya registrada.           | EP02                      |
+| US19          | Creación automática del rol de administrador      | Como admin, quiero recibir credenciales únicas.             | Escenarios: creación automática de usuario admin y envío por correo.           | EP02                      |
+| US20          | Acceso inicial del administrador                  | Como admin, quiero iniciar sesión con credenciales válidas. | Escenarios: éxito, credenciales inválidas, campos vacíos.                      | EP02                      |
+| US21          | Registro de adultos mayores                       | Como admin, quiero registrar adultos mayores.               | Escenarios: éxito guarda datos; error por campos incompletos.                  | EP02                      |
+| US22          | Añadir doctor                                     | Como admin, quiero registrar doctores.                      | Escenarios: éxito crea cuenta, error por correo inválido, listado de doctores. | EP02                      |
+| US23          | Ver lista de adultos mayores asignados en clínica | Como doctor, quiero ver lista de adultos mayores asignados. | Escenarios: muestra lista o mensaje si no tiene asignados.                     | EP02                      |
+| US24          | Visualizar información clínica en clínica         | Como doctor, quiero ver información clínica.                | Escenario: muestra signos vitales claros y actualizados.                       | EP02                      |
+| US25          | Recibir alertas críticas en clínica               | Como doctor, quiero recibir alertas de cambios críticos.    | Escenario: alerta en tiempo real al detectar anomalía.                         | EP02                      |
+| US37          | Añadir adulto mayor en clínica                    | Como admin, quiero añadir adulto mayor con datos.           | Escenarios: éxito o error por campos incompletos.                              | EP02                      |
+| US38          | Añadir doctor en clínica                          | Como admin, quiero agregar doctor para asignar paciente.    | Escenario: selección de doctor para asignar adulto mayor.                      | EP02                      |
+| US39          | Asignar adulto mayor a un doctor                  | Como admin, quiero asignar adulto mayor a un doctor.        | Escenario: selección desde lista de adultos mayores.                           | EP02                      |
+
+---
+
+# Epica 4: Gestión de Casas de Reposo
+
+| USER STORY ID | TÍTULO                                                   | DESCRIPCIÓN                                                      | CRITERIOS DE ACEPTACIÓN                                                          | RELACIONADO CON (Epic ID) |
+| ------------- | -------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------- |
+| US32          | Recibir alertas críticas en casa de reposo               | Como cuidador, quiero recibir alertas críticas.                  | Escenario: notificación en tiempo real y opciones de contacto.                   | EP03                      |
+| US33          | Visualizar información clínica en casa de reposo         | Como cuidador, quiero visualizar información clínica básica.     | Escenario: muestra historial clínico y alertas.                                  | EP03                      |
+| US34          | Ver lista de adultos mayores asignados en casa de reposo | Como admin, quiero ver la lista de adultos mayores bajo cuidado. | Escenarios: muestra lista o mensaje si no hay asignados.                         | EP03                      |
+| US40          | Añadir adulto mayor en casa de reposo                    | Como admin, quiero añadir adulto mayor con datos.                | Escenarios: éxito o error por campos incompletos.                                | EP03                      |
+| US41          | Añadir cuidador en casa de reposo                        | Como admin, quiero añadir un cuidador.                           | Escenario: selección del cuidador para asignar adulto mayor.                     | EP03                      |
+| US42          | Asignar adulto mayor a un cuidador                       | Como admin, quiero asignar adulto mayor a un cuidador.           | Escenario: lista de adultos mayores para asignar.                                | EP03                      |
+| US43          | Añadir cuidador                                          | Como admin, quiero registrar cuidadores.                         | Escenarios: éxito crea cuenta, error por correo inválido, listado de cuidadores. | EP03                      |
+
+---
+
+# Epica 5: Dashboard del Usuario (Allegados/Familiares)
+
+| USER STORY ID | TÍTULO                            | DESCRIPCIÓN                                                  | CRITERIOS DE ACEPTACIÓN                                      | RELACIONADO CON (Epic ID) |
+| ------------- | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- |
+| US26          | Acceso al dashboard               | Como allegado, quiero acceder al dashboard.                  | Escenario: login correcto muestra dashboard.                 | EP04                      |
+| US27          | Visualizar signos vitales básicos | Como usuario no premium, quiero ver signos vitales básicos.  | Escenario: muestra presión, ritmo, saturación.               | EP04                      |
+| US28          | Visualizar signos vitales premium | Como allegado, quiero ver datos extra como temperatura.      | Escenario: muestra presión, ritmo, saturación y temperatura. | EP04                      |
+| US29          | Recibir alertas de caídas         | Como familiar, quiero recibir alertas de caídas.             | Escenario: notificación inmediata por caída.                 | EP04                      |
+| US30          | Recibir alertas de salud          | Como usuario, quiero recibir alertas de cambios importantes. | Escenario: dashboard muestra notificación del evento.        | EP04                      |
+| US31          | Acceso a soporte                  | Como usuario, quiero acceder a soporte desde dashboard.      | Escenario: opción soporte abre formulario o chat.            | EP04                      |
+| US35          | Selección de idioma               | Como usuario, quiero cambiar el idioma.                      | Escenarios: cambio a inglés o español actualiza interfaz.    | EP05                      |
+| US36          | Consultar la hora exacta          | Como usuario, quiero ver la hora actualizada de mi zona.     | Escenario: hora local mostrada con API.                      | EP05                      |
+
+---
+
 ## 3.2. Impact Mapping
 
-## 3.4. Product Backlog
+Impact Mapping es una técnica visual que facilita la definición clara de los objetivos que queremos alcanzar y cómo estos se relacionan con nuestros usuarios. Esta herramienta nos permite mantener el enfoque y orientar nuestros esfuerzos hacia el cumplimiento del objetivo principal. Al finalizar el mapa, se identifican las funcionalidades y acciones necesarias para desarrollar el proyecto de forma eficiente.
+
+Impact Map para el segmento de Personal casas de reposo:
+
+![impact map ](assets/chapter3/impact-map-casa.png "Impact Mapping cuidadores")
+
+Impact Map para el segmento de Doctores de clínicas:
+
+![impact map ](assets/chapter3/impact-map-doctor.png "Impact Mapping doctores")
+
+Impact Map para el segmento de Familiares:
+
+![impact map ](assets/chapter3/impact-map-allegado.png "Impact Mapping familiares")
+
+## 3.3. Product Backlog
+
+| Nº  | User Story ID | Título                                    | Descripción                                                                | Story Points | Epic ID |
+| --- | ------------- | ----------------------------------------- | -------------------------------------------------------------------------- | ------------ | ------- |
+| 1   | US16          | Registrarse en MediTrack                  | Como nuevo usuario, quiero completar formulario de registro.               | 5            | EP01    |
+| 2   | US14          | Iniciar Sesión en MediTrack               | Como usuario registrado, quiero iniciar sesión con credenciales.           | 3            | EP01    |
+| 3   | US17          | Adaptar Dashboard según Plan              | Como usuario registrado, quiero que el dashboard se adapte al plan.        | 5            | EP01    |
+| 4   | US18          | Registro de clínica                       | Como representante, quiero registrar a mi clínica.                         | 5            | EP02    |
+| 5   | US19          | Creación automática del rol de admin      | Como admin, quiero recibir credenciales únicas.                            | 3            | EP02    |
+| 6   | US20          | Acceso inicial del administrador          | Como admin, quiero iniciar sesión con credenciales válidas.                | 3            | EP02    |
+| 7   | US37          | Añadir adulto mayor en clínica            | Como admin, quiero añadir adulto mayor con datos.                          | 3            | EP02    |
+| 8   | US38          | Añadir doctor en clínica                  | Como admin, quiero agregar doctor para asignar paciente.                   | 3            | EP02    |
+| 9   | US39          | Asignar adulto mayor a un doctor          | Como admin, quiero asignar adulto mayor a un doctor.                       | 3            | EP02    |
+| 10  | US21          | Registro de adultos mayores               | Como admin, quiero registrar adultos mayores.                              | 3            | EP02    |
+| 11  | US22          | Añadir doctor                             | Como admin, quiero registrar doctores.                                     | 3            | EP02    |
+| 12  | US25          | Recibir alertas críticas en clínica       | Como doctor, quiero recibir alertas de cambios críticos.                   | 5            | EP02    |
+| 13  | US24          | Visualizar información clínica en clínica | Como doctor, quiero ver información clínica.                               | 3            | EP02    |
+| 14  | US23          | Ver lista de adultos mayores asignados    | Como doctor, quiero ver lista de adultos mayores asignados.                | 2            | EP02    |
+| 15  | US40          | Añadir adulto mayor en casa de reposo     | Como admin, quiero añadir adulto mayor con datos.                          | 3            | EP03    |
+| 16  | US43          | Añadir cuidador                           | Como admin, quiero registrar cuidadores.                                   | 3            | EP03    |
+| 17  | US41          | Añadir cuidador en casa de reposo         | Como admin, quiero añadir un cuidador.                                     | 3            | EP03    |
+| 18  | US42          | Asignar adulto mayor a un cuidador        | Como admin, quiero asignar adulto mayor a un cuidador.                     | 3            | EP03    |
+| 19  | US32          | Recibir alertas críticas en casa reposo   | Como cuidador, quiero recibir alertas críticas.                            | 5            | EP03    |
+| 20  | US33          | Visualizar información clínica en reposo  | Como cuidador, quiero visualizar información clínica básica.               | 3            | EP03    |
+| 21  | US34          | Ver lista de adultos mayores en reposo    | Como admin, quiero ver la lista de adultos mayores bajo cuidado.           | 2            | EP03    |
+| 22  | US26          | Acceso al dashboard                       | Como allegado, quiero acceder al dashboard.                                | 2            | EP04    |
+| 23  | US29          | Recibir alertas de caídas                 | Como familiar, quiero recibir alertas de caídas.                           | 5            | EP04    |
+| 24  | US30          | Recibir alertas de salud                  | Como usuario, quiero recibir alertas de cambios importantes.               | 5            | EP04    |
+| 25  | US28          | Visualizar signos vitales premium         | Como allegado, quiero ver datos extra como temperatura.                    | 5            | EP04    |
+| 26  | US27          | Visualizar signos vitales básicos         | Como usuario no premium, quiero ver signos vitales básicos.                | 3            | EP04    |
+| 27  | US31          | Acceso a soporte                          | Como usuario, quiero acceder a soporte desde dashboard.                    | 2            | EP04    |
+| 28  | US01          | Visualización de la Landing Page          | Como visitante, quiero acceder a la landing page para conocer la solución. | 2            | EP01    |
+| 29  | US15          | Visualizar Planes Disponibles             | Como visitante, quiero ver los planes al no tener cuenta.                  | 2            | EP01    |
+| 30  | US13          | Acceso al formulario de inicio de sesión  | Como visitante, quiero acceder al formulario de login.                     | 1            | EP01    |
+| 31  | US11          | Acceder al Formulario de Contacto         | Como visitante, quiero llenar un formulario.                               | 3            | EP01    |
+| 32  | US12          | Información de Contacto Alternativa       | Como médico, quiero ver datos de contacto directo.                         | 1            | EP01    |
+| 33  | US08          | Consultar Plan Gratuito                   | Como visitante, quiero ver el plan gratuito.                               | 2            | EP01    |
+| 34  | US09          | Consultar Plan Premium                    | Como allegado, quiero ver el plan premium.                                 | 2            | EP01    |
+| 35  | US10          | Consultar Plan Enterprise                 | Como médico o institución, quiero ver el plan enterprise.                  | 2            | EP01    |
+| 36  | US02          | Visualizar Problemas Actuales             | Como familiar, quiero ver los problemas actuales en el cuidado geriátrico. | 1            | EP01    |
+| 37  | US03          | Visualizar Soluciones Propuestas          | Como médico, quiero ver las soluciones tecnológicas de MediTrack.          | 1            | EP01    |
+| 38  | US04          | Visualizar Impacto en Cifras              | Como visitante, quiero ver indicadores de impacto.                         | 1            | EP01    |
+| 39  | US05          | Ver Tecnologías que Salvan Vidas          | Como enfermero, quiero conocer los sensores y dispositivos.                | 1            | EP01    |
+| 40  | US06          | Ver Nuestra Misión                        | Como familiar, quiero entender la misión de MediTrack.                     | 1            | EP01    |
+| 41  | US07          | Ver Nuestra Visión                        | Como médico, quiero conocer la visión a futuro de MediTrack.               | 1            | EP01    |
+| 42  | US35          | Selección de idioma                       | Como usuario, quiero cambiar el idioma.                                    | 3            | EP05    |
+| 43  | US36          | Consultar la hora exacta                  | Como usuario, quiero ver la hora actualizada de mi zona.                   | 2            | EP05    |
 
 # Capítulo IV: Product Design
 
@@ -797,53 +1356,966 @@ En esta sección, se definen los términos clave utilizados en el dominio de neg
 
 ### 4.1.1. General Style Guidelines
 
+Una guía de estilo o style guideline es un compendio de normas y recomendaciones
+que definen cómo deben redactarse, diseñarse o presentarse documentos, contenidos
+web, software u otras producciones creativas. A continuación, se detallan las
+especificaciones correspondientes a los parámetros aplicados en la estructura del
+proyecto:
+
+**Branding:**
+
+**Brand Overview:**
+
+AlpacaFlow se enfoca en desarrollar una solucion tecnologica orientada al sector de salud
+para el cuidado de pacientes geriatricos mediante Meditrack. Por lo que implementa una plataforma encargada
+de administrar el cuidado mediante agentes de diferente contexto. Como allegados al paciente, personal
+de casas de reposo y personal medico de clinicas. Asimismo favorece a la gestion y calidad
+de cuidado del paciente, como alerta inmediata, dashboard intuitivo para la administracion y vigilancia
+del estado del paciente.
+
+**Mision:** Desarrollar herramientas digitales accesibles y efectivas que permitan a pacientes,
+familias e instituciones de salud monitorear y gestionar la salud de los adultos mayores en tiempo real,
+brindando seguridad, confianza y eficiencia.
+
+**Vision:** En los próximos 5 años, consolidar a AlpacaFlow como una la empresa líder en soluciones
+de salud digital en Latinoamérica, siendo reconocidos por nuestra capacidad de mejorar la calidad de
+vida y prevenir riesgos mediante el uso de innovación tecnológica accesible y escalable.
+
+**Brand Name:**
+
+El nombre de la propuesta de la solucion es Meditrack. Enfocada en el sector de salud y dispositivos tecnologicos
+para dar sentido a una plataforma que emplea dispositivos IoT para maximizar la intervencion de la tecnologica en la salud.
+
+<img src="assets/chapter4/LogoMeditrack.jpeg" alt="logo-meditrack" style="width:300px; height:auto;"/>
+
+**Colores:**
+
+Los colores transmiten la presencia inicial hacia los usuarios. Mostrando indicios de la aplicacion
+adecuada de la paleta de colores qe pueden generar un impacto. El rojo demuestra la urgencia, cuidado y salud medica
+para evidenciar el monitorio constante, el negro aporta seriedad y confianza tecnologica. El azul es empleado
+como la calma, tecnologica confiable y garantiza seguridad. El blanco complementa al rojo como signo de limpieza, claridad
+y simplicidad.
+
+<img src="assets/chapter4/Colors.png" alt="logo-colors" style="width:300px; height:auto;"/>
+
+**Tipografia**
+
+La tipografía define la jerarquía visual entre los distintos grupos de contenido de la página y desempeña un papel
+clave en la orientación del usuario dentro de la interfaz. Para este proyecto se eligió la familia tipográfica
+“Montserrat”, en estilos Medium y Normal, con el fin de asegurar una lectura clara y fluida. Asimismo, se implementa
+una estructura jerárquica en cuatro niveles para organizar los elementos del modelado web (body y heading):
+
+- Heading 01: Presenta un tamaño de 52px.
+- Heading 02: Presenta un tamaño de 36px.
+- Heading 03: Presenta un tamaño de 24px.
+- Heading 04: Presenta un tamaño de 18px.
+
 ### 4.1.2. Web Style Guidelines
+
+MediTrack emplea un enfoque serio y confiable, con un estilo que busca balancear datos tecnicos complejos con una
+experiencia visualmente amigable.
+
+**Tarjetas y visualizaciones:**
+
+Se emplea componentes "cards" para presentar elementos que el usuario pueda visualizar como prioridad y de manera organizada
+para que pueda tener una adecuada visualizacion.
+
+**Botones:**
+
+Se utilizan los botones segun la utilidad requerida, teniendo botones redondeados para permitir acciones como continuar
+o respuesta a propuestas de la plataforma, permiten al usuario acceder a funcionalidades importantes.
+Los botones cuentan con un estilo que permite al usuario conocer su utilidad sin realizar acciones innecesarias, asi como
+un contraste que permita identificarlos facilmente.
+
+**Tablas:**
+
+Las tablas muestran el contraste y organizacion adecuado para que no agoten la vision del usuario, asi como la ubicacion
+para instanciar registros. Las tablas presentadas permiten acciones pertinentes para cumplir eficientemente su funcionalidad.
+
+**Pantallas emergentes:**
+
+Pop-ups propios (no de navegador) para confirmación de acciones importantes. Como confirmaciones o rechazos ante acciones
+que el usuario pueda tomar la decision. Permiten mostrar el mensaje principal de manera pertinente con un diseño que se diferencie
+de la pantalla y muestre su relevancia.
 
 ## 4.2. Information Architecture
 
+Meditrack busca optimizar adecuadamente sus procesos y flujos funcionales, ya que es juega un rol importante en el nucleo del
+negocio, ya que el usuario debe estar consciente del espacio donde se encuentra, lo que evita malas experiencias y orientan
+su estancia en la aplicacion, por lo que los procesos donde se vea involucrado deben tener un adecuado orden. Mediante el panel de control
+el usuario puede acceder a las funcionalidades de forma facil y centrada, asimismo los elementos encontrados orientan sobre el estado
+del sistema.
+
 ### 4.2.1. Organization Systems
+
+La organizacion visual de contenido se ha diseñada teniendo en cuenta las distintas funcionalidades que se tiene para
+cubrir el proceso de cuidado a pacientes geriatricos. A lo largo de la plataforma, se utilizan diferentes tipos de organizacion
+visual para facilitar el acceso, comprension y uso eficiente de las herramientas disponibles.
+
+**Organizacion Jeraraquica**
+
+La estructura presentada en la Landing Page y paneles de administracion. En estos espacios, se presenta la informacion de manera descendente
+segun su relevancia, emepezando por el valor de la aplicacion, presentacion de solucion, productos y planes disponibles.
+
+**Organizacion Secuencial**
+
+En procesos como registro de usuario o de pacientes, se cuenta con la presentacion secuencial de paneles que revelan de manera
+concreta el mensaje principal, dando la opcion de regreso para evitar malas experiencias y tenga facilidad de uso.
+
+**Organizacion Matricial**
+
+Los elementos presentados como el dashboard utiliza una organizacion matricial que permite al usuario tener una vista general del estado
+de su operacion, asi como uso de elementos interactivos que dan valor a su permanencia en el sistema.
 
 ### 4.2.2. Labeling Systems
 
+1. **Navegación Principal (Navbar)**
+
+| Clave JS       | Etiqueta Simplificada |
+| -------------- | --------------------- |
+| `nav-home`     | Inicio                |
+| `nav-services` | Servicios             |
+| `nav-about`    | Nosotros              |
+| `nav-plans`    | Planes                |
+| `nav-contact`  | Contacto              |
+
+2. **Sección Hero**
+
+| Clave JS               | Etiqueta Simplificada |
+| ---------------------- | --------------------- |
+| `hero-title`           | Título principal      |
+| `hero-description`     | Descripción destacada |
+| `hero-discover-button` | Botón: Descubrir      |
+| `hero-plans-button`    | Botón: Ver planes     |
+
+3.  **Servicios - Parte 1: Problemas y Soluciones**
+
+| Clave JS                              | Etiqueta Simplificada        |
+| ------------------------------------- | ---------------------------- |
+| `services-title`                      | Título de sección            |
+| `services-description`                | Introducción a los servicios |
+| `services-problems-title`             | Título: Problemas actuales   |
+| `services-problems-description`       | Descripción de los problemas |
+| `services-problem-[1-3]-title`        | Problema N (título)          |
+| `services-problem-[1-3]-description`  | Problema N (descripción)     |
+| `services-solution-title`             | Título: Nuestra solución     |
+| `services-solution-description`       | Descripción de la solución   |
+| `services-solution-[1-3]-title`       | Solución N (título)          |
+| `services-solution-[1-3]-description` | Solución N (descripción)     |
+
+4.  **Sección de Impacto**
+
+| Clave JS            | Etiqueta Simplificada |
+| ------------------- | --------------------- |
+| `impact-title`      | Título de impacto     |
+| `impact-[1-4]-text` | Métrica/Beneficio N   |
+
+5.  **Servicios - Parte 2: Tecnología**
+
+| Clave JS                                   | Etiqueta Simplificada      |
+| ------------------------------------------ | -------------------------- |
+| `services-part2-tag`                       | Etiqueta destacada         |
+| `services-part2-title`                     | Título de sección          |
+| `services-part2-description`               | Descripción tecnológica    |
+| `services-part2-feature-title`             | Título: Características    |
+| `services-part2-feature-description`       | Descripción general        |
+| `services-part2-feature-[1-6]-title`       | Característica N (título)  |
+| `services-part2-feature-[1-6]-description` | Característica N (detalle) |
+
+6.  **Misión y Visión**
+
+| Clave JS                     | Etiqueta Simplificada |
+| ---------------------------- | --------------------- |
+| `mission-vision-tag`         | Etiqueta filosófica   |
+| `mission-vision-title`       | Título principal      |
+| `mission-vision-description` | Descripción general   |
+| `mission-title`              | Título misión         |
+| `mission-description`        | Descripción misión    |
+| `vision-title`               | Título visión         |
+| `vision-description`         | Descripción visión    |
+
+7.  **Planes de Servicio**
+
+| Clave JS                   | Etiqueta Simplificada     |
+| -------------------------- | ------------------------- |
+| `plans-title`              | Título de sección         |
+| `plan-[1-3]-title`         | Plan N (nombre)           |
+| `plan-[1-3]-price`         | Plan N (precio)           |
+| `plan-[1-3]-recommended`   | Plan N (destacado)        |
+| `plan-[1-3]-feature-[1-5]` | Plan N - Característica M |
+| `plan-[1-3]-button`        | Plan N - Botón CTA        |
+
+8.  **Contacto**
+
+| Clave JS                       | Etiqueta Simplificada |
+| ------------------------------ | --------------------- |
+| `contact-title`                | Título de sección     |
+| `contact-description`          | Descripción breve     |
+| `contact-name-placeholder`     | Campo: Nombre         |
+| `contact-email-placeholder`    | Campo: Correo         |
+| `contact-phone-placeholder`    | Campo: Teléfono       |
+| `contact-interest-placeholder` | Campo: Interés        |
+| `contact-send-button`          | Botón: Enviar         |
+
+9. **Footer (Pie de página)**
+
+| Clave JS                | Etiqueta Simplificada        |
+| ----------------------- | ---------------------------- |
+| `footer-brand-name`     | Nombre de marca              |
+| `footer-brand-platform` | Nombre de la plataforma      |
+| `footer-description`    | Descripción de empresa       |
+| `footer-email`          | Correo de contacto           |
+| `footer-phone`          | Teléfono                     |
+| `footer-location`       | Ubicación                    |
+| `footer-company-title`  | Sección: Empresa             |
+| `footer-about-us`       | Enlace: Sobre nosotros       |
+| `footer-contact`        | Enlace: Contacto             |
+| `footer-product-title`  | Sección: Producto            |
+| `footer-meditrack`      | Enlace: Meditrack            |
+| `footer-features`       | Enlace: Características      |
+| `footer-pricing`        | Enlace: Precios              |
+| `footer-legal-title`    | Sección: Legal               |
+| `footer-privacy`        | Enlace: Privacidad           |
+| `footer-terms`          | Enlace: Términos de Servicio |
+| `footer-cookies`        | Enlace: Cookies              |
+| `footer-security`       | Enlace: Seguridad            |
+| `footer-copyright-part` |                              |
+| `[1-2]`                 | Aviso legal                  |
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Título:**
+Es una de las etiquetas más relevantes y suele colocarse antes de cualquier otra metaetiqueta. Los motores de búsqueda
+la utilizan como encabezado en las páginas de resultados (SERP).
+
+`<title>Meditrack - Tecnologia confiable para el cuidado de pacientes geriatricos</title>`
+
+**Codificación de caracteres:**
+
+Permite que los caracteres especiales se representen correctamente en la página web.
+
+`<meta charset="utf-8">`
+
+**Descripción:**
+
+Proporciona un resumen breve del contenido del sitio, ofreciendo a los usuarios una idea clara de lo que encontrarán al
+acceder a la página.
+
+`<meta name="description" content="MediTrack is a web application focused on the care of geriatric patients"/>`
+
+**Palabras clave:**
+
+Incluye los términos relacionados con la temática o el contenido principal de la página, facilitando su indexación en
+los motores de búsqueda.
+
+`<meta name="keywords" content="process, management, application, records, mushroom, analysis,
+careful"/>`
+
+**Autor y Derechos de Autor:**
+
+Se emplea para registrar los datos del creador del sitio, así como la información referente a la propiedad intelectual y
+derechos de autor.
+
+`<meta name="author" content="Meditrack"/>`
+
+`<meta name="copyright" content="Copyright AlpacaFlow team" />`
 
 ### 4.2.4. Searching Systems
 
+Los sistemas de busqueda de Meditrack estan diseñados para que el usuario pueda encontrar informacion especifica de manera
+agil, incluso dentro de grandes volumenes de datos historicos.
+
+- Busqueda por texto: Pacientes, historial, datos.
+- Filtros combinables: Variables, situaciones, fecha.
+- Resultados con etiquetas para poder ordenar.
+
 ### 4.2.5. Navigation Systems
+
+Los sistemas de navegación de MediTrack permiten al usuario recorrer los diferentes módulos y procesos de forma
+estructurada, intuitiva y adaptativa al dispositivo utilizado.
+
+- Menú lateral fijo (web desktop): Accesos a los principales módulos.
+- Menú hamburguesa (responsive): Versión simplificada para móviles.
+- Barra superior contextual: Con accesos rápidos a perfil, notificaciones, ayuda.
+- Flujo secuencial: Registro paso a paso.
+- Breadcrumbs: En vistas de detalle, para mantener contexto.
+- Call To Action claros: “Registrar cambios”, “Crear analisis”, “Ver historial”.
 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
 
+**Landing Page para Desktop Web Browser**
+
+Se presenta la landing page en el desktop web browser. Incluye secciones relevantes para la presencia del usuario, como
+mostrar informacion precisa sobre la solucion presentada, ademas de presentar el producto de la manera mas cercana a la
+plataforma web, mediante secciones como mision-vision, about the product y planes.
+
+<img src="assets/chapter4/Landing-wireframe1.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe2.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe3.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe4.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe5.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+
+**Landing Page para Mobile Web Browser**
+
+Se presenta la landing page en la visa del mobile web browser. Se incluye los contenidos mostrados en la landing page para
+desktop, pero considerando el diseño responsibe para mantener el aspecto visual.
+
+<img src="assets/chapter4/Landing-mobile-wireframe1.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-wireframe2.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-wireframe3.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+
 ### 4.3.2. Landing Page Mock-up
+
+**Landing page en español**
+
+#### Landing Page para Desktop Web Browser
+
+El wireframe de la versión desktop en navegador web de la landing page fue útil para estructurar la disposición de los
+elementos. Con base en este esquema, se desarrolló el mock-up de la landing page, que incluye los mismos contenidos
+descritos previamente. En la imagen siguiente se observa la aplicación de la paleta de colores primarios y secundarios,
+así como la tipografía previamente establecida.
+
+<img src="assets/chapter4/Landing-mockup1.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup2.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup3.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+
+#### Landing Page para Mobile Web Browser
+
+De igual manera, el mock-up de la landing page en vista mobile web browser incorpora los mismos elementos señalados
+previamente. Se aprecia que la tipografía seleccionada y el contraste de colores entre el texto y el fondo favorecen la
+legibilidad de la información en ambos dispositivos.
+
+<img src="assets/chapter4/Landing-mockup-mobile1.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile2.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile3.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile4.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile5.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile6.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+
+### Landing page en inglés
+
+#### Landing Page para Desktop Web Browser
+
+Con el fin de mejorar la accesibilidad de la información, el equipo consideró importante incorporar la opción de cambio
+de idioma en la landing page. Por esta razón, se muestran evidencias gráficas de la versión en español e inglés en la
+vista desktop web browser.
+
+<img src="assets/chapter4/Landing-English1.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English2.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English3.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English4.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English5.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+#### Landing Page para Mobile Web Browser
+
+Se incorpora el lenguaje ingles en la landing page para mobile.
+
+<img src="assets/chapter4/Landing-mobile-English1.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English2.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English3.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English4.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English5.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English6.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
+Enlace para acceder al [Figma](https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1)
+
+**Web Application para Desktop Web Browser**
+
+Los siguientes Wireframes fueron para ser base a los muck-ups proximos a presentar.
+
+- Selección de Usuario
+
+Permite a nuestros usuarios escoger a que tipo de inicio de sesión accederán, para que posteriormente ingresen sus credenciales
+
+![Seleccionar Usuario](./assets/chapter4/wireframe-1.png)
+
+- Inicio de Sesión
+
+Permite al usuario iniciar sesión a través de sus credenciales.
+
+![Inicio de Sesión](./assets/chapter4/wireframe-2.png)
+
+- Escoger un plan
+
+Permite a un nuevo usuario escoger un plan previo al registro.
+
+![Escoger plan](./assets/chapter4/wireframe-3.png)
+
+- Registro
+
+Permite a un nuevo usuario o entidad regitrarse a la plataforma adjuntando sus datos.
+
+Registro allegado con el plan freemium:
+
+![Registro nuevo usuario freemium](./assets/chapter4/wireframe-4.png)
+
+Registro allegado con el plan premium:
+
+![Registro nuevo usuario premium](./assets/chapter4/wireframe-6.png)
+
+Registro de una entidad:
+
+![Registro de una entidad](./assets/chapter4/wireframe-7.png)
+
+- Registro de Adulto Mayor
+
+Posterior al registro del allegado se permite registrar al adulto mayor
+
+![Registro de un adulto mayor](./assets/chapter4/wireframe-5.png)
+
+- Dashboard Allegado Freemium y Premium
+
+Luego del registro del paciente, el allegado podrá visualizar el dashboard dependiendo del plan que elegido con anterioridad.
+
+Dashboard Freemium
+
+Perfil Adulto Mayor
+
+![Perfil freemium](./assets/chapter4/wireframe-8.png)
+
+Estadísticas
+
+![Estadísticas freemium](./assets/chapter4/wireframe-9.png)
+
+Alertas
+
+![Alertas freemium](./assets/chapter4/wireframe-10.png)
+
+Dashboard Premium
+
+Perfil Adulto Mayor
+
+![Perfil premium](assets/chapter4/w-premium-1.png)
+
+Estadísticas
+
+![Estadísticas premium](./assets/chapter4/w-premium-2.png)
+
+Alertas
+
+![Alertas premium](./assets/chapter4/w-premium-3.png)
+
+Soporte
+
+![Soporte premium](./assets/chapter4/wireframe-14.png)
+
+- Dashboard Personal de Clínica - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una clínica ejecutará acciones con el fin de administrar a los doctores y los adultos mayores a quienes asignará un doctor encargado
+
+Dashboard del administrador sin doctores
+
+![Dashboard del administrador sin doctores](./assets/chapter4/w-15.png)
+
+Formulario para agregar a un doctor
+
+![Formulario para agregar a un doctor](./assets/chapter4/w-16.png)
+
+Doctor visible en el dashboard
+
+![Doctor visible en el dashboard](./assets/chapter4/w-17.png)
+
+Asignació de un adulto mayor para el doctor
+
+![Asignació de un adulto mayor para el doctor](./assets/chapter4/w-18.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/w-19.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/w-20.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/w-21.png)
+
+- Dashboard Personal de Clínica - Doctor
+
+Se visualiza el dashboard donde el doctor registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud y dar chequeos.
+
+![Formulario de soporte](./assets/chapter4/w-22.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-23.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-24.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-25.png)
+
+- Dashboard Personal de Casas de Reposo - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una casa de reposo ejecutará acciones con el fin de administrar a los cuidadores y los adultos mayores a quienes asignará un doctor encargado.
+
+Dashboard del administrador sin cuidadores
+
+![Dashboard del administrador sin cuidadores](./assets/chapter4/w-26.png)
+
+Formulario para agregar a un cuidador
+
+![Formulario para agregar a un cuidador](./assets/chapter4/w-27.png)
+
+Cuidador visible en el dashboard
+
+![Cuidador visible en el dashboard](./assets/chapter4/w-28.png)
+
+Asignació de un adulto mayor para el cuidador
+
+![Asignació de un adulto mayor para el cuidador](./assets/chapter4/w-29.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/w-30.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/w-31.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/w-32.png)
+
+- Dashboard Personal de Casas de Reposo - Cuidador
+
+Se visualiza el dashboard donde el cuidador registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud.
+
+![Formulario de soporte](./assets/chapter4/w-33.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-34.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-35.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-36.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+[Ver proyecto en lucidchart](https://lucid.app/lucidspark/b1c3fed1-0457-43fd-996b-a2e5f89d3dcd/edit?invitationId=inv_02b8548c-fef4-4095-b7f5-c52e0eec7ce6)
+https://lucid.app/lucidspark/b1c3fed1-0457-43fd-996b-a2e5f89d3dcd/edit?invitationId=inv_02b8548c-fef4-4095-b7f5-c52e0eec7ce6
+
+#### User Goal: Registro Usuario
+
+User persona: Allegados
+Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
+preferencia y se registra en la plataforma.
+
+<img src="assets/chapter4/WF-1.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro Clinica o Casa de Reposo
+
+User persona: Clinica y Casa de reposo
+Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
+con la platforma e ingresa sus credenciales para poder identificarse como administrador.
+
+<img src="assets/chapter4/WF-2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de paciente como allegado
+
+User persona: Allegado
+Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
+de allegado
+
+<img src="assets/chapter4/WF-3.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de medicos
+
+User persona: Clinica
+Explicacion de flujo: El administrador de la clinica inicia sesion, agrega un medico mediante un formulario y verifica
+que el registro haya sido exitoso.
+
+<img src="assets/chapter4/WF-4.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar un paciente a un medico
+
+User persona: Clinica
+Explicacion de flujo: Se asigna un paciente a un medico registrado, mediante un formulario para completar los datos
+personales y verificar si se asigno correctamente.
+
+<img src="assets/chapter4/WF-5.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de signos vitales
+
+User persona: Clinica
+Explicacion de flujo: Se selecciona a un paciente geriatrico para ver su historial de estado para el registro de salud,
+ademas de contar con un analisis estadistico sobre el estado actual.
+
+<img src="assets/chapter4/WF-6.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+#### User Goal: Registro de cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se ingresa a la plataforma y se selecciona en agregar cuidador, se completa un formulario con informacion
+personal del cuidador y se confirma el registro correcto.
+
+<img src="assets/chapter4/WF-7.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar paciente a cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona al cuidador objetivo y se selecciona en agregar paciente,
+
+<img src="assets/chapter4/WF-9.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de estado de paciente geriatrico
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona a un paciente y se verifica el historial de notificacion, ademas se puede acceder a
+un analisis estadistico en tiempo real para controlar los signos vitales.
+
+<img src="assets/chapter4/WF-8.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
+Los siguientes Muck-ups fueron elaborados a base de los wireframes presentados con anteoridad. Representan con fidelidad lo que nuestros usuarios van a visualizar en nuestra aplicación web.
+
+- Selección de Usuario
+
+Permite a nuestros usuarios escoger a que tipo de inicio de sesión accederán, para que posteriormente ingresen sus credenciales
+
+![Seleccionar Usuario](./assets/chapter4/seleccionar-segmento.png)
+
+- Inicio de Sesión
+
+Permite al usuario iniciar sesión a través de sus credenciales.
+
+![Inicio de Sesión](./assets/chapter4/login.png)
+
+- Escoger un plan
+
+Permite a un nuevo usuario escoger un plan previo al registro.
+
+![Escoger plan](./assets/chapter4/seleccionar-plan.png)
+
+- Registro
+
+Permite a un nuevo usuario o entidad regitrarse a la plataforma adjuntando sus datos.
+
+Registro allegado con el plan freemium:
+
+![Registro nuevo usuario freemium](./assets/chapter4/crear-cuenta-free.png)
+
+Registro allegado con el plan premium:
+
+![Registro nuevo usuario premium](./assets/chapter4/crear-cuenta-free.png)
+
+Registro de una entidad:
+
+![Registro de una entidad](./assets/chapter4/crear-cuenta-enterprise.png)
+
+- Registro de Adulto Mayor
+
+Posterior al registro del allegado se permite registrar al adulto mayor
+
+![Registro de un adulto mayor](./assets/chapter4/agregar-adulto-allegado.png)
+
+- Dashboard Allegado Freemium y Premium
+
+Luego del registro del paciente, el allegado podrá visualizar el dashboard dependiendo del plan que elegido con anterioridad.
+
+Dashboard Freemium
+
+Perfil Adulto Mayor
+
+![Perfil freemium](./assets/chapter4/prefil-free.png)
+
+Estadísticas
+
+![Estadísticas freemium](./assets/chapter4/estadisticas-free.png)
+
+Alertas
+
+![Alertas freemium](./assets/chapter4/alertas-free.png)
+
+Dashboard Premium
+
+Perfil Adulto Mayor
+
+![Perfil premium](./assets/chapter4/perfil-prem.png)
+
+Estadísticas
+
+![Estadísticas premium](./assets/chapter4/estadisticas-pre.png)
+
+Alertas
+
+![Alertas premium](./assets/chapter4/alertas-pre.png)
+
+Soporte
+
+![Soporte premium](./assets/chapter4/soporte-pre.png)
+
+- Dashboard Personal de Clínica - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una clínica ejecutará acciones con el fin de administrar a los doctores y los adultos mayores a quienes asignará un doctor encargado
+
+Dashboard del administrador sin doctores
+
+![Dashboard del administrador sin doctores](./assets/chapter4/admin-clinica-1.png)
+
+Formulario para agregar a un doctor
+
+![Formulario para agregar a un doctor](./assets/chapter4/admin-clinica-2.png)
+
+Doctor visible en el dashboard
+
+![Doctor visible en el dashboard](./assets/chapter4/admin-clinica-3.png)
+
+Asignació de un adulto mayor para el doctor
+
+![Asignació de un adulto mayor para el doctor](./assets/chapter4/admin-clinica-4.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/admin-clinica-5.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/admin-clinica-6.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/admin-clinica-7.png)
+
+- Dashboard Personal de Clínica - Doctor
+
+Se visualiza el dashboard donde el doctor registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud y dar chequeos.
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-1.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-2.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-3.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-4.png)
+
+- Dashboard Personal de Casas de Reposo - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una casa de reposo ejecutará acciones con el fin de administrar a los cuidadores y los adultos mayores a quienes asignará un doctor encargado.
+
+Dashboard del administrador sin cuidadores
+
+![Dashboard del administrador sin cuidadores](./assets/chapter4/admin-casa-1.png)
+
+Formulario para agregar a un cuidador
+
+![Formulario para agregar a un cuidador](./assets/chapter4/admin-casa-2.png)
+
+Cuidador visible en el dashboard
+
+![Cuidador visible en el dashboard](./assets/chapter4/admin-casa-3.png)
+
+Asignació de un adulto mayor para el cuidador
+
+![Asignació de un adulto mayor para el cuidador](./assets/chapter4/admin-casa-6.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/admin-casa-4.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/admin-casa-5.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/admin-casa-7.png)
+
+- Dashboard Personal de Casas de Reposo - Cuidador
+
+Se visualiza el dashboard donde el cuidador registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud.
+
+![Formulario de soporte](./assets/chapter4/cuidador-1.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-2.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-3.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-4.png)
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+Enlace para acceder a [Lucidchard](https://lucid.app/lucidchart/a6da7c11-ad99-4658-a4c8-2b630c5794eb/edit?invitationId=inv_5c2699bb-77b5-4655-93e3-7e771f566105)
+
+#### User Goal: Registro Usuario
+
+User persona: Allegados
+Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
+preferencia y se registra en la plataforma.
+
+<img src="assets/chapter4/UG-Inicio.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro Clinica o Casa de Reposo
+
+User persona: Clinica y Casa de reposo
+Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
+con la platforma e ingresa sus credenciales para poder identificarse como administrador.
+
+<img src="assets/chapter4/UG-Empresa.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de paciente como allegado
+
+User persona: Allegado
+Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
+de allegado
+
+<img src="assets/chapter4/UG-Paciente.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de medicos
+
+User persona: Clinica
+Explicacion de flujo: El administrador de la clinica inicia sesion, agrega un medico mediante un formulario y verifica
+que el registro haya sido exitoso.
+
+<img src="assets/chapter4/UG-RMedico.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar un paciente a un medico
+
+User persona: Clinica
+Explicacion de flujo: Se asigna un paciente a un medico registrado, mediante un formulario para completar los datos
+personales y verificar si se asigno correctamente.
+
+<img src="assets/chapter4/UG-MedicoR.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de signos vitales
+
+User persona: Clinica
+Explicacion de flujo: Se selecciona a un paciente geriatrico para ver su historial de estado para el registro de salud,
+ademas de contar con un analisis estadistico sobre el estado actual.
+
+<img src="assets/chapter4/UG-PacienteA.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se ingresa a la plataforma y se selecciona en agregar cuidador, se completa un formulario con informacion
+personal del cuidador y se confirma el registro correcto.
+
+<img src="assets/chapter4/UG-RCuidador.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar paciente a cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona al cuidador objetivo y se selecciona en agregar paciente,
+
+<img src="assets/chapter4/UG-CuidadorR.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de estado de paciente geriatrico
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona a un paciente y se verifica el historial de notificacion, ademas se puede acceder a
+un analisis estadistico en tiempo real para controlar los signos vitales.
+
+<img src="assets/chapter4/UG-PacienteAC.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 ## 4.5. Web Applications Prototyping
 
+Para poder elaborar los prototipos de la interfaz de usuario de dispositivos desktop y moviles, se opto por seguir ciertos
+criterios, tales como:
+
+1. Claridad y Usabilidad: Se buscó que la navegación dentro de la aplicación resultara sencilla e intuitiva, permitiendo a los usuarios comprender fácilmente sus funciones principales, como el registro de procesos y la consulta de reportes estadísticos.
+2. Adaptabilidad del Diseño: Se consideró fundamental implementar un diseño adaptable o responsive, asegurando que la aplicación web funcione correctamente en diferentes tamaños de pantalla, sin importar el dispositivo utilizado.
+3. Enfoque en la Información Esencial: El diseño prioriza la presentación de los datos más relevantes para el público objetivo, evitando la sobrecarga de contenido innecesario.
+
+<img src="assets/chapter4/mobileProtoyping.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+Direccionamiento al [Prototipo Mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EXz4E9NdVZtIkEk7n6GaAXwBa8DvhRgeo7SjpotPW2Xmbw?e=qvh1pP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+<img src="assets/chapter4/AppWebPrototyping.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+Direccionamiento al [Prototipo WebApp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EVciWpoXIMpFoRcwCB0ujjgBQOgI-L9YpizFcXMiJbPZQw?e=VAR3eO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## 4.6. Domain-Driven Software Architecture
+
+El Domain Driven Design (DDD) busca lograr una comprensión común del dominio que define el espacio del problema. Este
+enfoque facilita la colaboración entre desarrolladores y expertos del área gracias a la perspectiva que ofrece. No se
+limita únicamente al uso de un lenguaje ubicuo, sino que incluye un conjunto de patrones, prácticas y representaciones
+arquitectónicas del sistema. Todos estos elementos tienen como finalidad alinear el software con el dominio y fortalecer
+la visión compartida que promueve DDD.
 
 ### 4.6.1. Software Architecture Context Diagram
 
+Este diagrama de contexto muestra la vista de alto nivel de las relaciones entre la plataforma MediTrack y los sistemas
+externos, asi como el rol de los usuarios.
+
+<img src="assets/chapter4/Context-diagram.png" alt="context-diagram" style="width:300px; height:auto;"/>
+
 ### 4.6.2. Software Architecture Container Diagrams
 
+El diagrama de contenedores ofrece una visión general de alto nivel sobre las relaciones entre las aplicaciones y las
+fuentes de datos que intervienen en la ejecución de a plataforma MediTrack
+
+<img src="assets/chapter4/Container-diagram.png" alt="container-diagram" style="width:300px; height:auto;"/>
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+Los diagramas de componentes proporcionan una visión de las relaciones entre los principales elementos del sistema de
+software. Dichos componentes describen con mayor detalle la implementación de los módulos correspondientes dentro del programa.
+
+**User Management Bounded Context**
+
+<img src="assets/chapter4/Component-userBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**RelationshipManagement Bounded Context**
+
+<img src="assets/chapter4/Component-RMBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Divice Management Bounded Context**
+
+<img src="assets/chapter4/Component-DMBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Dashboard an analytics Bounded Context**
+
+<img src="assets/chapter4/Component-DABC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Report Bounded Context**
+
+<img src="assets/chapter4/Component-RCBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
+En esta sección se presenta y explica el Diagrama de Clases UML correspondiente al sistema desarrollado. El propósito de este diagrama es representar de manera estructurada los elementos principales de cada producto de software y, cuando es aplicable, de cada bounded context identificado durante la fase de Event Storming.
+
+El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino también sus atributos y métodos, especificando el alcance (public, private, protected) en cada caso. Asimismo, se definen las relaciones entre clases, indicando la multiplicidad, la dirección y la calificación de los vínculos con nombres claros y consistentes.
+
+Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama independiente por bounded context (User Management, Device Management, Dashboard & Analytics, Relationship Management, Report, Identity & Access Management). Esto permite reflejar con precisión las responsabilidades de cada contexto y la forma en que interactúan sus entidades internas.
+
+<img src="assets/chapter4/UMLDiagram.png" alt="UMLDiagram" width="100%">
+
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams
+
+![Diagrama de base de datos.png](assets/chapter4/Diagrama%20de%20base%20de%20datos.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -851,11 +2323,179 @@ En esta sección, se definen los términos clave utilizados en el dominio de neg
 
 ### 5.1.1. Software Development Environment Configuration
 
+#### Gestión de Proyecto (Project Management)
+
+**GitHub Pages**: Servicio en línea que permite publicar sitios web directamente desde un repositorio de GitHub. Brinda una manera sencilla de compartir documentación y proyectos, favoreciendo la colaboración y el acceso público o privado a los contenidos.  
+**Ruta de acceso:** [https://pages.github.com](https://pages.github.com)
+
+#### Gestión de Requisitos (Requirements Management)
+
+**Trello**: Herramienta en línea que permite organizar actividades, asignar tareas y dar seguimiento al progreso del equipo. Se usará para coordinar las responsabilidades y controlar el avance de sprints e historias de usuario.  
+**Ruta de acceso:** [https://trello.com/es](https://trello.com/es)
+
+---
+
+#### Diseño de UX/UI del Producto (Product UX/UI Design)
+
+**Figma**: Plataforma colaborativa para diseñar interfaces y prototipos gráficos. Se utilizará para crear las versiones Desktop y Mobile de la aplicación.  
+**Ruta de acceso:** [https://www.figma.com/login](https://www.figma.com/login)
+
+**Overflow**: Aplicación especializada en la creación de diagramas de flujo y wireflows, útil para representar la experiencia del usuario en el sistema.  
+**Ruta de acceso:** [https://overflow.io](https://overflow.io)
+
+---
+
+#### Desarrollo de Software (Software Development)
+
+**Visual Studio Code**: Editor de código versátil empleado para programar y compilar, gracias a su compatibilidad con múltiples lenguajes y extensiones.  
+**Ruta de acceso:** [https://code.visualstudio.com](https://code.visualstudio.com)
+
+**IntelliJ IDEA**: Entorno de desarrollo avanzado diseñado para proyectos en Java y Kotlin, fundamental en la construcción de componentes del sistema.  
+**Ruta de acceso:** [https://www.jetbrains.com/idea](https://www.jetbrains.com/idea)
+
+**HTML5**: Lenguaje de marcado utilizado para estructurar y dar forma al contenido web.  
+**Ruta de acceso:** [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+**CSS**: Lenguaje de estilos para definir la presentación visual de las páginas web, garantizando una experiencia de usuario consistente.  
+**Ruta de acceso:** [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+**JavaScript**: Lenguaje de programación que habilita la interactividad en las interfaces web, esencial para la dinámica del sistema.  
+**Ruta de acceso:** [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
+#### Despliegue de Software (Software Deployment)
+
+**Git**: Sistema de control de versiones que permite registrar cambios en el código, colaborar en equipo y mantener un historial completo del proyecto.  
+**Ruta de acceso:** [https://git-scm.com](https://git-scm.com)
+
+---
+
+#### Documentación del Software (Software Documentation)
+
+**Markdown**: Sintaxis ligera de marcado que facilita la creación de documentación clara y legible, especialmente en repositorios colaborativos.  
+**Ruta de acceso:** [https://www.markdownguide.org](https://www.markdownguide.org)
+
+**GitHub Pages**: Herramienta integrada en GitHub que permite publicar documentación y sitios web directamente desde un repositorio, ofreciendo una forma sencilla y gratuita de compartir contenidos en línea.  
+**Ruta de acceso:** [https://pages.github.com](https://pages.github.com)
+
 ### 5.1.2. Source Code Management
+
+GitHub será la herramienta principal para el control de versiones del proyecto. En este espacio se presentarán los enlaces a los repositorios correspondientes a la documentación, el informe y la página de aterrizaje (Landing Page).
+
+#### URL de Repositorios
+
+- **Documentación e Informe**: [https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/reportt)
+- **Landing Page**: [https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page)
+
+Cada repositorio contendrá todos los archivos relacionados con el proyecto.
+
+#### Modelo de GitFlow
+
+**GitFlow** se adoptará como la estrategia de ramificación del proyecto, garantizando una gestión ordenada de las ramas y una integración continua y eficiente entre los desarrolladores.
+
+![GitFlow](./assets/chapter5/gitflow.png)
+
+#### Ramas principales
+
+- **Main (`main`)**  
+  Rama principal del proyecto. Aquí siempre estará el código estable y listo para ser desplegado en producción.
+
+- **Desarrollo (`develop`)**  
+  Rama destinada al trabajo de desarrollo. Todas las mejoras y nuevas funcionalidades se integran primero aquí antes de pasar a `main`.
+
+- **Funcionalidades (`feature`)**  
+  Cada nueva característica se desarrolla en una rama independiente creada a partir de `develop`.  
+  Convención: `feature/nombre-de-la-funcionalidad`  
+  Ejemplo: `feature/ch1-target-segment`
+
+- **Liberaciones (`release`)**  
+  Se crean a partir de `develop` para preparar una nueva versión estable.  
+  En estas ramas se corrigen errores menores, se hacen pruebas finales y se documenta el código previo al lanzamiento.  
+  Convención: `release/version`  
+  Ejemplo: `release/v1.0.0`
+
+- **Correcciones urgentes (`hotfix`)**  
+  Usadas para solucionar errores críticos detectados en producción. Estas ramas parten de `main`.  
+  Convención: `hotfix/nombre-de-la-corrección`  
+  Ejemplo: `hotfix/imagen-bug`
+
+---
+
+#### Convenciones para Versiones
+
+Se utilizará **Semantic Versioning (SemVer)** para todas las versiones publicadas, siguiendo el formato:  
+`MAJOR.MINOR.PATCH` (por ejemplo: `1.0.0`).
+
+---
+
+#### Convenciones para Commits
+
+Se seguirá el estándar **Conventional Commits** para garantizar claridad y consistencia en los mensajes:
+
+- `feat`: Introducción de nuevas características.
+- `fix`: Solución de errores.
+- `docs`: Modificaciones en la documentación.
+- `style`: Cambios de formato sin afectar la lógica.
+- `refactor`: Reestructuración del código sin alterar su comportamiento.
+- `test`: Creación o modificación de pruebas.
+- `chore`: Tareas de mantenimiento.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+#### HTML
+
+Prácticas aplicadas en el desarrollo de la Landing Page estática:
+
+1. Uso de `href=#id` para permitir una navegación interna fluida.
+2. Inclusión de atributos `alt` en todas las imágenes para mostrar texto alternativo en caso de error de carga.  
+   Ejemplo:
+   ```html
+   <img src="images/image-hero.png" alt="Persona frente a computadora" />
+   ```
+3. Obtención de íconos en formato SVG desde Lucide.
+4. Uso de la convención kebab-case para nombrar id y clases.
+
+#### CSS
+
+1. Uso de Flexbox Grid para estructurar y diseñar la Landing Page de manera responsive.
+2. Definición de colores en formato HEX.
+3. Inclusión de comentarios al inicio de cada archivo CSS para identificar las secciones de la página.
+
+#### JS
+
+1. Declaración de funciones siguiendo la convención de nomenclatura camelCase.
+
+#### GERKHIN
+
+Se utilizó el lenguaje Gherkin para redactar escenarios de las User Stories, empleando palabras clave como:
+
+- Given
+
+- When
+
+- Then
+
+- And
+
 ### 5.1.4. Software Deployment Configuration
+
+#### Despliegue de la Landing Page
+
+El despliegue de la Landing Page se realizó utilizando **GitHub Pages**, aprovechando su simplicidad y accesibilidad.  
+El archivo `index.html` fue definido como el punto de entrada principal del sitio.
+
+![Landing Page Image](./assets/chapter5/landing-image.png)
+
+![Landing Page Settings](./assets/chapter5/landing-settings.png)
+
+- **Landing URL**: [https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/](https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/)
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+Durante el Sprint 1 del proyecto MediTrack, el equipo de AlpacaFlow se enfocó en el diseño y desarrollo funcional de la Landing Page de la plataforma. Se implementaron las secciones principales como el mensaje de bienvenida, los botones de registro y navegación y la información de contacto. También se trabajó en aspectos de interacción, incluyendo la fijación del encabezado al hacer scroll y una presentación atractiva de la propuesta de valor. El equipo logró finalizar todas las tareas planificadas, priorizando siempre la navegación fluida, la accesibilidad y la claridad en la comunicación con los nuevos usuarios. AlpacaFlow implementó la totalidad de las funcionalidades de la Landing Page y realizó el diseño completo de la misma, incorporando llamados a la acción (CTA), diseño responsive, sección de planes, testimonios, preguntas frecuentes y una navegación optimizada y fluida, concluyendo con éxito todo lo necesario para garantizar una mejor experiencia de usuario.
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -863,34 +2503,209 @@ En esta sección, se definen los términos clave utilizados en el dominio de neg
 
 #### 5.2.1.1. Sprint Planning 1
 
+| **Sprint #** | Sprint 1 |
+| ------------ | -------- |
+
+| **Sprint Planning Background** |                                                                     |
+| ------------------------------ | ------------------------------------------------------------------- |
+| **Date**                       | 2 de septiembre del 2025                                            |
+| **Time**                       | 09:00 PM                                                            |
+| **Location**                   | Vía Discord                                                         |
+| **Prepared By**                | Marcelo Barrientos Quispe                                           |
+| **Attendees (to planning)**    | Javier, Masaru - Gabriel, Rivera - Juaquin, Cuba - Carlos Fernandez |
+
+---
+
+| **Sprint 1 – Review Summary**        | El equipo logró publicar la primera versión de la **Landing Page de MediTrack** en GitHub Pages, incluyendo las secciones principales de bienvenida, misión, visión, planes, formulario de contacto y preguntas frecuentes. Se alcanzó la meta de contar con un entorno de despliegue operativo que permite validar la propuesta de valor y facilita la interacción inicial con los usuarios. |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 1 – Retrospective Summary** | El equipo identificó como fortaleza la capacidad de entrega en el tiempo planificado y el compromiso demostrado en el desarrollo de la landing. Sin embargo, se reconoció la necesidad de **mejorar la coordinación en la integración de cambios** y reforzar la comunicación interna para optimizar la colaboración en próximos sprints.                                                     |
+
+---
+
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 1 Goal**              | Nuestro objetivo fue **diseñar, desarrollar y desplegar la Landing Page de MediTrack** con una experiencia visual clara, navegación fluida y compatibilidad responsive. Buscamos validar la propuesta de valor inicial y brindar a los usuarios un acceso confiable a la información principal de la plataforma. |
+| **Sprint 1 Velocity**          | 18                                                                                                                                                                                                                                                                                                               |
+| **Sum of Story Points**        | 18                                                                                                                                                                                                                                                                                                               |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Nombre             | GitHub User | Crear landing page principal | Mostrar problemas de geriatría | Mostrar soluciones tecnológicas | Mostrar indicadores de impacto | Mostrar lista de tecnologías | Mostrar misión institucional | Mostrar visión a futuro | Crear sección plan gratuito | Crear sección plan premium | Crear sección plan enterprise | Crear formulario de contacto | Mostrar información de contacto |
+| ------------------ | ----------- | ---------------------------- | ------------------------------ | ------------------------------- | ------------------------------ | ---------------------------- | ---------------------------- | ----------------------- | --------------------------- | -------------------------- | ----------------------------- | ---------------------------- | ------------------------------- |
+| Joaquín Cuba       | joacuba     | L                            | L                              | L                               | L                              | C                            | C                            | C                       | C                           | C                          | C                             | C                            | C                               |
+| Marcelo Barrientos | MarceBq     | C                            | C                              | C                               | C                              | L                            | L                            | L                       | C                           | C                          | C                             | C                            | C                               |
+| Carlos Fernandez   | u202320083  | C                            | C                              | C                               | C                              | C                            | C                            | C                       | L                           | L                          | C                             | C                            | C                               |
+| Gabriel Rivera     | guestwhoo   | C                            | C                              | C                               | C                              | C                            | C                            | C                       | C                           | C                          | L                             | L                            | C                               |
+| Javier Masaru      | MassiFlip   | C                            | C                              | C                               | C                              | C                            | C                            | C                       | C                           | C                          | C                             | C                            | L                               |
 
 #### 5.2.1.3. Sprint Backlog 1
 
+Durante el primer sprint backlog, el equipo de MediTrack tuvo como objetivo principal diseñar y completar la Landing Page. Para la organización y gestión de los miembros se utilizó Trello, lo que permitió dividir las user stories en tareas manejables y asignarlas a cada integrante según sus habilidades. El propósito de este sprint fue construir en su totalidad la landing page, asegurando que fuera atractiva, funcional y alineada con la propuesta de valor de MediTrack.
+
+![Landing Page Settings](./assets/chapter5/medi-trello.png)
+
+[Trello MediTrack](https://trello.com/invite/b/68ce4ba3a9cf2239270c2cd3/ATTI8d7ced15e22c90258829bd96cb36bae55FF3F4E7/1asi0729-7394-meditrack)
+
+| Sprint # | Sprint 1 |
+| -------- | -------- |
+
+| US-ID | Title                               | ID   | Title                           | Description                                                                | Estimation (Hours) | Assigned To        | Status |
+| ----- | ----------------------------------- | ---- | ------------------------------- | -------------------------------------------------------------------------- | ------------------ | ------------------ | ------ |
+| US01  | Visualización de la Landing Page    | UT01 | Crear landing page principal    | Como visitante, quiero acceder a la landing page para conocer la solución. | 6                  | Joaquín Cuba       | Done   |
+| US02  | Visualizar Problemas Actuales       | UT02 | Mostrar problemas de geriatría  | Como familiar, quiero ver los problemas actuales en el cuidado geriátrico. | 5                  | Joaquín Cuba       | Done   |
+| US03  | Visualizar Soluciones Propuestas    | UT03 | Mostrar soluciones tecnológicas | Como médico, quiero ver las soluciones tecnológicas de MediTrack.          | 7                  | Joaquín Cuba       | Done   |
+| US04  | Visualizar Impacto en Cifras        | UT04 | Mostrar indicadores de impacto  | Como visitante, quiero ver indicadores de impacto.                         | 4                  | Joaquín Cuba       | Done   |
+| US05  | Ver Tecnologías que Salvan Vidas    | UT05 | Mostrar lista de tecnologías    | Como enfermero, quiero conocer los sensores y dispositivos.                | 8                  | Marcelo Barrientos | Done   |
+| US06  | Ver Nuestra Misión                  | UT06 | Mostrar misión institucional    | Como familiar, quiero entender la misión de MediTrack.                     | 3                  | Marcelo Barrientos | Done   |
+| US07  | Ver Nuestra Visión                  | UT07 | Mostrar visión a futuro         | Como médico, quiero conocer la visión a futuro de MediTrack.               | 4                  | Marcelo Barrientos | Done   |
+| US08  | Consultar Plan Gratuito             | UT08 | Crear sección plan gratuito     | Como visitante, quiero ver el plan gratuito.                               | 5                  | Carlos Fernandez   | Done   |
+| US09  | Consultar Plan Premium              | UT09 | Crear sección plan premium      | Como allegado, quiero ver el plan premium.                                 | 6                  | Carlos Fernandez   | Done   |
+| US10  | Consultar Plan Enterprise           | UT10 | Crear sección plan enterprise   | Como médico o institución, quiero ver el plan enterprise.                  | 5                  | Gabriel Rivera     | Done   |
+| US11  | Acceder al Formulario de Contacto   | UT11 | Crear formulario de contacto    | Como visitante, quiero llenar un formulario.                               | 6                  | Gabriel Rivera     | Done   |
+| US12  | Información de Contacto Alternativa | UT12 | Mostrar información de contacto | Como médico, quiero ver datos de contacto directo.                         | 3                  | Javier Masaru      | Done   |
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+| Repository                                                              | Branch  | Commit Id | Commit Message                             | Commit Message Body                        | Committed on (Date) |
+| ----------------------------------------------------------------------- | ------- | --------- | ------------------------------------------ | ------------------------------------------ | ------------------- |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 8f6d10a   | chore: added .gitignore file               | chore: added .gitignore file               | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 693651e   | docs: add readme and license               | docs: add readme and license               | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 186c704   | feat: added assets and main html, css file | feat: added assets and main html, css file | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | d5c8d43   | feat: added scripts for animations         | feat: added scripts for animations         | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 6c9b91c   | feat: added section of success stories     | First Merge                                | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 0c48fcd   | fix: remove unnecessary logs in scripts    | fix: remove unnecessary logs in scripts    | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 6b69ab7   | feat: added section of success stories     | Second Merge                               | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | main    | 21arabe   | fix: fix premium printing cart             | fix: fix premium printing cart             | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | 21a7ebe   | fix: fix premium printing cart             | Third Merge                                | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | 0c48fcd   | fix: remove unnecessary logs in scripts    | fix: remove unnecessary logs in scripts    | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | d5c8d43   | feat: added scripts for animations         | feat: added scripts for animations         | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | 186e704   | feat: added assets and main html, css file | feat: added assets and main html, css file | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | 693651e   | docs: add readme and license               | docs: add readme and license               | 12/09/25            |
+| https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page | develop | 8f6d10a   | chore: added .gitignore file               | chore: added .gitignore file               | 12/09/25            |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 1 se logró implementar de manera satisfactoria la Landing Page del proyecto. Esta página incluye diferentes secciones orientadas a brindar a los usuarios información clara y completa acerca del producto y sus funcionalidades más relevantes.
+
+#### Estructura de la Landing Page
+
+##### 1. Hero Section
+
+Incluye nuestro **header**, que contiene tanto el **logo** como la **navegación** principal para recorrer la página web.
+
+![Landing Page Image](./assets/chapter5/landing-image.png)
+
+---
+
+##### 2. Desafíos y Problemáticas
+
+Sección donde presentamos los **desafíos y problemáticas** que afrontamos, explicando el contexto y la importancia de la solución que ofrecemos.
+
+![Landing Page Image](./assets/chapter5/landing-desafio.png)
+
+---
+
+##### 3. Sobre Nosotros
+
+Un apartado para dar a conocer **quiénes somos**, nuestra historia, valores y el propósito que nos impulsa.
+
+![Landing Page Image](./assets/chapter5/landing-mas.png)
+
+---
+
+##### 4. Planes y Servicios
+
+Aquí mostramos los distintos **planes y servicios** que ofrecemos, detallando beneficios y opciones para nuestros usuarios.
+
+![Landing Page Image](./assets/chapter5/landing-planes.png)
+
+---
+
+##### 5. Formulario y Footer
+
+Sección final con un **formulario de contacto** para interactuar con los usuarios y el **footer** que incluye enlaces útiles y redes sociales.
+
+![Landing Page Image](./assets/chapter5/landing-form-fotter.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este primer sprint no se vio una ejecutación de servicios.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+# Sprint 1 - MediTrack
+
+Durante el **Sprint 1** del desarrollo de **MediTrack**, se ejecutaron las primeras tareas de despliegue, centradas en la **publicación de la Landing Page**.
+
+#### Inicialización y preparación del proyecto de desarrollo
+
+- Se creó el **repositorio principal en GitHub**, estableciendo la rama **main** como línea base.
+- Se organizó la estructura del proyecto para la **Landing Page**.
+- Se definió el archivo `index.html` como punto de inicio principal.
+- Se definió la carpeta `assets` como fuente de acceso para el contenido multimedia utilizados.
+- Se definió la carpeta `css` como fuente de acceso para el contenido de estilos utilizados.
+- Se definió la carpeta `js` como fuente de acceso para el contenido scripts utilizados.
+
+#### Configuración del entorno de publicación
+
+- Se adoptó **GitHub Pages** como solución de hosting inicial para la Landing Page, debido a su simplicidad y rapidez de integración.
+- El repositorio quedó vinculado al entorno de despliegue.
+- Cada actualización enviada a la rama **main** se publica de forma automática y continua.
+
+#### Activación de GitHub Pages en el repositorio
+
+![Landing Page Image Settings](./assets/chapter5/landing-settings.png)
+
+#### Visualización activa del dominio temporal generado por GitHub Pages
+
+![Landing Page Image Domain](./assets/chapter5/landing-domain.png)
+
+[Landing Page MediTrack](https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/)
+
 #### 5.2.1.8. Team Collaboration Insigths during Sprint
 
-## 5.3. Validation Interviews
+| Nombre             | GitHub User | Actividades                                                                                                                   |
+| ------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Joaquín Cuba       | joacuba     | Crear landing page principal, Mostrar problemas de geriatría, Mostrar soluciones tecnológicas, Mostrar indicadores de impacto |
+| Marcelo Barrientos | MarceBq     | Mostrar lista de tecnologías, Mostrar misión institucional, Mostrar visión a futuro                                           |
+| Carlos Fernandez   | u202320083  | Crear sección plan gratuito, Crear sección plan premium                                                                       |
+| Gabriel Rivera     | guestwhoo   | Crear sección plan enterprise, Crear formulario de contacto                                                                   |
+| Javier Masaru      | MassiFlip   | Mostrar información de contacto                                                                                               |
 
-### 5.3.1. Diseño de Entrevistas
+![Landing Page Image Domain](./assets/chapter5/landing-overview.png)
 
-### 5.3.2. Registro de Entrevistas
-
-### 5.3.3. Evaluaciones según heurísticas
+> **Nota:**  
+> Para este repositorio se evidenció el trabajo colaborativo de los estudiantes. Sin embargo, la gráfica de GitHub muestra que un solo usuario realizó la mayoría de los cambios. Esto se debió a la falta de tiempo y a errores imprevistos que impidieron que los demás integrantes integraran sus aportes. Aun así, podemos asegurar que el trabajo fue realizado de manera colaborativa por todo el equipo.
 
 # Conclusiones
 
 ## Conclusiones y recomendaciones
 
-## Video About-the-Product
+Consolidación del trabajo colaborativo
+A pesar de que la gráfica de GitHub mostró un único usuario con mayor carga de commits, el uso de Trello y la asignación de tareas evidenció que todos los integrantes participaron activamente, lo que refleja la capacidad del equipo para trabajar en conjunto.
+
+Mejora en la organización y gestión de tareas
+La implementación de Trello permitió dividir el backlog en tareas claras y manejables, lo que mejoró la coordinación y facilitó la asignación de responsabilidades en función de las habilidades de cada miembro.
+
+Avance en la calidad del producto
+Se logró construir una landing page completa, con secciones clave como soluciones, planes, misión, visión y contacto, lo cual representa un avance en la presentación profesional y en la experiencia inicial para los usuarios.
+
+Aprendizaje sobre integración y control de versiones
+El equipo identificó dificultades en la integración de cambios en GitHub, lo que resalta la necesidad de mejorar la sincronización y las buenas prácticas en control de versiones para futuros sprints.
+
+Enfoque en la experiencia del usuario
+El sprint permitió validar la importancia de la navegabilidad, el diseño responsive y los llamados a la acción (CTA), lo que servirá como base para seguir optimizando la usabilidad y la accesibilidad en los próximos incrementos del producto.
 
 # Bibliografía
 
-# Anexos
+- Instituto Nacional de Estadística e Informática. (2023a, 29 de diciembre). 42.2 % of households of the country have among their members a person of 60 years of age and older [Nota de prensa]. Gobierno del Perú.
+
+- Instituto Nacional de Estadística e Informática. (2023b, tercer trimestre). Population of 60 years of age and older with some chronic health problem reached 80.8 % [Informe técnico]. Gobierno del Perú.
+
+- Instituto Nacional de Estadística e Informática. (2024a, segundo trimestre). Aumenta población adulta mayor que hace uso de Internet [Nota de prensa]. Gestión.
+
+- Instituto Nacional de Estadística e Informática. (2024b, 11 de julio). Up to 2024 the Peruvian population reaches 34 million 39 thousand inhabitants [Nota de prensa]. Gobierno del Perú.
+
+- Instituto Nacional de Estadística e Informática. (2025, 26 de marzo). 42.0 % of the households of the country has among their members, at least one person of 60 years old and older or older adult [Nota de prensa]. Gobierno del Perú.
+
+- Organización Panamericana de la Salud. (s. f.). Health in the Americas country profile: Peru [Perfil país]. OPS.
