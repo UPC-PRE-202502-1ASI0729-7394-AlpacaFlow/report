@@ -1916,7 +1916,7 @@ User persona: Allegados
 Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
 preferencia y se registra en la plataforma.
 
-<img src="assets/chapter4/WF-1.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/WF1v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 #### User Goal: Registro Clinica o Casa de Reposo
 
@@ -1924,7 +1924,7 @@ User persona: Clinica y Casa de reposo
 Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
 con la platforma e ingresa sus credenciales para poder identificarse como administrador.
 
-<img src="assets/chapter4/WF-2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/WF2v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 #### User Goal: Registro de paciente como allegado
 
@@ -1932,7 +1932,7 @@ User persona: Allegado
 Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
 de allegado
 
-<img src="assets/chapter4/WF-3.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/WF3V2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 #### User Goal: Registro de medicos
 
@@ -1957,6 +1957,7 @@ Explicacion de flujo: Se selecciona a un paciente geriatrico para ver su histori
 ademas de contar con un analisis estadistico sobre el estado actual.
 
 <img src="assets/chapter4/WF-6.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
 #### User Goal: Registro de cuidador
 
 User persona: Casa de reposo
@@ -2170,7 +2171,7 @@ User persona: Allegados
 Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
 preferencia y se registra en la plataforma.
 
-<img src="assets/chapter4/UG-Inicio.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/UG1v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 #### User Goal: Registro Clinica o Casa de Reposo
 
@@ -2178,7 +2179,7 @@ User persona: Clinica y Casa de reposo
 Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
 con la platforma e ingresa sus credenciales para poder identificarse como administrador.
 
-<img src="assets/chapter4/UG-Empresa.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/UG2v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 #### User Goal: Registro de paciente como allegado
 
@@ -2186,7 +2187,7 @@ User persona: Allegado
 Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
 de allegado
 
-<img src="assets/chapter4/UG-Paciente.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/UG3v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 #### User Goal: Registro de medicos
 
@@ -2272,7 +2273,7 @@ externos, asi como el rol de los usuarios.
 El diagrama de contenedores ofrece una visión general de alto nivel sobre las relaciones entre las aplicaciones y las
 fuentes de datos que intervienen en la ejecución de a plataforma MediTrack
 
-<img src="assets/chapter4/Container-diagram.png" alt="container-diagram" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/container-diagram.png" alt="container-diagram" style="width:300px; height:auto;"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -2283,21 +2284,20 @@ software. Dichos componentes describen con mayor detalle la implementación de l
 
 <img src="assets/chapter4/Component-userBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
 
-**RelationshipManagement Bounded Context**
 
-<img src="assets/chapter4/Component-RMBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/auth-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
 
-**Divice Management Bounded Context**
+**Relative Bounded Context**
 
-<img src="assets/chapter4/Component-DMBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/relative-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
 
-**Dashboard an analytics Bounded Context**
+**Organization Bounded Context**
 
-<img src="assets/chapter4/Component-DABC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/organization-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
 
-**Report Bounded Context**
+**Shared Bounded Context**
 
-<img src="assets/chapter4/Component-RCBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/shared-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
 
 ## 4.7. Software Object-Oriented Design
 
@@ -2307,15 +2307,15 @@ En esta sección se presenta y explica el Diagrama de Clases UML correspondiente
 
 El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino también sus atributos y métodos, especificando el alcance (public, private, protected) en cada caso. Asimismo, se definen las relaciones entre clases, indicando la multiplicidad, la dirección y la calificación de los vínculos con nombres claros y consistentes.
 
-Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama independiente por bounded context (User Management, Device Management, Dashboard & Analytics, Relationship Management, Report, Identity & Access Management). Esto permite reflejar con precisión las responsabilidades de cada contexto y la forma en que interactúan sus entidades internas.
+  Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama independiente por bounded context (Auth, Relative, Organization, Shared). Esto permite reflejar con precisión las responsabilidades de cada contexto y la forma en que interactúan sus entidades internas.
 
-<img src="assets/chapter4/UMLDiagram.png" alt="UMLDiagram" width="100%">
+![ClassUml](assets/chapter4/MediTrack_UML.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams
 
-![Diagrama de base de datos.png](assets/chapter4/Diagrama%20de%20base%20de%20datos.png)
+![Diagrama de base de datos.png](assets/chapter4/database-diagram.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
