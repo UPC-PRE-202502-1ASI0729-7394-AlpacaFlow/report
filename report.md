@@ -251,7 +251,11 @@ Para esta sección haremos un análisis FODA (Fortalezas, Oportunidades, Debilid
 
 ## 2.2. Entrevistas
 
+Para este bloque se realizaron entrevistas semiestructuradas para comprender las necesidades, hábitos y percepciones de los segmentos objetivo respecto al monitoreo de adultos mayores. El objetivo fue identificar oportunidades, frustraciones y barreras en el uso de tecnologías de salud.
+
 ### 2.2.1. Diseño de entrevistas
+
+Las preguntas se adaptaron a tres segmentos clave: familiares, profesionales médicos y personal de casas de reposo. Este enfoque permitió obtener evidencia cualitativa relevante para sustentar el análisis de usuarios y los artefactos del proceso de Needfinding.
 
 ### Preguntas dirigidas al primer segmento
 
@@ -604,79 +608,91 @@ Este segmento comprende médicos generales con experiencia en atención a adulto
 
 Este segmento incluye cuidadores con experiencia directa en instituciones geriátricas en Perú y Europa, con edades entre 48-57 años. El 100% tiene más de 10 años de experiencia cuidando adultos mayores, reporta que el trabajo es estresante debido a la falta de personal y recursos, y muestra alta apertura a soluciones digitales como MediTrack. Todos utilizan Google Chrome y teléfonos móviles como herramientas principales, demostrando adaptabilidad tecnológica práctica. El 100% considera que una aplicación reduciría el estrés y mejoraría la eficiencia mediante alertas tempranas y mejor seguimiento, destacando como funcionalidades clave las alertas inmediatas, monitoreo de signos vitales y organización de tratamientos. Todos señalan la necesidad de mejorar la comunicación entre cuidadores, familiares y médicos. Este segmento representa una audiencia altamente receptiva que valora la herramienta tanto para los adultos mayores como para su propio apoyo profesional, por lo que la estrategia debe enfatizar la reducción de carga laboral y facilidad de uso.
 
-## 2.3. Needfinding
+En esta sección, MediTrack busca identificar y comprender de manera profunda las necesidades, motivaciones y frustraciones de los distintos actores involucrados en el cuidado de adultos mayores. A través de entrevistas y observaciones, se ha recopilado información cualitativa que permite detectar oportunidades de mejora y diseñar soluciones que respondan de manera efectiva a los desafíos reales que enfrentan los usuarios.
 
 ### 2.3.1. User Personas
 
+Para traducir los hallazgos del needfinding en herramientas de diseño concretas, se han desarrollado user personas que representan de manera clara y detallada los distintos segmentos de usuarios. Estas personas sintetizan características objetivas y subjetivas, permitiendo a MediTrack comprender mejor a sus usuarios, anticipar sus necesidades y diseñar funcionalidades que generen valor tanto para adultos mayores como para cuidadores y profesionales de la salud.
+
 ### User Persona – Doctor
+
+Esta persona se construyó directamente a partir de las entrevistas a médicos generales y geriatras. Refleja sus necesidades de contar con información en tiempo real, mejorar la prevención y atención de emergencias, y utilizar herramientas digitales confiables. Los hallazgos muestran sus frustraciones con los sistemas actuales y la disposición a adoptar soluciones como MediTrack.
 
 ![Doctor](assets/chapter2/Doctor.png)
 
 ### User Persona – Allegado de Adulto Mayor
 
+Esta persona se creó basándose en las entrevistas a familiares de adultos mayores. Representa a usuarios comprometidos con el cuidado y la seguridad de sus seres queridos, preocupados por recibir información confiable y constantes actualizaciones sobre su bienestar. También refleja la necesidad de interfaces simples y claras para facilitar la adopción de la app.
+
 ![Allegado](assets/chapter2/AnaRojas.png)
 
-### User Persona – Enfermera
+### User Persona – Cuidador
 
-![Enfermera](assets/chapter2/CarlaFernandez.png)
+Esta persona se basa en las entrevistas a cuidadores de casas de reposo. Refleja la experiencia, la carga laboral y la necesidad de herramientas que faciliten el monitoreo diario de los adultos mayores, con alertas inmediatas y seguimiento de tratamientos. Destaca la disposición a usar soluciones digitales que reduzcan estrés y mejoren la organización del trabajo.
+
+![Cuidador](assets/chapter2/CarlaFernandez.png)
 
 ### 2.3.2. User Task Matrix
 
-En esta sección se presentan los User Task Matrix correspondientes a los segmentos objetivos del proyecto (allegados, personal medico y casas de reposo).
-A continuación, se detallan las tareas que realizan.
+En esta sección se presenta el User Task Matrix de los segmentos objetivos del proyecto: allegados, personal médico y personal de casas de reposo.
+El objetivo es identificar y organizar las tareas que cada segmento realiza en su actividad diaria, antes de la implementación de MediTrack, destacando la frecuencia y la importancia de cada tarea.
+Esta información permitirá comprender mejor las necesidades reales de los usuarios y servir como base para el diseño de soluciones efectivas.
 
-| TASK                                                                  | Allegados – FREQUENCY | Allegados – IMPORTANCE | Personal médico – FREQUENCY | Personal médico – IMPORTANCE | Casas de reposo – FREQUENCY | Casas de reposo – IMPORTANCE |
-| --------------------------------------------------------------------- | --------------------- | ---------------------- | --------------------------- | ---------------------------- | --------------------------- | ---------------------------- |
-| Recibir notificaciones en tiempo real sobre cambios en signos vitales | Always                | High                   | Always                      | High                         | Always                      | High                         |
-| Consultar historial de salud del paciente                             | Often                 | High                   | Often                       | High                         | Often                       | High                         |
-| Configurar alertas personalizadas (umbrales de signos vitales)        | Sometimes             | High                   | Often                       | High                         | Often                       | High                         |
-| Contactar al médico o cuidador a través de la plataforma              | Often                 | High                   | Sometimes                   | Medium                       | Sometimes                   | Medium                       |
-| Autorizar acceso a datos médicos para nuevos profesionales            | Rarely                | High                   | Sometimes                   | High                         | Sometimes                   | High                         |
-| Revisar reportes mensuales de evolución de la salud                   | Sometimes             | Medium                 | Sometimes                   | High                         | Often                       | Medium                       |
-| Actualizar información básica del paciente (medicación, alergias)     | Sometimes             | Medium                 | Often                       | High                         | Often                       | High                         |
-| Monitorear en tiempo real los signos vitales de varios pacientes      | Rarely                | Medium                 | Always                      | High                         | Always                      | High                         |
-| Configurar planes de monitoreo individualizados                       | Never                 | Low                    | Often                       | High                         | Often                       | High                         |
-| Acceder a reportes detallados para decisiones clínicas                | Rarely                | Medium                 | Often                       | High                         | Sometimes                   | Medium                       |
-| Recibir alertas tempranas de riesgo crítico (caídas, arritmias, etc.) | Often                 | High                   | Always                      | High                         | Always                      | High                         |
-| Coordinar teleconsultas con pacientes y familiares                    | Sometimes             | Medium                 | Often                       | High                         | Rarely                      | Medium                       |
-| Integrar datos al historial clínico electrónico existente             | Never                 | Low                    | Sometimes                   | High                         | Sometimes                   | Medium                       |
-| Gestionar permisos de acceso de terceros (familiares, aseguradoras)   | Sometimes             | Medium                 | Sometimes                   | Medium                       | Rarely                      | Medium                       |
-| Supervisar múltiples pacientes desde un panel centralizado            | Never                 | Low                    | Sometimes                   | Medium                       | Always                      | High                         |
-| Priorizar alertas colectivas según criticidad                         | Rarely                | Medium                 | Sometimes                   | Medium                       | Always                      | High                         |
-| Registrar cambios en el estado de los residentes (medicación, dieta)  | Sometimes             | Medium                 | Often                       | Medium                       | Always                      | High                         |
-| Generar reportes diarios para la administración y familiares          | Sometimes             | Medium                 | Sometimes                   | Medium                       | Always                      | High                         |
-| Asignar responsables por turno para seguimiento de alertas            | Never                 | Low                    | Rarely                      | Medium                       | Often                       | Medium                       |
-| Capacitar nuevo personal en el uso de la plataforma MediTrack         | Never                 | Low                    | Rarely                      | Medium                       | Sometimes                   | Medium                       |
+| TASK                                        | Allegados – FREQUENCY | Allegados – IMPORTANCE | Personal médico – FREQUENCY | Personal médico – IMPORTANCE | Casas de reposo – FREQUENCY | Casas de reposo – IMPORTANCE |
+| ------------------------------------------- | --------------------- | ---------------------- | --------------------------- | ---------------------------- | --------------------------- | ---------------------------- |
+| Llamar o contactar al adulto mayor          | Often                 | High                   | Rarely                      | Medium                       | Rarely                      | Medium                       |
+| Coordinar visitas o citas                   | Often                 | High                   | Often                       | High                         | Often                       | High                         |
+| Revisar estado de salud manualmente         | Sometimes             | Medium                 | Often                       | High                         | Often                       | High                         |
+| Registrar datos de pacientes manualmente    | Sometimes             | Medium                 | Often                       | High                         | Often                       | High                         |
+| Supervisar signos vitales o rutinas diarias | Rarely                | Medium                 | Often                       | High                         | Often                       | High                         |
+| Atender emergencias o incidentes            | Rarely                | High                   | Often                       | High                         | Often                       | High                         |
+| Revisar reportes de familiares o cuidadores | Often                 | High                   | Sometimes                   | Medium                       | Sometimes                   | Medium                       |
+| Coordinar con otros profesionales de salud  | Sometimes             | Medium                 | Often                       | High                         | Often                       | High                         |
+| Dar seguimiento a tratamientos o medicación | Sometimes             | Medium                 | Often                       | High                         | Often                       | High                         |
 
 ### 2.3.3. User Journey Mapping
 
+En esta sección se presentan los Journey Maps de los segmentos objetivos: doctor, allegado de adulto mayor y enfermera.
+Los Journey Maps permiten visualizar paso a paso la experiencia de cada usuario en relación con la atención y cuidado de adultos mayores, identificando puntos críticos, oportunidades de mejora y emociones asociadas a cada etapa de su interacción con el servicio.
 
+### Journey Mapping – Doctor
 
-#### Luis Jimenez
+El journey map de Luis Jiménez, médico geriatra en una casa de reposo, muestra cómo descubre en MediTrack una herramienta clave para mejorar la atención de sus pacientes mayores. A lo largo de su experiencia, pasa de enfrentar la falta de datos en tiempo real y la sobrecarga de trabajo a utilizar alertas y reportes automatizados que optimizan su diagnóstico y prevención, reflejando una evolución hacia una práctica médica más eficiente, conectada y confiable.
 
 ![LuisJimenezJourneyMap.jpg](assets/chapter2/LuisJimenezJourneyMap.png)
 
-#### Carla Fernandez
+### Journey Mapping – Allegado de Adulto Mayor
+
+El journey map de Valeria Pancorbo, arquitecta e hija de una adulta mayor, refleja cómo encuentra en MediTrack una solución tecnológica para cuidar a su madre a distancia. Su experiencia pasa de la ansiedad y la incertidumbre por no poder estar presente todo el tiempo, a la tranquilidad de recibir alertas y monitorear signos vitales en tiempo real, lo que le permite equilibrar su vida laboral con el bienestar y seguridad de su madre.
 
 ![CarlaFernandezJourney.jpg](assets/chapter2/CarlaFernandezJourneyMap.png)
 
-#### Valeria Pancorbo
+### Journey Mapping – Enfermera
+
+El journey map de Carla Fernández, enfermera en una casa de reposo, refleja su transición de la frustración por no poder supervisar a todos los adultos mayores simultáneamente hacia la satisfacción de contar con MediTrack como apoyo tecnológico. Gracias al monitoreo en tiempo real y las alertas automáticas, Carla logra optimizar su trabajo, reducir el estrés y brindar una atención más segura y coordinada a sus residentes.
 
 ![ValeriaPancorboJourneyM.jpg](assets/chapter2/ValeriaPancorboJourneyMap.png)
 
 ### 2.3.4. Empathy Mapping
 
-A través de este gráfico de Empathy Mapping, se representan las percepciones, pensamientos y emociones de los usuarios al interactuar con nuestra plataforma. Este análisis facilita una comprensión más profunda de sus experiencias, expectativas y dificultades, lo que resulta esencial para diseñar una solución más acorde a sus necesidades y brindar una experiencia de usuario optimizada y centrada en el cliente.
+En esta sección se presentan los Empathy Maps correspondientes a los segmentos objetivos: doctor, allegado de adulto mayor y enfermera.
+Los Empathy Maps ayudan a comprender las necesidades, preocupaciones, motivaciones y frustraciones de los usuarios, proporcionando un entendimiento profundo de su perspectiva y sirviendo como base para diseñar soluciones centradas en sus experiencias y emociones.
 
 ### Empathy Mapping – Doctor
+
+El Dr. Luis Jiménez, médico geriatra en una casa de reposo, se siente frustrado por la sobrecarga de pacientes y la falta de información en tiempo real que le impide anticiparse a emergencias. Escucha a colegas y familiares demandar soluciones más confiables y observa la necesidad de herramientas digitales que mejoren el monitoreo y la coordinación. Busca brindar atención médica de calidad, reducir complicaciones y ofrecer tranquilidad a las familias mediante tecnología que respalde su labor clínica.
 
 ![Ricardo Salazar Empathy.png](assets%2Fchapter2%2FRicardo%20Salazar%20Empathy.png)
 
 ### Empathy Mapping – Allegado de Adulto Mayor
 
+El Empathy Map de Valeria Pancorbo muestra a una hija cuidadora que vive la ansiedad de no poder estar físicamente con su madre y el miedo a que algo ocurra sin que ella lo sepa. Busca una solución tecnológica confiable que le brinde tranquilidad, permitiéndole monitorear la salud de su madre a distancia y reaccionar ante emergencias. Valeria desea equilibrar su vida laboral con el cuidado familiar, reducir su carga emocional y sentirse segura de que su madre está protegida en todo momento.
+
 ![Ana Rojas Empathy.png](assets%2Fchapter2%2FAna%20Rojas%20Empathy.png)
 
 ### Empathy Mapping – Enfermera
+
+El Empathy Map de Carla Fernández refleja la realidad de una enfermera que enfrenta la presión de cuidar simultáneamente a numerosos adultos mayores con recursos limitados y sistemas poco integrados. Se siente preocupada por no poder atender a todos a tiempo, pero confía en que la tecnología puede ayudarla a reducir riesgos y mejorar la atención. Busca herramientas que automaticen alertas, faciliten la coordinación con médicos y familiares, y le brinden tranquilidad al disminuir su carga laboral y el estrés diario.
 
 ![Carla Fernández Empathy.png](assets%2Fchapter2%2FCarla%20Fern%C3%A1ndez%20Empathy.png)
 
@@ -725,39 +741,47 @@ Zona de Reportes y Analítica: Muestra la generación de documentos PDF, reporte
 
 ## 2.5. Ubiquitous Language
 
-En esta sección, se definen los términos clave utilizados en el dominio de negocio de MediTrack, una plataforma digital diseñada para facilitar el monitoreo, gestión y acompañamiento de la salud de adultos mayores en clínicas, casas de reposo y entornos familiares.
-Siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design, estas definiciones buscan establecer un lenguaje común, claro y coherente entre todos los involucrados en el proyecto: equipo de desarrollo, diseñadores, stakeholders y usuarios finales.
-Este lenguaje compartido permite alinear la visión del producto con las necesidades reales de los adultos mayores y sus cuidadores, facilitando la toma de decisiones, el diseño funcional y el desarrollo de soluciones efectivas y centradas en el usuario.
+En esta sección, se definen los términos clave utilizados en el dominio de negocio de MediTrack, una plataforma digital diseñada para facilitar el monitoreo, gestión y acompañamiento de la salud de adultos mayores en clínicas, casas de reposo y entornos familiares. Siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design, estas definiciones buscan establecer un lenguaje común, claro y coherente entre todos los involucrados en el proyecto: equipo de desarrollo, diseñadores, stakeholders y usuarios finales. Este lenguaje compartido permite alinear la visión del producto con las necesidades reales de los adultos mayores y sus cuidadores, facilitando la toma de decisiones, el diseño funcional y el desarrollo de soluciones efectivas y centradas en el usuario.
 
------------
- 
-### Administrador de clínica
+- Admin
+  Usuario con permisos de gestión dentro de una clínica o casa de reposo afiliada a MediTrack. Es responsable de registrar pacientes, asignar doctores y cuidadores, supervisar el estado de salud de los adultos mayores y generar reportes institucionales.
 
-Usuario con permisos de gestión dentro de una clínica afiliada a MediTrack. Es responsable de registrar pacientes, asignar doctores y cuidadores, supervisar el estado de salud de los adultos mayores y generar reportes institucionales.
+- Doctor
+  Profesional de la salud registrado en MediTrack por administrador. Puede acceder a la información médica de los adultos mayores asignados, registrar diagnósticos, prescribir tratamientos y generar reportes clínicos.
 
-### Administrador de casa de reposo
+- Keeper
 
-Usuario con permisos de gestión dentro de una casa de reposo afiliada a MediTrack. Se encarga de registrar y administrar la información de los residentes, coordinar el trabajo de cuidadores y garantizar el monitoreo continuo de los adultos mayores bajo su responsabilidad.
+  Profesional que brinda asistencia directa y diaria a un adulto mayor en casa de reposo, registrado por un administrador. Su función principal es actualizar la información en tiempo real (estado de ánimo, signos vitales) y responder a alertas generadas por el sistema.
 
-### Doctor
+- Senior citizen
+  Usuario principal de MediTrack. Representa a la persona de la tercera edad que es el centro del sistema y sobre la cual se administran todos los datos médicos y de bienestar. Puede ser portador del dispositivo IoT (para el monitoreo en tiempo real) y/o utilizar la Web Application para visualizar su información y recibir notificaciones. Su perfil es gestionado y acompañado por doctores, cuidadores y administradores dentro de la plataforma.
 
-Profesional de la salud registrado en MediTrack por administrador. Puede acceder a la información médica de los adultos mayores asignados, registrar diagnósticos, prescribir tratamientos y generar reportes clínicos. 
+- Report
+  Registro estructurado de información relevante en la plataforma. Puede referirse a un estado clínico, evolución médica, incidente o evaluación periódica del adulto mayor. Los reportes pueden ser generados por doctores, cuidadores o administradores.
 
-### Cuidador
+- Alert
+  Notificación inmediata generada por la plataforma ante situaciones críticas o inusuales (ejemplo: caída, anomalía en signos vitales). Su objetivo es garantizar una respuesta rápida de cuidadores y doctores según la gravedad del evento.
 
-Profesional que brinda asistencia directa y diaria a un adulto mayor en casa de reposo, registrado por un administrador. Su función principal es actualizar la información en tiempo real (estado de ánimo, signos vitales) y responder a alertas generadas por el sistema.
+- Vital signs
+  Información registrada periódicamente sobre parámetros de salud del adulto mayor (frecuencia cardíaca, presión arterial, oxigenación, temperatura). Base para alertas y reportes médicos.
 
-### Adulto mayor
+- IoT Device
+  Equipamiento utilizado para el monitoreo en tiempo real de los adultos mayores, enviando datos sobre actividad y signos vitales a MediTrack.
 
-Usuario principal de MediTrack. Representa a la persona de la tercera edad que es el centro del sistema y sobre la cual se administran todos los datos médicos y de bienestar. Puede ser portador del dispositivo IoT (para el monitoreo en tiempo real) y/o utilizar la Web Application para visualizar su información y recibir notificaciones. Su perfil es gestionado y acompañado por doctores, cuidadores y administradores dentro de la plataforma.
+- Profile
+  Conjunto de información personal y médica de un adulto mayor, allegado, doctor, cuidador o administrador. Central para la gestión y acceso a la información en MediTrack.
 
-### Reporte
+- Save / Register
+  Acción de almacenar información en la plataforma. Puede aplicarse a datos de adultos mayores, signos vitales, reportes, tratamientos o configuraciones.
 
-Registro estructurado de información relevante en la plataforma. Puede referirse a un estado clínico, evolución médica, incidente o evaluación periódica del adulto mayor. Los reportes pueden ser generados por doctores, cuidadores o administradores.
+- Download  
+  Acción de obtener información de la plataforma en formato externo (PDF, CSV) para revisión o análisis. Puede incluir reportes médicos o estadísticas.
 
-### Alerta
+- Add
+  Acción de introducir nuevos elementos en la plataforma, como un adulto mayor, un cuidador, un doctor o un plan de cuidado.
 
-Notificación inmediata generada por la plataforma ante situaciones críticas o inusuales (ejemplo: caída, anomalía en signos vitales). Su objetivo es garantizar una respuesta rápida de cuidadores y doctores según la gravedad del evento.
+- Statistic
+  Representa datos agregados sobre la salud, bienestar y seguimiento de los adultos mayores. Incluye indicadores como evolución de signos vitales, cumplimiento de tratamientos, frecuencia de alertas o actividad física. Estas métricas son consultadas por doctores, cuidadores, administradores y allegados para tomar decisiones informadas.
 
 # Capítulo III: Requirements Specification
 
