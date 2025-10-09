@@ -742,15 +742,14 @@ Frontend desplegado en Netlify: http://meditrack-open.netlify.app/
 Se realizaron pruebas de verificación en la versión desplegada para validar la correcta carga de componentes y funcionalidades básicas como navegación, visualización de datos y responsividad.
 
 #### Evidencias de despliegue:
-![img_7.png](img_7.png)
-![img_8.png](img_8.png)
+![img_7.png](./assets/chapter5/deploy-sp2-evidence.png)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
 
 #### Capturas de Insights del repositorio:
-![img_9.png](img_9.png)
+![img_9.png](./assets/chapter5/insights-deploy-sp2.png)
 
 ## Conclusiones y recomendaciones
 
@@ -823,7 +822,7 @@ Las principales suposiciones de negocio y de funcionalidad se vieron fuertemente
 | Reporte               | Enlace al repositorio del reporte      | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report             |
 | Landing Page          | Enlace al repositorio del Landing Page | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page       |
 | Frontend              | Enlace al repositorio del frontend     | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-frontend |
-| Backend               | Enlace al repositorio del backend      |                                                                             |
+| Backend               | Enlace al repositorio del backend      | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-backend |
 | Deployed Landing Page | Enlace del deploy del Landing Page     | https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/      |
-| Deployed Frontend     | Enlace del deploy del frontend         |                                                                             |
+| Deployed Frontend     | Enlace del deploy del frontend         | https://meditrack-open.netlify.app                                                              |
 | Deployed Backend      | Enlace del deploy del backend          |                                                                             |
