@@ -2631,7 +2631,7 @@ Para este primer sprint no se vio una ejecutación de servicios.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-# Sprint 1 - MediTrack
+#### Sprint 1 - MediTrack
 
 Durante el **Sprint 1** del desarrollo de **MediTrack**, se ejecutaron las primeras tareas de despliegue, centradas en la **publicación de la Landing Page**.
 
@@ -2676,6 +2676,11 @@ Durante el **Sprint 1** del desarrollo de **MediTrack**, se ejecutaron las prime
 > Para este repositorio se evidenció el trabajo colaborativo de los estudiantes. Sin embargo, la gráfica de GitHub muestra que un solo usuario realizó la mayoría de los cambios. Esto se debió a la falta de tiempo y a errores imprevistos que impidieron que los demás integrantes integraran sus aportes. Aun así, podemos asegurar que el trabajo fue realizado de manera colaborativa por todo el equipo.
 
 ### 5.2.2. Sprint 2
+
+Durante el Sprint 2 del proyecto MediTrack, el equipo de AlpacaFlow centró sus esfuerzos en el desarrollo frontend de la plataforma de MediTrack. Se implementaron las secciones clave, como el mensaje de bienvenida, botones de registro y navegación, y los datos de contacto. Además, se trabajó en interacciones y comportamiento visual, incluyendo el encabezado fijo al hacer scroll y una presentación clara de la propuesta de valor.
+
+El equipo completó todas las tareas previstas, priorizando siempre una navegación fluida, accesibilidad y claridad en la comunicación. AlpacaFlow desarrolló íntegramente la capa frontend de la Landing Page e implementó su diseño completo, incorporando llamados a la acción, diseño responsive, sección de planes, testimonios, preguntas frecuentes y una navegación optimizada, cumpliendo con todos los requisitos para asegurar una experiencia de usuario eficiente.
+
 
 #### 5.2.2.1. Sprint Planning 2
 
