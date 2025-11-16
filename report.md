@@ -1966,6 +1966,8 @@ Se incorpora el lenguaje ingles en la landing page para mobile.
 Enlace para acceder al [Figma](https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1)
 https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1
 
+https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1
+
 **Web Application para Desktop Web Browser**
 
 Los siguientes Wireframes fueron para ser base a los muck-ups proximos a presentar.
@@ -2480,6 +2482,25 @@ un analisis estadistico en tiempo real para controlar los signos vitales.
 <img src="assets/chapter4/UG-PacienteAC.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
 
 ## 4.5. Web Applications Prototyping
+
+Para poder elaborar los prototipos de la interfaz de usuario de dispositivos desktop y moviles, se opto por seguir ciertos
+criterios, tales como:
+
+1. Claridad y Usabilidad: Se buscó que la navegación dentro de la aplicación resultara sencilla e intuitiva, permitiendo a los usuarios comprender fácilmente sus funciones principales, como el registro de procesos y la consulta de reportes estadísticos.
+2. Adaptabilidad del Diseño: Se consideró fundamental implementar un diseño adaptable o responsive, asegurando que la aplicación web funcione correctamente en diferentes tamaños de pantalla, sin importar el dispositivo utilizado.
+3. Enfoque en la Información Esencial: El diseño prioriza la presentación de los datos más relevantes para el público objetivo, evitando la sobrecarga de contenido innecesario.
+
+<img src="assets/chapter4/mobileProtoyping.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+Direccionamiento al [Prototipo Mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EXz4E9NdVZtIkEk7n6GaAXwBa8DvhRgeo7SjpotPW2Xmbw?e=qvh1pP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+https://tinyurl.com/4ehaedhv
+
+<img src="assets/chapter4/AppWebPrototyping.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+Direccionamiento al [Prototipo WebApp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EVciWpoXIMpFoRcwCB0ujjgBQOgI-L9YpizFcXMiJbPZQw?e=VAR3eO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+https://tinyurl.com/ytm3bvr9
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -3540,6 +3561,9 @@ El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino
 **Visual Studio Code**: Editor de código versátil empleado para programar y compilar, gracias a su compatibilidad con múltiples lenguajes y extensiones.  
 **Ruta de acceso:** [https://code.visualstudio.com](https://code.visualstudio.com)
 
+**WebStorm**: IDE para desarrollo en JavaScript y TypeScript, que ofrece potentes herramientas de refactorización y navegación.  
+**Ruta de acceso:** [https://www.jetbrains.com/webstorm](https://www.jetbrains.com/webstorm)
+
 **IntelliJ IDEA**: Entorno de desarrollo avanzado diseñado para proyectos en Java y Kotlin, fundamental en la construcción de componentes del sistema.  
 **Ruta de acceso:** [https://www.jetbrains.com/idea](https://www.jetbrains.com/idea)
 
@@ -3549,8 +3573,17 @@ El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino
 **CSS**: Lenguaje de estilos para definir la presentación visual de las páginas web, garantizando una experiencia de usuario consistente.  
 **Ruta de acceso:** [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-**JavaScript**: Lenguaje de programación que habilita la interactividad en las interfaces web, esencial para la dinámica del sistema.  
-**Ruta de acceso:** [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+**TypeScript**: Lenguaje de programación que extiende JavaScript con tipado estático, mejorando la calidad y mantenibilidad del código.  
+**Ruta de acceso:** [https://www.typescriptlang.org](https://www.typescriptlang.org)
+
+**Angular**: Framework de desarrollo para construir aplicaciones web dinámicas y de una sola página.  
+**Ruta de acceso:** [https://angular.io](https://angular.io)
+
+**Java**: Lenguaje de programación orientado a objetos, ampliamente utilizado para desarrollar aplicaciones robustas y escalables.  
+**Ruta de acceso:** [https://www.java.com](https://www.java.com)
+
+**Spring Boot**: Framework basado en Java que facilita la creación de aplicaciones empresariales mediante convenciones y herramientas integradas.  
+**Ruta de acceso:** [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
 
 ---
 
@@ -3651,10 +3684,6 @@ Prácticas aplicadas en el desarrollo de la Landing Page estática:
 1. Uso de Flexbox Grid para estructurar y diseñar la Landing Page de manera responsive.
 2. Definición de colores en formato HEX.
 3. Inclusión de comentarios al inicio de cada archivo CSS para identificar las secciones de la página.
-
-#### JS
-
-1. Declaración de funciones siguiendo la convención de nomenclatura camelCase.
 
 #### GERKHIN
 
@@ -3849,6 +3878,8 @@ Durante el **Sprint 1** del desarrollo de **MediTrack**, se ejecutaron las prime
 ![Landing Page Image Domain](./assets/chapter5/landing-domain.png)
 
 [Landing Page MediTrack](https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/)
+
+https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/
 
 #### 5.2.1.8. Team Collaboration Insigths during Sprint
 
