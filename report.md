@@ -2788,7 +2788,412 @@ En esta sección se evidencia la colaboración de cada integrante en el reposito
 #### Capturas de Insights del repositorio:
 ![img_9.png](./assets/chapter5/insights-deploy-sp2.png)
 
-## Conclusiones y recomendaciones
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+| **Sprint #** | Sprint 3 |
+| ------------ | -------- |
+
+| **Sprint Planning Background** |                                                                     |
+| ------------------------------ |---------------------------------------------------------------------|
+| **Date**                       | 28 de octubre del 2025.                                             |
+| **Time**                       | 16:00 PM                                                            |
+| **Location**                   | Vía Discord                                                         |
+| **Prepared By**                | Barrientos Quispe Marcelo                                           |
+| **Attendees (to planning)**    | Javier Masaru, Carlos Fernandez, Gabriel Rivera, Marcelo Barrientos |
+
+---
+
+| **Sprint 3 – Review Summary**        | El equipo logró publicar la primera versión de la aplicación back-end de MediTrack en Microsoft Azure, incorporando los principales endpoints para las operaciones de la plataforma. Se alcanzó la meta de contar con un entorno de despliegue funcional que permite validar la propuesta de valor del proyecto y facilita la interacción inicial con los usuarios, brindando una experiencia fluida y accesible desde la interfaz web. |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 3 – Retrospective Summary** | Los integrantes mencionaron contar con las capacidades, habilidades y tiempo necesarias para desempeñar sus responsabilidades en el tiempo establecido.                                                                                                                                                                                                                                                                                 |
+|                                      |
+
+---
+
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 3 Goal**              | Nuestro objetivo fue diseñar, desarrollar y desplegar la primera version de la aplicación back-end de MediTrack, priorizando el enfoque Domain Driven Design. Nos aseguramos de que cada función registre y gestione los datos correctamente, ofrezca retroalimentación clara ante errores y brinde una experiencia de usuario coherente, segura y eficaz. |
+|                                |
+| **Sprint 3 Velocity**          | 7 story points                                                                                                                                                                                                                                                                                                                                             |
+| **Sum of Story Points**        | 7 story points                                                                                                                                                                                                                                                                                                                                             |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
+
+| **Team member (LastName, First Name)** | **GitHub UserName** | **Aspect 1: Relative Leader (L) / Collaborator (C)** | **Aspect 2: Organization Leader (L) / Collaborator (C)** | **Aspect 3: Device Leader (L) / Collaborator (C)** | **Aspect 4: IAM Leader (L) / Collaborator (C)** |
+|----------------------------------------| ------------------- | ---------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- |
+| Gabriel Rivera                         | guestwhoo           | C                                                    | C                                                        | L                                                  | C                                               |
+| Javier Masaru                          | MassiFlip	        | C                                                    | C                                                        | C                                                  | L                                               |
+| Carlos Fernandez                       | u202320083           | C                                                    | L                                                        | C                                                  | C                                               |
+| Barrientos Marcelo                     | MarceBq             | L                                                    | C                                                        | C                                                  | C                                               |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+Trello:
+
+![MediTrack Trello Sprint Backlog 3](./assets/chapter5/trello-s3.png)
+
+A continuacion se muestra el backlog del sprint 3 con las historias de usuario y tareas asociadas.
+
+| User Story |                                                                         | Work-item/task |                                                                          |                                                                                                                                                                           |            |                     |             |
+| ---------- |-------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ---------- |---------------------| ----------- |
+| ID         | Title                                                                   | ID             | Title                                                                    | Description                                                                                                                                                               | Estimation | Assigned to         | Status      |
+| TS-001     | Crear organizaciones (Organizations)                                    | TSK-001.1      | Crear Endpoint POST /api/v1/organizations                                | Implementar el endpoint que permita buscar y recuperar una organización por su identificador único.                                                                       | 1h         | Carlos Fernandez    | Done        |
+|            |                                                                         | TSK-001.2      | Implementar Escenario Encontrado                                         | Asegurar que, la organizacion se registre (OrganizationResource) con una respuesta 200 OK.                                                                                | 3h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-001.3      | Implementar Escenario No Encontrado                                      | Asegurar que, si no se puede registrar, se devuelva una respuesta 404 Not Found y devuelve una carga útil de error.                                                       | 1h         | Marcelo Barrientos  | In Progress |
+| TS-002     | Obtener todos los Administradores por Organización                      | TSK-002.1      | Crear Endpoint GET /api/v1/organization/{organizationId}/admin           | Implementar el endpoint que lista todos los administradores asociados a una organización.                                                                                 | 2h         | Marcelo Barrientos  | Done        |
+|            |                                                                         | TSK-002.2      | Asegurar respuesta de endpoint administradores                           | Asegurar que el endpoint responde 200 OK con un array de ítems de AdminResource.                                                                                          | 1h         | Marcelo Barrientos  | Done        |
+| TS-003     | Endpoint para listar administradores de una organización                | TSK-003.1      | Crear Endpoint GET /api/v1/organization/{organizationId}/admin           | Implementar el endpoint para listar los administradores asociados a una organización.                                                                                      | 2h         | Javier Masaru       | Done        |
+|            |                                                                         | TSK-003.2      | Implementar Escenario con Administradores                                 | Asegurar que el endpoint responde 200 OK con un array de AdminResource cuando existen administradores.                                                                     | 1h         | Carlos Fernandez    | Done        |
+|            |                                                                         | TSK-003.3      | Implementar Escenario sin Administradores                                | Asegurar que el endpoint responde 200 OK con una lista vacía cuando no hay administradores.                                                                               | 1h         | Marcelo Barrientos  | Done        |
+| TS-004     | Endpoint para registrar administrador de organización                  | TSK-004.1      | Crear Endpoint POST /api/v1/organization/{organizationId}/admin           | Implementar el endpoint para agregar administradores a una organización.                                                                                                    | 2h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-004.2      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el administrador y retornar 201 Created con el AdminResource creado.                                                                                    | 3h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-004.3      | Validar Usuario ya Registrado                                             | Asegurar que si el usuario ya es administrador, se responde con 409 Conflict.                                                                                              | 2h         | Javier Masaru       | In Progress |
+| TS-005     | Crear un Cuidador (Caregiver)                                           | TSK-005.1      | Crear Modelo de Datos CaregiverResource                                  | Diseñar y definir la entidad CaregiverResource con campos clave como: id, OrgId, UserId, FirstName, LastName, BirthDate, PhoneNumber, ProfileImage.                       | 4h         | Carlos Fernandez    | Done        |
+|            |                                                                         | TSK-005.2      | Crear Endpoint POST /api/v1/caregivers                                   | Implementar el endpoint para crear un cuidador.                                                                                                                           | 1h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-005.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el cuidador y retornar 201 Created con el CaregiverResource creado.                                                                                    | 3h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-005.4      | Validar Atributos y Errores                                              | Añadir validaciones (ej. OrgId, UserId, obligatorios). Retornar 400 Bad Request en caso de error.                                                                         | 2h         | Carlos Fernandez    | Done        |
+| TS-006     | Obtener un Cuidador por id                                              | TSK-006.1      | Crear Endpoint GET /api/v1/caregivers/{caregiverId}                      | Implementar el endpoint para buscar un cuidador por su ID.                                                                                                                | 1h         | Marcelo Barrientos  | Done        |
+|            |                                                                         | TSK-006.2      | Implementar Escenario Encontrado                                         | Devolver 200 OK con el CaregiverResource si el cuidador existe.                                                                                                           | 4h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-006.3      | Implementar Escenario No Encontrado                                      | Devolver 404 Not Found si el caregiverId es inexistente.                                                                                                                  | 2h         | Carlos Fernandez    | In Progress |
+| TS-007     | Obtener todos los Cuidadores por organización                           | TSK-007.1      | Crear Endpoint GET /api/v1/organization/{organizationId}/caregiver       | Implementar el endpoint para listar cuidadores asociados a una organización.                                                                                              | 3h         | Carlos Fernandez    | Done        |
+|            |                                                                         | TSK-007.2      | Devolver Lista de Cuidadores                                             | Asegurar que el endpoint responde 200 OK con un array de ítems de CaregiverResource.                                                                                      | 1h         | Javier Masaru       | Done        |
+| TS-007     | Crear un Médico (Doctor)                                                | TSK-008.1      | Crear Modelo de Datos DoctorResource                                     | Diseñar y definir la entidad DoctorResource con campos clave: DoctorId, OrgId, UserId, FirstName, LastName, BirthDate, PhoneNumber, Specialty, ProfileImage.              | 4h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-007.2      | Crear Endpoint POST /api/v1/doctors                                      | Implementar el endpoint para crear un médico.                                                                                                                             | 3h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-007.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el médico y retornar 201 Created con el DoctorResource creado.                                                                                         | 2h         | Marcelo Barrientos  | Done        |
+|            |                                                                         | TSK-007.4      | Validar Atributos y Errores                                              | Añadir validaciones (ej. OrgId, UserId, Specialty obligatorios). Retornar 400 Bad Request en caso de error.                                                               | 1h         | Marcelo Barrientos  | Done        |
+| TS-009     | Obtener un Médico por id                                                | TSK-009.1      | Crear Endpoint GET /api/v1/doctors/{doctorId}                            | Implementar el endpoint para buscar un médico por su ID.                                                                                                                  | 2h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-009.2      | Implementar Escenario Encontrado                                         | Devolver 200 OK con el DoctorResource si el médico existe.                                                                                                                | 3h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-009.3      | Implementar Escenario No Encontrado                                      | Devolver 404 Not Found si el doctorId es inexistente.                                                                                                                     | 4h         | Carlos Fernandez    | Done        |
+| TS-010     | Obtener todos los Médicos por organización                              | TSK-010.1      | Crear Endpoint GET /api/v1/organization/{organizationId}/doctor          | Implementar el endpoint para listar médicos asociados a una organización.                                                                                                 | 1h         | Javier Masaru       | Done        |
+|            |                                                                         | TSK-010.2      | Devolver Lista de Médicos                                                | Asegurar que el endpoint responde 200 OK con un array de ítems de DoctorResource.                                                                                         | 2h         | Javier Masaru       | In Progress |
+| TS-011     | Obtener todos los Ciudadanos Mayores (Senior Citizens) por organización | TSK-011.1      | Crear Endpoint GET /api/v1/organization/{organizationId}/senior-citizens | Implementar el endpoint para listar ciudadanos mayores asociados a una organización.                                                                                      | 3h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-011.2      | Devolver Lista de Ciudadanos Mayores                                     | Asegurar que el endpoint responde 200 OK con un array de ítems de SeniorCitizenResource.                                                                                  | 4h         | Marcelo Barrientos  | Done        |
+| TS-012     | Obtener todos los Ciudadanos Mayores por Médico                         | TSK-012.1      | Crear Endpoint GET /api/v1/doctor/{doctorId}/senior-citizens             | Implementar el endpoint para listar ciudadanos mayores asignados a un médico.                                                                                             | 1h         | Carlos Fernandez    | Done        |
+|            |                                                                         | TSK-012.2      | Devolver Lista de Ciudadanos Mayores                                     | Asegurar que el endpoint responde 200 OK con un array de ítems de SeniorCitizenResource.                                                                                  | 2h         | Carlos Fernandez    | In Progress |
+| TS-013     | Obtener todos los Ciudadanos Mayores por cuidador                       | TSK-013.1      | Crear Endpoint GET /api/v1/caregiver/{caregiverId}/senior-citizens       | Implementar el endpoint para listar ciudadanos mayores asignados a un cuidador.                                                                                           | 3h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-013.2      | Devolver Lista de Ciudadanos Mayores                                     | Asegurar que el endpoint responde 200 OK con un array de ítems de SeniorCitizenResource.                                                                                  | 4h         | Javier Masaru       | Done        |
+| TS-014     | Agregar un ciudadano mayor a un Médico                                  | TSK-014.1      | Actualizar Modelo de Datos SeniorCitizenResource con DoctorId            | Asegurar que la entidad SeniorCitizenResource (id, FirstName, LastName, Dni, Gender, Height, BirthDate, Weight, ProfileImage, DeviceId) incluya la relación con DoctorId. | 1h         | Marcelo Barrientos  | Done        |
+|            |                                                                         | TSK-014.2      | Crear Endpoint POST /api/v1/doctor/{doctorId}/senior-citizens            | Implementar el endpoint para crear un ciudadano mayor asociado a un médico.                                                                                               | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-014.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el ciudadano mayor y su relación, y retornar 201 Created con el SeniorCitizenResource creado.                                                          | 3h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-014.4      | Validar Atributos y Errores                                              | Añadir validaciones (ej. FirstName, Dni obligatorios). Retornar 400 Bad Request en caso de error.                                                                         | 4h         | Carlos Fernandez    | Done        |
+| TS-015     | Agregar un ciudadano mayor a un Cuidador                                | TSK-015.1      | Actualizar Modelo de Datos SeniorCitizenResource con CaregiverId         | Asegurar que la entidad SeniorCitizenResource soporte la relación con CaregiverId.                                                                                        | 1h         | Carlos Fernandez    | Done        |
+|            |                                                                         | TSK-015.2      | Crear Endpoint POST /api/v1/caregiver/{caregiverId}/senior-citizens      | Implementar el endpoint para crear un ciudadano mayor asociado a un cuidador.                                                                                             | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-015.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el ciudadano mayor y su relación, y retornar 201 Created con el SeniorCitizenResource creado.                                                          | 3h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-015.4      | Validar Atributos y Errores                                              | Añadir validaciones. Retornar 400 Bad Request en caso de error de validación.                                                                                             | 4h         | Javier Masaru       | Done        |
+| TS-016     | Obtener todos los Ciudadanos Mayores por allegado                       | TSK-016.1      | Crear Endpoint GET /api/v1/relative/{relativeId}/senior-citizens         | Implementar el endpoint para listar ciudadanos mayores asignados a un allegado.                                                                                           | 1h         | Javier Masaru       | Done        |
+|            |                                                                         | TSK-016.2      | Crear Endpoint GET /api/v1/relatives                                      | Implementar el endpoint para listar todos los familiares registrados.                                                                                                      | 2h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-016.3      | Implementar Escenario con Familiares                                      | Asegurar que el endpoint responde 200 OK con un array de RelativeResource cuando existen familiares.                                                                      | 1h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-016.4      | Implementar Escenario sin Familiares                                      | Asegurar que el endpoint responde 200 OK con una lista vacía cuando no hay familiares.                                                                                    | 1h         | Javier Masaru       | In Progress |
+| TS-017     | Endpoint para registrar dispositivos                                    | TSK-017.1      | Crear Modelo de Datos DeviceResource                                      | Diseñar y definir la entidad DeviceResource con campos clave como: id, tipo, serial, nombre.                                                                              | 3h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-017.2      | Crear Endpoint POST /api/v1/devices                                       | Implementar el endpoint para registrar nuevos dispositivos.                                                                                                                | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-017.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el dispositivo y retornar 201 Created con el DeviceResource creado.                                                                                    | 3h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-017.4      | Validar Atributos y Errores                                               | Añadir validaciones (tipo, serial, nombre obligatorios). Retornar 400 Bad Request en caso de error.                                                                       | 2h         | Carlos Fernandez    | In Progress |
+| TS-018     | Endpoint para listar todos los dispositivos                            | TSK-018.1      | Crear Endpoint GET /api/v1/devices                                        | Implementar el endpoint para obtener la lista de todos los dispositivos registrados.                                                                                       | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-018.2      | Implementar Escenario con Dispositivos                                    | Asegurar que el endpoint responde 200 OK con un array de DeviceResource cuando existen dispositivos.                                                                      | 1h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-018.3      | Implementar Escenario sin Dispositivos                                    | Asegurar que el endpoint responde 200 OK con una lista vacía cuando no hay dispositivos.                                                                                 | 1h         | Carlos Fernandez    | In Progress |
+| TS-019     | Endpoint para obtener dispositivo por ID                               | TSK-019.1      | Crear Endpoint GET /api/v1/devices/{deviceId}                            | Implementar el endpoint para obtener los datos de un dispositivo específico.                                                                                               | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-019.2      | Implementar Escenario Encontrado                                          | Devolver 200 OK con el DeviceResource si el dispositivo existe.                                                                                                           | 2h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-019.3      | Implementar Escenario No Encontrado                                       | Devolver 404 Not Found si el deviceId es inexistente.                                                                                                                     | 1h         | Carlos Fernandez    | In Progress |
+| TS-020     | Endpoint para listar alertas de un dispositivo                         | TSK-020.1      | Crear Endpoint GET /api/v1/devices/{deviceId}/alerts                      | Implementar el endpoint para listar todas las alertas generadas por un dispositivo.                                                                                      | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-020.2      | Implementar Escenario con Alertas                                         | Asegurar que el endpoint responde 200 OK con un array de AlertResource cuando existen alertas.                                                                            | 2h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-020.3      | Implementar Escenario sin Alertas                                        | Asegurar que el endpoint responde 200 OK con una lista vacía cuando no hay alertas.                                                                                       | 1h         | Carlos Fernandez    | In Progress |
+| TS-021     | Endpoint para listar todas las alertas                                 | TSK-021.1      | Crear Endpoint GET /api/v1/alerts                                         | Implementar el endpoint para obtener todas las alertas registradas en el sistema.                                                                                         | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-021.2      | Implementar Escenario con Alertas                                         | Asegurar que el endpoint responde 200 OK con un array de AlertResource cuando existen alertas.                                                                            | 2h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-021.3      | Implementar Escenario sin Alertas                                         | Asegurar que el endpoint responde 200 OK con una lista vacía cuando no hay alertas.                                                                                       | 1h         | Carlos Fernandez    | In Progress |
+| TS-022     | Endpoint para obtener alerta por ID                                    | TSK-022.1      | Crear Endpoint GET /api/v1/alerts/{alertId}                               | Implementar el endpoint para obtener los datos de una alerta específica.                                                                                                   | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-022.2      | Implementar Escenario Encontrado                                          | Devolver 200 OK con el AlertResource si la alerta existe.                                                                                                                 | 2h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-022.3      | Implementar Escenario No Encontrado                                       | Devolver 404 Not Found si el alertId es inexistente.                                                                                                                       | 1h         | Carlos Fernandez    | In Progress |
+| TS-023     | Endpoint para registrar frecuencia cardíaca                             | TSK-023.1      | Crear Modelo de Datos HeartRateResource                                   | Diseñar y definir la entidad HeartRateResource con campos clave: deviceId, bpm, fecha, hora.                                                                               | 3h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-023.2      | Crear Endpoint POST /api/v1/devices/{deviceId}/heart-rates                | Implementar el endpoint para registrar los valores de frecuencia cardíaca de un dispositivo.                                                                            | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-023.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el registro y retornar 201 Created con el HeartRateResource creado.                                                                                    | 3h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-023.4      | Validar Atributos y Errores                                               | Añadir validaciones (bpm, fecha, hora obligatorios). Retornar 400 Bad Request en caso de error.                                                                          | 2h         | Carlos Fernandez    | In Progress |
+| TS-024     | Endpoint para consultar frecuencia cardíaca                             | TSK-024.1      | Crear Endpoint GET /api/v1/devices/{deviceId}/heart-rates                 | Implementar el endpoint para consultar los registros de frecuencia cardíaca de un dispositivo.                                                                           | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-024.2      | Implementar Escenario con Registros                                       | Asegurar que el endpoint responde 200 OK con un array de HeartRateResource cuando existen registros.                                                                      | 2h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-024.3      | Implementar Escenario sin Registros                                       | Asegurar que el endpoint responde 200 OK con una lista vacía cuando no hay registros.                                                                                     | 1h         | Carlos Fernandez    | In Progress |
+| TS-025     | Endpoint para registrar niveles de oxígeno                             | TSK-025.1      | Crear Modelo de Datos OxygenResource                                      | Diseñar y definir la entidad OxygenResource con campos clave: deviceId, SpO2, fecha, hora.                                                                                 | 3h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-025.2      | Crear Endpoint POST /api/v1/devices/{deviceId}/oxygens                    | Implementar el endpoint para registrar los niveles de saturación de oxígeno de un dispositivo.                                                                         | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-025.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el registro y retornar 201 Created con el OxygenResource creado.                                                                                      | 3h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-025.4      | Validar Atributos y Errores                                               | Añadir validaciones (SpO2, fecha, hora obligatorios). Retornar 400 Bad Request en caso de error.                                                                        | 2h         | Carlos Fernandez    | In Progress |
+| TS-026     | Endpoint para consultar niveles de oxígeno                              | TSK-026.1      | Crear Endpoint GET /api/v1/devices/{deviceId}/oxygens                    | Implementar el endpoint para consultar los registros de oxígeno de un dispositivo.                                                                                      | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-026.2      | Implementar Escenario con Registros                                       | Asegurar que el endpoint responde 200 OK con un array de OxygenResource cuando existen registros.                                                                         | 2h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-026.3      | Implementar Escenario sin Registros                                      | Asegurar que el endpoint responde 200 OK con una lista vacía cuando no hay registros.                                                                                    | 1h         | Carlos Fernandez    | In Progress |
+| TS-027     | Endpoint para registrar presión arterial                                | TSK-027.1      | Crear Modelo de Datos BloodPressureResource                               | Diseñar y definir la entidad BloodPressureResource con campos clave: deviceId, sistólica, diastólica, fecha, hora.                                                         | 3h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-027.2      | Crear Endpoint POST /api/v1/devices/{deviceId}/blood-pressures            | Implementar el endpoint para registrar los valores de presión arterial de un dispositivo.                                                                                | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-027.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el registro y retornar 201 Created con el BloodPressureResource creado.                                                                                | 3h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-027.4      | Validar Atributos y Errores                                               | Añadir validaciones (sistólica, diastólica, fecha, hora obligatorios). Retornar 400 Bad Request en caso de error.                                                        | 2h         | Carlos Fernandez    | In Progress |
+| TS-028     | Endpoint para consultar presión arterial                                | TSK-028.1      | Crear Endpoint GET /api/v1/devices/{deviceId}/blood-pressures            | Implementar el endpoint para consultar los registros de presión arterial de un dispositivo.                                                                              | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-028.2      | Implementar Escenario con Registros                                       | Asegurar que el endpoint responde 200 OK con un array de BloodPressureResource cuando existen registros.                                                                  | 2h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-028.3      | Implementar Escenario sin Registros                                       | Asegurar que el endpoint responde 200 OK con una lista vacía cuando no hay registros.                                                                                     | 1h         | Carlos Fernandez    | In Progress |
+| TS-029     | Endpoint para registrar temperatura corporal                            | TSK-029.1      | Crear Modelo de Datos TemperatureResource                                 | Diseñar y definir la entidad TemperatureResource con campos clave: deviceId, valor en °C, fecha, hora.                                                                      | 3h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-029.2      | Crear Endpoint POST /api/v1/devices/{deviceId}/temperatures              | Implementar el endpoint para registrar los valores de temperatura corporal de un dispositivo.                                                                            | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-029.3      | Implementar Flujo de Creación Exitosa                                    | Validar, persistir el registro y retornar 201 Created con el TemperatureResource creado.                                                                            | 3h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-029.4      | Validar Atributos y Errores                                               | Añadir validaciones (valor en °C, fecha, hora obligatorios). Retornar 400 Bad Request en caso de error.                                                                  | 2h         | Carlos Fernandez    | In Progress |
+| TS-030     | Endpoint para consultar temperatura corporal                           | TSK-030.1      | Crear Endpoint GET /api/v1/devices/{deviceId}/temperatures                | Implementar el endpoint para consultar los registros de temperatura corporal de un dispositivo.                                                                          | 2h         | Marcelo Barrientos  | In Progress |
+|            |                                                                         | TSK-030.2      | Implementar Escenario con Registros                                       | Asegurar que el endpoint responde 200 OK con un array de TemperatureResource cuando existen registros.                                                                    | 2h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-030.3      | Implementar Escenario sin Registros                                       | Asegurar que el endpoint responde 200 OK con una lista vacía cuando no hay registros.                                                                                     | 1h         | Carlos Fernandez    | In Progress |
+
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| ---------- | ------ | --------- | -------------- | ------------------- | ------------------ |
+
+TODO
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el desarrollo del segundo sprint se desarrolló los componentes principales con respecto al negocio.
+A continuación se muestran evidencias de la plataforma backend.
+
+![MediTrack-Backend1](./assets/chapter5/backend1.png)
+![MediTrack-Backend2](./assets/chapter5/backend2.png)
+![MediTrack-Backend3](./assets/chapter5/backend3.png)
+![MediTrack-Backend4](./assets/chapter5/backend4.png)
+
+
+![MediTrack-fronted1](./assets/chapter5/frontend-1.png)
+![MediTrack-fronted2](./assets/chapter5/frontend-2.png)
+![MediTrack-fronted3](./assets/chapter5/frontend-3.png)
+![MediTrack-fronted4](./assets/chapter5/frontend-4.png)
+![MediTrack-fronted5](./assets/chapter5/frontend-5.png)
+![MediTrack-fronted6](./assets/chapter5/frontend-6.png)
+![MediTrack-fronted7](./assets/chapter5/frontend-7.png)
+![MediTrack-fronted8](./assets/chapter5/frontend-8.png)
+![MediTrack-fronted9](./assets/chapter5/frontend-9.png)
+![MediTrack-fronted10](./assets/chapter5/frontend-10.png)
+![MediTrack-fronted11](./assets/chapter5/frontend-11.png)
+![MediTrack-fronted12](./assets/chapter5/frontend-12.png)
+![MediTrack-fronted13](./assets/chapter5/frontend-13.png)
+![MediTrack-fronted14](./assets/chapter5/frontend-14.png)
+
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, se completó la implementación de la primera version de la plataforma backend. Este paso permitio ofrecer una API que permita la conexion con nuestro front end.
+
+Actividades realizadas:
+Se creó una cuenta en Microsoft Azure y se vinculó el repositorio del proyecto para automatizar los despliegues desde la rama principal.
+
+Se configuró el despliegue automático desde Microsoft Azure seleccionando la rama master del repositorio.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Se verificó el despliegue exitoso de la plataforma en la siguiente URL pública:
+
+Backend desplegado en Microsoft Azure: https://meditrack-platform-springboot.azurewebsites.net/swagger-ui/index.html
+
+Se realizaron pruebas para verificar el manejo correcto de datos segun operaciones CRUD.
+
+#### Evidencias de despliegue:
+
+![Backend Deployment Evidence](./assets/chapter5/deploy-backend-ev01.png)
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del backend.
+
+| **Alumno**                      | **GitHub User** | **Actividad**            |
+|---------------------------------|-----------------| ------------------------ |
+| Barrientos Quispe, Marcelo      | MarceBq         | Módulo Allegados         |
+| Fernandez Camayo, Carlos Fredy  | u202320083       | Módulo de Organizaciones |
+| Nikaido Vargas, Javier Masaru   | MassiFlip       | Módulo de Dispositivos   |
+| Rivera Ayala, Gabriel Alejandro | guestwhoo      | Módulo de Dispositivos   |
+
+#### Capturas de Insights del repositorio:
+
+Front End:
+
+![MediTrack-Front-1](./assets/chapter5/medi-front-1.png)
+
+![MediTrack-Front-2](./assets/chapter5/medi-front-2.png)
+
+Back End:
+
+![MediTrack-Back-1](./assets/chapter5/medi-back-1.png)
+
+![MediTrack-Back-2](./assets/chapter5/medi-back-2.png)
+
+
+## 5.3. Validation Interviews
+
+En la sección de “Validation Interviews” del proyecto Meditrack nos enfocamos en mejorar la presentación y funcionalidad de la plataforma web. En este punto se llega a la comunicación directa con los segmentos objetivos con el fin de entrevistar y obtener respuestas sobre la experiencia y percepción dentro de la plataforma, ya sean criticas positivas o negativas, esto ayuda en la mejora continua para la integración adecuada de futuras integraciones o correcciones orientadas en mejorar la mejora continua de la plataforma. A continuación se muestran los user goals necesarios para la realización de las entrevistas:
+
+### 5.3.1 Diseño de Entrevistas
+
+**Relatives :** 
+¿La distribución del panel te permite identificar rápidamente cómo se encuentra tu familiar en ese momento?
+
+¿Las secciones destinadas para familiares son claras y fáciles de ubicar al entrar a la plataforma?
+
+¿La visualización de los signos vitales y el estado general de tu familiar te resulta comprensible sin conocimientos médicos?
+
+¿Las alertas de emergencia o variaciones anormales de salud aparecen de manera clara y fácil de entender?
+
+¿Qué tipo de alertas adicionales desearías recibir para sentir mayor tranquilidad?
+
+¿La información presentada (signos vitales, historial, alertas recientes) es suficiente para entender la condición de tu familiar?
+
+¿Falta algún tipo de estadística o gráfica que te ayude a interpretar mejor el progreso o cambios en la salud?
+
+¿Te resultó fluida la navegación entre las distintas secciones, como estado actual, historial y configuraciones de alertas?
+
+¿Puedes visualizar fácilmente a todos los familiares bajo tu cuidado, si tienes más de uno asignado?
+
+¿Hay alguna parte de la experiencia que te haya parecido confusa, lenta o difícil de usar?
+
+¿Qué función o mejora agregarías para sentir mayor confianza y control sobre el estado de tu familiar?
+
+¿Percibes que esta plataforma podría ayudarte a reducir la preocupación diaria y mejorar la comunicación con el personal médico?
+
+**Caregiver o Doctor**
+¿La distribución del dashboard te permite identificar rápidamente la información importante del paciente?
+
+¿Las secciones destinadas a tu rol (médico o cuidador) son claras y fáciles de ubicar?
+
+¿La visualización de signos vitales y movilidad es comprensible a primera vista?
+
+¿Las alertas de caídas o variaciones anormales aparecen de forma clara y accionable?
+
+¿Qué tipo de alertas adicionales considerarías necesarias para mejorar tu labor?
+
+¿Los datos clínicos presentados (signos vitales, registros, tendencias) son suficientes para evaluar el estado del paciente sin necesidad de otras herramientas?
+
+¿Falta algún indicador o gráfico que consideres esencial para el seguimiento de pacientes geriátricos?
+
+¿Te resultó fluida la navegación entre pacientes, alertas y registros históricos?
+
+¿Puedes visualizar de manera clara y ordenada a todos los pacientes que tienes asignados?
+
+¿Qué parte del flujo de uso te pareció menos intuitiva o más lenta?
+
+¿Qué función o mejora agregarías para facilitar tu trabajo diario en la clínica o residencia?
+
+¿Percibes que esta plataforma podría integrarse de manera efectiva en tu institución y ser usada de forma constante?
+
+### 5.3.2 Registro de Entrevistas
+
+##### Doctor
+
+- Nombres: Judith Jesus
+- Apellidos: Ayala Maurtua
+- Edad: 56
+- Distrito: Pueblo Libre
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=kGz1vZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xN319) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=kGz1vZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xN319
+- [Timming Entrevista Judith Ayala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=uDIFv2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=uDIFv2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+- Inicio:(00:00)
+- Fin:(05:06)
+
+![video screenshoot](assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
+
+- Resumen:
+
+La entrevistada es Judith Ayala y ocupa el cargo de Doctora, considera que las funcionalidades de meditrack son ideales para poder ser una herramienta efectiva, asimismo que la aplicacion resulta intuitiva
+para la interaccion de los doctores durante un tiempo prolongado, ademas que recomendaria la aplicacion ya qye su uso daria beneficios a los doctores.
+
+
+
+##### Caregiver
+
+- Nombres: Cesar 
+- Apellidos: Meza
+- Distrito: Ate
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=kGz1vZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xN319) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=kGz1vZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xN319
+- [Timming Entrevista Cesar Meza](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=QPAvCx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzA4LjA1fX0%3D) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=QPAvCx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzA4LjA1fX0%3D
+- Inicio:(05:07)
+- Fin:(12:16)
+
+![video screenshoot](assets/chapter5/casa-reposo-validation.png "Video screenshoot casas de reposo interview 3")
+
+- Resumen:
+
+El entrevistado es Cesar Meza, un cuidador de una casa de reposo en provincia, considera que la aplicacion nueve un buen sistema de navegacion, ademas que las funcionalidades pueden ser utiles en momentos
+clave, considera que podria haber una guia rapida para mejorar la adaptacion. Toma en cuenta que la aplicacion seria de ayuda para los cuidadores de casa de reposo
+
+
+### 5.3.2 Evaluaciones segun heuristicas
+
+## Evaluación de Heurísticas de Usabilidad
+
+### 1. Claridad Visual y Jerarquía – **Severidad: 3**
+
+**Heurística violada:**  
+Visibilidad del estado del sistema / Diseño estético y minimalista
+
+**Descripción:**  
+Los elementos principales del perfil del paciente no siguen una jerarquía visual clara. El nombre, atributos y fotografía están dispersos dentro de un card con demasiado espacio vacío, lo que reduce la claridad. La falta de alineación visual fuerte dificulta identificar rápidamente la información relevante.
+
+**Recomendación:**  
+Aplicar una estructura más definida: agrupar propiedades relacionadas, aumentar contraste tipográfico entre títulos y valores, y reducir espacios innecesarios para mejorar la percepción inmediata de la información.
+
+---
+
+### 2. Correspondencia entre diseño y expectativas del usuario – **Severidad: 2**
+
+**Heurística violada:**  
+Correspondencia entre el sistema y el mundo real
+
+**Descripción:**  
+El diseño del panel lateral tiene iconos y estilos que no siempre se correlacionan con su función real o no transmiten de forma intuitiva su propósito. Además, la etiqueta “Profile” en el menú se percibe demasiado general y no indica si corresponde al familiar o al paciente.
+
+**Recomendación:**  
+Usar etiquetas más descriptivas, iconos coherentes con su significado y una estructura de navegación donde cada sección comunique mejor su propósito.
+
+---
+
+### 3. Uso eficiente del espacio y reducción de carga visual – **Severidad: 3**
+
+**Heurística violada:**  
+Diseño estético y minimalista / Prevención de errores
+
+**Descripción:**  
+Existe demasiado espacio vacío entre el menú lateral y la tarjeta central del paciente, generando sensación de desbalance y desperdicio de área útil. La tarjeta se percibe muy pequeña en comparación con la pantalla disponible, provocando una lectura incómoda.
+
+**Recomendación:**  
+Ajustar el layout para aprovechar mejor la anchura disponible, ya sea ampliando el card, reorganizando la información o usando un diseño más responsivo con distribución proporcional.
+
+---
+
+### 4. Retroalimentación y visibilidad de acciones del usuario – **Severidad: 2**
+
+**Heurística violada:**  
+Visibilidad del estado del sistema
+
+**Descripción:**  
+Los elementos interactivos del menú lateral (Statistics, Alerts, Support) no muestran retroalimentación visual clara al seleccionarse o al pasar el cursor. Esto dificulta al usuario saber si ha interactuado correctamente o qué sección está activa.
+
+**Recomendación:**  
+Implementar estados visuales consistentes (hover, active, selected) usando cambios de color, resaltado o iconos activos para mejorar la navegación y orientación del usuario.
+
+
+
+## 5.3. Video About-the-Product
+
+Consolidación del trabajo colaborativo
+A pesar de que la gráfica de GitHub mostró un único usuario con mayor carga de commits, el uso de Trello y la asignación de tareas evidenció que todos los integrantes participaron activamente, lo que refleja la capacidad del equipo para trabajar en conjunto.
+
+Mejora en la organización y gestión de tareas
+La implementación de Trello permitió dividir el backlog en tareas claras y manejables, lo que mejoró la coordinación y facilitó la asignación de responsabilidades en función de las habilidades de cada miembro.
+
+Avance en la calidad del producto
+Se logró construir una landing page completa, con secciones clave como soluciones, planes, misión, visión y contacto, lo cual representa un avance en la presentación profesional y en la experiencia inicial para los usuarios.
+
+Aprendizaje sobre integración y control de versiones
+El equipo identificó dificultades en la integración de cambios en GitHub, lo que resalta la necesidad de mejorar la sincronización y las buenas prácticas en control de versiones para futuros sprints.
+
+Enfoque en la experiencia del usuario
+El sprint permitió validar la importancia de la navegabilidad, el diseño responsive y los llamados a la acción (CTA), lo que servirá como base para seguir optimizando la usabilidad y la accesibilidad en los próximos incrementos del producto.
+
+
+https://www.youtube.com/watch?v=AiR5RI3Urig&t=1s
 
 ### Conclusiones
 
@@ -2828,6 +3233,8 @@ El equipo identificó dificultades en la integración de cambios en GitHub, lo q
 Enfoque en la experiencia del usuario
 El sprint permitió validar la importancia de la navegabilidad, el diseño responsive y los llamados a la acción (CTA), lo que servirá como base para seguir optimizando la usabilidad y la accesibilidad en los próximos incrementos del producto.
 
+
+ 
 # Bibliografía
 
 - Instituto Nacional de Estadística e Informática. (2023a, 29 de diciembre). 42,2 % de los hogares del país tienen entre sus miembros a una persona de 60 años o más [Nota de prensa]. Gobierno del Perú.
@@ -2846,18 +3253,18 @@ El sprint permitió validar la importancia de la navegabilidad, el diseño respo
 
 ### VIDEOS:
 
-| Título                            | Descripción                                        | Enlace                    |
-| --------------------------------- | -------------------------------------------------- | ------------------------- |
-| Video de exposición TB1           | Video explicativo de los avances de la entrega TB1 |                           |
-| Video de exposición TP            | Video explicativo de los avances de la entrega TP1 |                           |
-| Video de exposición TB2           | Video explicativo de los avances de la entrega TB2 |                           |
-| Video de exposición TF            | Video explicativo de los avances de la entrega TF1 |                           |
-| Needfinding interviews            | Video recopilatorio de todas las entrevistas       | https://shorturl.at/VvNz9 |
-| Validation interviews             | Video recopilatorio de todas las entrevistas       |                           |
-| Video About the Product           | Video About the Product                            |                           |
-| Video About the Product - YouTube | Video About the Product - YouTube                  |                           |
-| Video About the Team              | Video About the Team                               |                           |
-| Video About the Team - YouTube    | Video About the Team - YouTube                     |                           |
+| Título                            | Descripción                                        | Enlace                                                                                                                                                                                                                                                                                                                                                                            |
+| --------------------------------- | -------------------------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Video de exposición TB1           | Video explicativo de los avances de la entrega TB1 |                                                                                                                                                                                                                                                                                                                                                                                   |
+| Video de exposición TP            | Video explicativo de los avances de la entrega TP1 |                                                                                                                                                                                                                                                                                                                                                                                   |
+| Video de exposición TB2           | Video explicativo de los avances de la entrega TB2 |                                                                                                                                                                                                                                                                                                                                                                                   |
+| Video de exposición TF            | Video explicativo de los avances de la entrega TF1 |                                                                                                                                                                                                                                                                                                                                                                                   |
+| Needfinding interviews            | Video recopilatorio de todas las entrevistas       | https://shorturl.at/VvNz9                                                                                                                                                                                                                                                                                                                                                         |
+| Validation interviews             | Video recopilatorio de todas las entrevistas       | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=kGz1vZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xN319 |
+| Video About the Product           | Video About the Product                            |                                                                                                                                                                                                                                                                                                                                                                                   |
+| Video About the Product - YouTube | Video About the Product - YouTube                  | https://www.youtube.com/watch?v=AiR5RI3Urig&t=1s                                                                                                                                                                                                                                                                                                                                  |
+| Video About the Team              | Video About the Team                               |                                                                                                                                                                                                                                                                                                                                                                                   |
+| Video About the Team - YouTube    | Video About the Team - YouTube                     | https://www.youtube.com/watch?v=tlHsrEqvofI                                                                                                                                                                                                                                                                                                                                       |
 
 ### UX/UI
 
@@ -2867,13 +3274,13 @@ El sprint permitió validar la importancia de la navegabilidad, el diseño respo
 
 ### GITHUB
 
-| Título                | Descripción                            | Enlace                                                                      |
-| --------------------- | -------------------------------------- | --------------------------------------------------------------------------- |
-| Organización          | Enlace a la organización               | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow                   |
+| Título                | Descripción                            | Enlace                                                                        |
+| --------------------- | -------------------------------------- |-------------------------------------------------------------------------------|
+| Organización          | Enlace a la organización               | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow                    |
 | Reporte               | Enlace al repositorio del reporte      | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report             |
 | Landing Page          | Enlace al repositorio del Landing Page | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page       |
 | Frontend              | Enlace al repositorio del frontend     | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-frontend |
-| Backend               | Enlace al repositorio del backend      | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-backend |
-| Deployed Landing Page | Enlace del deploy del Landing Page     | https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/      |
-| Deployed Frontend     | Enlace del deploy del frontend         | https://meditrack-open.netlify.app                                                              |
-| Deployed Backend      | Enlace del deploy del backend          |                                                                             |
+| Backend               | Enlace al repositorio del backend      | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-backend  |
+| Deployed Landing Page | Enlace del deploy del Landing Page     | https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/       |
+| Deployed Frontend     | Enlace del deploy del frontend         | https://meditrack-open.netlify.app                                            |
+| Deployed Backend      | Enlace del deploy del backend          | https://meditrack-platform-springboot.azurewebsites.net/swagger-ui/index.html |
