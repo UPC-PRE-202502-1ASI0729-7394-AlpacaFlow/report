@@ -3022,6 +3022,99 @@ Back End:
 
 ![MediTrack-Back-2](./assets/chapter5/medi-back-2.png)
 
+# 5.2.4. Sprint 4
+
+## 5.2.4.1. Sprint Planning 4
+
+**Sprint Goal:**  
+Completar e integrar todas las funcionalidades restantes de MediTrack, dejando el sistema listo para validación final: dashboard operativo, alertas funcionales, integración completa frontend–backend y flujos críticos terminados.
+
+**Duración del Sprint:** 1 semana  
+**Team Capacity:** 100%
+
+
+
+## 5.2.4.2. Aspect Leaders and Collaborators
+
+| Aspecto | Líder | Colaboradores |
+|--------|-------|----------------|
+| Frontend – Dashboard y Alertas | Javier Nikaido | Gabriel Rivera |
+| Backend – Organization | Carlos Fernández | Javier Nikaido |
+| Backend – Relatives | Marcelo Barrientos | Carlos Fernández |
+| Backend – Devices | Gabriel Rivera | Marcelo Barrientos |
+| Backend – Auth | Carlos Fernández | Javier Nikaido |
+| Documentación | Todos | — |
+
+---
+
+## 5.2.4.3. Sprint Backlog 4
+
+### User Stories Priorizadas
+
+| ID | User Story | Prioridad | Criterios de Aceptación |
+|----|------------|-----------|--------------------------|
+| HU28 | Como familiar, quiero recibir alertas en tiempo real para saber cuándo ocurre una emergencia. | Alta | Notificaciones visibles e instantáneas ante eventos del parche. |
+| HU29 | Como cuidador, quiero visualizar el historial de movimiento del residente. | Alta | Mapa operativo con registro histórico de movilidad. |
+| HU30 | Como administrador, quiero ver múltiples pacientes en un panel centralizado. | Alta | Panel funcional listando todos los pacientes y su estado actual. |
+| HU31 | Como médico, quiero visualizar el historial gráfico de signos vitales. | Media | Gráficas dinámicas obtenidas desde el backend. |
+| HU32 | Como usuario, quiero descargar reportes en PDF. | Media | Botón activo y archivo descargable con la información correcta. |
+| HU33 | Como usuario, quiero recuperar mi contraseña mediante correo. | Media | Envío de código, validación y restablecimiento exitoso. |
+| HU34 | Como organización, quiero invitar familiares mediante un enlace seguro. | Alta | Token único generado y flujo de registro asistido. |
+
+---
+
+## 5.2.4.4. Development Evidence for Sprint Review
+
+**Frontend**
+- Dashboard con signos vitales en tiempo real.
+- Gráficas históricas de métricas.
+- Mapa de movilidad funcional.
+- Panel multipaciente integrado.
+- Implementación de alertas.
+- Flujo de recuperación de contraseña.
+
+**Backend**
+- Endpoints de alertas y eventos críticos.
+- Endpoints de historial de métricas.
+- Endpoints de Organization, Devices y Relatives integrados.
+- Sistema de invitaciones con token.
+- Endpoint de recuperación de contraseña.
+
+**Integración**
+- Conexión y consumo correcto de todos los endpoints desde el frontend.
+- Pruebas funcionales documentadas con Postman / Swagger.
+
+---
+
+## 5.2.4.5. Execution Evidence for Sprint Review
+
+- Capturas del dashboard final.
+- Evidencia del historial gráfico.
+- Flujo grabado del sistema de alertas.
+- Funcionamiento del panel multipaciente.
+- Pruebas con datos de ejemplo.
+- Evidencia del flujo de recuperación de contraseña.
+
+---
+
+## 5.2.4.6. Services Documentation Evidence
+
+- Documentación actualizada en Swagger / OpenAPI.
+- Guía de uso de endpoints desde frontend.
+- Flujo documentado del sistema de alertas.
+- Actualización de arquitectura si correspondiera.
+
+---
+
+## 5.2.4.7. Software Deployment Evidence
+
+- Frontend desplegado y en funcionamiento.
+- Backend desplegado en servidor.
+- Logs de ejecución indicando endpoints activos.
+- Validación de conexión entre frontend y backend.
+- Ramas integradas en GitHub con commits del sprint.
+
+
 
 ## 5.3. Validation Interviews
 
