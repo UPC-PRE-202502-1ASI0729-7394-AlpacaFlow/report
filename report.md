@@ -4274,102 +4274,169 @@ Back End:
 ### 5.2.4. Sprint 4
 
 #### 5.2.4.1. Sprint Planning 4
-# 5.2.4. Sprint 4
+
 
 | **Sprint #** | Sprint 4 |
 | ------------ | -------- |
 
 | **Sprint Planning Background** |                                                                                     |
-| ------------------------------ | ----------------------------------------------------------------------------------- |
-| **Date**                       | 25 de noviembre del 2025                                                            |
-| **Time**                       | 09:00 PM                                                                            |
+| ------------------------------ |-------------------------------------------------------------------------------------|
+| **Date**                       | 25 de noviembre del 2025.                                                           |
+| **Time**                       | 21:00 PM                                                                            |
 | **Location**                   | Vía Discord                                                                         |
-| **Prepared By**                | Marcelo Barrientos Quispe                                                           |
-| **Attendees (to planning)**    | Javier Nikaido – Gabriel Rivera – Carlos Fernández – Marcelo Barrientos             |
+| **Prepared By**                | Barrientos Quispe Marcelo                                                           |
+| **Attendees (to planning)**    | Javier Masaru, Carlos Fernandez, Gabriel Rivera, Marcelo Barrientos                |
 
----
+| **Sprint 4 – Review Summary**        | El equipo logró integrar el back-end desplegado en Microsoft Azure con la aplicación web de MediTrack, implementando el **dashboard de pacientes**, la visualización de **métricas de signos vitales**, la sección de **alertas** y los primeros flujos de **autenticación, invitación de allegados y recuperación de contraseña**. Al finalizar el sprint, la plataforma cuenta con un flujo de uso end-to-end, desde el inicio de sesión hasta la consulta de información clínica básica, permitiendo realizar pruebas de validación con datos de ejemplo. |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 4 – Retrospective Summary** | Los integrantes destacaron como fortaleza la **colaboración entre los equipos de front-end y back-end** y la mejora en la calidad del código gracias a las revisiones conjuntas. Sin embargo, se identificó que algunas tareas de interfaz y pruebas de integración tomaron más tiempo del estimado, por lo que se acordó **refinar la estimación de esfuerzo**, priorizar la automatización de pruebas y documentar con mayor detalle los flujos críticos para facilitar el mantenimiento en los siguientes sprints.                       |
 
-| **Sprint 4 – Review Summary**        | Durante el Sprint 3 el equipo logró implementar con éxito las funcionalidades clave del backend para los bounded contexts **Organization, Relatives, Devices y Auth**, además de conectar parcialmente el frontend con los endpoints principales. Se completó la estructura básica del dashboard y se realizaron pruebas iniciales con datos dummy. Se fortaleció la arquitectura del proyecto, preparando el entorno para la integración final. |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint 4 – Retrospective Summary** | El equipo destacó como fortaleza la mejora en la colaboración técnica, especialmente al trabajar simultáneamente sobre frontend y backend. Sin embargo, se reconoció que durante el sprint anterior hubo desfases en la integración y comunicación entre equipos, por lo que para este sprint se acordó reforzar la **coordinación diaria**, mejorar la documentación de los endpoints y definir con mayor claridad las tareas por integrante. |
 
----
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 4 Goal**              | Nuestro objetivo es **integrar completamente el backend con el front-end de MediTrack**, habilitando el dashboard principal (panel de pacientes, métricas de signos vitales, alertas y mapa de movilidad), y completar los flujos críticos de **invitación de allegados** y **recuperación de contraseña**, asegurando una experiencia coherente, estable y lista para pruebas de validación con usuarios. |
+|                                |                                                                                                                                                                                                                                                                                                                                                                          |
+| **Sprint 4 Velocity**          | 10 story points                                                                                                                                                                                                                                                                                                                                                           |
+| **Sum of Story Points**        | 10 story points                                                                                                                                                                                                                                                                                                                                                           |
 
-| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                   |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sprint 4 Goal**              | Completar la integración total del sistema MediTrack, finalizando el dashboard (mapa, métricas, alertas), habilitando los flujos de invitación, recuperación de contraseña y asegurando que los módulos de Organization, Relatives, Devices y Auth funcionen de forma integrada y estable. |
-| **Sprint 4 Velocity**          | 21                                                                                                                                                                                                                                                                                               |
-| **Sum of Story Points**        | 21                                                                                                                                                                                                                                                                                               |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
-| Aspecto | Líder | Colaboradores |
-|--------|-------|----------------|
-| Frontend – Dashboard y Alertas | Javier Nikaido | Gabriel Rivera |
-| Backend – Organization | Carlos Fernández | Javier Nikaido |
-| Backend – Relatives | Marcelo Barrientos | Carlos Fernández |
-| Backend – Devices | Gabriel Rivera | Marcelo Barrientos |
-| Backend – Auth | Carlos Fernández | Javier Nikaido |
-| Documentación | Todos | — |
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
+
+| **Team member (LastName, First Name)** | **GitHub UserName** | **Aspect 1: Front-end Dashboard & UI (L/C)** | **Aspect 2: Backend Integration & APIs (L/C)** | **Aspect 3: Auth & Security (L/C)** | **Aspect 4: Documentation & Deployment (L/C)** |
+|----------------------------------------| ------------------- | -------------------------------------------- | ---------------------------------------------- | ----------------------------------- | ---------------------------------------------- |
+| Gabriel Rivera                         | guestwhoo           | L                                            | C                                              | C                                 | C                                              |
+| Javier Masaru                          | MassiFlip	        | C                                            | C                                              | L                                 | C                                              |
+| Carlos Fernandez                       | u202320083          | C                                            | L                                              | C                                 | C                                              |
+| Barrientos Marcelo                     | MarceBq             | C                                            | C                                              | C                                 | L                                              |
+
 
 #### 5.2.4.3. Sprint Backlog 4
 
-##### User Stories Priorizadas
+Trello:
 
-| ID | User Story | Prioridad | Criterios de Aceptación |
-|----|------------|-----------|--------------------------|
-| HU28 | Como familiar, quiero recibir alertas en tiempo real para saber cuándo ocurre una emergencia. | Alta | Notificaciones visibles e instantáneas ante eventos del parche. |
-| HU29 | Como cuidador, quiero visualizar el historial de movimiento del residente. | Alta | Mapa operativo con registro histórico de movilidad. |
-| HU30 | Como administrador, quiero ver múltiples pacientes en un panel centralizado. | Alta | Panel funcional listando todos los pacientes y su estado actual. |
-| HU31 | Como médico, quiero visualizar el historial gráfico de signos vitales. | Media | Gráficas dinámicas obtenidas desde el backend. |
-| HU32 | Como usuario, quiero descargar reportes en PDF. | Media | Botón activo y archivo descargable con la información correcta. |
-| HU33 | Como usuario, quiero recuperar mi contraseña mediante correo. | Media | Envío de código, validación y restablecimiento exitoso. |
-| HU34 | Como organización, quiero invitar familiares mediante un enlace seguro. | Alta | Token único generado y flujo de registro asistido. |
+![MediTrack Trello Sprint Backlog 4](./assets/chapter5/trello-s4.png)
+
+A continuación se muestra el backlog del sprint 4 con las historias de usuario y tareas asociadas.
+
+| User Story |                                                                         | Work-item/task |                                                                      |                                                                                                                                                                        | Estimation | Assigned to         | Status      |
+| ---------- |-------------------------------------------------------------------------|----------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ---------- |---------------------| ----------- |
+| ID         | Title                                                                   | ID             | Title                                                                | Description                                                                                                                                                            |            |                     |             |
+| TS-031     | Implementar Dashboard de pacientes y métricas                           | TSK-031.1      | Crear vista principal de Dashboard en front-end                      | Implementar la página de inicio de MediTrack con listado de pacientes, tarjeta de estado y acceso a métricas.                                                         | 3h         | Gabriel Rivera      | In Progress |
+|            |                                                                         | TSK-031.2      | Integrar listado de pacientes con API                                | Consumir los endpoints de Senior Citizens y mostrar los datos en el dashboard.                                                                                        | 2h         | Javier Masaru       | In Progress |
+| TS-032     | Integrar gráficos de signos vitales (frecuencia cardíaca, SpO2, presión, temperatura) | TSK-032.1      | Consumir endpoints de métricas en front-end                          | Integrar los endpoints de HeartRate, Oxygen, BloodPressure y Temperature en la capa de servicios del front-end.                                                        | 2h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-032.2      | Implementar componentes gráficos de métricas                         | Crear componentes de gráficos que muestren tendencias de signos vitales para cada paciente.                                                                           | 3h         | Gabriel Rivera      | In Progress |
+| TS-033     | Visualizar alertas generadas por los dispositivos                       | TSK-033.1      | Integrar endpoints de alertas en front-end                           | Consumir los endpoints de Alerts por dispositivo y generales para mostrarlos en una sección de notificaciones.                                                         | 2h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-033.2      | Crear componente de listado de alertas                               | Mostrar las alertas en una tabla o listado con estado, fecha y tipo de evento.                                                                                        | 2h         | Barrientos Marcelo  | In Progress |
+| TS-034     | Implementar flujo de recuperación de contraseña                         | TSK-034.1      | Crear endpoint de recuperación de contraseña en backend (Auth)       | Implementar endpoint para iniciar recuperación (envío de correo/código) y restablecer contraseña.                                                                     | 3h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-034.2      | Implementar pantallas de recuperación en front-end                   | Crear formularios de solicitud de recuperación y cambio de contraseña, conectados al backend.                                                                         | 2h         | Javier Masaru       | In Progress |
+| TS-035     | Implementar flujo de invitación de allegados (Relatives)                | TSK-035.1      | Crear endpoint para generación de invitaciones                       | Implementar endpoint para crear tokens de invitación y asociarlos con un Senior Citizen y Relative.                                                                   | 2h         | Barrientos Marcelo  | In Progress |
+|            |                                                                         | TSK-035.2      | Implementar registro de allegado vía invitación en front-end         | Implementar vista de registro para allegados que consuman el token de invitación y creen su cuenta.                                                                   | 2h         | Javier Masaru       | In Progress |
+| TS-036     | Pruebas de integración y estabilización                                 | TSK-036.1      | Pruebas end-to-end front-end & back-end                              | Ejecutar pruebas integrando dashboard, alertas, métricas y flujos de autenticación, documentando los resultados y errores encontrados.                                | 3h         | Todo el equipo      | Pending     |
+|            |                                                                         | TSK-036.2      | Corrección de bugs críticos                                          | Resolver errores de integración detectados durante las pruebas y actualizar el código correspondiente.                                                                 | 2h         | Todo el equipo      | Pending     |
+
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
-**Frontend**
-- Dashboard con signos vitales en tiempo real.
-- Gráficas históricas de métricas.
-- Mapa de movilidad funcional.
-- Panel multipaciente integrado.
-- Implementación de alertas.
-- Flujo de recuperación de contraseña.
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen de los repositorios del frontend y backend de la organización de GitHub.
 
-**Backend**
-- Endpoints de alertas y eventos críticos.
-- Endpoints de historial de métricas.
-- Endpoints de Organization, Devices y Relatives integrados.
-- Sistema de invitaciones con token.
-- Endpoint de recuperación de contraseña.
+| Repository                                       | Branch      | Commit Id | Commit Message                                              | Commit Message Body                                      | Commited on (Date) |
+| ------------------------------------------------ |------------|---------- | ----------------------------------------------------------- | -------------------------------------------------------- | ------------------ |
+| upc-pre-202502-1asi0729-7394-alpacaflow/frontend | feature/s4-dashboard | TODO      | Implement dashboard view and patient list integration       | TODO                                                    | TODO               |
+| upc-pre-202502-1asi0729-7394-alpacaflow/backend  | feature/s4-auth      | TODO      | Add password recovery endpoints and invitation tokens       | TODO                                                    | TODO               |
+| upc-pre-202502-1asi0729-7394-alpacaflow/frontend | feature/s4-metrics   | TODO      | Integrate metrics endpoints into charts components          | TODO                                                    | TODO               |
 
-**Integración**
-- Conexión y consumo correcto de todos los endpoints desde el frontend.
-- Pruebas funcionales documentadas con Postman / Swagger.
+> Nota: Completar los campos `Commit Id`, `Commit Message Body` y `Commited on (Date)` con la información real de los repositorios una vez finalizado el sprint.
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
-- Capturas del dashboard final.
-- Evidencia del historial gráfico.
-- Flujo grabado del sistema de alertas.
-- Funcionamiento del panel multipaciente.
-- Pruebas con datos de ejemplo.
-- Evidencia del flujo de recuperación de contraseña.
+Durante el desarrollo del Sprint 4 se trabajó principalmente en la integración del backend con la interfaz web de MediTrack y en la implementación del dashboard para visualización de pacientes, métricas y alertas.
 
-#### 5.2.4.6. Services Documentation Evidence
+A continuación se muestran evidencias de la plataforma web integrada:
 
-- Documentación actualizada en Swagger / OpenAPI.
-- Guía de uso de endpoints desde frontend.
-- Flujo documentado del sistema de alertas.
-- Actualización de arquitectura si correspondiera.
+![MediTrack-Dashboard-1](./assets/chapter5/dashboard-s4-1.png)  
+![MediTrack-Dashboard-2](./assets/chapter5/dashboard-s4-2.png)  
+![MediTrack-Dashboard-3](./assets/chapter5/dashboard-s4-3.png)  
 
-#### 5.2.4.7. Software Deployment Evidence
+Se puede observar:
 
-- Frontend desplegado y en funcionamiento.
-- Backend desplegado en servidor.
-- Logs de ejecución indicando endpoints activos.
-- Validación de conexión entre frontend y backend.
-- Ramas integradas en GitHub con commits del sprint.
+- Listado de pacientes asociado a organizaciones.
+- Métricas de signos vitales obtenidas desde el backend.
+- Sección de alertas generadas por los dispositivos.
+
+Adicionalmente, se desarrollaron las pantallas y flujos:
+
+![MediTrack-Auth-1](./assets/chapter5/auth-s4-1.png)  
+![MediTrack-Auth-2](./assets/chapter5/auth-s4-2.png)  
+
+- Vista de inicio de sesión integrada con el backend.
+- Flujo de recuperación de contraseña.
+
+Y el flujo de invitación a allegados:
+
+![MediTrack-Relatives-1](./assets/chapter5/relatives-s4-1.png)
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, se actualizó la documentación de la API para reflejar los nuevos endpoints y flujos implementados:
+
+Actividades realizadas:
+
+- Actualización de la especificación Swagger/OpenAPI con:
+  - Endpoints de recuperación de contraseña.
+  - Endpoints de invitación de allegados.
+  - Endpoints de consulta de métricas y alertas utilizadas por el dashboard.
+- Documentación de ejemplos de request/response para los nuevos recursos.
+- Actualización de las descripciones de los modelos utilizados en las operaciones de Auth, Relatives, Devices y métricas.
+
+Estas mejoras permiten que el equipo de desarrollo del front-end y futuros colaboradores comprendan con mayor facilidad cómo consumir los servicios expuestos por MediTrack.
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Se mantuvo el despliegue del backend en Microsoft Azure y se actualizaron los artefactos para incluir los nuevos endpoints utilizados por el front-end.
+
+Backend desplegado en Microsoft Azure:  
+https://meditrack-platform-springboot.azurewebsites.net/swagger-ui/index.html
+
+Se realizaron pruebas para verificar:
+
+- El correcto funcionamiento de los endpoints de métricas y alertas.
+- El flujo de recuperación de contraseña.
+- La generación y consumo de tokens de invitación para allegados.
+
+#### Evidencias de despliegue:
+
+![Backend Deployment Evidence Sprint 4](./assets/chapter5/deploy-backend-ev02.png)
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración de cada integrante en los repositorios del frontend y backend.
+
+| **Alumno**                      | **GitHub User** | **Actividad**                                      |
+|---------------------------------|-----------------| ------------------------------------------------- |
+| Barrientos Quispe, Marcelo      | MarceBq         | Integración de alertas y flujo de allegados       |
+| Fernandez Camayo, Carlos Fredy  | u202320083      | Endpoints de Auth, recuperación de contraseña     |
+| Nikaido Vargas, Javier Masaru   | MassiFlip       | Integración de métricas y consumo de APIs         |
+| Rivera Ayala, Gabriel Alejandro | guestwhoo       | Implementación del dashboard y componentes UI     |
+
+#### Capturas de Insights del repositorio:
+
+Front End:
+
+![MediTrack-Front-S4-1](./assets/chapter5/medi-front-s4-1.png)  
+![MediTrack-Front-S4-2](./assets/chapter5/medi-front-s4-2.png)
+
+Back End:
+
+![MediTrack-Back-S4-1](./assets/chapter5/medi-back-s4-1.png)  
+![MediTrack-Back-S4-2](./assets/chapter5/medi-back-s4-2.png)
+
 
 ## 5.3. Validation Interviews
 
