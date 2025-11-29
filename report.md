@@ -1,10 +1,12 @@
+ <div align ="center">
+
 <img src="assets/caratula/logo-upc.png" alt="logo-upc" style="width:300px; height:auto;"/>
 
 ### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 ### Ingeniería de Software
 
-### 5TO Ciclo
+### Periodo: 2025-02
 
 ### Código: 1ASI0729
 
@@ -39,10 +41,6 @@
       <td>U20221G099</td>
     </tr>
     <tr>
-      <td>Cuba Pareja, Joaquin Antonio</td>
-      <td>U201621281</td>
-    </tr>
-    <tr>
       <td>Fernandez Camayo, Carlos Fredy</td>
       <td>U202320083</td>
     </tr>
@@ -73,30 +71,89 @@
 | 1.11    | 12/09/25 | Rivera Ayala, Gabriel Alejandro | Corrección y refinamiento del arquetipo de usuario.                  |
 | 1.12    | 15/09/25 | Barrientos Quispe, Marcelo      | Inclusión de contenido detallado en el análisis de entrevistas.      |
 | 1.13    | 15/09/25 | Fernandez Camayo, Carlos Fredy  | Agregados resúmenes estructurados de las entrevistas.                |
-| 1.14    | 20/09/25 | Barrientos Quispe, Marcelo      | Se realizaron correcciones del informe en el capitulo 1, 3 y 5      |
+| 1.14    | 20/09/25 | Barrientos Quispe, Marcelo      | Se realizaron correcciones del informe en el capitulo 1, 3 y 5       |
+| 3.1     | 1/11/25  | Barrientos Quispe, Marcelo      | Cambio de intregrantes.                                              |
+| 3.2     | 3/11/25  | Fernandez Camayo, Carlos Fredy  | Inclusión de Diagrama de Base de Datos.                              |
+| 3.3     | 3/11/25  | Fernandez Camayo, Carlos Fredy  | Inclusión de Diagrama UML.                                           |
+| 3.4     | 3/11/25  | Barrientos Quispe, Marcelo      | Implemetanción nueva del Figma                                       |
+| 3.5     | 5/11/25  | Nikaido Vargas, Javier Masaru   | Cambio en el lenguaje ubicuo.                                        |
+| 3.6     | 6/11/25  | Rivera Ayala, Gabriel Alejandro | Implementación del Sprint 3                                          |
+| 3.7     | 8/11/25  | Nikaido Vargas, Javier Masaru   | Desarrollo del Sprint 3.                                             |
 
+</div>
 #### Project Report Collaboration Insights
 
 - Barrientos Quispe, Marcelo
-- Cuba Pareja, Joaquin Antonio
 - Fernandez Camayo, Carlos Fredy
 - Nikaido Vargas, Javier Masaru
 - Rivera Ayala, Gabriel Alejandro
 
-Url del repositorio: [Report](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report) 
-
-https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report
-
+Url del repositorio: https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report
 
 #### TB1
 
 <img src="assets/chapter1/image-commits.png" alt="Team Collaboration commits" width="100%">
 
+Aquí se ve nuestro historial de commits, con un PR verificado y un ritmo constante de cambios. Nosotros hicimos avances en wireframes, wireflows, mockups y el diagrama de clases, además de sumar “student outcome” y partes del reporte como el capítulo 4 y la sección 2.4. También hicimos merges entre ramas para mantener todo alineado y dejamos mensajes claros para la trazabilidad. Con esto, nuestra aplicación progresa de forma ordenada y el equipo se mantiene en la misma página.
+Team Collaboration Network
+
 <img src="assets/chapter1/network-1.png" alt="Team Collaboration Network" width="100%">
+
+Aquí se ve el network graph del repo con varias ramas moviéndose en paralelo. Nosotros hicimos ramas por feature y fuimos fusionando a main mediante PRs para mantener un flujo limpio. Con esto, nuestra aplicación avanza sin frenar a nadie y el historial queda claro para todo el equipo.
 
 <img src="assets/chapter1/network-2.png" alt="Team Collaboration Network" width="100%">
 
+En este segundo gráfico se nota cómo abrimos y cerramos ramas con cortes controlados. Nosotros hicimos sincronizaciones frecuentes con main para evitar conflictos y, cuando fue necesario, hicimos rebase para ordenar los commits. Así mantenemos nuestra aplicación estable mientras seguimos iterando rápido.
+
 <img src="assets/chapter1/network-3.png" alt="Team Collaboration Network" width="100%">
+
+En el tercero se aprecian integraciones más grandes y varios puntos de merge. Nosotros hicimos consolidaciones por hitos, revisamos los cambios entre equipos y cuidamos que main quedara liberable en cualquier momento. Esto nos permitió planear despliegues seguros y medir el progreso real de nuestra aplicación.
+
+TP1:
+
+Team Collaboration Commits
+
+<img src="assets/chapter1/commits-tp.png" alt="Team Collaboration Network" width="100%">
+
+Aquí se ve nuestro historial de commits, con un PR verificado y un ritmo constante de cambios. Nosotros hicimos la realización del front end y partes del reporte como el capítulo 5. También hicimos merges entre ramas para mantener todo alineado y dejamos mensajes claros para la trazabilidad. Con esto, nuestra aplicación progresa de forma ordenada y el equipo se mantiene en la misma página.
+Team Collaboration Network
+
+<img src="assets/chapter1/n-tp-1.png" alt="Team Collaboration Network" width="100%">
+
+Aquí se ve el network graph del repo con varias ramas moviéndose en paralelo. Ralizamos ramas por feature y fuimos fusionando a main mediante PRs para mantener un flujo limpio. Con esto, nuestra aplicación avanza sin frenar a nadie y el historial queda claro para todo el equipo.
+
+<img src="assets/chapter1/n-tp-2.png" alt="Team Collaboration Network" width="100%">
+
+En este segundo gráfico se nota cómo seguimos el trabajo realizado mediante los mismos flujos.
+
+<img src="assets/chapter1/n-tp-3.png" alt="Team Collaboration Network" width="100%">
+
+En el tercero se aprecian integraciones más grandes y mayores puntos de trabajo.
+
+<img src="assets/chapter1/n-tp-4.png" alt="Team Collaboration Network" width="100%">
+
+En este último se aprecian integraciones finales del trabajo para este entregable.
+
+TB2:
+
+Team Collaboration Commits
+
+<img src="assets/chapter1/commits-tp.png" alt="Team Collaboration Network" width="100%">
+
+Aquí se ve nuestro historial de commits, con un PR verificado y un ritmo constante de cambios. Nosotros hicimos la realización y conección del backend con el front end y partes del reporte como el capítulo 5, incluyendo el Spint Backlog 3.
+Team Collaboration Network
+
+<img src="assets/chapter1/network-1.png" alt="Team Collaboration Network" width="100%">
+
+Aquí se ve el network graph del repo con varias ramas moviéndose en paralelo. Nosotros hicimos ramas por feature y fuimos fusionando a main mediante PRs para mantener un flujo limpio. Con esto, nuestra aplicación avanza sin frenar a nadie y el historial queda claro para todo el equipo.
+
+<img src="assets/chapter1/network-1.png" alt="Team Collaboration Network" width="100%">
+
+En este segundo gráfico se nota cómo abrimos y cerramos ramas con cortes controlados. Nosotros hicimos sincronizaciones frecuentes con main para evitar conflictos y, cuando fue necesario, hicimos rebase para ordenar los commits. Así mantenemos nuestra aplicación estable mientras seguimos iterando rápido.
+
+<img src="assets/chapter1/network-1.png" alt="Team Collaboration Network" width="100%">
+
+En el tercero se aprecian integraciones más grandes y varios puntos de merge. Nosotros hicimos consolidaciones por hitos, revisamos los cambios entre equipos y cuidamos que main quedara liberable en cualquier momento. Esto nos permitió planear despliegues seguros y medir el progreso real de nuestra aplicación.
 
 # Contenido
 
@@ -168,6 +225,7 @@ https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
   - [4.7.1. Class Diagrams](#471-class-diagrams)
 - [4.8. Database Design](#48-database-design)
+
   - [4.8.1. Database Diagrams](#481-database-diagrams)
 
 - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -187,12 +245,38 @@ https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+    - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+    - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+    - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+    - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+    - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence](#5246-services-documentation-evidence)
+    - [5.2.4.7. Software Deployment Evidence](#5247-software-deployment-evidence)
 - [5.3. Validation Interviews](#53-validation-interviews)
+
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
 - [Conclusiones](#conclusiones)
+
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Product](#video-about-the-product)
 
@@ -209,12 +293,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 3
 
-| Criterio específico                                                        | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**   | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>Me esforcé en aportar al grupo, cumpliedo todas mis tareas encomendadas y ayudando en lo que aún faltaba por completar. <br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend. <br> <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Apoyé de manera activa al desarrollo del trabajo, apoyando, mejorando y arregalndo varias partes del proyecto, además de claro hacer mis tareas encomendadas. <br> <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend. <br> <br> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br> <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br> <br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br> <br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                     | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>La constante participación y aporte al gupo fue importante para mi desarrollo como estudiante, ya que pude obtener inforamción valiosa, más quen con el desarrollo de ciertos apartados sobre el análisis de usuarios br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend. <br> <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias a mi gran aporte, mejore muchas de mis habilidades con respecto al desarrollo de una aplicación de este tipo, lo que me será de mucha ayuda en mi desarrollo como profesional. <br> <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend. <br> <br> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> La participación activa en el diseño y ejecución de entrevistas al primer segmento objetivo permitió aportar información valiosa al equipo. Esta contribución fortaleció la toma de decisiones conjuntas y reflejó un liderazgo distribuido, basado en la colaboración y en la construcción colectiva de resultados. <br> <br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br> <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br> <br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Como equipo, nos dimos retroalimentación de forma constante, lo cual nos ayudó a reforzar nuestras áreas de oportunidad y mejorar nuestro desempeño.<br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                                                                     |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Nikaido Vargas, Javier Masaru**<br>**TB1** <br> Me encargué de realizar una entrevista, una buena parte del needfinding, dividir los user stories por épicas y me encargué del diagrama de la base de datos <br><br> **TP** <br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes. <br><br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Me encargué de la elaboración del wireframe, wireflow, mokups, segmentos objetivos, parte del capitulo 1, entrevistas y su diseño, landing page, muy buena parte del capitulo 4 y el capitulo 5 <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br> <br/> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP**<br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/> <br> **TP**<br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>Gracias a la elaboración del needfiding, mejoré mi habilidad para ver como se siente al cliente con varios aspectos de nuestra aplicación, loq ue me permite dar un producto muhco mejor para los usuarios.<br><br> **TP** <br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes. <br><br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias al desarrollo del trabajo mejoré muchas habildies, tanto como del desarrollo de la idea del proyecto, sino también con respecto al desarollo de landigns pages, ya que ahora siento que se como atraer mejor ala gente con esta sección tan importante del proyecto. <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br> <br/> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> Al elaborar los user personas y analizar entrevistas, se facilitó un espacio de diálogo y entendimiento mutuo entre los miembros del equipo, asegurando que las diferentes perspectivas fueran integradas en el desarrollo del proyecto. Este enfoque inclusivo permitió que el producto respondiera mejor a las necesidades reales de los usuarios. <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br> <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP** <br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br> <br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> A lo largo del desarrollo del trabajo se logro establecer un ambiente colabortivo lo cual nos permitio refinar nuestra aprendisaje y el desarrollo del trabjo <br/> <br> **TP** El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. |
-
-
+| Criterio específico                                                        | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**   | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>Me esforcé en aportar al grupo, cumpliedo todas mis tareas encomendadas y ayudando en lo que aún faltaba por completar. <br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend.<br>**TB2**<br>Apoyé y colaboré en el desarrollo del bounded context de Organization y me comuniqué de manera efectiva para su coordinación y desarrollo <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Apoyé de manera activa al desarrollo del trabajo, apoyando, mejorando y arregalndo varias partes del proyecto, además de claro hacer mis tareas encomendadas. <br> <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend.<br>**TB2**<br>Para este presentable me encargué del bounded context de Relatives dónde aporté con su desarrollo y organización<br> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br><br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br> **TB2** <br> Ayude en el desarrollo de entrevistas de validacion y forma parte del desarrollo de los bounded context Organization y Auth, comunicandome constantemente con el equipo para que el desarrollo sea el adecuado.<br> <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br> **TB2** <br> Al desarrollar el backend pude entender con mayor claridad los puntos> Durante el desarrollo de este entregable me encargué del despliegue del backend y resolución de problemas en la interfaz<br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br> <br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>La constante participación y aporte al gupo fue importante para mi desarrollo como estudiante, ya que pude obtener inforamción valiosa, más quen con el desarrollo de ciertos apartados sobre el análisis de usuarios br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend. <br> **TB2** <br> Durante el desarrollo cumplí con todas las espectivas que se me prepusieron en el desarrollo. Además el material desarrollado en clase fue importante para que pueda coloborar y guiarme para el desarrollo del sistema donde aprendí mucho. <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias a mi gran aporte, mejore muchas de mis habilidades con respecto al desarrollo de una aplicación de este tipo, lo que me será de mucha ayuda en mi desarrollo como profesional. <br> Durante el desarrollo de este entregalbe aprendí bastante sobre el desarrollo del <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend. <br> **TB2** <br> El desarrollo del sistema fue realmente importante para entender los conceptos del desarrollo de backend para aprender de mejor forma los conceptos. <br> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> La participación activa en el diseño y ejecución de entrevistas al primer segmento objetivo permitió aportar información valiosa al equipo. Esta contribución fortaleció la toma de decisiones conjuntas y reflejó un liderazgo distribuido, basado en la colaboración y en la construcción colectiva de resultados. <br> <br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br>**TB2** <br> La elaboracion de entrevistas de validacion y desarrollo frontend y backend me permitieron conocer mas el producto a desarrollarse, asi como trabajar colectivamente <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br>**TB2**<br> Para el desarrollo del backend tuve que apoyarme en los recursos aprendidos en clase los cuales fueron de gran utilidad para el desarrollo del mismo y así presentar un trabajo bien desarrollado <br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Como equipo, nos dimos retroalimentación de forma constante, lo cual nos ayudó a reforzar nuestras áreas de oportunidad y mejorar nuestro desempeño.<br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Nikaido Vargas, Javier Masaru**<br>**TB1** <br> Me encargué de realizar una entrevista, una buena parte del needfinding, dividir los user stories por épicas y me encargué del diagrama de la base de datos <br><br> **TP** <br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes. <br><br> **TB2** <br>Contribuí a la creación de entrevistas de validación. También desarrollé el frontend de los bounded contexts Organization, y trabajé conjuntamente en la implementación del backend del mismo módulo.<br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Me encargué de la elaboración del wireframe, wireflow, mokups, segmentos objetivos, parte del capitulo 1, entrevistas y su diseño, landing page, muy buena parte del capitulo 4 y el capitulo 5 <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br> **TB2** <br>Participé en la elaboración de entrevistas de validación. Además, desarrollé el frontend de el bounded contexts de Relative, y colaboré en la implementación del backend para el mismo bounded context.<br> <br/> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br> **TB2** <br>Colabore en el desarrollo de entrevistas de validacion, ademas desarrollo en el frontend el bounded context Organization y Auth, asimismo de manera colaborativa pude implementar el backend para el bounded context Organization y Auth. <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP**<br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br><br> **TB2** <br>Aporté en la preparación de entrevistas de validación. Asimismo, desarrollé el frontend de los bounded contexts de Device e implementación del despliegue, y participé de forma conjunta en la implementación del backend correspondiente.<br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/> <br> **TP**<br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                                                 | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>Gracias a la elaboración del needfiding, mejoré mi habilidad para ver como se siente al cliente con varios aspectos de nuestra aplicación, loq ue me permite dar un producto muhco mejor para los usuarios.<br><br> **TP** <br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes. <br><br> **TB2** <br>El trabajo en el desarrollo backend facilitó la colaboración en equipo para la implementación de funcionalidades.<br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias al desarrollo del trabajo mejoré muchas habildies, tanto como del desarrollo de la idea del proyecto, sino también con respecto al desarollo de landigns pages, ya que ahora siento que se como atraer mejor ala gente con esta sección tan importante del proyecto. <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br><br> **TB2** <br>Formar parte de las entrevistas de validación me permitió obtener información valiosa de los usuarios. Asimismo, trabajar en el desarrollo frontend y backend favoreció la coordinación del equipo para implementar las funcionalidades para el bounded context de Relatives.<br/> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> Al elaborar los user personas y analizar entrevistas, se facilitó un espacio de diálogo y entendimiento mutuo entre los miembros del equipo, asegurando que las diferentes perspectivas fueran integradas en el desarrollo del proyecto. Este enfoque inclusivo permitió que el producto respondiera mejor a las necesidades reales de los usuarios. <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br><br> **TB2** <br> Participar en las entrevistas de validacion me permitio obtener feedback del usuario, ademas que el desarrollo frontend y backend permitieron trabajar en equipo sobre las implementaciones de funcionalidades.<br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP** <br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br><br> **TB2** <br>Participar en las entrevistas de validación me permitió obtener retroalimentación directa de los usuarios. Además, trabajar en el desarrollo frontend y backend del bounded context Device fortaleció la colaboración del equipo durante la implementación de sus funcionalidades.<br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> A lo largo del desarrollo del trabajo se logro establecer un ambiente colabortivo lo cual nos permitio refinar nuestra aprendisaje y el desarrollo del trabjo <br/> <br> **TP** El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                                                                                                                                                                                  |
 
 # Capítulo I: Introducción
 
@@ -242,7 +324,7 @@ La propuesta de AlpacaFlow se centra en construir un ecosistema de salud digital
 | ![gabriel](assets/chapter1/gabriel.jpg)                              | Rivera Ayala, Gabriel Alejandro | U202223279 | Ingeniería de Software | Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.             |
 | ![joaquin](assets/chapter1/joaquin.jpg "Joaquin Cuba Profile Image") | Cuba Pareja, Joaquin Antonio    | U201621281 | Ingeniería de Software | Soy estudiante de Ingeniería de Software con conocimientos en desarrollo web y programación. Manejo de JavaScript, C++ y Python, con algo de experiencia en Go. Familiarizado con tecnologías front-end como HTML, CSS y TypeScript. Interesado en el desarrollo full stack, la optimización de código y la resolución de problemas. Con disposición para aprender nuevas tecnologías y trabajar en equipo. |
 | ![masaru](assets/chapter1/Masaru.jpeg)                               | Nikaido Vargas, Javier Masaru   | U202221597 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software.                                                                                                                                                                                                                          |
-| ![marcelo](assets/chapter1/marcelo.png)                              | Barrientos Quispe, Marcelo      | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                                      |
+| ![marcelo](assets/chapter1/marcelo.jpg)                              | Barrientos Quispe, Marcelo      | U20221e646 | Ingeniería de Software | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Cuento con conocimientos técnicos en tecnologías de JavaScript.                                                                                                                                                                                                                                                      |
 
 ## 1.2. Solution Profile
 
@@ -457,7 +539,6 @@ Debe ser intuitivo, sencillo y confiable. Los colores deben ser calmados (sin al
 
 En esta sección se detallan los supuestos relacionados con las características funcionales del producto. Cada **Feature Assumption** busca conectar las necesidades de los usuarios con las posibles soluciones de diseño, anticipando el impacto esperado en la experiencia y el comportamiento del usuario. Estas suposiciones servirán de base para la formulación de hipótesis y posteriores validaciones durante el proceso de desarrollo del producto.
 
-
 1. Creemos que un **dashboard visual y amigable** permitirá a familiares y personal médico interpretar fácilmente la salud de los adultos mayores sin conocimientos técnicos.  
    aumentar en un 80% la comprensión de los datos de salud reportada por los usuarios.\*
 
@@ -483,7 +564,7 @@ En esta sección se detallan los supuestos relacionados con las características
 
 ### Business Outcome Assumptions
 
-- Reducción del 70% en las llamadas de consulta rutinarias 
+- Reducción del 70% en las llamadas de consulta rutinarias
 
 - Reducción del tiempo de respuesta a emergencias a menos de 5 minutos en el 90% de los casos
 
@@ -495,7 +576,7 @@ En esta sección se detallan los supuestos relacionados con las características
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Los **Hypothesis Statements** constituyen una evolución de los Assumptions, transformándolos en afirmaciones medibles y verificables. Cada hipótesis sigue el formato propuesto por el enfoque Lean UX, integrando el *business outcome*, el *user outcome* y la *feature* correspondiente. De esta manera, se facilita la validación empírica de las ideas y se asegura que el producto responda tanto a los objetivos del negocio como a las necesidades reales del usuario.
+Los **Hypothesis Statements** constituyen una evolución de los Assumptions, transformándolos en afirmaciones medibles y verificables. Cada hipótesis sigue el formato propuesto por el enfoque Lean UX, integrando el _business outcome_, el _user outcome_ y la _feature_ correspondiente. De esta manera, se facilita la validación empírica de las ideas y se asegura que el producto responda tanto a los objetivos del negocio como a las necesidades reales del usuario.
 
 - Hypothesis Statement 1:
 
@@ -786,10 +867,12 @@ Las preguntas se adaptaron a tres segmentos clave: familiares, profesionales mé
 - Apellidos: Coca
 - Edad: 19
 - Distrito: San Miguel
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
-- [Timming Entrevista Andres Coca](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+
+- Timming:
 - Inicio:(00:00)
 - Fin:(09:25)
+- Duración:(09:25)
 
 ![video screenshoot](assets/chapter2/allegado-interview-1.png "Video screenshoot allegado interview 1")
 
@@ -813,10 +896,11 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Apellidos: Chinen Guembes
 - Edad: 21
 - Distrito: Magdalena
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19)
-- [Timming Entrevista Paolo Chinen](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19)
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19
+- Timming Entrevista: 
 - Inicio:(1:09:55)
 - Fin:(1:14:52)
+- Duración:(04:57)
 
 ![video screenshoot](assets/chapter2/allegado-interview-2.png "Video screenshoot allegado interview 2")
 
@@ -836,10 +920,11 @@ Entre las funcionalidades más relevantes para él estarían las alertas en tiem
 - Apellidos: Yokota
 - Edad: 25 años
 - Distrito: Huaral
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19)
-- [Timming Entrevista Alexis Yokota](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19)
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19
+- Timming:
 - Inicio:(1:01:52)
 - Fin:(01:09:54)
+- Duración:(08:02)
 
 - ![video screenshoot](assets/chapter2/allegado-interview-3.png "Video screenshoot allegado interview 3")
 
@@ -855,20 +940,21 @@ Alexis afirma que se sentiría cómodo usando una aplicación de monitoreo de sa
 
 Como posibles barreras de adopción identifica la dificultad de uso, la necesidad de capacitar a cuidadores o enfermeras en la aplicación, y el costo. También menciona que sería importante que la app permita que varios familiares participen en el seguimiento. Finalmente, manifiesta disposición a pagar por una solución que le brinde tranquilidad y apoyo en el cuidado de su padre.
 
-#### Entrevistas segmento objectivo profesionales de la salud
-
-#### Entrevistas segmento objectivo profesionales de la salud
+#### Entrevistas segmento objetivo profesionales de la salud
 
 ##### Doctor Medico General
 
 - Nombres: Vicente Alonso
 - Apellidos: Cuba Pareja
 - Distrito: Miraflores
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19)
-- [Timming Entrevista Vicente Cuba](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19)
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19
+- Timming:
 - Inicio:(44:39)
 - Fin:(57:11)
+- Duración:(12:32)
+
   ![video screenshoot](assets/chapter2/doctor-interview-1.png "Video screenshoot doctor interview 1")
+
 - Resumen:
 
   El entrevistado es un médico general que trabaja en un centro de salud de nivel 14, donde diariamente atiende a pacientes geriátricos. Su experiencia se centra en la atención de adultos mayores, representando la mayoría de los casos que recibe, con un promedio semanal que oscila entre 75 y 100 pacientes. Se muestra comprometido con este grupo etario y expresa naturalidad al describir su trabajo, lo que refleja una personalidad práctica y orientada al servicio.
@@ -890,10 +976,11 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Nombres: Valentina
 - Apellidos: Pareja Centeno
 - Distrito: Surco
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319)
-- [Timming Entrevista Valentina Pareja](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319)
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319
+- Timming:
 - Inicio:(57:12)
 - Fin:(1:01:51)
+- Duración:(04:39)
 
   ![video screenshoot](assets/chapter2/doctor-interview-2.png "Video screenshoot doctor interview 2")
 
@@ -919,10 +1006,12 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Apellidos: Rivera Chipana
 - Edad: 56
 - Distrito: Pueblo Libre
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19)
-- [Timming Entrevista Alcides Rivera](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19)
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19
+
+- Timming:
 - Inicio:(1:14:53)
 - Fin:(1:29:41)
+- Duración:(14:48)
 
 ![video screenshoot](assets/chapter2/doctor-interview-3.png "Video screenshoot doctor interview 3")
 
@@ -946,10 +1035,12 @@ Sin embargo, identifica posibles obstáculos para la adopción en su clínica: e
 - Apellidos: Quispe
 - Edad: 48
 - Distrito: Madrid - España
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=IFJU7k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY2LjQ2fX0%3D)
-- [Timming Entrevista Ana Quispe](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=4u06Hj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY4LjE1fX0%3D)
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=IFJU7k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY2LjQ2fX0%3D
+
+- Timming:
 - Inicio:(09:26)
 - Fin:(34:17)
+- Duración:(24:51)
 
 ![video screenshoot](assets/chapter2/casas-de-reposo-interview-1.png "Video screenshoot casas de reposo interview 1")
 
@@ -971,10 +1062,12 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Apellidos: Mendivil
 - Edad: 57
 - Distrito: Novara - Italia
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19)
-- [Timming Entrevista Fanny Mendivil](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19)
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19
+
+- Timming:
 - Inicio:(34:18)
 - Fin:(44:38)
+- Duración:(10:20)
 
 ![video screenshoot](assets/chapter2/casas-de-reposo-interview-2.png "Video screenshoot casas de reposo interview 2")
 
@@ -996,10 +1089,12 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 - Apellidos: Ayala Maurtua
 - Edad: 56
 - Distrito: Pueblo Libre
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19)
-- [Timming Entrevista Judith Ayala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19)
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19
+
+- Timming:
 - Inicio:(1:24:23)
 - Fin:(1:29:41)
+- Duración:(05:18)
 
 ![video screenshoot](assets/chapter2/casas-de-reposo-interview-3.png "Video screenshoot casas de reposo interview 3")
 
@@ -1019,15 +1114,81 @@ Sin embargo, identifica posibles obstáculos para su adopción, como el costo y 
 
 **Segmento 1: Allegados de adultos mayores**
 
-Este grupo incluye a familiares directos (nietos e hijos) que, sin ser profesionales de la salud, participan activamente en el cuidado de adultos mayores. Los entrevistados (19-58 años) muestran una preocupación clara por la salud de sus mayores, reportando problemas como hipertensión, mareos y caídas. Actualmente realizan un monitoreo limitado mediante observación directa o llamadas, sin herramientas especializadas. Todos usan Google Chrome con alfabetización digital básica-intermedia, consideran útil MediTrack si es precisa, fácil y accesible, valorando funciones como alertas de caídas, monitoreo de presión y geolocalización. El 66% ha experimentado emergencias que refuerzan la necesidad de monitoreo preventivo, y aunque todos están dispuestos a pagar por seguridad, el 66% desconfía de la precisión de datos digitales. En conclusión, este segmento proactivo y emocionalmente involucrado se alinea con la propuesta de MediTrack, siendo el principal desafío demostrar precisión, confiabilidad y facilidad de uso.
+El segmento de aliados o familiares está conformado por tres entrevistados, todos con experiencias directas en el cuidado de adultos mayores dentro del entorno familiar. Los participantes tienen entre 19 y 58 años y residen en distintas zonas de Lima Metropolitana. Este grupo se caracteriza por un alto nivel de compromiso emocional, una preocupación constante por la salud y seguridad de sus familiares mayores, y una predisposición favorable hacia el uso de soluciones tecnológicas que faciliten el monitoreo remoto.
+
+**Características objetivas**
+
+| Característica                                                               | Descripción                                                                                  | Porcentaje |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------- |
+| Uso de smartphone Android                                                    | Dos de los tres entrevistados utilizan dispositivos Android, mientras que uno emplea iPhone. | 67 %       |
+| Navegador principal: Google Chrome                                           | Todos los entrevistados señalaron que Chrome es su navegador de preferencia.                 | 100 %      |
+| Canal de comunicación principal: WhatsApp                                    | Todos utilizan WhatsApp para comunicarse con sus familiares o cuidadores.                    | 100 %      |
+| Frecuencia de contacto con el adulto mayor: diaria o varias veces por semana | Muestran una comunicación constante con el familiar a su cuidado.                            | 100 %      |
+
+**Características subjetivas**
+
+| Categoría                                                                   | Descripción                                                                                      | Porcentaje |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------- |
+| Motivación principal: bienestar y prevención de riesgos                     | Los tres entrevistados expresaron preocupación por prevenir emergencias y garantizar seguridad.  | 100 %      |
+| Frustración: falta de información en tiempo real                            | Dos entrevistados mencionaron la angustia de no saber el estado del adulto mayor en emergencias. | 67 %       |
+| Actitud hacia la tecnología: positiva y confiada                            | Todos manifestaron disposición a usar una app si ofrece datos confiables y fáciles de entender.  | 100 %      |
+| Barreras percibidas: complejidad tecnológica o desconfianza en la precisión | Dos participantes señalaron estos factores como obstáculos para adoptar la app.                  | 67 %       |
+| Disposición de pago por la solución                                         | Todos indicaron estar dispuestos a pagar por una herramienta que brinde tranquilidad.            | 100 %      |
 
 **Segmento 2: Médicos**
 
-Este segmento comprende médicos generales con experiencia en atención a adultos mayores en Lima ejerciendo activamente en centros de salud de nivel básico a intermedio. El 100% atiende entre 50-100 adultos mayores semanalmente, usa herramientas digitales básicas como el sistema ESSI combinado con WhatsApp o correo electrónico para comunicación con familiares, percibe limitaciones en el monitoreo fuera de consulta, considera que MediTrack mejoraría la prevención y respuesta ante emergencias, está dispuesto a adoptar herramientas digitales clínicamente validadas, identifica como barreras el costo, la capacitación y resistencia al cambio, cree que los costos deben ser compartidos entre sistema de salud y familias, y valora principalmente las alertas en tiempo real y seguimiento de tratamiento. Este segmento técnico y orientado a resultados requiere que MediTrack cumpla estándares médicos, ofrezca interfaz profesional y se presente como aliado en la gestión clínica.
+El segmento de médicos está conformado por tres profesionales generales que ejercen activamente en centros de salud de nivel básico a intermedio en Lima Metropolitana. Todos atienden regularmente entre 50 y 100 adultos mayores por semana y cuentan con experiencia significativa en geriatría. Este grupo se caracteriza por un enfoque técnico y orientado a resultados, una preocupación constante por la prevención y la atención eficiente de emergencias en adultos mayores, y una disposición favorable hacia el uso de herramientas digitales clínicamente validadas que faciliten el monitoreo en tiempo real y el seguimiento de tratamientos.
+
+**Características objetivas**
+
+| Característica                          | Descripción                                                                                              | Porcentaje                 |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------- |
+| Experiencia en atención geriátrica      | Todos los médicos atienden adultos mayores regularmente, con cargas semanales de 30 a 100 pacientes.     | 100 %                      |
+| Uso de smartphone                       | Dos utilizan iPhone y uno Android para comunicación con pacientes/familiares.                            | 67 % iPhone / 33 % Android |
+| Uso de computadora/laptop               | Todos usan PC para registrar consultas y gestionar información clínica.                                  | 100 %                      |
+| Navegador principal                     | Todos utilizan Google Chrome para sistemas institucionales y consultas médicas.                          | 100 %                      |
+| Canales de comunicación principales     | Todos usan WhatsApp, correo electrónico y llamadas telefónicas para contacto con pacientes y familiares. | 100 %                      |
+| Necesidad de información en tiempo real | Todos destacan la importancia de contar con datos inmediatos sobre los pacientes geriátricos.            | 100 %                      |
+
+**Características subjetivas**
+
+| Categoría                                      | Descripción                                                                                            | Porcentaje |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
+| Motivación principal                           | Mejorar prevención, atención domiciliaria y calidad de cuidado de adultos mayores.                     | 100 %      |
+| Frustración                                    | Dependencia de información tardía, falta de alertas inmediatas y coordinación limitada entre sistemas. | 100 %      |
+| Actitud hacia la tecnología                    | Positiva, abierta a usar MediTrack si garantiza precisión, confiabilidad y respaldo clínico.           | 100 %      |
+| Barreras percibidas                            | Costos de implementación, necesidad de capacitación y confianza en la veracidad de datos.              | 100 %      |
+| Disposición de pago o modelo de financiamiento | Prefieren modelos compartidos entre instituciones, pacientes y familias para viabilizar la adopción.   | 100 %      |
 
 **Segmento 3: Cuidadores en Casas de Reposo**
 
-Este segmento incluye cuidadores con experiencia directa en instituciones geriátricas en Perú y Europa, con edades entre 48-57 años. El 100% tiene más de 10 años de experiencia cuidando adultos mayores, reporta que el trabajo es estresante debido a la falta de personal y recursos, y muestra alta apertura a soluciones digitales como MediTrack. Todos utilizan Google Chrome y teléfonos móviles como herramientas principales, demostrando adaptabilidad tecnológica práctica. El 100% considera que una aplicación reduciría el estrés y mejoraría la eficiencia mediante alertas tempranas y mejor seguimiento, destacando como funcionalidades clave las alertas inmediatas, monitoreo de signos vitales y organización de tratamientos. Todos señalan la necesidad de mejorar la comunicación entre cuidadores, familiares y médicos. Este segmento representa una audiencia altamente receptiva que valora la herramienta tanto para los adultos mayores como para su propio apoyo profesional, por lo que la estrategia debe enfatizar la reducción de carga laboral y facilidad de uso.
+El segmento de cuidadores está conformado por tres profesionales con experiencia directa en instituciones geriátricas en Perú y Europa. Los participantes tienen entre 48 y 57 años y poseen más de 10 años de experiencia en el cuidado de adultos mayores. Este grupo se caracteriza por enfrentar altos niveles de estrés debido a la falta de personal y recursos, pero al mismo tiempo muestra una alta apertura hacia soluciones digitales como MediTrack. Son usuarios habituales de Google Chrome y teléfonos móviles, evidenciando adaptabilidad tecnológica práctica. Se destacan por valorar herramientas que reduzcan la carga laboral, mejoren la eficiencia mediante alertas tempranas y permitan un seguimiento más efectivo de los tratamientos y signos vitales, además de favorecer la comunicación entre cuidadores, familiares y médicos.
+
+### Segmento: Cuidadores
+
+**Características objetivas**
+
+| Característica                        | Descripción                                                                                                           | Porcentaje                 |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| Experiencia en cuidado geriátrico     | Todos cuentan con más de 10 años de experiencia en instituciones geriátricas.                                         | 100 %                      |
+| Carga de residentes/pacientes         | Supervisan entre 18 y 100 adultos mayores según el centro de trabajo.                                                 | 100 %                      |
+| Dispositivo principal                 | Dos utilizan iPhone y uno Android para comunicación y gestión diaria.                                                 | 67 % iPhone / 33 % Android |
+| Navegador principal                   | Google Chrome como herramienta digital principal.                                                                     | 100 %                      |
+| Canales de comunicación               | WhatsApp, correo electrónico y llamadas telefónicas con familiares y otros cuidadores.                                | 100 %                      |
+| Necesidad de monitoreo en tiempo real | Todos destacan la importancia de recibir alertas inmediatas y seguimiento constante de signos vitales y tratamientos. | 100 %                      |
+
+**Características subjetivas**
+
+| Categoría                       | Descripción                                                                                                        | Porcentaje |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------- |
+| Motivación principal            | Mejorar la eficiencia del cuidado, reducir estrés laboral y garantizar la seguridad de los adultos mayores.        | 100 %      |
+| Frustración                     | Escasez de personal, falta de recursos y comunicación insuficiente entre equipos y familiares.                     | 100 %      |
+| Actitud hacia la tecnología     | Positiva, alta disposición para adoptar soluciones digitales como MediTrack.                                       | 100 %      |
+| Barreras percibidas             | Costo del sistema y necesidad de capacitación del personal.                                                        | 100 %      |
+| Funcionalidades clave valoradas | Alertas inmediatas, monitoreo de signos vitales, seguimiento de tratamientos y organización de la atención diaria. | 100 %      |
+| Disposición de pago             | Consideran que familiares podrían estar dispuestos a pagar por tranquilidad y seguridad adicional.                 | 100 %      |
+
+## 2.3. Needfinding
 
 En esta sección, MediTrack busca identificar y comprender de manera profunda las necesidades, motivaciones y frustraciones de los distintos actores involucrados en el cuidado de adultos mayores. A través de entrevistas y observaciones, se ha recopilado información cualitativa que permite detectar oportunidades de mejora y diseñar soluciones que respondan de manera efectiva a los desafíos reales que enfrentan los usuarios.
 
@@ -1164,125 +1325,126 @@ Zona de Reportes y Analítica: Muestra la generación de documentos PDF, reporte
 
 En esta sección, se definen los términos clave utilizados en el dominio de negocio de MediTrack, una plataforma digital diseñada para facilitar el monitoreo, gestión y acompañamiento de la salud de adultos mayores en clínicas, casas de reposo y entornos familiares. Siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design, estas definiciones buscan establecer un lenguaje común, claro y coherente entre todos los involucrados en el proyecto: equipo de desarrollo, diseñadores, stakeholders y usuarios finales. Este lenguaje compartido permite alinear la visión del producto con las necesidades reales de los adultos mayores y sus cuidadores, facilitando la toma de decisiones, el diseño funcional y el desarrollo de soluciones efectivas y centradas en el usuario.
 
----
+Admin: Usuario con permisos de gestión dentro de una clínica o casa de reposo afiliada a MediTrack. Es responsable de registrar pacientes, asignar doctores y cuidadores, supervisar el estado de salud de los adultos mayores y generar reportes institucionales.
 
-### Administrador de clínica
+Doctor: Profesional de la salud registrado en MediTrack por administrador. Puede acceder a la información médica de los adultos mayores asignados, registrar diagnósticos, prescribir tratamientos y generar reportes clínicos.
 
-- Doctor
-  Profesional de la salud registrado en MediTrack por administrador. Puede acceder a la información médica de los adultos mayores asignados, registrar diagnósticos, prescribir tratamientos y generar reportes clínicos.
+Caregiver: Profesional que brinda asistencia directa y diaria a un adulto mayor en casa de reposo, registrado por un administrador. Su función principal es actualizar la información en tiempo real (estado de ánimo, signos vitales) y responder a alertas generadas por el sistema.
 
-- Keeper
+Senior citizen: Usuario principal de MediTrack. Representa a la persona de la tercera edad que es el centro del sistema y sobre la cual se administran todos los datos médicos y de bienestar. Puede ser portador del dispositivo IoT (para el monitoreo en tiempo real) y/o utilizar la Web Application para visualizar su información y recibir notificaciones. Su perfil es gestionado y acompañado por doctores, cuidadores y administradores dentro de la plataforma.
 
-  Profesional que brinda asistencia directa y diaria a un adulto mayor en casa de reposo, registrado por un administrador. Su función principal es actualizar la información en tiempo real (estado de ánimo, signos vitales) y responder a alertas generadas por el sistema.
+Report: Registro estructurado de información relevante en la plataforma. Puede referirse a un estado clínico, evolución médica, incidente o evaluación periódica del adulto mayor. Los reportes pueden ser generados por doctores, cuidadores o administradores.
 
-- Senior citizen
-  Usuario principal de MediTrack. Representa a la persona de la tercera edad que es el centro del sistema y sobre la cual se administran todos los datos médicos y de bienestar. Puede ser portador del dispositivo IoT (para el monitoreo en tiempo real) y/o utilizar la Web Application para visualizar su información y recibir notificaciones. Su perfil es gestionado y acompañado por doctores, cuidadores y administradores dentro de la plataforma.
+Alert: Notificación inmediata generada por la plataforma ante situaciones críticas o inusuales (ejemplo: caída, anomalía en signos vitales). Su objetivo es garantizar una respuesta rápida de cuidadores y doctores según la gravedad del evento.
 
-Profesional de la salud registrado en MediTrack por administrador. Puede acceder a la información médica de los adultos mayores asignados, registrar diagnósticos, prescribir tratamientos y generar reportes clínicos.
+Vital signs: Información registrada periódicamente sobre parámetros de salud del adulto mayor (frecuencia cardíaca, presión arterial, oxigenación, temperatura). Base para alertas y reportes médicos.
 
-- Alert
-  Notificación inmediata generada por la plataforma ante situaciones críticas o inusuales (ejemplo: caída, anomalía en signos vitales). Su objetivo es garantizar una respuesta rápida de cuidadores y doctores según la gravedad del evento.
+IoT Device: Equipamiento utilizado para el monitoreo en tiempo real de los adultos mayores, enviando datos sobre actividad y signos vitales a MediTrack.
 
-- Vital signs
-  Información registrada periódicamente sobre parámetros de salud del adulto mayor (frecuencia cardíaca, presión arterial, oxigenación, temperatura). Base para alertas y reportes médicos.
+Profile: Conjunto de información personal y médica de un adulto mayor, allegado, doctor, cuidador o administrador. Central para la gestión y acceso a la información en MediTrack.
 
-- IoT Device
-  Equipamiento utilizado para el monitoreo en tiempo real de los adultos mayores, enviando datos sobre actividad y signos vitales a MediTrack.
+Save / Register: Acción de almacenar información en la plataforma. Puede aplicarse a datos de adultos mayores, signos vitales, reportes, tratamientos o configuraciones.
 
-- Profile
-  Conjunto de información personal y médica de un adulto mayor, allegado, doctor, cuidador o administrador. Central para la gestión y acceso a la información en MediTrack.
+Add: Acción de introducir nuevos elementos en la plataforma, como un adulto mayor, un cuidador, un doctor o un plan de cuidado.
 
-- Save / Register
-  Acción de almacenar información en la plataforma. Puede aplicarse a datos de adultos mayores, signos vitales, reportes, tratamientos o configuraciones.
+Statistic: Representa datos agregados sobre la salud, bienestar y seguimiento de los adultos mayores. Incluye indicadores como evolución de signos vitales, cumplimiento de tratamientos, frecuencia de alertas o actividad física. Estas métricas son consultadas por doctores, cuidadores, administradores y allegados para tomar decisiones informadas.
 
-- Download  
-  Acción de obtener información de la plataforma en formato externo (PDF, CSV) para revisión o análisis. Puede incluir reportes médicos o estadísticas.
+Specialty: Representa la información o profeción de un doctor registrado en el sistema.
 
-- Add
-  Acción de introducir nuevos elementos en la plataforma, como un adulto mayor, un cuidador, un doctor o un plan de cuidado.
+Assigned to: Referencia a que cuidador o doctor se encuentra asignado un senior citizen.
 
-- Statistic
-  Representa datos agregados sobre la salud, bienestar y seguimiento de los adultos mayores. Incluye indicadores como evolución de signos vitales, cumplimiento de tratamientos, frecuencia de alertas o actividad física. Estas métricas son consultadas por doctores, cuidadores, administradores y allegados para tomar decisiones informadas.
+LogOut: Acción enfocada en la salida o cierre de sesión de un usuario en la plataforma.
 
 # Capítulo III: Requirements Specification
 
 ## 3.1. User Stories
 
-# Epica 1: Landing Page e Información Inicial
+Las User Stories representan los requisitos funcionales del sistema desde la perspectiva del usuario. Cada historia describe una necesidad específica, su contexto y los criterios de aceptación que garantizan su correcta implementación. En este conjunto se abarcan flujos clave como el registro, inicio de sesión, visualización de información, gestión de usuarios y administración de clínicas y casas de reposo, priorizadas según su valor para el negocio.
 
-| USER STORY ID | TÍTULO                              | DESCRIPCIÓN                                                                | CRITERIOS DE ACEPTACIÓN                                                                   | RELACIONADO CON (Epic ID) |
-| ------------- | ----------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------- |
-| US01          | Visualización de la Landing Page    | Como visitante, quiero acceder a la landing page para conocer la solución. | Escenario: acceso correcto o falla de carga con mensaje de error.                         | EP01                      |
-| US02          | Visualizar Problemas Actuales       | Como familiar, quiero ver los problemas actuales en el cuidado geriátrico. | Escenario: scroll muestra emergencias, monitoreo irregular, desconexión familiar.         | EP01                      |
-| US03          | Visualizar Soluciones Propuestas    | Como médico, quiero ver las soluciones tecnológicas de MediTrack.          | Escenario: se muestran detección inmediata, monitoreo continuo, conexión total.           | EP01                      |
-| US04          | Visualizar Impacto en Cifras        | Como visitante, quiero ver indicadores de impacto.                         | Escenario: métricas de emergencias (-85%), satisfacción (+95%), hospitalizaciones (-85%). | EP01                      |
-| US05          | Ver Tecnologías que Salvan Vidas    | Como enfermero, quiero conocer los sensores y dispositivos.                | Escenario: muestra conectividad, seguridad, autonomía, sensores, tiempo real.             | EP01                      |
-| US06          | Ver Nuestra Misión                  | Como familiar, quiero entender la misión de MediTrack.                     | Escenario: misión clara enfocada en mejorar calidad de vida.                              | EP01                      |
-| US07          | Ver Nuestra Visión                  | Como médico, quiero conocer la visión a futuro de MediTrack.               | Escenario: metas a 5 años y liderazgo en LATAM.                                           | EP01                      |
-| US08          | Consultar Plan Gratuito             | Como visitante, quiero ver el plan gratuito.                               | Escenario: beneficios: signos vitales, alertas, acceso web.                               | EP01                      |
-| US09          | Consultar Plan Premium              | Como allegado, quiero ver el plan premium.                                 | Escenario: informes personalizados, soporte prioritario.                                  | EP01                      |
-| US10          | Consultar Plan Enterprise           | Como médico o institución, quiero ver el plan enterprise.                  | Escenario: opción de contacto directo.                                                    | EP01                      |
-| US11          | Acceder al Formulario de Contacto   | Como visitante, quiero llenar un formulario.                               | Escenario: datos enviados generan confirmación.                                           | EP01                      |
-| US12          | Información de Contacto Alternativa | Como médico, quiero ver datos de contacto directo.                         | Escenario: se muestran teléfono, correo y dirección.                                      | EP01                      |
+| EPIC ID | TÍTULO                                       |
+| ------- | -------------------------------------------- |
+| EP01    | Landing Page e Información Inicial           |
+| EP02    | Registro e Inicio de Sesión                  |
+| EP03    | Gestión de Clínicas                          |
+| EP04    | Gestión de Casas de Reposo                   |
+| EP05    | Dashboard del Usuario (Allegados/Familiares) |
+| EP06    | Operaciones Generales                        |
 
----
-
-# Epica 2: Registro e Inicio de Sesión
-
-| USER STORY ID | TÍTULO                                   | DESCRIPCIÓN                                                         | CRITERIOS DE ACEPTACIÓN                                            | RELACIONADO CON (Epic ID) |
-| ------------- | ---------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------- |
-| US13          | Acceso al formulario de inicio de sesión | Como visitante, quiero acceder al formulario de login.              | Escenarios: acceso desde landing page o enlace directo.            | EP01                      |
-| US14          | Iniciar Sesión en MediTrack              | Como usuario registrado, quiero iniciar sesión con credenciales.    | Escenarios: éxito o error de credenciales inválidas.               | EP01                      |
-| US15          | Visualizar Planes Disponibles            | Como visitante, quiero ver los planes al no tener cuenta.           | Escenario: muestra 3 planes con nombre, características y precio.  | EP01                      |
-| US16          | Registrarse en MediTrack                 | Como nuevo usuario, quiero completar formulario de registro.        | Escenarios: éxito crea cuenta; error muestra validación de campos. | EP01                      |
-| US17          | Adaptar Dashboard según Plan             | Como usuario registrado, quiero que el dashboard se adapte al plan. | Escenarios: funcionalidades disponibles/restringidas según plan.   | EP01                      |
-
----
-
-# Epica 3: Gestión de Clínicas
-
-| USER STORY ID | TÍTULO                                            | DESCRIPCIÓN                                                 | CRITERIOS DE ACEPTACIÓN                                                        | RELACIONADO CON (Epic ID) |
-| ------------- | ------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------- |
-| US18          | Registro de clínica                               | Como representante, quiero registrar a mi clínica.          | Escenarios: éxito, error por datos inválidos, clínica ya registrada.           | EP02                      |
-| US19          | Creación automática del rol de administrador      | Como admin, quiero recibir credenciales únicas.             | Escenarios: creación automática de usuario admin y envío por correo.           | EP02                      |
-| US20          | Acceso inicial del administrador                  | Como admin, quiero iniciar sesión con credenciales válidas. | Escenarios: éxito, credenciales inválidas, campos vacíos.                      | EP02                      |
-| US21          | Registro de adultos mayores                       | Como admin, quiero registrar adultos mayores.               | Escenarios: éxito guarda datos; error por campos incompletos.                  | EP02                      |
-| US22          | Añadir doctor                                     | Como admin, quiero registrar doctores.                      | Escenarios: éxito crea cuenta, error por correo inválido, listado de doctores. | EP02                      |
-| US23          | Ver lista de adultos mayores asignados en clínica | Como doctor, quiero ver lista de adultos mayores asignados. | Escenarios: muestra lista o mensaje si no tiene asignados.                     | EP02                      |
-| US24          | Visualizar información clínica en clínica         | Como doctor, quiero ver información clínica.                | Escenario: muestra signos vitales claros y actualizados.                       | EP02                      |
-| US25          | Recibir alertas críticas en clínica               | Como doctor, quiero recibir alertas de cambios críticos.    | Escenario: alerta en tiempo real al detectar anomalía.                         | EP02                      |
-| US37          | Añadir adulto mayor en clínica                    | Como admin, quiero añadir adulto mayor con datos.           | Escenarios: éxito o error por campos incompletos.                              | EP02                      |
-| US38          | Añadir doctor en clínica                          | Como admin, quiero agregar doctor para asignar paciente.    | Escenario: selección de doctor para asignar adulto mayor.                      | EP02                      |
-| US39          | Asignar adulto mayor a un doctor                  | Como admin, quiero asignar adulto mayor a un doctor.        | Escenario: selección desde lista de adultos mayores.                           | EP02                      |
-
----
-
-# Epica 4: Gestión de Casas de Reposo
-
-| USER STORY ID | TÍTULO                                                   | DESCRIPCIÓN                                                      | CRITERIOS DE ACEPTACIÓN                                                          | RELACIONADO CON (Epic ID) |
-| ------------- | -------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------- |
-| US32          | Recibir alertas críticas en casa de reposo               | Como cuidador, quiero recibir alertas críticas.                  | Escenario: notificación en tiempo real y opciones de contacto.                   | EP03                      |
-| US33          | Visualizar información clínica en casa de reposo         | Como cuidador, quiero visualizar información clínica básica.     | Escenario: muestra historial clínico y alertas.                                  | EP03                      |
-| US34          | Ver lista de adultos mayores asignados en casa de reposo | Como admin, quiero ver la lista de adultos mayores bajo cuidado. | Escenarios: muestra lista o mensaje si no hay asignados.                         | EP03                      |
-| US40          | Añadir adulto mayor en casa de reposo                    | Como admin, quiero añadir adulto mayor con datos.                | Escenarios: éxito o error por campos incompletos.                                | EP03                      |
-| US41          | Añadir cuidador en casa de reposo                        | Como admin, quiero añadir un cuidador.                           | Escenario: selección del cuidador para asignar adulto mayor.                     | EP03                      |
-| US42          | Asignar adulto mayor a un cuidador                       | Como admin, quiero asignar adulto mayor a un cuidador.           | Escenario: lista de adultos mayores para asignar.                                | EP03                      |
-| US43          | Añadir cuidador                                          | Como admin, quiero registrar cuidadores.                         | Escenarios: éxito crea cuenta, error por correo inválido, listado de cuidadores. | EP03                      |
-
----
-
-# Epica 5: Dashboard del Usuario (Allegados/Familiares)
-
-| USER STORY ID | TÍTULO                            | DESCRIPCIÓN                                                  | CRITERIOS DE ACEPTACIÓN                                      | RELACIONADO CON (Epic ID) |
-| ------------- | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- |
-| US26          | Acceso al dashboard               | Como allegado, quiero acceder al dashboard.                  | Escenario: login correcto muestra dashboard.                 | EP04                      |
-| US27          | Visualizar signos vitales básicos | Como usuario no premium, quiero ver signos vitales básicos.  | Escenario: muestra presión, ritmo, saturación.               | EP04                      |
-| US28          | Visualizar signos vitales premium | Como allegado, quiero ver datos extra como temperatura.      | Escenario: muestra presión, ritmo, saturación y temperatura. | EP04                      |
-| US29          | Recibir alertas de caídas         | Como familiar, quiero recibir alertas de caídas.             | Escenario: notificación inmediata por caída.                 | EP04                      |
-| US30          | Recibir alertas de salud          | Como usuario, quiero recibir alertas de cambios importantes. | Escenario: dashboard muestra notificación del evento.        | EP04                      |
-| US31          | Acceso a soporte                  | Como usuario, quiero acceder a soporte desde dashboard.      | Escenario: opción soporte abre formulario o chat.            | EP04                      |
-| US35          | Selección de idioma               | Como usuario, quiero cambiar el idioma.                      | Escenarios: cambio a inglés o español actualiza interfaz.    | EP05                      |
-| US36          | Consultar la hora exacta          | Como usuario, quiero ver la hora actualizada de mi zona.     | Escenario: hora local mostrada con API.                      | EP05                      |
+| Story ID | Título                                                              | Descripción                                                                                                                                                                                       | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Epic ID |
+| -------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| US01     | Visualización de la Landing Page                                    | Como visitante, quiero acceder a la landing page para conocer la solución de cuidado geriatrico                                                                                                   | Escenario 1: Acceso a la landing page.<br>Given tengo el url de acceso a la página principal de la landing page<br>When hago click en la url<br>Then se muestra completamente la información general de la solución propuesta.<br> Escenario 2: Falla en la carga<br>Given que la pagina no responde o no carga<br>When el servidor responde con error<br>Then <br>se muestra un mensaje de error genérico y la opción de intentar de nuevo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | EP01    |
+| US02     | Visualizar Problemas Actuales                                       | Como visitante, quiero ver claramente los problemas actuales en el cuidado geriátrico para entender la importancia de la solución.                                                                | Escenario 1:<br>Given estoy en la landing page<br>When hago scroll a la sección de problemas<br>Then se muestran los puntos de "Emergencias No Detectadas", "Monitoreo Irregular" y "Desconexión Familiar".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | EP01    |
+| US03     | Visualizar Soluciones Propuestas                                    | Como visitante, quiero ver las soluciones tecnológicas de MediTrack para evaluar su utilidad en mi práctica profesional.                                                                          | Escenario 1:<br>Given estoy en la sección de "Nuestra Solución"<br>When reviso la información<br>Then se muestran claramente "Detección Inmediata", "Monitoreo Continuo" y "Conexión Total".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | EP01    |
+| US04     | Visualizar Impacto en Cifras                                        | Como visitante, quiero ver indicadores de impacto (reducción de emergencias, satisfacción familiar, etc.) para confiar en la solución.                                                            | Escenario 1:<br>Given estoy en la sección de impacto<br>When hago scroll<br>Then se muestran métricas de reducción de emergencias (85%), satisfacción (95%), reducción en hospitalizaciones (85%), monitoreo continuo (24/7).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | EP01    |
+| US05     | Ver Tecnologías que Salvan Vidas                                    | Como visitante, quiero conocer los dispositivos y sensores que usa MediTrack para evaluar su fiabilidad.                                                                                          | Escenario 1:<br>Given estoy en la sección de "Tecnologías que salvan vidas"<br>When la reviso<br>Then se muestran conectividad, seguridad, autonomía, sensores, tiempo real y precisión.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | EP01    |
+| US06     | Ver Nuestra Misión                                                  | Como visitante, quiero entender la misión de MediTrack para confiar en la seriedad de la empresa.                                                                                                 | Escenario 1:<br>Given estoy en la sección de "Misión y Visión"<br>When reviso<br>Then veo una misión clara enfocada en mejorar la calidad de vida con tecnología accesible.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | EP01    |
+| US07     | Ver Nuestra Visión                                                  | Como visitante, quiero conocer la visión a futuro de MediTrack para evaluar su proyección en el mercado.                                                                                          | Escenario 1:<br>Given estoy en la misma sección<br>When hago scroll<br>Then se muestra una visión con metas a 5 años y liderazgo en América Latina.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | EP01    |
+| US08     | Consultar Plan Gratuito                                             | Como visitante, quiero ver el plan gratuito para empezar a probar MediTrack sin compromiso.                                                                                                       | Escenario 1:<br>Given estoy en la sección de planes<br>When revisó el plan gratuito<br>Then se muestran beneficios: monitoreo de signos vitales, alertas en tiempo real, acceso web.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP01    |
+| US09     | Consultar Plan Premium                                              | Como visitante, quiero ver el plan premium con más beneficios para decidir si invertir.                                                                                                           | Escenario 1:<br>Given estoy en la sección de planes<br>When seleccionó Premium<br>Then veo beneficios: informes personalizados, soporte prioritario, etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP01    |
+| US10     | Consultar Plan Enterprise                                           | Como visitante, quiero ver el plan Enterprise para soluciones a gran escala.                                                                                                                      | Escenario 1:<br>Given estoy en la sección de planes<br>When selecciono Enterprise<br>Then se muestra opción de contacto directo para cotización.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | EP01    |
+| US11     | Acceder al Formulario de Contacto                                   | Como visitante, quiero llenar un formulario para recibir más información personalizada.                                                                                                           | Escenario 1:<br>Given estoy en la sección de contacto<br>When ingreso mis datos y presiono enviar<br>Then se confirma que la solicitud fue registrada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | EP01    |
+| US12     | Información de Contacto Alternativa                                 | Como visitante, quiero ver datos de contacto directo (teléfono, email) para comunicarme sin usar formulario.                                                                                      | Escenario 1:<br>Given estoy en la sección de contacto<br>When revisó los datos<br>Then se muestran teléfono, correo electrónico y dirección.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | EP01    |
+| US13     | Visualizar Planes Disponibles                                       | Como visitante, quiero visualizar los planes que ofrece MediTrack, para elegir el que mejor se adapte a mis necesidades.                                                                          | Escenario 1: Visualización de planesGiven selecciono “No tengo cuenta” en la pantalla de inicio de sesión When accedo a la sección de planesThen visualizo tres planes que me ofrece MediTrack con nombre, características y precio.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP01    |
+| US14     | Acceso al formulario de inicio de sesión                            | Como visitante, quiero acceder al formulario de inicio de sesión del Aplicativo al hacer clic en el botón para poder ingresar mis credenciales.                                                   | Escenario 1: Visualización de formulario<br>Given ingreso a la landing page<br>When hago click en la opción de inicio de sesión<br>Then visualizo el formulario de inicio de sesión.<br>Escenario 2: Acceso directo mediante enlace URL<br>Given que accedo mediante el enlace directo<br>When la página carga<br>Then el formulario carga correctamente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP02    |
+| US15     | Iniciar Sesión en MediTrack                                         | Como usuario, quiero iniciar sesión con mis credenciales, para acceder a mi dashboard y gestionar la información de salud correspondiente.                                                        | Escenario 1: Inicio de sesión exitoso Given tengo una cuenta válida When ingreso mi correo y contraseña correctos Then accedo directamente al dashboard de MediTrack.<br>Escenario 2: Inicio de sesión fallido Given no ingreso credenciales válidas When intento iniciar sesión Then el sistema muestra un mensaje de error indicando “Usuario o contraseña incorrectos”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | EP02    |
+| US16     | Registrarse en MediTrack                                            | Como visitante, quiero completar un formulario de registro según el plan seleccionado, para crear una cuenta y acceder a la plataforma.                                                           | Escenario 1: Registro exitoso Given selecciono un plan When completo todos los campos obligatorios del formulario Then el sistema crea mi cuenta y me lleva a la pestaña para agregar a mi familiar<br>Escenario 2: Registro fallido Given no completo todos los campos obligatorios When intento registrarme Then el sistema me muestra mensajes de validación en los campos faltantes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | EP02    |
+| US17     | Registro de clínica                                                 | Como administrador de una clínica, quiero registrar a mi clínica en la plataforma, para obtener una cuenta enterprise y habilitar el acceso a mi personal.                                        | Escenario 01: Registro exitoso de la clínica<br>Given que el representante se encuentra en el formulario de registro de clínicaWhen ingresa los datos obligatorios de la clínica( nombre, RUC, dirección, correo institucional) de manera válidaAnd confirma el registroThen el sistema crea la cuenta enterprise de la clínicaAnd muestra un mensaje confirmando el registro exitoso<br><br>Escenario 02: Datos incompletos o inválidos<br>Given que el representante se encuentra en el formulario de registro de clínicaWhen deja campos obligatorios vacíos o ingresa información inválidaAnd confirma el registroThen el sistema muestra un mensaje de error indicando los campos faltantes o incorrectosAnd no permite continuar con el registro.<br><br>Escenario 03: Clínica ya registrada<br>Given que una clínica con el mismo RUC o dominio ya existe en la plataformaWhen el representante intenta registrarla nuevamenteThen el sistema muestra un mensaje indicando que la clínica ya está registradaAnd no crea una nueva cuenta. | EP03    |
+| US18     | Creación automática del rol de administrador                        | Como administrador de una clínica,<br>quiero recibir un correo con las credenciales del administrador único,<br>para gestionar doctores, adultos mayores y allegados desde un solo panel.         | Escenario 01: Generación automática del administrador<br>Given que una clínica se registró exitosamente en la plataformaWhen el sistema finaliza el proceso de registroThen crea automáticamente un usuario con rol “Administrador” asociado a esa clínica<br><br>Escenario 02: Envío de credenciales al correo institucional<br>Given que el administrador de la clínica fue creado por el sistemaWhen el registro de clínica es exitosoThen el sistema envía un correo al correo institucional de la clínica con el usuario y contraseña inicial.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | EP03    |
+| US19     | Acceso inicial del administrador sin cambio obligatorio             | Como administrador de la clínica, quiero iniciar sesión con mis credenciales válidas para acceder al panel de gestión de la clínica.                                                              | Escenario 01: Inicio de sesión exitoso<br>Given que el administrador de la clínica tiene credenciales válidas<br>When ingresa correctamente las credenciales en la pantalla de login<br>And presiona el botón "Iniciar sesión"<br>Then el sistema valida las credenciales<br>And redirige al administrador al dashboard de MediTrack<br>Escenario 02: Credenciales inválidas<br>Given que el administrador de la clínica está en la pantalla de login<br>When ingresa un usuario o contraseña incorrecta<br>And presiona "Iniciar sesión"<br>Then el sistema muestra un mensaje de error indicando "Credenciales inválidas"<br>And no permite el acceso a la plataforma.<br>Escenario 03: Campos obligatorios vacíos<br>Given que el administrador de la clínica está en la pantalla de login<br>When inicia sesión sin ingresar correo y/o contraseña<br>Then el sistema muestra un mensaje indicando que ambos campos son obligatorios<br>                                                                                                     | EP03    |
+| US20     | Registro de adultos mayores                                         | Como administrador de la clínica<br>quiero registrar adultos mayores<br>para que puedan ser monitoreados dentro del sistema                                                                       | Escenario 01: Registro exitoso de adulto mayor<br>Given que el administrador de la clínica está autenticado en el panel de gestión<br>When ingresa los datos obligatorios del adulto mayor (nombre, apellido, DNI,edad, peso, altura, género)<br>And presiona "Registrar"<br>Then el sistema guarda al adulto mayor en la base de datos<br>And muestra un mensaje "Adulto mayor registrado exitosamente"<br>And el adulto mayor aparece en la lista de adultos mayores de la clínica.<br>Escenario 02: Campos Obligatorios incompletos<br>Given que el administrador de la clínica está registrando un adulto mayor<br>When deja en blanco un campo obligatorio<br>And presiona "Registrar"<br>Then el sistema muestra un mensaje indicando qué campo falta completar<br>And no permite guardar el adulto mayor.                                                                                                                                                                                                                                 | EP03    |
+| US21     | Añadir doctor                                                       | Como administrador de la clínica<br>quiero añadir doctores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores                                           | Escenario 01: Registro exitoso de un doctor<br>Given que el administrador accede al módulo de gestión de doctores<br>When completa el formulario de registro con nombre, especialidad y correo institucional <br>And confirma el registro<br>Then el sistema crea la cuenta del doctor<br>And envía un correo al doctor con sus credenciales de acceso iniciales.<br>Escenario 2: Registro fallido por correo inválido<br>Given que el administrador está registrando un nuevo doctor<br>When ingresa un correo con formato inválido o duplicado en el sistema<br>Then el sistema rechaza el registro<br>And muestra un mensaje de error indicando que el correo no es válido o ya está en uso.<br>Escenario 03: Listado de doctores registrados<br>Given que el administrador ha registrado doctores en la plataforma<br>When accede al listado de doctores<br>Then el sistema muestra los nombres, especialidades de cada doctor.                                                                                                              | EP03    |
+| US22     | Ver lista de adultos mayores asignados en clínica                   | Como administrador de una clínica, quiero ver la lista de adultos mayores asignados para monitorear su estado                                                                                     | Escenario 01: Visualización de adultos mayores asignados<br>Given que el doctor inició sesión con credenciales válidas<br>When accede al módulo “Mis adultos mayores”<br>Then el sistema muestra una lista con los adultos mayores que le fueron asignados<br>And cada adulto mayor se presenta con nombre, edad y estado de salud resumido.<br><br>Escenario 02: Sin adultos mayores asignados<br>Given que el doctor inició sesión con credenciales válidas<br>When accede al módulo “Mis adultos mayores asignados”<br>And no tiene adultos mayores asignados<br>Then el sistema muestra un mensaje indicando que aún no tiene adultos mayores asignados.                                                                                                                                                                                                                                                                                                                                                                                     | EP03    |
+| US23     | Visualizar información clínica del adulto mayor en clínica          | Como administrador de una clínica, quiero visualizar la información clínica del adulto mayor para dar seguimiento                                                                                 | Escenario 01: Visualización exitosa de datos clínicos<br>Given que el doctor tiene adultos mayores asignados<br>When selecciona un adulto mayor en su lista<br>Then el sistema muestra su signos vitales <br>And la información se presenta de forma clara y actualizada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP03    |
+| US24     | Recibir alertas críticas de adultos mayores en clínicas             | Como administrador de una clínica, quiero recibir alertas sobre cambios críticos en los adultos mayores para actuar a tiempo.                                                                     | Escenario 01: Alerta crítica recibida<br>Given que el sistema detecta un cambio crítico en los datos de un adulto mayor asignado (ej. frecuencia cardíaca anómala)<br>When se genera la alerta<br>Then el sistema envía una notificación en tiempo real al doctor.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | EP03    |
+| US25     | Añadir un adulto mayor junto a sus datos en la clínica              | Como administrador de una clínica quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un doctor                   | Escenario 1: Añade a un adulto mayor correctamente<br>Given que el administrador de una clínica quiere añadir a un adulto mayor<br>When va a la sección correspondiente para añadir al adulto mayor<br>And ponga los datos correspondientes<br>Then se añadirá correctamente al adulto mayor<br>Escenario 2: Añade a un adulto mayor de manera fallida<br><br>Given que el administrador de una clínica quiere añadir a un adulto mayor<br>When va a la sección correspondiente para añadir al adulto mayor<br>And no ponga todos los datos necesarios<br>Then el sistema muestra un mensaje de error indicando los campos faltantes o incorrectos                                                                                                                                                                                                                                                                                                                                                                                               | EP03    |
+| US26     | Añadir doctor para asignar adulto mayor en la clínica               | Como administrador de una clínica quiero poder agregar un doctor para que atiende a un adulto mayor                                                                                               | Escenario 1: Añadir doctor<br>Given que el administrador de una clínica quiere añadir un doctor para asignarle un adulto mayor<br>When vaya a la sección correspondiente<br>Then se selecciona al doctor que quiera asignar un adulto mayor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | EP03    |
+| US27     | Asignar adulto mayor a un doctor en la clínica                      | Como administrador de una clínica quiero poder asignar un adulto mayor a un doctor para que sea atendido por el doctor                                                                            | Escenario 1: Asignar adulto mayor a un doctor<br>Given que se seleccionó a un doctor para asignarle un adulto mayor<br>When se le dé al botón de añadir<br>And se despliegue la lista de adultos mayores<br>Then se podrá seleccionar al adulto mayor que se desea asignar al doctor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP03    |
+| US28     | Recibir alertas críticas de adultos mayores en casa de reposo       | Como administrador de una casa de reposo, quiero recibir alertas sobre cambios críticos en el estado de salud de los adultos mayores, para coordinar asistencia inmediata con el equipo médico.   | Escenario 1: Alerta crítica recibida<br>Given que el sistema detecta un cambio crítico en un adulto mayor (ej. caída, frecuencia cardíaca anómala)<br>When se genera la alerta<br>Then el sistema envía una notificación en tiempo real al panel del administrador<br>And muestra opciones de contacto con el doctor asignado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | EP04    |
+| US29     | Visualizar información clínica de adultos mayores en casa de reposo | Como administrador de una casa de reposo, quiero visualizar la información clínica básica de los adultos mayores, para dar seguimiento a su estado y reportar incidencias oportunamente.          | Escenario 1: Visualización exitosa<br>Given que el cuidador tiene acceso autorizado a un adulto mayor<br>When selecciona el perfil del adulto mayor<br>Then el sistema muestra historial clínico básico, signos vitales y alertas recientes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | EP04    |
+| US30     | Ver lista de adultos mayores asignados en casa de reposo            | Como administrador de una casa de reposo, quiero ver la lista de adultos mayores bajo mi responsabilidad, para monitorear su estado y asegurar un control adecuado de la información.             | Escenario 1: Lista disponible<br>Given que el administrador inició sesión<br>When accede a la sección “Mis adultos mayores”<br>Then el sistema muestra la lista de adultos mayores con nombre, edad y estado de salud resumido.<br>Escenario 2: Sin adultos mayores asignados<br>Given que el administrador no tiene adultos mayores adultos mayores registrados<br>When accede a la sección “Mis adultos mayores adultos mayore”<br>Then el sistema muestra un mensaje: “Aún no hay adultos mayores adultos mayores asignados”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | EP04    |
+| US31     | Añadir un adulto mayor junto a sus datos en la casa de reposo       | Como administrador de casa de una reposo quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un cuidador          | Escenario 1: Añade a un adulto mayor correctamente<br>Given que el administrador de una casa de reposo quiere añadir a un adulto mayor<br>When va a la sección correspondiente para añadir al adulto mayor<br>And ponga los datos correspondientes<br>Then se añadirá correctamente al adulto mayor<br>Escenario 2: Añade a un adulto mayor de manera fallida<br><br>Given que el administrador de una casa de reposo quiere añadir a un adulto mayor<br>When va a la sección correspondiente para añadir al adulto mayor<br>And no ponga todos los datos necesarios<br>Then el sistema muestra un mensaje de error indicando los campos faltantes o incorrectos                                                                                                                                                                                                                                                                                                                                                                                 | EP04    |
+| US32     | Añadir cuidador para asignar adulto mayor en la casa de reposo      | Como administrador de una casa de reposo quiero poder agregar un cuidador para que atiende a un adulto mayor                                                                                      | Escenario 1: Añadir cuidador<br>Given que el administrador de una casa de reposo<br>quiere añadir un cuidador para asignarle un adulto mayor<br>When vaya a la sección correspondiente<br>Then selecciona al cuidador que quiera asignar un adulto mayor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | EP04    |
+| US33     | Asignar adulto mayor a un cuidador en la casa de reposo             | Como administrador de una casa de reposo quiero poder asignar un adulto mayor a un cuidador para que sea atendido por el cuidador                                                                 | Escenario 1: Asignar adulto mayor a un cuidador<br>Given que se seleccionó a un cuidador para asignarle un adulto mayor<br>When se le dé al botón de añadir<br>And se despliegue la lista de adultos mayores<br>Then se podrá seleccionar al adulto mayor que se desea asignar al cuidador                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | EP04    |
+| US34     | Añadir cuidador                                                     | Como administrador de la casa de reposo<br>quiero añadir cuidadores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores                                  | Escenario 01: Registro exitoso de un cuidador<br>Given que el administrador accede al módulo de gestión de cuidadores<br>When completa el formulario de registro con nombre, especialidad y correo institucional <br>And confirma el registro<br>Then el sistema crea la cuenta del cuidador<br>And envía un correo al cuidador con sus credenciales de acceso iniciales.<br>Escenario 2: Registro fallido por correo inválido<br>Given que el administrador está registrando un nuevo cuidador<br>When ingresa un correo con formato inválido o duplicado en el sistema<br>Then el sistema rechaza el registro<br>And muestra un mensaje de error indicando que el correo no es válido o ya está en uso.<br>Escenario 03: Listado de cuidadores registrados<br>Given que el administrador ha registrado cuidadores en la plataforma<br>When accede al listado de cuidadores<br>Then el sistema muestra los nombres, especialidades de cada cuidador.                                                                                            | EP04    |
+| US35     | Acceso al dashboard MediTrack                                       | Como allegado, quiero acceder al dashboard para visualizar la información general de mi adulto mayor.                                                                                             | Escenario 1: Acceso exitoso Given que tengo cuenta en el sistema When inicio sesión correctamente Then se muestra el dashboard MediTrack con la información de inicio.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | EP05    |
+| US36     | Visualizar signos vitales básicos                                   | Como allegado, quiero visualizar los signos vitales básicos (presión arterial, ritmo cardíaco, saturación de oxígeno y gráficas estadísticas) para conocer el estado de salud de mi adulto mayor. | Escenario 1: Consulta exitosa Given que accedo al dashboard básico When selecciono la opción de “Signos vitales” Then el sistema muestra presión arterial, ritmo cardíaco y saturación de oxígeno.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | EP05    |
+| US37     | Visualizar signos vitales premium                                   | Como allegado, quiero ver signos vitales adicionales como temperatura para tener un seguimiento más completo y que estos datos estén en las gráficas estadísticas                                 | Escenario 1: Acceso premium Given que tengo una cuenta premium When accedo a la sección de “Signos vitales” Then se muestran presión arterial, ritmo cardíaco, saturación de oxígeno y temperatura                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | EP05    |
+| US38     | Recibir alertas de caídas                                           | Como allegado, quiero recibir alertas en caso de caída del adulto mayor para actuar rápidamente.                                                                                                  | Escenario 1: Detección de caída Given que el sistema detecta una caída When se genera la alerta Then recibo una notificación inmediata en la aplicación y correo electrónico.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | EP05    |
+| US39     | Recibir alertas de salud                                            | Como allegado, quiero recibir alertas en el dashboard para estar informado de cambios importantes en la salud del adulto mayor.                                                                   | Escenario 1: Alerta generada<br>Given que ocurre una alteración en los signos vitales del adulto mayor<br>When el sistema detecta el evento<br>Then se muestra una notificación en el dashboard indicando el tipo de alerta.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | EP05    |
+| US40     | Adaptar Dashboard según Plan                                        | Como usuario, quiero que el sistema adapte las funciones del dashboard según mi plan, para visualizar las herramientas disponibles en mi suscripción.                                             | Escenario 1: Funcionalidades disponibles según plan Given inicié sesión con un plan básico When accedo al dashboard Then solo veo las funcionalidades incluidas en el plan básico.<br>Escenario 2: Funcionalidades restringidas Given tengo un plan estándar When intento acceder a una funcionalidad Premium Then el sistema muestra un mensaje: “Disponible solo en plan Premium o Enterprise”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP06    |
+| US41     | Acceso a soporte desde el dashboard                                 | Como usuario, quiero acceder fácilmente a soporte técnico desde el dashboard para resolver problemas rápidamente.                                                                                 | Escenario 1: Acceso a soporte Given que estoy en el dashboard When selecciono la opción “Soporte” Then se muestra un formulario de contacto o chat de ayuda.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | EP06    |
+| US42     | Selección de idioma                                                 | Como usuario, quiero poder cambiar el idioma de la plataforma entre inglés y español desde un botón visible, para usarla en el idioma que prefiera.                                               | Escenario 1: Cambio exitoso de idioma<br>Given que el usuario está en la plataforma<br>When hace clic en el botón de idioma y selecciona “EN”<br>Then toda la interfaz se actualiza y muestra textos en inglés.<br>Escenario 2: Cambio de idioma a español<br>Given que el usuario está en la plataforma<br>When hace clic en el botón de idioma y selecciona “ES”<br>Then toda la interfaz se actualiza y muestra textos en español.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | EP06    |
+| US43     | Consultar la hora exacta                                            | Como usuario quiero ver la hora actualizada y precisa de mi zona horaria para tener certeza de la hora correcta.                                                                                  | Escenario 1: Hora local automática<br>Given que abro MediTrack <br>When la app detecta mi ubicación<br>Then debería mostrarme la hora actual de mi zona local sincronizada con la API                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | EP06    |
+| TS1      | Endpoint para registro de organizaciones                            | Como developer, quiero crear un endpoint para registrar nuevas organizaciones                                                                                                                     | Escenario 1: Organización registrada correctamente<br>Given que se envían todos los datos requeridos (nombre, dirección, email)<br>When se realiza un POST a /api/v1/organizations<br>Then el sistema guarda la organización y responde con código 201 Created<br><br>Escenario 2: Datos inválidos<br>Given que faltan campos obligatorios<br>When se intenta crear la organización<br>Then el sistema responde con código 400 Bad Request                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |         |
+| TS2      | Endpoint para obtener organización por ID                           | Como developer, quiero crear un endpoint para obtener los datos de una organización específica                                                                                                    | Escenario 1: Administradores listados correctamente<br>Given que existen administradores registrados<br>When se hace un GET a /api/v1/organization/{organizationId}/admin<br>Then el sistema devuelve la lista con código 200 OK<br><br>Escenario 2: Sin administradores registrados<br>Given que la organización no tiene administradores<br>When se hace un GET a /api/v1/organization/{organizationId}/admin<br>Then el sistema devuelve una lista vacía con código 200 OK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |         |
+| TS3      | Endpoint para listar administradores de una organización            | Como developer, quiero crear un endpoint para listar los administradores asociados a una organización .                                                                                           | Escenario 1: Administradores listados correctamente<br>Given que existen administradores registrados<br>When se hace un GET a /api/v1/organization/{organizationId}/admin<br>Then el sistema devuelve la lista con código 200 OK<br><br>Escenario 2: Sin administradores registrados<br>Given que la organización no tiene administradores<br>When se hace un GET a /api/v1/organization/{organizationId}/admin<br>Then el sistema devuelve una lista vacía con código 200 OK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |         |
+| TS4      | Endpoint para registrar administrador de organización               | Como developer, quiero crear un endpoint para agregar administradores a una organización y permitir su gestión dentro del sistema.                                                                | Escenario 1: Administrador agregado correctamente<br>Given que se envían datos válidos<br>When se realiza un POST a /api/v1/organization/{organizationId}/admin<br>Then el sistema guarda el nuevo administrador y responde con 201 Created<br><br>Escenario 2: Usuario ya registrado como admin<br>Given que el usuario ya es administrador<br>When intenta registrarse nuevamente<br>Then el sistema responde con 409 Conflict                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |         |
+| TS5      | Endpoint para registro de cuidadores                                | Como developer, quiero crear un endpoint para registrar nuevos cuidadores                                                                                                                         | Escenario 1: Cuidador registrado correctamente<br>Given que los datos son válidos<br>When se hace un POST a /api/v1/caregivers<br>Then el sistema guarda el cuidador y responde con 201 Created<br><br>Escenario 2: Datos inválidos<br>Given que faltan datos requeridos<br>When se hace un POST a /api/v1/caregivers<br>Then el sistema responde con 400 Bad Request                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |         |
+| TS6      | Endpoint para obtener cuidador por ID                               | Como developer, quiero crear un endpoint para obtener los datos de un cuidador específico                                                                                                         | Escenario 1: Cuidador encontrado<br>Given que existe un cuidador con ese ID<br>When se hace un GET a /api/v1/caregivers/{caregiverId}<br>Then el sistema devuelve los datos con 200 OK<br><br>Escenario 2: Cuidador no encontrado<br>Given que no existe un cuidador con ese ID<br>When se hace un GET a /api/v1/caregivers/{caregiverId}<br>Then el sistema responde con 404 Not Found                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |         |
+| TS7      | Endpoint para listar cuidadores de una organización                 | Como developer, quiero crear un endpoint para listar cuidadores de una organización.                                                                                                              | Escenario 1: Doctor registrado correctamente<br>Given que se envían los datos requeridos<br>When se hace un POST a /api/v1/doctors<br>Then el sistema guarda al doctor y responde con 201 Created<br><br>Escenario 2: Doctor duplicado<br>Given que ya existe un doctor con el mismo DNI o email<br>When se hace un POST a /api/v1/doctors<br>Then el sistema responde con 409 Conflict                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |         |
+| TS8      | Endpoint para registrar doctores                                    | Como developer, quiero crear un endpoint para registrar nuevos doctores                                                                                                                           | Escenario 1: Doctor registrado correctamente<br>Given que se envían los datos requeridos<br>When se hace un POST a /api/v1/doctors<br>Then el sistema guarda al doctor y responde con 201 Created<br><br>Escenario 2: Doctor duplicado<br>Given que ya existe un doctor con el mismo DNI o email<br>When se hace un POST a /api/v1/doctors<br>Then el sistema responde con 409 Conflict                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |         |
+| TS9      | Endpoint para obtener doctor por ID                                 | Como developer, quiero crear un endpoint para obtener los datos de un doctor                                                                                                                      | Escenario 1: Doctor encontrado<br>Given un ID válido<br>When se hace un GET a /api/v1/doctors/{doctorId}<br>Then el sistema devuelve la información con 200 OK<br><br>Escenario 2: Doctor no encontrado<br>Given un ID inexistente<br>When se hace un GET a /api/v1/doctors/{doctorId}<br>Then el sistema responde con 404 Not Found                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |         |
+| TS10     | Endpoint para listar doctores por organización                      | Como developer, quiero crear un endpoint para listar doctores de una organización.                                                                                                                | Escenario 1: Doctores listados correctamente<br>Given que existen doctores asociados<br>When se hace un GET a /api/v1/organization/{organizationId}/doctor<br>Then el sistema devuelve la lista con 200 OK<br><br>Escenario 2: Sin doctores registrados<br>Given que la organización no tiene doctores<br>When se hace un GET a /api/v1/organization/{organizationId}/doctor<br>Then el sistema responde con una lista vacía                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |         |
+| TS11     | Endpoint para listar adultos mayores por organización               | Como developer, quiero crear un endpoint para listar adultos mayores pertenecientes a una organización                                                                                            | Escenario 1: Adultos mayores listados correctamente<br>Given que existen registros<br>When se hace un GET a /api/v1/organization/{organizationId}/senior-citizens<br>Then el sistema devuelve la lista con 200 OK<br><br>Escenario 2: Sin registros<br>Given que la organización aún no tiene adultos mayores<br>When se hace un GET a /api/v1/organization/{organizationId}/senior-citizens<br>Then el sistema devuelve lista vacía                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |         |
+| TS12     | Endpoint para listar adultos mayores por doctor                     | Como developer, quiero crear un endpoint para listar adultos mayores asignados a un doctor                                                                                                        | Escenario 1: Adultos mayores listados correctamente<br>Given que el doctor tiene asignaciones<br>When se hace un GET a /api/v1/doctor/{doctorId}/senior-citizens<br>Then el sistema devuelve los datos con 200 OK<br><br>Escenario 2: Sin asignaciones<br>Given que el doctor no tiene pacientes<br>When se hace un GET a /api/v1/doctor/{doctorId}/senior-citizens<br>Then el sistema responde con lista vacía                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |         |
+| TS13     | Endpoint para listar adultos mayores por cuidador                   | Como developer, quiero crear un endpoint para listar adultos mayores asignados a un cuidador                                                                                                      | Escenario 1: Adultos mayores listados correctamente<br>Given que el cuidador tiene registros<br>When se hace un GET a /api/v1/caregiver/{caregiverId}/senior-citizens<br>Then el sistema devuelve la lista con 200 OK<br><br>Escenario 2: Sin registros<br>Given que no hay adultos mayores asociados<br>When se hace un GET a /api/v1/caregiver/{caregiverId}/senior-citizens<br>Then el sistema devuelve lista vacía                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |         |
+| TS14     | Endpoint para asignar adultos mayores a doctor                      | Como developer, quiero crear un endpoint para asociar adultos mayores a un doctor                                                                                                                 | Escenario 1: Asignación correcta<br>Given que se envían los datos requeridos<br>When se hace un POST a /api/v1/doctor/{doctorId}/senior-citizens<br>Then el sistema registra la relación y responde con 201 Created<br><br>Escenario 2: Adulto mayor ya asignado<br>Given que el adulto mayor ya está vinculado al mismo doctor<br>When se hace un POST a /api/v1/doctor/{doctorId}/senior-citizens<br>Then el sistema responde con 409 Conflict                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |         |
+| TS15     | Endpoint para asignar adultos mayores a cuidador                    | Como developer, quiero crear un endpoint para registrar adultos mayores bajo el cuidado de un cuidador                                                                                            | Escenario 1: Asignación correcta<br>Given que se envían los datos requeridos<br>When se hace un POST a /api/v1/doctor/{doctorId}/senior-citizens<br>Then el sistema registra la relación y responde con 201 Created<br><br>Escenario 2: Adulto mayor ya asignado<br>Given que el adulto mayor ya está vinculado al mismo doctor<br>When se hace un POST a /api/v1/doctor/{doctorId}/senior-citizens<br>Then el sistema responde con 409 Conflict                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |         |
+| TS16     | Endpoint para listar familiares                                     | Como developer, quiero crear un endpoint para listar todos los familiares registrados                                                                                                             | Escenario 1: Hora local automática<br>Given que abro MediTrack <br>When la app detecta mi ubicación<br>Then debería mostrarme la hora actual de mi zona local sincronizada con la API                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |         |
+| TS17     | Endpoint para registrar dispositivos                                | Como developer, quiero crear un endpoint para registrar nuevos dispositivos                                                                                                                       | Escenario 1: Dispositivo registrado correctamente<br>Given que se envían todos los datos requeridos (tipo de dispositivo, serial, nombre)<br>When se hace un POST a /api/v1/devices<br>Then el sistema guarda el dispositivo y responde con 201 Created<br><br>Escenario 2: Datos inválidos<br>Given que faltan campos obligatorios<br>When se hace un POST a /api/v1/devices<br>Then el sistema responde con 400 Bad Request                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |         |
+| TS18     | Endpoint para listar todos los dispositivos                         | Como developer, quiero crear un endpoint para obtener la lista de todos los dispositivos registrados                                                                                              | Escenario 1: Dispositivos listados correctamente<br>Given que existen dispositivos registrados<br>When se hace un GET a /api/v1/devices<br>Then el sistema devuelve la lista con 200 OK<br><br>Escenario 2: Sin dispositivos registrados<br>Given que no hay dispositivos en el sistema<br>When se hace un GET a /api/v1/devices<br>Then el sistema devuelve una lista vacía con 200 OK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |         |
+| TS19     | Endpoint para obtener dispositivo por ID                            | Como developer, quiero crear un endpoint para obtener los datos de un dispositivo específico                                                                                                      | Escenario 1: Dispositivo encontrado<br>Given un ID válido<br>When se hace un GET a /api/v1/devices/{deviceId}<br>Then el sistema devuelve los datos del dispositivo con 200 OK<br><br>Escenario 2: Dispositivo no encontrado<br>Given que el ID no existe<br>When se hace un GET a /api/v1/devices/{deviceId}<br>Then el sistema responde con 404 Not Found                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |         |
+| TS20     | Endpoint para listar alertas de un dispositivo                      | Como developer, quiero crear un endpoint para listar todas las alertas generadas por un dispositivo                                                                                               | Escenario 1: Alertas listadas correctamente<br>Given que el dispositivo tiene alertas registradas<br>When se hace un GET a /api/v1/devices/{deviceId}/alerts<br>Then el sistema devuelve la lista con 200 OK<br><br>Escenario 2: Sin alertas registradas<br>Given que el dispositivo no tiene alertas<br>When se hace un GET a /api/v1/devices/{deviceId}/alerts<br>Then el sistema devuelve una lista vacía con 200 OK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |         |
+| TS21     | Endpoint para listar todas las alertas                              | Como developer, quiero crear un endpoint para obtener todas las alertas registradas en el sistema                                                                                                 | Escenario 1: Alertas listadas correctamente<br>Given que existen alertas registradas<br>When se hace un GET a /api/v1/devices/{deviceId}/alerts<br>Then el sistema devuelve la lista con 200 OK<br><br>Escenario 2: Sin alertas registradas<br>Given que no hay alertas<br>When se hace un GET a /api/v1/devices/{deviceId}/alerts<br>Then el sistema devuelve lista vacía con 200 OK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |         |
+| TS22     | Endpoint para obtener alerta por ID                                 | Como developer, quiero crear un endpoint para obtener los datos de una alerta específica                                                                                                          | Escenario 1: Alerta encontrada<br>Given un ID válido<br>When se hace un GET a /api/v1/alerts/{alertId}<br>Then el sistema devuelve los datos con 200 OK<br><br>Escenario 2: Alerta no encontrada<br>Given que el ID no existe<br>When se hace un GET a /api/v1/alerts/{alertId}<br>Then el sistema responde con 404 Not Found                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |         |
+| TS23     | Endpoint para registrar frecuencia cardíaca                         | Como developer, quiero crear un endpoint para registrar los valores de frecuencia cardíaca de un dispositivo                                                                                      | Escenario 1: Registro exitoso<br>Given que se envían los datos válidos (valor de bpm, fecha y hora)<br>When se hace un POST a /api/v1/devices/{deviceId}/heart-rates<br>Then el sistema guarda el registro y responde con 201 Created<br><br>Escenario 2: Datos inválidos<br>Given que los datos enviados son incompletos o inválidos<br>When se hace un POST a /api/v1/devices/{deviceId}/heart-rates<br>Then el sistema responde con 400 Bad Request                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |         |
+| TS24     | Endpoint para consultar frecuencia cardíaca                         | Como developer, quiero crear un endpoint para consultar los registros de frecuencia cardíaca de un dispositivo                                                                                    | Escenario 1: Consulta exitosa<br>Given que existen registros de frecuencia cardíaca para el dispositivo<br>When se hace un GET a /api/v1/devices/{deviceId}/heart-rates<br>Then el sistema devuelve la lista de registros con 200 OK<br><br>Escenario 2: Sin registros<br>Given que el dispositivo no tiene registros<br>When se hace un GET a /api/v1/devices/{deviceId}/heart-rates<br>Then el sistema devuelve una lista vacía con 200 OK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |         |
+| TS25     | Endpoint para registrar niveles de oxígeno                          | Como developer, quiero crear un endpoint para registrar los niveles de saturación de oxígeno de un dispositivo                                                                                    | Escenario 1: Registro exitoso<br>Given que se envían datos válidos (valor de SpO₂, fecha y hora)<br>When se hace un POST a /api/v1/devices/{deviceId}/oxygens<br>Then el sistema guarda el registro y responde con 201 Created<br><br>Escenario 2: Datos inválidos<br>Given que faltan campos requeridos o son incorrectos<br>When se hace un POST a /api/v1/devices/{deviceId}/oxygens<br>Then el sistema responde con 400 Bad Request                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |         |
+| TS26     | Endpoint para consultar niveles de oxígeno                          | Como developer, quiero crear un endpoint para consultar los registros de oxígeno de un dispositivo                                                                                                | Escenario 1: Consulta exitosa<br>Given que existen registros de oxígeno<br>When se hace un GET a /api/v1/devices/{deviceId}/oxygens<br>Then el sistema devuelve la lista con 200 OK<br><br>Escenario 2: Sin registros<br>Given que no hay datos registrados<br>When se hace un GET a /api/v1/devices/{deviceId}/oxygens<br>Then el sistema devuelve una lista vacía con 200 OK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |         |
+| TS27     | Endpoint para registrar presión arterial                            | Como developer, quiero crear un endpoint para registrar los valores de presión arterial de un dispositivo                                                                                         | Escenario 1: Registro exitoso<br>Given que se envían datos válidos (sistólica, diastólica, fecha y hora)<br>When se hace un POST a /api/v1/devices/{deviceId}/blood-pressures<br>Then el sistema guarda el registro y responde con 201 Created<br><br>Escenario 2: Datos inválidos<br>Given que los valores no cumplen con el formato requerido<br>When se hace un POST a /api/v1/devices/{deviceId}/blood-pressures<br>Then el sistema responde con 400 Bad Request                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |         |
+| TS28     | Endpoint para consultar presión arterial                            | Como developer, quiero crear un endpoint para consultar los registros de presión arterial de un dispositivo                                                                                       | Escenario 1: Consulta exitosa<br>Given que existen registros de presión arterial<br>When se hace un GET a /api/v1/devices/{deviceId}/blood-pressures<br>Then el sistema devuelve la lista con 200 OK<br><br>Escenario 2: Sin registros<br>Given que no hay datos registrados<br>When se hace un GET a /api/v1/devices/{deviceId}/blood-pressures<br>Then el sistema devuelve una lista vacía con 200 OK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |         |
+| TS29     | Endpoint para registrar temperatura corporal                        | Como developer, quiero crear un endpoint para registrar los valores de temperatura corporal de un dispositivo                                                                                     | Escenario 1: Registro exitoso<br>Given que se envían datos válidos (valor en °C)<br>When se hace un POST a /api/v1/devices/{deviceId}/temperatures<br>Then el sistema guarda el registro y responde con 201 Created<br><br>Escenario 2: Datos inválidos<br>Given que los datos enviados no son válidos<br>When se hace un POST a /api/v1/devices/{deviceId}/temperatures<br>Then el sistema responde con 400 Bad Request                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |         |
+| TS30     | Endpoint para consultar temperatura corporal                        | Como developer, quiero crear un endpoint para consultar los registros de temperatura corporal de un dispositivo                                                                                   | Escenario 1: Consulta exitosa<br>Given que existen registros de temperatura<br>When se hace un GET a /api/v1/devices/{deviceId}/temperatures<br>Then el sistema devuelve la lista con 200 OK<br><br>Escenario 2: Sin registros<br>Given que no hay datos registrados<br>When se hace un GET a /api/v1/devices/{deviceId}/temperatures<br>Then el sistema devuelve una lista vacía con 200 OK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |         |
 
 ---
 
@@ -1304,7 +1466,115 @@ Impact Map para el segmento de Familiares:
 
 ## 3.3. Product Backlog
 
-| Nº  | User Story ID | Título                                    | Descripción                                                                | Story Points | Epic ID |
+El Product Backlog es una lista priorizada y dinámica de todas las funcionalidades pendientes de desarrollo. Está ordenado según la necesidad del negocio, comenzando por las historias que permiten la incorporación de nuevos usuarios (registro, inicio de sesión, visualización de planes), seguidas por la gestión interna (registro de clínicas, doctores, adultos mayores y cuidadores), y finalizando con funcionalidades de monitoreo y soporte.
+
+| Puntos | Nivel de esfuerzo | Características                                                       |
+| ------ | ----------------- | --------------------------------------------------------------------- |
+| **1**  | Muy bajo          | Pantallas estáticas, sin lógica ni backend                            |
+| **2**  | Bajo              | Funcionalidades simples con validaciones básicas                      |
+| **3**  | Medio             | Flujo con interacción con backend o estados                           |
+| **5**  | Alto              | Lógica condicional, comunicación con sensores, o integración de datos |
+| **8**  | Muy alto          | Funcionalidades críticas, tiempo real, seguridad, o gestión compleja  |
+
+---
+
+| Story ID | Título                                                              | Descripción                                                                                                                                                                                       | Story Points | Epic ID |
+| -------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------- |
+| US01     | Visualización de la Landing Page                                    | Como visitante, quiero acceder a la landing page para conocer la solución de cuidado geriatrico                                                                                                   | 1            | EP01    |
+| US02     | Visualizar Problemas Actuales                                       | Como visitante, quiero ver claramente los problemas actuales en el cuidado geriátrico para entender la importancia de la solución.                                                                | 1            | EP01    |
+| US03     | Visualizar Soluciones Propuestas                                    | Como visitante, quiero ver las soluciones tecnológicas de MediTrack para evaluar su utilidad en mi práctica profesional.                                                                          | 1            | EP01    |
+| US04     | Visualizar Impacto en Cifras                                        | Como visitante, quiero ver indicadores de impacto (reducción de emergencias, satisfacción familiar, etc.) para confiar en la solución.                                                            | 2            | EP01    |
+| US05     | Ver Tecnologías que Salvan Vidas                                    | Como visitante, quiero conocer los dispositivos y sensores que usa MediTrack para evaluar su fiabilidad.                                                                                          | 1            | EP01    |
+| US06     | Ver Nuestra Misión                                                  | Como visitante, quiero entender la misión de MediTrack para confiar en la seriedad de la empresa.                                                                                                 | 1            | EP01    |
+| US07     | Ver Nuestra Visión                                                  | Como visitante, quiero conocer la visión a futuro de MediTrack para evaluar su proyección en el mercado.                                                                                          | 1            | EP01    |
+| US08     | Consultar Plan Gratuito                                             | Como visitante, quiero ver el plan gratuito para empezar a probar MediTrack sin compromiso.                                                                                                       | 2            | EP01    |
+| US09     | Consultar Plan Premium                                              | Como visitante, quiero ver el plan premium con más beneficios para decidir si invertir.                                                                                                           | 2            | EP01    |
+| US10     | Consultar Plan Enterprise                                           | Como visitante, quiero ver el plan Enterprise para soluciones a gran escala.                                                                                                                      | 2            | EP01    |
+| US11     | Acceder al Formulario de Contacto                                   | Como visitante, quiero llenar un formulario para recibir más información personalizada.                                                                                                           | 3            | EP01    |
+| US12     | Información de Contacto Alternativa                                 | Como visitante, quiero ver datos de contacto directo (teléfono, email) para comunicarme sin usar formulario.                                                                                      | 1            | EP01    |
+| US13     | Visualizar Planes Disponibles                                       | Como visitante, quiero visualizar los planes que ofrece MediTrack, para elegir el que mejor se adapte a mis necesidades.                                                                          | 2            | EP01    |
+| US14     | Acceso al formulario de inicio de sesión                            | Como visitante, quiero acceder al formulario de inicio de sesión del Aplicativo al hacer clic en el botón para poder ingresar mis credenciales.                                                   | 2            | EP02    |
+| US15     | Iniciar Sesión en MediTrack                                         | Como usuario, quiero iniciar sesión con mis credenciales, para acceder a mi dashboard y gestionar la información de salud correspondiente.                                                        | 3            | EP02    |
+| US16     | Registrarse en MediTrack                                            | Como visitante, quiero completar un formulario de registro según el plan seleccionado, para crear una cuenta y acceder a la plataforma.                                                           | 3            | EP02    |
+| US17     | Registro de clínica                                                 | Como administrador de una clínica, quiero registrar a mi clínica en la plataforma, para obtener una cuenta enterprise y habilitar el acceso a mi personal.                                        | 4            | EP03    |
+| US18     | Creación automática del rol de administrador                        | Como administrador de una clínica,<br>quiero recibir un correo con las credenciales del administrador único,<br>para gestionar doctores, adultos mayores y allegados desde un solo panel.         | 4            | EP03    |
+| US19     | Acceso inicial del administrador sin cambio obligatorio             | Como administrador de la clínica, quiero iniciar sesión con mis credenciales válidas para acceder al panel de gestión de la clínica.                                                              | 3            | EP03    |
+| US20     | Registro de adultos mayores                                         | Como administrador de la clínica<br>quiero registrar adultos mayores<br>para que puedan ser monitoreados dentro del sistema                                                                       | 3            | EP03    |
+| US21     | Añadir doctor                                                       | Como administrador de la clínica<br>quiero añadir doctores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores                                           | 4            | EP03    |
+| US22     | Ver lista de adultos mayores asignados en clínica                   | Como administrador de una clínica, quiero ver la lista de adultos mayores asignados para monitorear su estado                                                                                     | 3            | EP03    |
+| US23     | Visualizar información clínica del adulto mayor en clínica          | Como administrador de una clínica, quiero visualizar la información clínica del adulto mayor para dar seguimiento                                                                                 | 4            | EP03    |
+| US17     | Registro de clínica                                                 | Como administrador de una clínica, quiero registrar a mi clínica en la plataforma, para obtener una cuenta enterprise y habilitar el acceso a mi personal.                                        | 5            | EP03    |
+| US18     | Creación automática del rol de administrador                        | Como administrador de una clínica,<br>quiero recibir un correo con las credenciales del administrador único,<br>para gestionar doctores, adultos mayores y allegados desde un solo panel.         | 5            | EP03    |
+| US19     | Acceso inicial del administrador sin cambio obligatorio             | Como administrador de la clínica, quiero iniciar sesión con mis credenciales válidas para acceder al panel de gestión de la clínica.                                                              | 3            | EP03    |
+| US20     | Registro de adultos mayores                                         | Como administrador de la clínica<br>quiero registrar adultos mayores<br>para que puedan ser monitoreados dentro del sistema                                                                       | 3            | EP03    |
+| US21     | Añadir doctor                                                       | Como administrador de la clínica<br>quiero añadir doctores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores                                           | 5            | EP03    |
+| US22     | Ver lista de adultos mayores asignados en clínica                   | Como administrador de una clínica, quiero ver la lista de adultos mayores asignados para monitorear su estado                                                                                     | 3            | EP03    |
+| US23     | Visualizar información clínica del adulto mayor en clínica          | Como administrador de una clínica, quiero visualizar la información clínica del adulto mayor para dar seguimiento                                                                                 | 5            | EP03    |
+| US24     | Recibir alertas críticas de adultos mayores en clínicas             | Como administrador de una clínica, quiero recibir alertas sobre cambios críticos en los adultos mayores para actuar a tiempo.                                                                     | 5            | EP03    |
+| US25     | Añadir un adulto mayor junto a sus datos en la clínica              | Como administrador de una clínica quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un doctor                   | 3            | EP03    |
+| US26     | Añadir doctor para asignar adulto mayor en la clínica               | Como administrador de una clínica quiero poder agregar un doctor para que atiende a un adulto mayor                                                                                               | 3            | EP03    |
+| US27     | Asignar adulto mayor a un doctor en la clínica                      | Como administrador de una clínica quiero poder asignar un adulto mayor a un doctor para que sea atendido por el doctor                                                                            | 4            | EP03    |
+| US28     | Recibir alertas críticas de adultos mayores en casa de reposo       | Como administrador de una casa de reposo, quiero recibir alertas sobre cambios críticos en el estado de salud de los adultos mayores, para coordinar asistencia inmediata con el equipo médico.   | 5            | EP04    |
+| US29     | Visualizar información clínica de adultos mayores en casa de reposo | Como administrador de una casa de reposo, quiero visualizar la información clínica básica de los adultos mayores, para dar seguimiento a su estado y reportar incidencias oportunamente.          | 4            | EP04    |
+| US30     | Ver lista de adultos mayores asignados en casa de reposo            | Como administrador de una casa de reposo, quiero ver la lista de adultos mayores bajo mi responsabilidad, para monitorear su estado y asegurar un control adecuado de la información.             | 3            | EP04    |
+| US31     | Añadir un adulto mayor junto a sus datos en la casa de reposo       | Como administrador de casa de una reposo quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un cuidador          | 3            | EP04    |
+| US32     | Añadir cuidador para asignar adulto mayor en la casa de reposo      | Como administrador de una casa de reposo quiero poder agregar un cuidador para que atiende a un adulto mayor                                                                                      | 3            | EP04    |
+| US33     | Asignar adulto mayor a un cuidador en la casa de reposo             | Como administrador de una casa de reposo quiero poder asignar un adulto mayor a un cuidador para que sea atendido por el cuidador                                                                 | 4            | EP04    |
+| US34     | Añadir cuidador                                                     | Como administrador de la casa de reposo<br>quiero añadir cuidadores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores                                  | 4            | EP04    |
+| US35     | Acceso al dashboard MediTrack                                       | Como allegado, quiero acceder al dashboard para visualizar la información general de mi adulto mayor.                                                                                             | 3            | EP05    |
+| US36     | Visualizar signos vitales básicos                                   | Como allegado, quiero visualizar los signos vitales básicos (presión arterial, ritmo cardíaco, saturación de oxígeno y gráficas estadísticas) para conocer el estado de salud de mi adulto mayor. | 4            | EP05    |
+| US37     | Visualizar signos vitales premium                                   | Como allegado, quiero ver signos vitales adicionales como temperatura para tener un seguimiento más completo y que estos datos estén en las gráficas estadísticas                                 | 5            | EP05    |
+| US38     | Recibir alertas de caídas                                           | Como allegado, quiero recibir alertas en caso de caída del adulto mayor para actuar rápidamente.                                                                                                  | 5            | EP05    |
+| US39     | Recibir alertas de salud                                            | Como allegado, quiero recibir alertas en el dashboard para estar informado de cambios importantes en la salud del adulto mayor.                                                                   | 4            | EP05    |
+| US40     | Adaptar Dashboard según Plan                                        | Como usuario, quiero que el sistema adapte las funciones del dashboard según mi plan, para visualizar las herramientas disponibles en mi suscripción.                                             | 4            | EP06    |
+| US41     | Acceso a soporte desde el dashboard                                 | Como usuario, quiero acceder fácilmente a soporte técnico desde el dashboard para resolver problemas rápidamente.                                                                                 | 3            | EP06    |
+| US42     | Selección de idioma                                                 | Como usuario, quiero poder cambiar el idioma de la plataforma entre inglés y español desde un botón visible, para usarla en el idioma que prefiera.                                               | 3            | EP06    |
+| US43     | Consultar la hora exacta                                            | Como usuario quiero ver la hora actualizada y precisa de mi zona horaria para tener certeza de la hora correcta.                                                                                  | 2            | EP06    |
+| US29     | Visualizar información clínica de adultos mayores en casa de reposo | Como administrador de una casa de reposo, quiero visualizar la información clínica básica de los adultos mayores, para dar seguimiento a su estado y reportar incidencias oportunamente.          | 5            | EP04    |
+| US30     | Ver lista de adultos mayores asignados en casa de reposo            | Como administrador de una casa de reposo, quiero ver la lista de adultos mayores bajo mi responsabilidad, para monitorear su estado y asegurar un control adecuado de la información.             | 3            | EP04    |
+| US31     | Añadir un adulto mayor junto a sus datos en la casa de reposo       | Como administrador de casa de una reposo quiero poder agregar un adulto mayor en base a su nombre, apellido, edad, peso, altura, dni y id del parche, para poder asignarle a un cuidador          | 3            | EP04    |
+| US32     | Añadir cuidador para asignar adulto mayor en la casa de reposo      | Como administrador de una casa de reposo quiero poder agregar un cuidador para que atiende a un adulto mayor                                                                                      | 3            | EP04    |
+| US33     | Asignar adulto mayor a un cuidador en la casa de reposo             | Como administrador de una casa de reposo quiero poder asignar un adulto mayor a un cuidador para que sea atendido por el cuidador                                                                 | 5            | EP04    |
+| US34     | Añadir cuidador                                                     | Como administrador de la casa de reposo<br>quiero añadir cuidadores en la plataforma para que tengan una cuenta y puedan acceder a la gestión de adultos mayores                                  | 5            | EP04    |
+| US35     | Acceso al dashboard MediTrack                                       | Como allegado, quiero acceder al dashboard para visualizar la información general de mi adulto mayor.                                                                                             | 3            | EP05    |
+| US36     | Visualizar signos vitales básicos                                   | Como allegado, quiero visualizar los signos vitales básicos (presión arterial, ritmo cardíaco, saturación de oxígeno y gráficas estadísticas) para conocer el estado de salud de mi adulto mayor. | 3            | EP05    |
+| US37     | Visualizar signos vitales premium                                   | Como allegado, quiero ver signos vitales adicionales como temperatura para tener un seguimiento más completo y que estos datos estén en las gráficas estadísticas                                 | 2            | EP05    |
+| US38     | Recibir alertas de caídas                                           | Como allegado, quiero recibir alertas en caso de caída del adulto mayor para actuar rápidamente.                                                                                                  | 5            | EP05    |
+| US39     | Recibir alertas de salud                                            | Como allegado, quiero recibir alertas en el dashboard para estar informado de cambios importantes en la salud del adulto mayor.                                                                   | 3            | EP05    |
+| US40     | Adaptar Dashboard según Plan                                        | Como usuario, quiero que el sistema adapte las funciones del dashboard según mi plan, para visualizar las herramientas disponibles en mi suscripción.                                             | 3            | EP06    |
+| US41     | Acceso a soporte desde el dashboard                                 | Como usuario, quiero acceder fácilmente a soporte técnico desde el dashboard para resolver problemas rápidamente.                                                                                 | 3            | EP06    |
+| US42     | Selección de idioma                                                 | Como usuario, quiero poder cambiar el idioma de la plataforma entre inglés y español desde un botón visible, para usarla en el idioma que prefiera.                                               | 3            | EP06    |
+| US43     | Consultar la hora exacta                                            | Como usuario quiero ver la hora actualizada y precisa de mi zona horaria para tener certeza de la hora correcta.                                                                                  | 2            | EP06    |
+| TS1      | Endpoint para registro de organizaciones                            | Como developer, quiero crear un endpoint para registrar nuevas organizaciones                                                                                                                     | 3            |         |
+| TS2      | Endpoint para obtener organización por ID                           | Como developer, quiero crear un endpoint para obtener los datos de una organización específica                                                                                                    | 4            |         |
+| TS3      | Endpoint para listar administradores de una organización            | Como developer, quiero crear un endpoint para listar los administradores asociados a una organización .                                                                                           | 5            |         |
+| TS4      | Endpoint para registrar administrador de organización               | Como developer, quiero crear un endpoint para agregar administradores a una organización y permitir su gestión dentro del sistema.                                                                | 3            |         |
+| TS5      | Endpoint para registro de cuidadores                                | Como developer, quiero crear un endpoint para registrar nuevos cuidadores                                                                                                                         | 3            |         |
+| TS6      | Endpoint para obtener cuidador por ID                               | Como developer, quiero crear un endpoint para obtener los datos de un cuidador específico                                                                                                         | 2            |         |
+| TS7      | Endpoint para listar cuidadores de una organización                 | Como developer, quiero crear un endpoint para listar cuidadores de una organización.                                                                                                              | 3            |         |
+| TS8      | Endpoint para registrar doctores                                    | Como developer, quiero crear un endpoint para registrar nuevos doctores                                                                                                                           | 2            |         |
+| TS9      | Endpoint para obtener doctor por ID                                 | Como developer, quiero crear un endpoint para obtener los datos de un doctor                                                                                                                      | 2            |         |
+| TS10     | Endpoint para listar doctores por organización                      | Como developer, quiero crear un endpoint para listar doctores de una organización.                                                                                                                | 2            |         |
+| TS11     | Endpoint para listar adultos mayores por organización               | Como developer, quiero crear un endpoint para listar adultos mayores pertenecientes a una organización                                                                                            | 5            |         |
+| TS12     | Endpoint para listar adultos mayores por doctor                     | Como developer, quiero crear un endpoint para listar adultos mayores asignados a un doctor                                                                                                        | 2            |         |
+| TS13     | Endpoint para listar adultos mayores por cuidador                   | Como developer, quiero crear un endpoint para listar adultos mayores asignados a un cuidador                                                                                                      | 3            |         |
+| TS14     | Endpoint para asignar adultos mayores a doctor                      | Como developer, quiero crear un endpoint para asociar adultos mayores a un doctor                                                                                                                 | 2            |         |
+| TS15     | Endpoint para asignar adultos mayores a cuidador                    | Como developer, quiero crear un endpoint para registrar adultos mayores bajo el cuidado de un cuidador                                                                                            | 3            |         |
+| TS16     | Endpoint para listar familiares                                     | Como developer, quiero crear un endpoint para listar todos los familiares registrados                                                                                                             | 2            |         |
+| TS17     | Endpoint para registrar dispositivos                                | Como developer, quiero crear un endpoint para registrar nuevos dispositivos                                                                                                                       | 3            |         |
+| TS18     | Endpoint para listar todos los dispositivos                         | Como developer, quiero crear un endpoint para obtener la lista de todos los dispositivos registrados                                                                                              | 3            |         |
+| TS19     | Endpoint para obtener dispositivo por ID                            | Como developer, quiero crear un endpoint para obtener los datos de un dispositivo específico                                                                                                      | 2            |         |
+| TS20     | Endpoint para listar alertas de un dispositivo                      | Como developer, quiero crear un endpoint para listar todas las alertas generadas por un dispositivo                                                                                               | 3            |         |
+| TS21     | Endpoint para listar todas las alertas                              | Como developer, quiero crear un endpoint para obtener todas las alertas registradas en el sistema                                                                                                 | 3            |         |
+| TS22     | Endpoint para obtener alerta por ID                                 | Como developer, quiero crear un endpoint para obtener los datos de una alerta específica                                                                                                          | 2            |         |
+| TS23     | Endpoint para registrar frecuencia cardíaca                         | Como developer, quiero crear un endpoint para registrar los valores de frecuencia cardíaca de un dispositivo                                                                                      | 3            |         |
+| TS24     | Endpoint para consultar frecuencia cardíaca                         | Como developer, quiero crear un endpoint para consultar los registros de frecuencia cardíaca de un dispositivo                                                                                    | 2            |         |
+| TS25     | Endpoint para registrar niveles de oxígeno                          | Como developer, quiero crear un endpoint para registrar los niveles de saturación de oxígeno de un dispositivo                                                                                    | 3           |         |
+| TS26     | Endpoint para consultar niveles de oxígeno                          | Como developer, quiero crear un endpoint para consultar los registros de oxígeno de un dispositivo                                                                                                | 2            |         |
+| TS27     | Endpoint para registrar presión arterial                            | Como developer, quiero crear un endpoint para registrar los valores de presión arterial de un dispositivo                                                                                         | 3            |         |
+| TS28     | Endpoint para consultar presión arterial                            | Como developer, quiero crear un endpoint para consultar los registros de presión arterial de un dispositivo                                                                                       | 2            |         |
+| TS29     | Endpoint para registrar temperatura corporal                        | Como developer, quiero crear un endpoint para registrar los valores de temperatura corporal de un dispositivo                                                                                     | 3            |         |
+| TS30     | Endpoint para consultar temperatura corporal                        | Como developer, quiero crear un endpoint para consultar los registros de temperatura corporal de un dispositivo                                                                                   | 2            |         |
 | --- | ------------- | ----------------------------------------- | -------------------------------------------------------------------------- | ------------ | ------- |
 | 1   | US16          | Registrarse en MediTrack                  | Como nuevo usuario, quiero completar formulario de registro.               | 5            | EP01    |
 | 2   | US14          | Iniciar Sesión en MediTrack               | Como usuario registrado, quiero iniciar sesión con credenciales.           | 3            | EP01    |
@@ -1351,6 +1621,974 @@ Impact Map para el segmento de Familiares:
 | 43  | US36          | Consultar la hora exacta                  | Como usuario, quiero ver la hora actualizada de mi zona.                   | 2            | EP05    |
 
 # Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
+
+### Branding
+
+![logo-write](./assets/chapter4/logo-write.png)
+
+![logo-transparent](./assets/chapter4/logo-transparent.png)
+
+Contamos con dos versiones de nuestro logo: una con fondo transparente y otra con fondo blanco. Esto se hizo con fines de diseño, para asegurar su correcta visibilidad y resaltar mejor según el contexto en el que se utilice
+
+### Typography
+
+Elegimos **Inter** como tipografía para nuestra aplicación médica porque está optimizada para pantallas digitales, ofreciendo una lectura clara y fluida en móviles y computadoras. Su estilo moderno, sobrio y profesional transmite confianza, mientras que su versatilidad en pesos permite jerarquizar la información de forma sencilla, asegurando una experiencia visual coherente y accesible para los usuarios.
+
+![typography.png](./assets/chapter4/typography.png)
+Elegimos **Noto Sans** porque es una tipografía moderna, limpia y altamente legible en todo tipo de pantallas. Su diseño neutral y profesional transmite seriedad y confianza, cualidades esenciales en una aplicación médica. Además, ofrece una gran versatilidad y compatibilidad multilingüe, lo que garantiza accesibilidad y coherencia visual para todos los usuarios.
+
+![typographysoon.png](./assets/chapter4/typographysoon.png)
+
+### Colors
+
+La paleta de colores seleccionada combina tonos **azules** como primarios, transmitiendo confianza, calma y profesionalismo, valores clave en el ámbito médico. El **naranja secundario** aporta energía y vitalidad como acento, mientras que los **tonos rojos** se reservan para alertas o advertencias, asegurando que los mensajes críticos resalten con claridad. Los fondos claros y las variantes suaves refuerzan la legibilidad y la accesibilidad, garantizando una experiencia visual equilibrada y coherente en la aplicación.
+
+![colors.png](./assets/chapter4/colors.png)
+
+### Spacing
+
+- **Propiedad:** `m` (margin), `p` (padding).
+- **Lados:** `t` (top), `b` (bottom), `s` (start), `e` (end), `x` (izq+der), `y` (arriba+abajo), vacío (todos).
+- **Escala de tamaños**
+
+  Basada en `$spacer = 1rem` (16px aprox.):
+
+  - `0` (0px), `1` (4px), `2` (8px), `3` (16px), `4` (24px), `5` (48px), `auto` (margen automático).
+
+- **Breakpoints responsivos**
+
+  Se aplican según el tamaño de pantalla: `sm`, `md`, `lg`, `xl`, `xxl`.
+
+  Ejemplo: `.mb-md-5` → margen inferior grande en pantallas medianas o mayores.
+
+- **Ventajas principales en nuestro producto**
+  - Consistencia en todo el proyecto.
+  - Rapidez al no escribir CSS manual.
+  - Facilita la responsividad y el mantenimiento del código.
+
+## Secciones
+
+### Encabezado
+
+El titular actual _"Cuidado Continuo, Conectado y Confiable"_ utiliza un tono serio, respetuoso y sereno que transmite seguridad y confianza desde la primera interacción. La eficacia de esta frase radica en su uso estratégico de palabras clave que refuerzan la promesa del servicio, creando una conexión inmediata con el usuario. Para mantener esta línea comunicativa, recomendamos continuar con frases igualmente concisas y contundentes como _"Tu tranquilidad, siempre conectada"_ o _"Tecnología al servicio de quienes más quieres"_, que conservan el mismo impacto emocional.
+
+### Sección “El Desafío del Cuidado Geriátrico”
+
+El enfoque del cuidado geriátrico moderno debe equilibrar tecnología con humanidad. Al identificar problemas como las "emergencias no detectadas", ofrecemos una "respuesta inmediata" que transforma la preocupación en tranquilidad. Nuestra solución no solo monitorea signos vitales, sino que crea un puente de comunicación constante entre adultos mayores y sus cuidadores, permitiendo independencia con seguridad. Este sistema, formal en su precisión pero cercano en su propósito, refleja nuestro compromiso: proporcionar herramientas que detectan situaciones críticas y activan protocolos de ayuda oportunos, todo comunicado con la claridad y empatía que las familias merecen.
+
+### Métricas de impacto (85%, 95%, 24/7)
+
+Nuestras estadísticas respaldan con solidez la eficacia de MediTrack, presentando datos precisos que demuestran nuestro impacto real. Con más del 95% de emergencias detectadas oportunamente y un sistema de monitoreo que funciona ininterrumpidamente las 24 horas del día, los 7 días de la semana, ofrecemos una solución confiable que combina precisión técnica con la tranquilidad que las familias necesitan. Estos números no son solo cifras; representan vidas mejor cuidadas y la seguridad que brindamos a quienes confían en nuestra tecnología.
+
+### Sección de Contacto
+
+La sección de contacto utiliza un tono cercano y respetuoso, invitando a los usuarios a establecer comunicación con nosotros. El texto actual _"Contáctanos para saber más sobre MediTrack"_ cumple su función básica, pero recomendamos humanizar más la interacción con frases como _"Estamos aquí para ayudarte y responder tus dudas"_ o _"Conversemos sobre cómo podemos cuidar mejor de tus seres queridos"_, creando así una conexión más empática que refuerce la confianza en nuestro servicio y facilite el primer paso hacia una relación duradera con los usuarios potenciales.
+
+### Referencia a Design Systems
+
+Puedes tomar como inspiración **Design Systems serios y accesibles** como:
+
+- **Material Design (Google):** claro, legible, accesible y consistente.
+- **IBM Design Language:** muy usado en salud y tecnología, con foco en confianza y profesionalismo.
+- **Atlassian Design System:** comunicación empática y clara, adaptable a productos SaaS.
+
+MediTrack adapta estos principios manteniendo:
+
+- **Colores serenos** (azules, blancos, acentos cálidos).
+- **Tipografía legible** y jerarquías claras.
+- **Iconografía simple y universal** (salud, seguridad, conectividad).
+
+### 4.1.2. Web Style Guidelines
+
+En la landing page de MediTrack se han tomado decisiones de diseño visual e interacción que garantizan coherencia estética, usabilidad y adaptabilidad a diferentes dispositivos.
+
+1. **Paleta de colores:** Se emplean principalmente tonos azules y verdes, asociados a confianza, salud y calma, lo que refuerza la identidad de la marca. El contraste cumple con estándares de accesibilidad (WCAG) asegurando legibilidad en pantallas de escritorio y móviles.
+2. **Tipografía:** Se utilizan tipografías modernas y legibles, con una jerarquía tipográfica clara: títulos destacados, subtítulos intermedios y párrafos de fácil lectura. Esto permite mantener claridad en dispositivos pequeños y reducir la fatiga visual.
+3. **Imágenes e íconos:** Se combinan fotografías relacionadas con el cuidado de adultos mayores e íconos minimalistas que representan funciones clave (emergencias, monitoreo, conectividad). Esto aporta cercanía humana y facilita la navegación intuitiva.
+4. **Diseño responsive:** La estructura está basada en rejillas flexibles (grid/flexbox), con un enfoque _mobile-first_ y breakpoints definidos. Esto asegura que los elementos se reorganicen de forma fluida en diferentes tamaños de pantalla, manteniendo siempre la coherencia visual.
+5. **Interacción y navegación:** El menú es simplificado y fijo, complementado con secciones ancla y scroll fluido. Los botones (CTA’s) presentan alto contraste y dimensiones adecuadas para la interacción táctil, destacando llamadas a la acción como “Contáctanos” y “Ver planes”.
+6. **Accesibilidad:** El diseño prioriza la legibilidad con contrastes adecuados, tamaños mínimos de fuente y una estructura semántica clara. Esto facilita la comprensión y navegación incluso en adultos mayores o personas con limitaciones visuales, cumpliendo con los principios WCAG 2.1.
+
+las decisiones de estándares visuales e interacción aplicadas en MediTrack aseguran una experiencia digital consistente, confiable y empática, adaptándose a diferentes dispositivos y necesidades del usuario.
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+En la landing page se han aplicado diferentes **sistemas de organización** con el fin de estructurar la información de manera clara, jerárquica y accesible para los usuarios.
+
+- **Organización visual jerárquica:** utilizada en la sección inicial (_hero section_), donde se destacan el título principal, subtítulo y botón de acción. La tipografía, el tamaño y el contraste de colores establecen prioridades visuales que guían la atención del usuario hacia los elementos más importantes.
+- **Organización secuencial:** presente en las secciones de **Servicios** y **Planes**, donde el contenido se muestra de forma progresiva. Primero se explica qué ofrece el producto y posteriormente se presentan las opciones de suscripción, logrando un recorrido paso a paso que facilita la comprensión.
+- **Organización matricial:** aplicada en la sección de **Planes**, en la cual se comparan diferentes alternativas mediante un formato de tabla o tarjetas alineadas. Esto permite que el usuario evalúe en paralelo precios, características y beneficios.
+
+En cuanto a los **esquemas de categorización del contenido**, se emplean los siguientes criterios:
+
+- **Por tópicos:** en la sección **Servicios**, donde cada bloque agrupa funcionalidades específicas.
+- **Según audiencia:** en la sección **Planes**, diseñados para distintos tipos de usuarios (individual, familiar o corporativo).
+- **Cronológico:** en la sección **Contacto**, que organiza los pasos para enviar una consulta y garantiza un flujo de atención ordenado.
+
+### 4.2.2. Labeling Systems
+
+1. **Navegación Principal (Navbar)**
+
+| Clave JS       | Etiqueta Simplificada |
+| -------------- | --------------------- |
+| `nav-home`     | Inicio                |
+| `nav-services` | Servicios             |
+| `nav-about`    | Nosotros              |
+| `nav-plans`    | Planes                |
+| `nav-contact`  | Contacto              |
+
+2. **Sección Hero**
+
+| Clave JS               | Etiqueta Simplificada |
+| ---------------------- | --------------------- |
+| `hero-title`           | Título principal      |
+| `hero-description`     | Descripción destacada |
+| `hero-discover-button` | Botón: Descubrir      |
+| `hero-plans-button`    | Botón: Ver planes     |
+
+3.  **Servicios - Parte 1: Problemas y Soluciones**
+
+| Clave JS                              | Etiqueta Simplificada        |
+| ------------------------------------- | ---------------------------- |
+| `services-title`                      | Título de sección            |
+| `services-description`                | Introducción a los servicios |
+| `services-problems-title`             | Título: Problemas actuales   |
+| `services-problems-description`       | Descripción de los problemas |
+| `services-problem-[1-3]-title`        | Problema N (título)          |
+| `services-problem-[1-3]-description`  | Problema N (descripción)     |
+| `services-solution-title`             | Título: Nuestra solución     |
+| `services-solution-description`       | Descripción de la solución   |
+| `services-solution-[1-3]-title`       | Solución N (título)          |
+| `services-solution-[1-3]-description` | Solución N (descripción)     |
+
+4.  **Sección de Impacto**
+
+| Clave JS            | Etiqueta Simplificada |
+| ------------------- | --------------------- |
+| `impact-title`      | Título de impacto     |
+| `impact-[1-4]-text` | Métrica/Beneficio N   |
+
+5.  **Servicios - Parte 2: Tecnología**
+
+| Clave JS                                   | Etiqueta Simplificada      |
+| ------------------------------------------ | -------------------------- |
+| `services-part2-tag`                       | Etiqueta destacada         |
+| `services-part2-title`                     | Título de sección          |
+| `services-part2-description`               | Descripción tecnológica    |
+| `services-part2-feature-title`             | Título: Características    |
+| `services-part2-feature-description`       | Descripción general        |
+| `services-part2-feature-[1-6]-title`       | Característica N (título)  |
+| `services-part2-feature-[1-6]-description` | Característica N (detalle) |
+
+6.  **Misión y Visión**
+
+| Clave JS                     | Etiqueta Simplificada |
+| ---------------------------- | --------------------- |
+| `mission-vision-tag`         | Etiqueta filosófica   |
+| `mission-vision-title`       | Título principal      |
+| `mission-vision-description` | Descripción general   |
+| `mission-title`              | Título misión         |
+| `mission-description`        | Descripción misión    |
+| `vision-title`               | Título visión         |
+| `vision-description`         | Descripción visión    |
+
+7.  **Planes de Servicio**
+
+| Clave JS                   | Etiqueta Simplificada     |
+| -------------------------- | ------------------------- |
+| `plans-title`              | Título de sección         |
+| `plan-[1-3]-title`         | Plan N (nombre)           |
+| `plan-[1-3]-price`         | Plan N (precio)           |
+| `plan-[1-3]-recommended`   | Plan N (destacado)        |
+| `plan-[1-3]-feature-[1-5]` | Plan N - Característica M |
+| `plan-[1-3]-button`        | Plan N - Botón CTA        |
+
+8.  **Contacto**
+
+| Clave JS                       | Etiqueta Simplificada |
+| ------------------------------ | --------------------- |
+| `contact-title`                | Título de sección     |
+| `contact-description`          | Descripción breve     |
+| `contact-name-placeholder`     | Campo: Nombre         |
+| `contact-email-placeholder`    | Campo: Correo         |
+| `contact-phone-placeholder`    | Campo: Teléfono       |
+| `contact-interest-placeholder` | Campo: Interés        |
+| `contact-send-button`          | Botón: Enviar         |
+
+9. **Footer (Pie de página)**
+
+| Clave JS                | Etiqueta Simplificada        |
+| ----------------------- | ---------------------------- |
+| `footer-brand-name`     | Nombre de marca              |
+| `footer-brand-platform` | Nombre de la plataforma      |
+| `footer-description`    | Descripción de empresa       |
+| `footer-email`          | Correo de contacto           |
+| `footer-phone`          | Teléfono                     |
+| `footer-location`       | Ubicación                    |
+| `footer-company-title`  | Sección: Empresa             |
+| `footer-about-us`       | Enlace: Sobre nosotros       |
+| `footer-contact`        | Enlace: Contacto             |
+| `footer-product-title`  | Sección: Producto            |
+| `footer-meditrack`      | Enlace: Meditrack            |
+| `footer-features`       | Enlace: Características      |
+| `footer-pricing`        | Enlace: Precios              |
+| `footer-legal-title`    | Sección: Legal               |
+| `footer-privacy`        | Enlace: Privacidad           |
+| `footer-terms`          | Enlace: Términos de Servicio |
+| `footer-cookies`        | Enlace: Cookies              |
+| `footer-security`       | Enlace: Seguridad            |
+| `footer-copyright-part` |                              |
+| `[1-2]`                 | Aviso legal                  |
+
+### 4.2.3. SEO Tags and Meta Tags
+
+1. **Sistema de grillas y columnas**
+   - `container`, `row`, `col`, `row-cols-1`, `row-cols-md-2`, `row-cols-lg-3`.
+   - Permiten organizar el contenido en múltiples dispositivos con un enfoque _mobile-first_.
+2. **Flexbox y alineación**
+   - `d-flex`, `flex-column`, `flex-row`, `justify-content-center`, `align-items-center`.
+   - Facilitan la disposición de elementos, mejorando la experiencia visual en pantallas pequeñas y grandes.
+3. **Espaciado y separación**
+   - `px-4`, `py-3`, `mb-5`, `gap-3`, `gap-4`.
+   - Estándares de padding y margin que generan jerarquía visual y mejoran la legibilidad.
+4. **Tipografía y jerarquía de texto**
+   - `font-noto-bold`, `font-noto-regular`, `fs-2`, `fs-6`, `text-uppercase`.
+   - Refuerzan la identidad visual de la marca y diferencian títulos, subtítulos y párrafos.
+5. **Colores y fondos**
+   - `bg-light`, `bg-dark`, `bg-primary`, `bg-secondary`, `text-dark`, `text-white`.
+   - Asociados a confianza y claridad, con contraste adecuado para cumplir criterios de accesibilidad (WCAG).
+6. **Botones y llamadas a la acción (CTA)**
+   - `btn`, `btn-lg`, `btn-secondary`, `rounded-pill`.
+   - Garantizan botones táctiles accesibles y visibles en dispositivos móviles.
+7. **Bordes, esquinas y sombras**
+   - `rounded-3`, `rounded-4`, `rounded-pill`, `shadow`.
+   - Refuerzan un diseño moderno, limpio y con sensación de profundidad.
+8. **Listas e íconos**
+   - `list-unstyled` con integración de **Lucide Icons** (`data-lucide="check"`, `mail`, `map-pin`, etc.).
+   - Permiten resaltar beneficios, datos de contacto y características de cada plan.
+9. **Accesibilidad y semántica**
+   - Uso de `placeholder` en inputs, jerarquía `h2`, `h3`, `p`, y estructura clara en formularios.
+   - Garantizan comprensión para adultos mayores y personas con limitaciones visuales.
+
+**Task**:
+
+- **Callouts:** Tarjetas con beneficios clave (`d-flex flex-row gap-3 bg-light shadow`).
+- **Misión y Visión:** Sección de dos columnas con títulos jerárquicos y subrayado visual.
+- **Planes de Servicio:** Cards comparativas de planes (_Freemium, Premium, Enterprise_) con CTA’s claros.
+- **Formulario de Contacto:** Inputs básicos y botón destacado para conversión.
+- **Footer:** Tres columnas con branding, información de contacto y menús legales.
+
+### 4.2.4. Searching Systems
+
+La landing page de MediTrack implementa una barra de navegación fija en el _header_, la cual actúa como punto de referencia principal para orientar al usuario durante su recorrido. Esta barra incluye botones de acceso directo a las secciones clave: Inicio, Servicios, Planes, Contacto y Nosotros.
+
+Cada botón funciona como un ancla interna que conduce al usuario de manera fluida hacia la sección correspondiente mediante un desplazamiento (_scroll_) suave. Este diseño asegura que los visitantes puedan localizar rápidamente la información que buscan sin necesidad de abandonar la página.
+
+La organización secuencial de los menús guía a los usuarios en un flujo natural: primero se presenta la propuesta de valor en Inicio, luego se explican los Servicios ofrecidos, se muestran las opciones en Planes, se habilita un canal de comunicación en Contacto y finalmente se refuerza la confianza con la sección Nosotros.
+
+Con esta estructura clara y jerárquica, la navegación resulta intuitiva, accesible y consistente, facilitando que los usuarios alcancen sus objetivos e interactúen de manera satisfactoria con el producto digital.
+
+### 4.2.5. Navigation Systems
+
+La barra de navegación situada en el _header_ contiene estos botones principales:
+
+- **Inicio:** lleva al usuario a la parte superior de la página donde se muestra la propuesta de valor.
+- **Servicios:** exhibe las funcionalidades y beneficios del producto digital.
+- **Planes:** muestra las distintas opciones disponibles, comparando características y precios.
+- **Contacto:** ofrece acceso directo a los canales de comunicación para consultas o información adicional.
+- **Nosotros:** brinda información institucional que genera confianza y credibilidad.
+
+Esta estructura clara permite una navegación **simple e intuitiva**, facilitando que el usuario explore la información de forma organizada.
+
+![bar.png](./assets/chapter4/bar.png)
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+**Landing Page para Desktop Web Browser**
+
+Se presenta la landing page en el desktop web browser. Incluye secciones relevantes para la presencia del usuario, como
+mostrar informacion precisa sobre la solucion presentada, ademas de presentar el producto de la manera mas cercana a la
+plataforma web, mediante secciones como mision-vision, about the product y planes.
+
+<img src="assets/chapter4/Landing-wireframe1.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe2.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe3.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe4.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe5.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+
+**Landing Page para Mobile Web Browser**
+
+Se presenta la landing page en la visa del mobile web browser. Se incluye los contenidos mostrados en la landing page para
+desktop, pero considerando el diseño responsibe para mantener el aspecto visual.
+
+<img src="assets/chapter4/Landing-mobile-wireframe1.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-wireframe2.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-wireframe3.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+
+### 4.3.2. Landing Page Mock-up
+
+**Landing page en español**
+
+#### Landing Page para Desktop Web Browser
+
+El wireframe de la versión desktop en navegador web de la landing page fue útil para estructurar la disposición de los
+elementos. Con base en este esquema, se desarrolló el mock-up de la landing page, que incluye los mismos contenidos
+descritos previamente. En la imagen siguiente se observa la aplicación de la paleta de colores primarios y secundarios,
+así como la tipografía previamente establecida.
+
+<img src="assets/chapter4/Landing-mockup1.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup2.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup3.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+
+#### Landing Page para Mobile Web Browser
+
+De igual manera, el mock-up de la landing page en vista mobile web browser incorpora los mismos elementos señalados
+previamente. Se aprecia que la tipografía seleccionada y el contraste de colores entre el texto y el fondo favorecen la
+legibilidad de la información en ambos dispositivos.
+
+<img src="assets/chapter4/Landing-mockup-mobile1.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile2.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile3.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile4.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile5.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile6.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+
+### Landing page en inglés
+
+#### Landing Page para Desktop Web Browser
+
+Con el fin de mejorar la accesibilidad de la información, el equipo consideró importante incorporar la opción de cambio
+de idioma en la landing page. Por esta razón, se muestran evidencias gráficas de la versión en español e inglés en la
+vista desktop web browser.
+
+<img src="assets/chapter4/Landing-English1.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English2.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English3.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English4.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English5.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+#### Landing Page para Mobile Web Browser
+
+Se incorpora el lenguaje ingles en la landing page para mobile.
+
+<img src="assets/chapter4/Landing-mobile-English1.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English2.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English3.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English4.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English5.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English6.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+Enlace para acceder al [Figma](https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1)
+https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1
+
+https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1
+
+**Web Application para Desktop Web Browser**
+
+Los siguientes Wireframes fueron para ser base a los muck-ups proximos a presentar.
+
+- Selección de Usuario
+
+Permite a nuestros usuarios escoger a que tipo de inicio de sesión accederán, para que posteriormente ingresen sus credenciales
+
+![Seleccionar Usuario](./assets/chapter4/wireframe-1.png)
+
+- Inicio de Sesión
+
+Permite al usuario iniciar sesión a través de sus credenciales.
+
+![Inicio de Sesión](./assets/chapter4/wireframe-2.png)
+
+- Escoger un plan
+
+Permite a un nuevo usuario escoger un plan previo al registro.
+
+![Escoger plan](./assets/chapter4/wireframe-3.png)
+
+- Registro
+
+Permite a un nuevo usuario o entidad regitrarse a la plataforma adjuntando sus datos.
+
+Registro allegado con el plan freemium:
+
+![Registro nuevo usuario freemium](./assets/chapter4/wireframe-4.png)
+
+Registro allegado con el plan premium:
+
+![Registro nuevo usuario premium](./assets/chapter4/wireframe-6.png)
+
+Registro de una entidad:
+
+![Registro de una entidad](./assets/chapter4/wireframe-7.png)
+
+- Registro de Adulto Mayor
+
+Posterior al registro del allegado se permite registrar al adulto mayor
+
+![Registro de un adulto mayor](./assets/chapter4/wireframe-5.png)
+
+- Dashboard Allegado Freemium y Premium
+
+Luego del registro del paciente, el allegado podrá visualizar el dashboard dependiendo del plan que elegido con anterioridad.
+
+Dashboard Freemium
+
+Perfil Adulto Mayor
+
+![Perfil freemium](./assets/chapter4/wireframe-8.png)
+
+Estadísticas
+
+![Estadísticas freemium](./assets/chapter4/wireframe-9.png)
+
+Alertas
+
+![Alertas freemium](./assets/chapter4/wireframe-10.png)
+
+Dashboard Premium
+
+Perfil Adulto Mayor
+
+![Perfil premium](/assets/chapter4/w-premium-1.png)
+
+Estadísticas
+
+![Estadísticas premium](./assets/chapter4/w-premium-2.png)
+
+Alertas
+
+![Alertas premium](./assets/chapter4/w-premium-3.png)
+
+Soporte
+
+![Soporte premium](./assets/chapter4/wireframe-14.png)
+
+- Dashboard Personal de Clínica - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una clínica ejecutará acciones con el fin de administrar a los doctores y los adultos mayores a quienes asignará un doctor encargado
+
+Dashboard del administrador sin doctores
+
+![Dashboard del administrador sin doctores](./assets/chapter4/w-15.png)
+
+Formulario para agregar a un doctor
+
+![Formulario para agregar a un doctor](./assets/chapter4/w-16.png)
+
+Doctor visible en el dashboard
+
+![Doctor visible en el dashboard](./assets/chapter4/w-17.png)
+
+Asignació de un adulto mayor para el doctor
+
+![Asignació de un adulto mayor para el doctor](./assets/chapter4/w-18.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/w-19.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/w-20.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/w-21.png)
+
+- Dashboard Personal de Clínica - Doctor
+
+Se visualiza el dashboard donde el doctor registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud y dar chequeos.
+
+![Formulario de soporte](./assets/chapter4/w-22.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-23.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-24.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-25.png)
+
+- Dashboard Personal de Casas de Reposo - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una casa de reposo ejecutará acciones con el fin de administrar a los cuidadores y los adultos mayores a quienes asignará un doctor encargado.
+
+Dashboard del administrador sin cuidadores
+
+![Dashboard del administrador sin cuidadores](./assets/chapter4/w-26.png)
+
+Formulario para agregar a un cuidador
+
+![Formulario para agregar a un cuidador](./assets/chapter4/w-27.png)
+
+Cuidador visible en el dashboard
+
+![Cuidador visible en el dashboard](./assets/chapter4/w-28.png)
+
+Asignació de un adulto mayor para el cuidador
+
+![Asignació de un adulto mayor para el cuidador](./assets/chapter4/w-29.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/w-30.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/w-31.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/w-32.png)
+
+- Dashboard Personal de Casas de Reposo - Cuidador
+
+Se visualiza el dashboard donde el cuidador registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud.
+
+![Formulario de soporte](./assets/chapter4/w-33.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-34.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-35.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-36.png)
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+[Ver proyecto en lucidchart](https://lucid.app/lucidspark/b1c3fed1-0457-43fd-996b-a2e5f89d3dcd/edit?invitationId=inv_02b8548c-fef4-4095-b7f5-c52e0eec7ce6)
+https://lucid.app/lucidspark/b1c3fed1-0457-43fd-996b-a2e5f89d3dcd/edit?invitationId=inv_02b8548c-fef4-4095-b7f5-c52e0eec7ce6
+
+#### User Goal: Registro Usuario
+
+User persona: Allegados
+Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
+preferencia y se registra en la plataforma.
+
+<img src="assets/chapter4/WF-1.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro Clinica o Casa de Reposo
+
+User persona: Clinica y Casa de reposo
+Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
+con la plataforma e ingresa sus credenciales para poder identificarse como administrador.
+
+<img src="assets/chapter4/WF-2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de paciente como allegado
+
+User persona: Allegado
+Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
+de allegado
+
+<img src="assets/chapter4/WF-3.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de medicos
+
+User persona: Clinica
+Explicacion de flujo: El administrador de la clinica inicia sesion, agrega un medico mediante un formulario y verifica
+que el registro haya sido exitoso.
+
+<img src="assets/chapter4/WF-4.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar un paciente a un medico
+
+User persona: Clinica
+Explicacion de flujo: Se asigna un paciente a un medico registrado, mediante un formulario para completar los datos
+personales y verificar si se asigno correctamente.
+
+<img src="assets/chapter4/WF-5.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de signos vitales
+
+User persona: Clinica
+Explicacion de flujo: Se selecciona a un paciente geriatrico para ver su historial de estado para el registro de salud,
+ademas de contar con un analisis estadistico sobre el estado actual.
+
+<img src="assets/chapter4/WF-6.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se ingresa a la plataforma y se selecciona en agregar cuidador, se completa un formulario con informacion
+personal del cuidador y se confirma el registro correcto.
+
+<img src="assets/chapter4/WF-7.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar paciente a cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona al cuidador objetivo y se selecciona en agregar paciente,
+
+<img src="assets/chapter4/WF-9.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de estado de paciente geriatrico
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona a un paciente y se verifica el historial de notificacion, ademas se puede acceder a
+un analisis estadistico en tiempo real para controlar los signos vitales.
+
+<img src="assets/chapter4/WF-8.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+### 4.4.3. Web Applications Mock-ups
+
+Los siguientes Muck-ups fueron elaborados a base de los wireframes presentados con anteoridad. Representan con fidelidad lo que nuestros usuarios van a visualizar en nuestra aplicación web.
+
+- Selección de Usuario
+
+Permite a nuestros usuarios escoger a que tipo de inicio de sesión accederán, para que posteriormente ingresen sus credenciales
+
+![Seleccionar Usuario](./assets/chapter4/seleccionar-segmento.png)
+
+- Inicio de Sesión
+
+Permite al usuario iniciar sesión a través de sus credenciales.
+
+![Inicio de Sesión](./assets/chapter4/login.png)
+
+- Escoger un plan
+
+Permite a un nuevo usuario escoger un plan previo al registro.
+
+![Escoger plan](./assets/chapter4/seleccionar-plan.png)
+
+- Registro
+
+Permite a un nuevo usuario o entidad regitrarse a la plataforma adjuntando sus datos.
+
+Registro allegado con el plan freemium:
+
+![Registro nuevo usuario freemium](./assets/chapter4/crear-cuenta-free.png)
+
+Registro allegado con el plan premium:
+
+![Registro nuevo usuario premium](./assets/chapter4/crear-cuenta-free.png)
+
+Registro de una entidad:
+
+![Registro de una entidad](./assets/chapter4/crear-cuenta-enterprise.png)
+
+- Registro de Adulto Mayor
+
+Posterior al registro del allegado se permite registrar al adulto mayor
+
+![Registro de un adulto mayor](./assets/chapter4/agregar-adulto-allegado.png)
+
+- Dashboard Allegado Freemium y Premium
+
+Luego del registro del paciente, el allegado podrá visualizar el dashboard dependiendo del plan que elegido con anterioridad.
+
+Dashboard Freemium
+
+Perfil Adulto Mayor
+
+![Perfil freemium](./assets/chapter4/prefil-free.png)
+
+Estadísticas
+
+![Estadísticas freemium](./assets/chapter4/estadisticas-free.png)
+
+Alertas
+
+![Alertas freemium](./assets/chapter4/alertas-free.png)
+
+Dashboard Premium
+
+Perfil Adulto Mayor
+
+![Perfil premium](./assets/chapter4/perfil-prem.png)
+
+Estadísticas
+
+![Estadísticas premium](./assets/chapter4/estadisticas-pre.png)
+
+Alertas
+
+![Alertas premium](./assets/chapter4/alertas-pre.png)
+
+Soporte
+
+![Soporte premium](./assets/chapter4/soporte-pre.png)
+
+- Dashboard Personal de Clínica - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una clínica ejecutará acciones con el fin de administrar a los doctores y los adultos mayores a quienes asignará un doctor encargado
+
+Dashboard del administrador sin doctores
+
+![Dashboard del administrador sin doctores](./assets/chapter4/admin-clinica-1.png)
+
+Formulario para agregar a un doctor
+
+![Formulario para agregar a un doctor](./assets/chapter4/admin-clinica-2.png)
+
+Doctor visible en el dashboard
+
+![Doctor visible en el dashboard](./assets/chapter4/admin-clinica-3.png)
+
+Asignació de un adulto mayor para el doctor
+
+![Asignació de un adulto mayor para el doctor](./assets/chapter4/admin-clinica-4.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/admin-clinica-5.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/admin-clinica-6.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/admin-clinica-7.png)
+
+- Dashboard Personal de Clínica - Doctor
+
+Se visualiza el dashboard donde el doctor registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud y dar chequeos.
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-1.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-2.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-3.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-4.png)
+
+- Dashboard Personal de Casas de Reposo - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una casa de reposo ejecutará acciones con el fin de administrar a los cuidadores y los adultos mayores a quienes asignará un doctor encargado.
+
+Dashboard del administrador sin cuidadores
+
+![Dashboard del administrador sin cuidadores](./assets/chapter4/admin-casa-1.png)
+
+Formulario para agregar a un cuidador
+
+![Formulario para agregar a un cuidador](./assets/chapter4/admin-casa-2.png)
+
+Cuidador visible en el dashboard
+
+![Cuidador visible en el dashboard](./assets/chapter4/admin-casa-3.png)
+
+Asignació de un adulto mayor para el cuidador
+
+![Asignació de un adulto mayor para el cuidador](./assets/chapter4/admin-casa-6.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/admin-casa-4.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/admin-casa-5.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/admin-casa-7.png)
+
+- Dashboard Personal de Casas de Reposo - Cuidador
+
+Se visualiza el dashboard donde el cuidador registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud.
+
+![Formulario de soporte](./assets/chapter4/cuidador-1.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-2.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-3.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-4.png)
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+Enlace para acceder a [Lucidchard](https://lucid.app/lucidchart/a6da7c11-ad99-4658-a4c8-2b630c5794eb/edit?invitationId=inv_5c2699bb-77b5-4655-93e3-7e771f566105)
+
+https://lucid.app/lucidchart/a6da7c11-ad99-4658-a4c8-2b630c5794eb/edit?invitationId=inv_5c2699bb-77b5-4655-93e3-7e771f566105
+
+#### User Goal: Registro Usuario
+
+User persona: Allegados
+Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
+preferencia y se registra en la plataforma.
+
+<img src="assets/chapter4/UG-Inicio.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro Clinica o Casa de Reposo
+
+User persona: Clinica y Casa de reposo
+Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
+con la platforma e ingresa sus credenciales para poder identificarse como administrador.
+
+<img src="assets/chapter4/UG-Empresa.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de paciente como allegado
+
+User persona: Allegado
+Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
+de allegado
+
+<img src="assets/chapter4/UG-Paciente.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de medicos
+
+User persona: Clinica
+Explicacion de flujo: El administrador de la clinica inicia sesion, agrega un medico mediante un formulario y verifica
+que el registro haya sido exitoso.
+
+<img src="assets/chapter4/UG-RMedico.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar un paciente a un medico
+
+User persona: Clinica
+Explicacion de flujo: Se asigna un paciente a un medico registrado, mediante un formulario para completar los datos
+personales y verificar si se asigno correctamente.
+
+<img src="assets/chapter4/UG-MedicoR.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de signos vitales
+
+User persona: Clinica
+Explicacion de flujo: Se selecciona a un paciente geriatrico para ver su historial de estado para el registro de salud,
+ademas de contar con un analisis estadistico sobre el estado actual.
+
+<img src="assets/chapter4/UG-PacienteA.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se ingresa a la plataforma y se selecciona en agregar cuidador, se completa un formulario con informacion
+personal del cuidador y se confirma el registro correcto.
+
+<img src="assets/chapter4/UG-RCuidador.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar paciente a cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona al cuidador objetivo y se selecciona en agregar paciente,
+
+<img src="assets/chapter4/UG-CuidadorR.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de estado de paciente geriatrico
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona a un paciente y se verifica el historial de notificacion, ademas se puede acceder a
+un analisis estadistico en tiempo real para controlar los signos vitales.
+
+<img src="assets/chapter4/UG-PacienteAC.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+## 4.5. Web Applications Prototyping
+
+Para poder elaborar los prototipos de la interfaz de usuario de dispositivos desktop y moviles, se opto por seguir ciertos
+criterios, tales como:
+
+1. Claridad y Usabilidad: Se buscó que la navegación dentro de la aplicación resultara sencilla e intuitiva, permitiendo a los usuarios comprender fácilmente sus funciones principales, como el registro de procesos y la consulta de reportes estadísticos.
+2. Adaptabilidad del Diseño: Se consideró fundamental implementar un diseño adaptable o responsive, asegurando que la aplicación web funcione correctamente en diferentes tamaños de pantalla, sin importar el dispositivo utilizado.
+3. Enfoque en la Información Esencial: El diseño prioriza la presentación de los datos más relevantes para el público objetivo, evitando la sobrecarga de contenido innecesario.
+
+<img src="assets/chapter4/mobileProtoyping.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+Direccionamiento al [Prototipo Mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EXz4E9NdVZtIkEk7n6GaAXwBa8DvhRgeo7SjpotPW2Xmbw?e=qvh1pP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+https://tinyurl.com/4ehaedhv
+
+<img src="assets/chapter4/AppWebPrototyping.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+Direccionamiento al [Prototipo WebApp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EVciWpoXIMpFoRcwCB0ujjgBQOgI-L9YpizFcXMiJbPZQw?e=VAR3eO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+https://tinyurl.com/ytm3bvr9
+
+## 4.6. Domain-Driven Software Architecture
+
+El Domain Driven Design (DDD) busca lograr una comprensión común del dominio que define el espacio del problema. Este
+enfoque facilita la colaboración entre desarrolladores y expertos del área gracias a la perspectiva que ofrece. No se
+limita únicamente al uso de un lenguaje ubicuo, sino que incluye un conjunto de patrones, prácticas y representaciones
+arquitectónicas del sistema. Todos estos elementos tienen como finalidad alinear el software con el dominio y fortalecer
+la visión compartida que promueve DDD.
+
+### 4.6.1. Software Architecture Context Diagram
+
+Este diagrama de contexto muestra la vista de alto nivel de las relaciones entre la plataforma MediTrack y los sistemas
+externos, asi como el rol de los usuarios.
+
+<img src="assets/chapter4/Context-diagram.png" alt="context-diagram" style="width:300px; height:auto;"/>
+
+### 4.6.2. Software Architecture Container Diagrams
+
+El diagrama de contenedores ofrece una visión general de alto nivel sobre las relaciones entre las aplicaciones y las
+fuentes de datos que intervienen en la ejecución de a plataforma MediTrack
+
+<img src="assets/chapter4/Container-diagram.png" alt="container-diagram" style="width:300px; height:auto;"/>
+
+### 4.6.3. Software Architecture Components Diagrams
+
+Los diagramas de componentes proporcionan una visión de las relaciones entre los principales elementos del sistema de
+software. Dichos componentes describen con mayor detalle la implementación de los módulos correspondientes dentro del programa.
+
+**Auth Bounded Context**
+
+<img src="assets/chapter4/auth-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Relative Bounded Context**
+
+<img src="assets/chapter4/relative-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Organization Bounded Context**
+
+<img src="assets/chapter4/organization-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Shared Bounded Context**
+
+<img src="assets/chapter4/shared-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+## 4.7 . Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+En esta sección se presenta y explica el Diagrama de Clases UML correspondiente al sistema desarrollado. El propósito de este diagrama es representar de manera estructurada los elementos principales de cada producto de software y, cuando es aplicable, de cada bounded context identificado durante la fase de Event Storming.
+
+El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino también sus atributos y métodos, especificando el alcance (public, private, protected) en cada caso. Asimismo, se definen las relaciones entre clases, indicando la multiplicidad, la dirección y la calificación de los vínculos con nombres claros y consistentes.
+
+Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama independiente por bounded context (User Management, Device Management, Dashboard & Analytics, Relationship Management, Report, Identity & Access Management). Esto permite reflejar con precisión las responsabilidades de cada contexto y la forma en que interactúan sus entidades internas.
+
+<img src="assets/chapter4/UMLDiagram.png" alt="UMLDiagram" width="100%">
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagrams
+
+![Diagrama de base de datos.png](assets/chapter4/Diagrama%20de%20base%20de%20datos.png)
 
 ## 4.1. Style Guidelines
 
@@ -2350,6 +3588,9 @@ El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino
 **Visual Studio Code**: Editor de código versátil empleado para programar y compilar, gracias a su compatibilidad con múltiples lenguajes y extensiones.  
 **Ruta de acceso:** [https://code.visualstudio.com](https://code.visualstudio.com)
 
+**WebStorm**: IDE para desarrollo en JavaScript y TypeScript, que ofrece potentes herramientas de refactorización y navegación.  
+**Ruta de acceso:** [https://www.jetbrains.com/webstorm](https://www.jetbrains.com/webstorm)
+
 **IntelliJ IDEA**: Entorno de desarrollo avanzado diseñado para proyectos en Java y Kotlin, fundamental en la construcción de componentes del sistema.  
 **Ruta de acceso:** [https://www.jetbrains.com/idea](https://www.jetbrains.com/idea)
 
@@ -2359,8 +3600,17 @@ El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino
 **CSS**: Lenguaje de estilos para definir la presentación visual de las páginas web, garantizando una experiencia de usuario consistente.  
 **Ruta de acceso:** [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-**JavaScript**: Lenguaje de programación que habilita la interactividad en las interfaces web, esencial para la dinámica del sistema.  
-**Ruta de acceso:** [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+**TypeScript**: Lenguaje de programación que extiende JavaScript con tipado estático, mejorando la calidad y mantenibilidad del código.  
+**Ruta de acceso:** [https://www.typescriptlang.org](https://www.typescriptlang.org)
+
+**Angular**: Framework de desarrollo para construir aplicaciones web dinámicas y de una sola página.  
+**Ruta de acceso:** [https://angular.io](https://angular.io)
+
+**Java**: Lenguaje de programación orientado a objetos, ampliamente utilizado para desarrollar aplicaciones robustas y escalables.  
+**Ruta de acceso:** [https://www.java.com](https://www.java.com)
+
+**Spring Boot**: Framework basado en Java que facilita la creación de aplicaciones empresariales mediante convenciones y herramientas integradas.  
+**Ruta de acceso:** [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
 
 ---
 
@@ -2461,10 +3711,6 @@ Prácticas aplicadas en el desarrollo de la Landing Page estática:
 1. Uso de Flexbox Grid para estructurar y diseñar la Landing Page de manera responsive.
 2. Definición de colores en formato HEX.
 3. Inclusión de comentarios al inicio de cada archivo CSS para identificar las secciones de la página.
-
-#### JS
-
-1. Declaración de funciones siguiendo la convención de nomenclatura camelCase.
 
 #### GERKHIN
 
@@ -2659,6 +3905,8 @@ Durante el **Sprint 1** del desarrollo de **MediTrack**, se ejecutaron las prime
 ![Landing Page Image Domain](./assets/chapter5/landing-domain.png)
 
 [Landing Page MediTrack](https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/)
+
+https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/
 
 #### 5.2.1.8. Team Collaboration Insigths during Sprint
 
@@ -3022,19 +4270,38 @@ Back End:
 
 ![MediTrack-Back-2](./assets/chapter5/medi-back-2.png)
 
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
 # 5.2.4. Sprint 4
 
-## 5.2.4.1. Sprint Planning 4
+| **Sprint #** | Sprint 4 |
+| ------------ | -------- |
 
-**Sprint Goal:**  
-Completar e integrar todas las funcionalidades restantes de MediTrack, dejando el sistema listo para validación final: dashboard operativo, alertas funcionales, integración completa frontend–backend y flujos críticos terminados.
+| **Sprint Planning Background** |                                                                                     |
+| ------------------------------ | ----------------------------------------------------------------------------------- |
+| **Date**                       | 25 de noviembre del 2025                                                            |
+| **Time**                       | 09:00 PM                                                                            |
+| **Location**                   | Vía Discord                                                                         |
+| **Prepared By**                | Marcelo Barrientos Quispe                                                           |
+| **Attendees (to planning)**    | Javier Nikaido – Gabriel Rivera – Carlos Fernández – Marcelo Barrientos             |
 
-**Duración del Sprint:** 1 semana  
-**Team Capacity:** 100%
+---
 
+| **Sprint 4 – Review Summary**        | Durante el Sprint 3 el equipo logró implementar con éxito las funcionalidades clave del backend para los bounded contexts **Organization, Relatives, Devices y Auth**, además de conectar parcialmente el frontend con los endpoints principales. Se completó la estructura básica del dashboard y se realizaron pruebas iniciales con datos dummy. Se fortaleció la arquitectura del proyecto, preparando el entorno para la integración final. |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 4 – Retrospective Summary** | El equipo destacó como fortaleza la mejora en la colaboración técnica, especialmente al trabajar simultáneamente sobre frontend y backend. Sin embargo, se reconoció que durante el sprint anterior hubo desfases en la integración y comunicación entre equipos, por lo que para este sprint se acordó reforzar la **coordinación diaria**, mejorar la documentación de los endpoints y definir con mayor claridad las tareas por integrante. |
 
+---
 
-## 5.2.4.2. Aspect Leaders and Collaborators
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                   |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 4 Goal**              | Completar la integración total del sistema MediTrack, finalizando el dashboard (mapa, métricas, alertas), habilitando los flujos de invitación, recuperación de contraseña y asegurando que los módulos de Organization, Relatives, Devices y Auth funcionen de forma integrada y estable. |
+| **Sprint 4 Velocity**          | 21                                                                                                                                                                                                                                                                                               |
+| **Sum of Story Points**        | 21                                                                                                                                                                                                                                                                                               |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
 
 | Aspecto | Líder | Colaboradores |
 |--------|-------|----------------|
@@ -3045,11 +4312,9 @@ Completar e integrar todas las funcionalidades restantes de MediTrack, dejando e
 | Backend – Auth | Carlos Fernández | Javier Nikaido |
 | Documentación | Todos | — |
 
----
+#### 5.2.4.3. Sprint Backlog 4
 
-## 5.2.4.3. Sprint Backlog 4
-
-### User Stories Priorizadas
+##### User Stories Priorizadas
 
 | ID | User Story | Prioridad | Criterios de Aceptación |
 |----|------------|-----------|--------------------------|
@@ -3061,9 +4326,7 @@ Completar e integrar todas las funcionalidades restantes de MediTrack, dejando e
 | HU33 | Como usuario, quiero recuperar mi contraseña mediante correo. | Media | Envío de código, validación y restablecimiento exitoso. |
 | HU34 | Como organización, quiero invitar familiares mediante un enlace seguro. | Alta | Token único generado y flujo de registro asistido. |
 
----
-
-## 5.2.4.4. Development Evidence for Sprint Review
+#### 5.2.4.4. Development Evidence for Sprint Review
 
 **Frontend**
 - Dashboard con signos vitales en tiempo real.
@@ -3084,9 +4347,7 @@ Completar e integrar todas las funcionalidades restantes de MediTrack, dejando e
 - Conexión y consumo correcto de todos los endpoints desde el frontend.
 - Pruebas funcionales documentadas con Postman / Swagger.
 
----
-
-## 5.2.4.5. Execution Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review
 
 - Capturas del dashboard final.
 - Evidencia del historial gráfico.
@@ -3095,26 +4356,20 @@ Completar e integrar todas las funcionalidades restantes de MediTrack, dejando e
 - Pruebas con datos de ejemplo.
 - Evidencia del flujo de recuperación de contraseña.
 
----
-
-## 5.2.4.6. Services Documentation Evidence
+#### 5.2.4.6. Services Documentation Evidence
 
 - Documentación actualizada en Swagger / OpenAPI.
 - Guía de uso de endpoints desde frontend.
 - Flujo documentado del sistema de alertas.
 - Actualización de arquitectura si correspondiera.
 
----
-
-## 5.2.4.7. Software Deployment Evidence
+#### 5.2.4.7. Software Deployment Evidence
 
 - Frontend desplegado y en funcionamiento.
 - Backend desplegado en servidor.
 - Logs de ejecución indicando endpoints activos.
 - Validación de conexión entre frontend y backend.
 - Ramas integradas en GitHub con commits del sprint.
-
-
 
 ## 5.3. Validation Interviews
 
