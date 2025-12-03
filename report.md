@@ -2559,9 +2559,11 @@ Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama indepen
 
 ## 4.8. Database Design
 
+En esta sección se presenta el diseño de la base de datos relacional utilizada en el sistema. El diagrama entidad-relación (ERD) ilustra las tablas principales, sus atributos y las relaciones entre ellas. Cada tabla representa una entidad del dominio, con sus respectivas columnas que definen los datos almacenados. Las relaciones entre tablas se indican mediante líneas que muestran cómo las entidades están conectadas, incluyendo las cardinalidades (uno a uno, uno a muchos, muchos a muchos) para clarificar la naturaleza de las asociaciones. Este diseño asegura la integridad de los datos y optimiza el rendimiento de las consultas dentro del sistema.
+
 ### 4.8.1. Database Diagrams
 
-![Diagrama de base de datos.png](assets/chapter4/Diagrama%20de%20base%20de%20datos.png)
+![Diagrama de base de datos.png](./assets/chapter4/data-base.png)
 
 ## 4.1. Style Guidelines
 
