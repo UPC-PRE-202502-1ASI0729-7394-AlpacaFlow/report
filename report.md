@@ -1,3 +1,5 @@
+ <div align ="center">
+
 <img src="assets/caratula/logo-upc.png" alt="logo-upc" style="width:300px; height:auto;"/>
 
 ### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
@@ -83,6 +85,7 @@
 | 4.4     | 29/11/25 | Rivera Ayala, Gabriel Alejandro | Revisión final del backend.                                 |
 
 
+</div>
 #### Project Report Collaboration Insights
 
 - Barrientos Quispe, Marcelo
@@ -247,18 +250,23 @@ En el tercero se aprecian integraciones más grandes y varios puntos de merge. N
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
-
-- [5.2.3. Sprint 3](#523-sprint-3)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+    - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
     - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-    - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
     - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
     - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
     - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-
-- [5.2.4. Sprint 4](#524-sprint-4)
+  - [5.2.4. Sprint 4](#524-sprint-4)
     - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
     - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
     - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
@@ -294,8 +302,8 @@ del ABET – EAC - Student Outcome 3
 
 | Criterio específico                                                        | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**   | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>Me esforcé en aportar al grupo, cumpliedo todas mis tareas encomendadas y ayudando en lo que aún faltaba por completar. <br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend.<br>**TB2**<br>Apoyé y colaboré en el desarrollo del bounded context de Organization y me comuniqué de manera efectiva para su coordinación y desarrollo <br>**TF**<br>En el desarrollo del proyecto final aporte colaborativamente del desarrollo del informe y en apoyo del bounded context Organizations.<br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Apoyé de manera activa al desarrollo del trabajo, apoyando, mejorando y arregalndo varias partes del proyecto, además de claro hacer mis tareas encomendadas. <br> <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend.<br>**TB2**<br>Para este presentable me encargué del bounded context de Relatives dónde aporté con su desarrollo y organización<br>**TF**<br>Me encargue del cumplimiento de las funcionalidades del bounded context relatives, ademas de mantener la coordinación grupal para el cumplimiento de los documentos y archivos solicitados<br> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br><br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br> **TB2** <br> Ayude en el desarrollo de entrevistas de validacion y forma parte del desarrollo de los bounded context Organization y Auth, comunicandome constantemente con el equipo para que el desarrollo sea el adecuado.<br>**TF**<br>Participe en el desarrollo del despliegue del frontend y de complementación de funcionalidades en el bounded context relatives<br> <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br> **TB2** <br> Al desarrollar el backend pude entender con mayor claridad los puntos> Durante el desarrollo de este entregable me encargué del despliegue del backend y resolución de problemas en la interfaz<br>**TF**<br>Desarrolle el bounded context de devices, donde determine las funcionalidades y el desarrollo del api para alerts y statistics en tiempo real, asimismo como su visualización.<br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br> <br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>La constante participación y aporte al gupo fue importante para mi desarrollo como estudiante, ya que pude obtener inforamción valiosa, más quen con el desarrollo de ciertos apartados sobre el análisis de usuarios br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend. <br> **TB2** <br> Durante el desarrollo cumplí con todas las espectivas que se me prepusieron en el desarrollo. Además el material desarrollado en clase fue importante para que pueda coloborar y guiarme para el desarrollo del sistema donde aprendí mucho. <br>**TF**<br>Mi participación en el informe final me permitió comprender la relevancia de la adecuada documentación para elaborar un informe que pueda representar los objetivos de la startup.<br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias a mi gran aporte, mejore muchas de mis habilidades con respecto al desarrollo de una aplicación de este tipo, lo que me será de mucha ayuda en mi desarrollo como profesional. <br> Durante el desarrollo de este entregalbe aprendí bastante sobre el desarrollo del <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend. <br> **TB2** <br> El desarrollo del sistema fue realmente importante para entender los conceptos del desarrollo de backend para aprender de mejor forma los conceptos. <br>**TF**<br>La coordinación de los entregables y cumplimiento de funcionalidades me permitió desarrollar mis habilidades comunicativas y técnicas, colaborando activamente en el grupo.<br> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> La participación activa en el diseño y ejecución de entrevistas al primer segmento objetivo permitió aportar información valiosa al equipo. Esta contribución fortaleció la toma de decisiones conjuntas y reflejó un liderazgo distribuido, basado en la colaboración y en la construcción colectiva de resultados. <br> <br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br>**TB2** <br> La elaboracion de entrevistas de validacion y desarrollo frontend y backend me permitieron conocer mas el producto a desarrollarse, asi como trabajar colectivamente <br>**TF**<br>El despliegue del frontend requería de conocimiento técnico en el cumplimiento y configuracion de la plataforma, lo que me ayudo a mejorar mis conocimientos técnicos<br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br>**TB2**<br> Para el desarrollo del backend tuve que apoyarme en los recursos aprendidos en clase los cuales fueron de gran utilidad para el desarrollo del mismo y así presentar un trabajo bien desarrollado <br>**TF**<br>Lo aprendido en las ultimas unidades el curso me permitió desarrollar exitosamente mis funcionalidades a nivel backend, apoyando a mi equipo a al cumplimiento de requisitos técnicos.<br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Como equipo, nos dimos retroalimentación de forma constante, lo cual nos ayudó a reforzar nuestras áreas de oportunidad y mejorar nuestro desempeño.<br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Nikaido Vargas, Javier Masaru**<br>**TB1** <br> Me encargué de realizar una entrevista, una buena parte del needfinding, dividir los user stories por épicas y me encargué del diagrama de la base de datos <br><br> **TP** <br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes. <br><br> **TB2** <br>Contribuí a la creación de entrevistas de validación. También desarrollé el frontend de los bounded contexts Organization, y trabajé conjuntamente en la implementación del backend del mismo módulo.<br>**TF**<br>Apoye con el cumplimiento del documentos, asi como la organización grupal para el desarrollo de la entrega de manera adecuada, apoyando a mis compañeros en el proceso.<br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Me encargué de la elaboración del wireframe, wireflow, mokups, segmentos objetivos, parte del capitulo 1, entrevistas y su diseño, landing page, muy buena parte del capitulo 4 y el capitulo 5 <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br> **TB2** <br>Participé en la elaboración de entrevistas de validación. Además, desarrollé el frontend de el bounded contexts de Relative, y colaboré en la implementación del backend para el mismo bounded context.<br>**TF**<br>Complete las tareas pendientes para el cumplimiento del ultimo sprint, asimismo coordine continuamente para el desarrollo correcto del proyecto, tanto a nivel técnico y de comunicación.<br> <br/> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br> **TB2** <br>Colabore en el desarrollo de entrevistas de validacion, ademas desarrollo en el frontend el bounded context Organization y Auth, asimismo de manera colaborativa pude implementar el backend para el bounded context Organization y Auth.<br>**TF**<br>Mi aporte fue en el despliegue adecuado y verificación de la funcionalidad del token, ademas apoye en el desarrollo de funcionalidades.<br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP**<br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br><br> **TB2** <br>Aporté en la preparación de entrevistas de validación. Asimismo, desarrollé el frontend de los bounded contexts de Device e implementación del despliegue, y participé de forma conjunta en la implementación del backend correspondiente.<br>**TF**<br>Cumplimiento con las actividades planificadas, coordinando con el equipo para el desarrollo de requisitos, ademas de realizar pruebas de funcionamiento y mejora continua del frontend y backend.<br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/> <br> **TP**<br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                                                 | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>Gracias a la elaboración del needfiding, mejoré mi habilidad para ver como se siente al cliente con varios aspectos de nuestra aplicación, loq ue me permite dar un producto muhco mejor para los usuarios.<br><br> **TP** <br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes. <br><br> **TB2** <br>El trabajo en el desarrollo backend facilitó la colaboración en equipo para la implementación de funcionalidades.<br>**TF**<br>En coordinación del equipo, mi aporte en el cumplimiento de la entrega final fue relevante para el proyecto realizado, lo que me ayudo a comprender la importancia de la coordinación adecuada en un proyecto de software.<br>**Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias al desarrollo del trabajo mejoré muchas habildies, tanto como del desarrollo de la idea del proyecto, sino también con respecto al desarollo de landigns pages, ya que ahora siento que se como atraer mejor ala gente con esta sección tan importante del proyecto. <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br><br> **TB2** <br>Formar parte de las entrevistas de validación me permitió obtener información valiosa de los usuarios. Asimismo, trabajar en el desarrollo frontend y backend favoreció la coordinación del equipo para implementar las funcionalidades para el bounded context de Relatives.<br>**TF**<br>Mi participacion me permitió desarrollar mis habilidades de comunicación y de cumplimiento de actividades, asimismo las entrevistas de validacion permitieron comprender mejor sobre las perspectivas de los usuarios sobre la aplicación.<br/> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> Al elaborar los user personas y analizar entrevistas, se facilitó un espacio de diálogo y entendimiento mutuo entre los miembros del equipo, asegurando que las diferentes perspectivas fueran integradas en el desarrollo del proyecto. Este enfoque inclusivo permitió que el producto respondiera mejor a las necesidades reales de los usuarios. <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br><br> **TB2** <br> Participar en las entrevistas de validacion me permitio obtener feedback del usuario, ademas que el desarrollo frontend y backend permitieron trabajar en equipo sobre las implementaciones de funcionalidades.<br>**TF**<br>El desarrollo del despliegue y cumplimiento de funcionalidades me permitió conocer mas sobre lo necesario para el desarrollo exitoso de un proyecto de software durante su ciclo de vida.<br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP** <br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br><br> **TB2** <br>Participar en las entrevistas de validación me permitió obtener retroalimentación directa de los usuarios. Además, trabajar en el desarrollo frontend y backend del bounded context Device fortaleció la colaboración del equipo durante la implementación de sus funcionalidades.<br>**TF**<br>Cumplir con las actividades pendientes como frontend y backend, y colaborar con el desarrollo del informe, me ayudo a reconocer puntos de mejórales lo cual contribuye a mi crecimiento como profesional.<br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> A lo largo del desarrollo del trabajo se logro establecer un ambiente colabortivo lo cual nos permitio refinar nuestra aprendisaje y el desarrollo del trabjo <br/> <br> **TP** El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                                                                                                                                                                                  |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**   | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>Me esforcé en aportar al grupo, cumpliedo todas mis tareas encomendadas y ayudando en lo que aún faltaba por completar. <br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend.<br>**TB2**<br>Apoyé y colaboré en el desarrollo del bounded context de Organization y me comuniqué de manera efectiva para su coordinación y desarrollo <br> **TF**<br>Para este entregable, me encargué de solucionar problemas del proyecto y realizar el sprnt 4. <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Apoyé de manera activa al desarrollo del trabajo, apoyando, mejorando y arregalndo varias partes del proyecto, además de claro hacer mis tareas encomendadas. <br> <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend.<br>**TB2**<br>Para este presentable me encargué del bounded context de Relatives dónde aporté con su desarrollo y organización<br> <br><br>**TF**<br>Para este entregable, me enfoqué en el desarrollo final del bbounded context de iam en su front para su desarrollo e implementación<br> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br><br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br> **TB2** <br> Ayude en el desarrollo de entrevistas de validacion y forma parte del desarrollo de los bounded context Organization y Auth, comunicandome constantemente con el equipo para que el desarrollo sea el adecuado.<br> <br> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br> **TB2** <br> Al desarrollar el backend pude entender con mayor claridad los puntos> Durante el desarrollo de este entregable me encargué del despliegue del backend y resolución de problemas en la interfaz<br> <br><br>**TF**<br> Para este entregable final desarrollé el sistema y su implementación<br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br> <br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>La constante participación y aporte al gupo fue importante para mi desarrollo como estudiante, ya que pude obtener inforamción valiosa, más quen con el desarrollo de ciertos apartados sobre el análisis de usuarios br><br> **TP** <br> Durante el desarrollo del proyecto, mantuve una presencia constante en las llamadas grupales, donde participé activamente en las discusiones y ofrecí mi perspectiva en la mejora del informe y ayude en la implementacion de la aplicación frontend. <br> **TB2** <br> Durante el desarrollo cumplí con todas las espectivas que se me prepusieron en el desarrollo. Además el material desarrollado en clase fue importante para que pueda coloborar y guiarme para el desarrollo del sistema donde aprendí mucho. <br>**TF**<br>Durante el desarrollo de este entregable, colaboré con mi equipo y me encargué de implementar una nueva característica a la plataforma backend del proyecto. <br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias a mi gran aporte, mejore muchas de mis habilidades con respecto al desarrollo de una aplicación de este tipo, lo que me será de mucha ayuda en mi desarrollo como profesional. <br> Durante el desarrollo de este entregalbe aprendí bastante sobre el desarrollo del <br> **TP** <br> Para esta segunda entrega alcancé el logro del outcome ya que durante reuniones vía discord o zoom organicé y asigne tareas a mis compañeros además de ayudarlos a corregir errores en código y estar constantemente pendiente del trabajo. Tambien desarrollé el bounded context de allegados en el frontend. <br> **TB2** <br> El desarrollo del sistema fue realmente importante para entender los conceptos del desarrollo de backend para aprender de mejor forma los conceptos. <br> <br><br>**TF**<br>Mi aporte apra este trabajo fue con el apoyo de mi parte en la medida de lo posible para lograr el objetivo de este sprint.<br> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> La participación activa en el diseño y ejecución de entrevistas al primer segmento objetivo permitió aportar información valiosa al equipo. Esta contribución fortaleció la toma de decisiones conjuntas y reflejó un liderazgo distribuido, basado en la colaboración y en la construcción colectiva de resultados. <br> <br> **TP** <br> Me encargue del big picture event storming y también de la asignación de tareas en el trello y la actualización de descripciones de imágenes como también la actualización del canva. <br>**TB2** <br> La elaboracion de entrevistas de validacion y desarrollo frontend y backend me permitieron conocer mas el producto a desarrollarse, asi como trabajar colectivamente <br> <br> <br>**TF**<br>Mi aporte se basó en la implementación de un sistema de autenticación que integramos gracias a lo aprendido en clase<br>  **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br> **TP** <br> Colaboré con mi grupo de trabajo al desarrollar las interfaces del usuario en nuestra aplicación frontend al igual que corregir ciertos errores en anteriores entregas. <br>**TB2**<br> Para el desarrollo del backend tuve que apoyarme en los recursos aprendidos en clase los cuales fueron de gran utilidad para el desarrollo del mismo y así presentar un trabajo bien desarrollado <br> <br> <br> **TF** <br>Mi aporte fue clave para la integración del sistema con la versión final<br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Como equipo, nos dimos retroalimentación de forma constante, lo cual nos ayudó a reforzar nuestras áreas de oportunidad y mejorar nuestro desempeño.<br> **TP** <br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Nikaido Vargas, Javier Masaru**<br>**TB1** <br> Me encargué de realizar una entrevista, una buena parte del needfinding, dividir los user stories por épicas y me encargué del diagrama de la base de datos <br><br> **TP** <br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes. <br><br> **TB2** <br>Contribuí a la creación de entrevistas de validación. También desarrollé el frontend de los bounded contexts Organization, y trabajé conjuntamente en la implementación del backend del mismo módulo.<br>  <br> <br>**TF**<br>En este trabajo, aporté a mi equipo con responsabilidad y sugerencias para lograr un buena implementación del proyecto y alcanzar las metas asignadas. **Barrientos Quispe, Marcelo** <br> **TB1** <br> Me encargué de la elaboración del wireframe, wireflow, mokups, segmentos objetivos, parte del capitulo 1, entrevistas y su diseño, landing page, muy buena parte del capitulo 4 y el capitulo 5 <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br> **TB2** <br>Participé en la elaboración de entrevistas de validación. Además, desarrollé el frontend de el bounded contexts de Relative, y colaboré en la implementación del backend para el mismo bounded context.<br> <br/> <br><br>**TF**<br>Durante el desarrollo de este entregable, me dediqué a colaborar en la solución de errores, consultando con mi equipo sobre cada elemento a corregir para que todos estuvieran al tanto de las modificaciones. <br> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/>Me encargue de realizar las entrevistas al primer segmento objetivo tambien me encargue de los user persona y el analisis de entrevistas y parte del event storming <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br> **TB2** <br>Colabore en el desarrollo de entrevistas de validacion, ademas desarrollo en el frontend el bounded context Organization y Auth, asimismo de manera colaborativa pude implementar el backend para el bounded context Organization y Auth. <br/> **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP**<br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br><br> **TB2** <br>Aporté en la preparación de entrevistas de validación. Asimismo, desarrollé el frontend de los bounded contexts de Device e implementación del despliegue, y participé de forma conjunta en la implementación del backend correspondiente.<br/> <br><br>**TF**<br>Durante el proceso del entregable aporté con conocmiento y desarrollo para la implementación del mismo en el sistema.<br/> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> Me encargue de la elaboracion de la Landing Page 4.1. el event storming y Class diagram <br/> <br> **TP**<br> El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                                                 | **Nikaido Vargas, Javier Masaru**<br>**TB1**<br>Gracias a la elaboración del needfiding, mejoré mi habilidad para ver como se siente al cliente con varios aspectos de nuestra aplicación, loq ue me permite dar un producto muhco mejor para los usuarios.<br><br> **TP** <br> Coordiné la priorización de tareas y participé activamente en las reuniones de sprint, asegurando el avance de los entregables y documentando decisiones técnicas relevantes. <br><br> **TB2** <br>El trabajo en el desarrollo backend facilitó la colaboración en equipo para la implementación de funcionalidades.<br> **Barrientos Quispe, Marcelo** <br> **TB1** <br> Gracias al desarrollo del trabajo mejoré muchas habildies, tanto como del desarrollo de la idea del proyecto, sino también con respecto al desarollo de landigns pages, ya que ahora siento que se como atraer mejor ala gente con esta sección tan importante del proyecto. <br> <br/> **TP**<br> Implementé una primera versión del frontend junto a mi equipo de trabajo creando un ambiente colaborativo.<br><br> **TB2** <br>Formar parte de las entrevistas de validación me permitió obtener información valiosa de los usuarios. Asimismo, trabajar en el desarrollo frontend y backend favoreció la coordinación del equipo para implementar las funcionalidades para el bounded context de Relatives.<br/> <br><br>**TF**<br>Trabajé colaborativamente con mis compañeros para corregir e integrar las funcionalidades del sismtema<br/> **Fernandez Camayo, Carlos Fredy** <br/> **TB1** <br/> Al elaborar los user personas y analizar entrevistas, se facilitó un espacio de diálogo y entendimiento mutuo entre los miembros del equipo, asegurando que las diferentes perspectivas fueran integradas en el desarrollo del proyecto. Este enfoque inclusivo permitió que el producto respondiera mejor a las necesidades reales de los usuarios. <br> <br/> **TP**<br> Organicé las tareas en un Trello para mejorar la colaboración y manejo de tareas.<br><br> **TB2** <br> Participar en las entrevistas de validacion me permitio obtener feedback del usuario, ademas que el desarrollo frontend y backend permitieron trabajar en equipo sobre las implementaciones de funcionalidades.<br/> <br>    <br>**TF**<br>Durante el desarrollo de este entregable, coordiné con mi equipo, nos asignamos tareas y dead-ends para agilizar el desarrollo y mejorar la plataforma backend del proyecto. **Rivera Ayala, Gabriel** <br> **TB1** <br> Apoyé a mis compañeros a investigar las necesidades de nuestros usuarios, brindé soporte y priorizé la colaboración y comunicación. <br> <br/> **TP** <br> Colaboré en la implementación de las interfaces y en la corrección de errores del frontend, además de corregir errores en pasadas entregas.<br><br> **TB2** <br>Participar en las entrevistas de validación me permitió obtener retroalimentación directa de los usuarios. Además, trabajar en el desarrollo frontend y backend del bounded context Device fortaleció la colaboración del equipo durante la implementación de sus funcionalidades.<br/> <br> **TF**<br>Gracias al desarrollo de este proyecto, pude mejorar mi habilidad para analizar e identificar fallos de distintos tipos en la organización de un proyecto, y así corregirlos para futuros trabajos.<br> **Joaquin Antonio Cuba Pareja** <br> **TB1** <br> A lo largo del desarrollo del trabajo se logro establecer un ambiente colabortivo lo cual nos permitio refinar nuestra aprendisaje y el desarrollo del trabjo <br/> <br> **TP** El desarrollo del proyecto fue una experiencia integral que combinó esfuerzos técnicos y colaborativos. Durante el proceso, mantuve una participación activa en las reuniones, contribuyendo en las discusiones y ofreciendo mi visión para mejorar el informe.                                                                                                                                                                                                                                  |
 
 # Capítulo I: Introducción
 
@@ -3579,6 +3587,970 @@ El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino
 
 #### Gestión de Requisitos (Requirements Management)
 
+AlpacaFlow se enfoca en desarrollar una solucion tecnologica orientada al sector de salud
+para el cuidado de pacientes geriatricos mediante Meditrack. Por lo que implementa una plataforma encargada
+de administrar el cuidado mediante agentes de diferente contexto. Como allegados al paciente, personal
+de casas de reposo y personal medico de clinicas. Asimismo favorece a la gestion y calidad
+de cuidado del paciente, como alerta inmediata, dashboard intuitivo para la administracion y vigilancia
+del estado del paciente.
+
+**Mision:** Desarrollar herramientas digitales accesibles y efectivas que permitan a pacientes,
+familias e instituciones de salud monitorear y gestionar la salud de los adultos mayores en tiempo real,
+brindando seguridad, confianza y eficiencia.
+
+**Vision:** En los próximos 5 años, consolidar a AlpacaFlow como una la empresa líder en soluciones
+de salud digital en Latinoamérica, siendo reconocidos por nuestra capacidad de mejorar la calidad de
+vida y prevenir riesgos mediante el uso de innovación tecnológica accesible y escalable.
+
+**Brand Name:**
+
+El nombre de la propuesta de la solucion es Meditrack. Enfocada en el sector de salud y dispositivos tecnologicos
+para dar sentido a una plataforma que emplea dispositivos IoT para maximizar la intervencion de la tecnologica en la salud.
+
+<img src="assets/chapter4/LogoMeditrack.jpeg" alt="logo-meditrack" style="width:300px; height:auto;"/>
+
+**Colores:**
+
+Los colores transmiten la presencia inicial hacia los usuarios. Mostrando indicios de la aplicacion
+adecuada de la paleta de colores qe pueden generar un impacto. El rojo demuestra la urgencia, cuidado y salud medica
+para evidenciar el monitorio constante, el negro aporta seriedad y confianza tecnologica. El azul es empleado
+como la calma, tecnologica confiable y garantiza seguridad. El blanco complementa al rojo como signo de limpieza, claridad
+y simplicidad.
+
+<img src="assets/chapter4/Colors.png" alt="logo-colors" style="width:300px; height:auto;"/>
+
+**Tipografia**
+
+La tipografía define la jerarquía visual entre los distintos grupos de contenido de la página y desempeña un papel
+clave en la orientación del usuario dentro de la interfaz. Para este proyecto se eligió la familia tipográfica
+“Montserrat”, en estilos Medium y Normal, con el fin de asegurar una lectura clara y fluida. Asimismo, se implementa
+una estructura jerárquica en cuatro niveles para organizar los elementos del modelado web (body y heading):
+
+- Heading 01: Presenta un tamaño de 52px.
+- Heading 02: Presenta un tamaño de 36px.
+- Heading 03: Presenta un tamaño de 24px.
+- Heading 04: Presenta un tamaño de 18px.
+
+### 4.1.2. Web Style Guidelines
+
+MediTrack emplea un enfoque serio y confiable, con un estilo que busca balancear datos tecnicos complejos con una
+experiencia visualmente amigable.
+
+**Tarjetas y visualizaciones:**
+
+Se emplea componentes "cards" para presentar elementos que el usuario pueda visualizar como prioridad y de manera organizada
+para que pueda tener una adecuada visualizacion.
+
+**Botones:**
+
+Se utilizan los botones segun la utilidad requerida, teniendo botones redondeados para permitir acciones como continuar
+o respuesta a propuestas de la plataforma, permiten al usuario acceder a funcionalidades importantes.
+Los botones cuentan con un estilo que permite al usuario conocer su utilidad sin realizar acciones innecesarias, asi como
+un contraste que permita identificarlos facilmente.
+
+**Tablas:**
+
+Las tablas muestran el contraste y organizacion adecuado para que no agoten la vision del usuario, asi como la ubicacion
+para instanciar registros. Las tablas presentadas permiten acciones pertinentes para cumplir eficientemente su funcionalidad.
+
+**Pantallas emergentes:**
+
+Pop-ups propios (no de navegador) para confirmación de acciones importantes. Como confirmaciones o rechazos ante acciones
+que el usuario pueda tomar la decision. Permiten mostrar el mensaje principal de manera pertinente con un diseño que se diferencie
+de la pantalla y muestre su relevancia.
+
+## 4.2. Information Architecture
+
+Meditrack busca optimizar adecuadamente sus procesos y flujos funcionales, ya que es juega un rol importante en el nucleo del
+negocio, ya que el usuario debe estar consciente del espacio donde se encuentra, lo que evita malas experiencias y orientan
+su estancia en la aplicacion, por lo que los procesos donde se vea involucrado deben tener un adecuado orden. Mediante el panel de control
+el usuario puede acceder a las funcionalidades de forma facil y centrada, asimismo los elementos encontrados orientan sobre el estado
+del sistema.
+
+### 4.2.1. Organization Systems
+
+La organizacion visual de contenido se ha diseñada teniendo en cuenta las distintas funcionalidades que se tiene para
+cubrir el proceso de cuidado a pacientes geriatricos. A lo largo de la plataforma, se utilizan diferentes tipos de organizacion
+visual para facilitar el acceso, comprension y uso eficiente de las herramientas disponibles.
+
+**Organizacion Jeraraquica**
+
+La estructura presentada en la Landing Page y paneles de administracion. En estos espacios, se presenta la informacion de manera descendente
+segun su relevancia, emepezando por el valor de la aplicacion, presentacion de solucion, productos y planes disponibles.
+
+**Organizacion Secuencial**
+
+En procesos como registro de usuario o de pacientes, se cuenta con la presentacion secuencial de paneles que revelan de manera
+concreta el mensaje principal, dando la opcion de regreso para evitar malas experiencias y tenga facilidad de uso.
+
+**Organizacion Matricial**
+
+Los elementos presentados como el dashboard utiliza una organizacion matricial que permite al usuario tener una vista general del estado
+de su operacion, asi como uso de elementos interactivos que dan valor a su permanencia en el sistema.
+
+### 4.2.2. Labeling Systems
+
+1. **Navegación Principal (Navbar)**
+
+| Clave JS       | Etiqueta Simplificada |
+| -------------- | --------------------- |
+| `nav-home`     | Inicio                |
+| `nav-services` | Servicios             |
+| `nav-about`    | Nosotros              |
+| `nav-plans`    | Planes                |
+| `nav-contact`  | Contacto              |
+
+2. **Sección Hero**
+
+| Clave JS               | Etiqueta Simplificada |
+| ---------------------- | --------------------- |
+| `hero-title`           | Título principal      |
+| `hero-description`     | Descripción destacada |
+| `hero-discover-button` | Botón: Descubrir      |
+| `hero-plans-button`    | Botón: Ver planes     |
+
+3.  **Servicios - Parte 1: Problemas y Soluciones**
+
+| Clave JS                              | Etiqueta Simplificada        |
+| ------------------------------------- | ---------------------------- |
+| `services-title`                      | Título de sección            |
+| `services-description`                | Introducción a los servicios |
+| `services-problems-title`             | Título: Problemas actuales   |
+| `services-problems-description`       | Descripción de los problemas |
+| `services-problem-[1-3]-title`        | Problema N (título)          |
+| `services-problem-[1-3]-description`  | Problema N (descripción)     |
+| `services-solution-title`             | Título: Nuestra solución     |
+| `services-solution-description`       | Descripción de la solución   |
+| `services-solution-[1-3]-title`       | Solución N (título)          |
+| `services-solution-[1-3]-description` | Solución N (descripción)     |
+
+4.  **Sección de Impacto**
+
+| Clave JS            | Etiqueta Simplificada |
+| ------------------- | --------------------- |
+| `impact-title`      | Título de impacto     |
+| `impact-[1-4]-text` | Métrica/Beneficio N   |
+
+5.  **Servicios - Parte 2: Tecnología**
+
+| Clave JS                                   | Etiqueta Simplificada      |
+| ------------------------------------------ | -------------------------- |
+| `services-part2-tag`                       | Etiqueta destacada         |
+| `services-part2-title`                     | Título de sección          |
+| `services-part2-description`               | Descripción tecnológica    |
+| `services-part2-feature-title`             | Título: Características    |
+| `services-part2-feature-description`       | Descripción general        |
+| `services-part2-feature-[1-6]-title`       | Característica N (título)  |
+| `services-part2-feature-[1-6]-description` | Característica N (detalle) |
+
+6.  **Misión y Visión**
+
+| Clave JS                     | Etiqueta Simplificada |
+| ---------------------------- | --------------------- |
+| `mission-vision-tag`         | Etiqueta filosófica   |
+| `mission-vision-title`       | Título principal      |
+| `mission-vision-description` | Descripción general   |
+| `mission-title`              | Título misión         |
+| `mission-description`        | Descripción misión    |
+| `vision-title`               | Título visión         |
+| `vision-description`         | Descripción visión    |
+
+7.  **Planes de Servicio**
+
+| Clave JS                   | Etiqueta Simplificada     |
+| -------------------------- | ------------------------- |
+| `plans-title`              | Título de sección         |
+| `plan-[1-3]-title`         | Plan N (nombre)           |
+| `plan-[1-3]-price`         | Plan N (precio)           |
+| `plan-[1-3]-recommended`   | Plan N (destacado)        |
+| `plan-[1-3]-feature-[1-5]` | Plan N - Característica M |
+| `plan-[1-3]-button`        | Plan N - Botón CTA        |
+
+8.  **Contacto**
+
+| Clave JS                       | Etiqueta Simplificada |
+| ------------------------------ | --------------------- |
+| `contact-title`                | Título de sección     |
+| `contact-description`          | Descripción breve     |
+| `contact-name-placeholder`     | Campo: Nombre         |
+| `contact-email-placeholder`    | Campo: Correo         |
+| `contact-phone-placeholder`    | Campo: Teléfono       |
+| `contact-interest-placeholder` | Campo: Interés        |
+| `contact-send-button`          | Botón: Enviar         |
+
+9. **Footer (Pie de página)**
+
+| Clave JS                | Etiqueta Simplificada        |
+| ----------------------- | ---------------------------- |
+| `footer-brand-name`     | Nombre de marca              |
+| `footer-brand-platform` | Nombre de la plataforma      |
+| `footer-description`    | Descripción de empresa       |
+| `footer-email`          | Correo de contacto           |
+| `footer-phone`          | Teléfono                     |
+| `footer-location`       | Ubicación                    |
+| `footer-company-title`  | Sección: Empresa             |
+| `footer-about-us`       | Enlace: Sobre nosotros       |
+| `footer-contact`        | Enlace: Contacto             |
+| `footer-product-title`  | Sección: Producto            |
+| `footer-meditrack`      | Enlace: Meditrack            |
+| `footer-features`       | Enlace: Características      |
+| `footer-pricing`        | Enlace: Precios              |
+| `footer-legal-title`    | Sección: Legal               |
+| `footer-privacy`        | Enlace: Privacidad           |
+| `footer-terms`          | Enlace: Términos de Servicio |
+| `footer-cookies`        | Enlace: Cookies              |
+| `footer-security`       | Enlace: Seguridad            |
+| `footer-copyright-part` |                              |
+| `[1-2]`                 | Aviso legal                  |
+
+### 4.2.3. SEO Tags and Meta Tags
+
+**Título:**
+Es una de las etiquetas más relevantes y suele colocarse antes de cualquier otra metaetiqueta. Los motores de búsqueda
+la utilizan como encabezado en las páginas de resultados (SERP).
+
+`<title>Meditrack - Tecnologia confiable para el cuidado de pacientes geriatricos</title>`
+
+**Codificación de caracteres:**
+
+Permite que los caracteres especiales se representen correctamente en la página web.
+
+`<meta charset="utf-8">`
+
+**Descripción:**
+
+Proporciona un resumen breve del contenido del sitio, ofreciendo a los usuarios una idea clara de lo que encontrarán al
+acceder a la página.
+
+`<meta name="description" content="MediTrack is a web application focused on the care of geriatric patients"/>`
+
+**Palabras clave:**
+
+Incluye los términos relacionados con la temática o el contenido principal de la página, facilitando su indexación en
+los motores de búsqueda.
+
+`<meta name="keywords" content="process, management, application, records, mushroom, analysis,
+careful"/>`
+
+**Autor y Derechos de Autor:**
+
+Se emplea para registrar los datos del creador del sitio, así como la información referente a la propiedad intelectual y
+derechos de autor.
+
+`<meta name="author" content="Meditrack"/>`
+
+`<meta name="copyright" content="Copyright AlpacaFlow team" />`
+
+### 4.2.4. Searching Systems
+
+Los sistemas de busqueda de Meditrack estan diseñados para que el usuario pueda encontrar informacion especifica de manera
+agil, incluso dentro de grandes volumenes de datos historicos.
+
+- Busqueda por texto: Pacientes, historial, datos.
+- Filtros combinables: Variables, situaciones, fecha.
+- Resultados con etiquetas para poder ordenar.
+
+### 4.2.5. Navigation Systems
+
+Los sistemas de navegación de MediTrack permiten al usuario recorrer los diferentes módulos y procesos de forma
+estructurada, intuitiva y adaptativa al dispositivo utilizado.
+
+- Menú lateral fijo (web desktop): Accesos a los principales módulos.
+- Menú hamburguesa (responsive): Versión simplificada para móviles.
+- Barra superior contextual: Con accesos rápidos a perfil, notificaciones, ayuda.
+- Flujo secuencial: Registro paso a paso.
+- Breadcrumbs: En vistas de detalle, para mantener contexto.
+- Call To Action claros: “Registrar cambios”, “Crear analisis”, “Ver historial”.
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+**Landing Page para Desktop Web Browser**
+
+Se presenta la landing page en el desktop web browser. Incluye secciones relevantes para la presencia del usuario, como
+mostrar informacion precisa sobre la solucion presentada, ademas de presentar el producto de la manera mas cercana a la
+plataforma web, mediante secciones como mision-vision, about the product y planes.
+
+<img src="assets/chapter4/Landing-wireframe1.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe2.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe3.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe4.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-wireframe5.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+
+**Landing Page para Mobile Web Browser**
+
+Se presenta la landing page en la visa del mobile web browser. Se incluye los contenidos mostrados en la landing page para
+desktop, pero considerando el diseño responsibe para mantener el aspecto visual.
+
+<img src="assets/chapter4/Landing-mobile-wireframe1.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-wireframe2.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-wireframe3.png" alt="landing-wireframe" style="width:300px; height:auto;"/>
+
+### 4.3.2. Landing Page Mock-up
+
+**Landing page en español**
+
+#### Landing Page para Desktop Web Browser
+
+El wireframe de la versión desktop en navegador web de la landing page fue útil para estructurar la disposición de los
+elementos. Con base en este esquema, se desarrolló el mock-up de la landing page, que incluye los mismos contenidos
+descritos previamente. En la imagen siguiente se observa la aplicación de la paleta de colores primarios y secundarios,
+así como la tipografía previamente establecida.
+
+<img src="assets/chapter4/Landing-mockup1.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup2.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup3.png" alt="landing-mockup" style="width:300px; height:auto;"/>
+
+#### Landing Page para Mobile Web Browser
+
+De igual manera, el mock-up de la landing page en vista mobile web browser incorpora los mismos elementos señalados
+previamente. Se aprecia que la tipografía seleccionada y el contraste de colores entre el texto y el fondo favorecen la
+legibilidad de la información en ambos dispositivos.
+
+<img src="assets/chapter4/Landing-mockup-mobile1.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile2.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile3.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile4.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile5.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mockup-mobile6.png" alt="landing-mockup-mobile" style="width:300px; height:auto;"/>
+
+### Landing page en inglés
+
+#### Landing Page para Desktop Web Browser
+
+Con el fin de mejorar la accesibilidad de la información, el equipo consideró importante incorporar la opción de cambio
+de idioma en la landing page. Por esta razón, se muestran evidencias gráficas de la versión en español e inglés en la
+vista desktop web browser.
+
+<img src="assets/chapter4/Landing-English1.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English2.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English3.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English4.png" alt="landing-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-English5.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+#### Landing Page para Mobile Web Browser
+
+Se incorpora el lenguaje ingles en la landing page para mobile.
+
+<img src="assets/chapter4/Landing-mobile-English1.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English2.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English3.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English4.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English5.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+<img src="assets/chapter4/Landing-mobile-English6.png" alt="landing-mobile-english" style="width:300px; height:auto;"/>
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+Enlace para acceder al [Figma](https://www.figma.com/design/5pPYbw6ldTV7ILDVfciH8l/MediTrack?node-id=68-2&t=cLuXhW6jD5n7WWOn-1)
+
+**Web Application para Desktop Web Browser**
+
+Los siguientes Wireframes fueron para ser base a los muck-ups proximos a presentar.
+
+- Selección de Usuario
+
+Permite a nuestros usuarios escoger a que tipo de inicio de sesión accederán, para que posteriormente ingresen sus credenciales
+
+![Seleccionar Usuario](./assets/chapter4/wireframe-1.png)
+
+- Inicio de Sesión
+
+Permite al usuario iniciar sesión a través de sus credenciales.
+
+![Inicio de Sesión](./assets/chapter4/wireframe-2.png)
+
+- Escoger un plan
+
+Permite a un nuevo usuario escoger un plan previo al registro.
+
+![Escoger plan](./assets/chapter4/wireframe-3.png)
+
+- Registro
+
+Permite a un nuevo usuario o entidad regitrarse a la plataforma adjuntando sus datos.
+
+Registro allegado con el plan freemium:
+
+![Registro nuevo usuario freemium](./assets/chapter4/wireframe-4.png)
+
+Registro allegado con el plan premium:
+
+![Registro nuevo usuario premium](./assets/chapter4/wireframe-6.png)
+
+Registro de una entidad:
+
+![Registro de una entidad](./assets/chapter4/wireframe-7.png)
+
+- Registro de Adulto Mayor
+
+Posterior al registro del allegado se permite registrar al adulto mayor
+
+![Registro de un adulto mayor](./assets/chapter4/wireframe-5.png)
+
+- Dashboard Allegado Freemium y Premium
+
+Luego del registro del paciente, el allegado podrá visualizar el dashboard dependiendo del plan que elegido con anterioridad.
+
+Dashboard Freemium
+
+Perfil Adulto Mayor
+
+![Perfil freemium](./assets/chapter4/wireframe-8.png)
+
+Estadísticas
+
+![Estadísticas freemium](./assets/chapter4/wireframe-9.png)
+
+Alertas
+
+![Alertas freemium](./assets/chapter4/wireframe-10.png)
+
+Dashboard Premium
+
+Perfil Adulto Mayor
+
+![Perfil premium](assets/chapter4/w-premium-1.png)
+
+Estadísticas
+
+![Estadísticas premium](./assets/chapter4/w-premium-2.png)
+
+Alertas
+
+![Alertas premium](./assets/chapter4/w-premium-3.png)
+
+Soporte
+
+![Soporte premium](./assets/chapter4/wireframe-14.png)
+
+- Dashboard Personal de Clínica - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una clínica ejecutará acciones con el fin de administrar a los doctores y los adultos mayores a quienes asignará un doctor encargado
+
+Dashboard del administrador sin doctores
+
+![Dashboard del administrador sin doctores](./assets/chapter4/w-15.png)
+
+Formulario para agregar a un doctor
+
+![Formulario para agregar a un doctor](./assets/chapter4/w-16.png)
+
+Doctor visible en el dashboard
+
+![Doctor visible en el dashboard](./assets/chapter4/w-17.png)
+
+Asignació de un adulto mayor para el doctor
+
+![Asignació de un adulto mayor para el doctor](./assets/chapter4/w-18.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/w-19.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/w-20.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/w-21.png)
+
+- Dashboard Personal de Clínica - Doctor
+
+Se visualiza el dashboard donde el doctor registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud y dar chequeos.
+
+![Formulario de soporte](./assets/chapter4/w-22.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-23.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-24.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-25.png)
+
+- Dashboard Personal de Casas de Reposo - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una casa de reposo ejecutará acciones con el fin de administrar a los cuidadores y los adultos mayores a quienes asignará un doctor encargado.
+
+Dashboard del administrador sin cuidadores
+
+![Dashboard del administrador sin cuidadores](./assets/chapter4/w-26.png)
+
+Formulario para agregar a un cuidador
+
+![Formulario para agregar a un cuidador](./assets/chapter4/w-27.png)
+
+Cuidador visible en el dashboard
+
+![Cuidador visible en el dashboard](./assets/chapter4/w-28.png)
+
+Asignació de un adulto mayor para el cuidador
+
+![Asignació de un adulto mayor para el cuidador](./assets/chapter4/w-29.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/w-30.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/w-31.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/w-32.png)
+
+- Dashboard Personal de Casas de Reposo - Cuidador
+
+Se visualiza el dashboard donde el cuidador registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud.
+
+![Formulario de soporte](./assets/chapter4/w-33.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-34.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-35.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/w-36.png)
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+[Ver proyecto en lucidchart](https://lucid.app/lucidspark/b1c3fed1-0457-43fd-996b-a2e5f89d3dcd/edit?invitationId=inv_02b8548c-fef4-4095-b7f5-c52e0eec7ce6)
+https://lucid.app/lucidspark/b1c3fed1-0457-43fd-996b-a2e5f89d3dcd/edit?invitationId=inv_02b8548c-fef4-4095-b7f5-c52e0eec7ce6
+
+#### User Goal: Registro Usuario
+
+User persona: Allegados
+Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
+preferencia y se registra en la plataforma.
+
+<img src="assets/chapter4/WF1v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro Clinica o Casa de Reposo
+
+User persona: Clinica y Casa de reposo
+Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
+con la platforma e ingresa sus credenciales para poder identificarse como administrador.
+
+<img src="assets/chapter4/WF2v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de paciente como allegado
+
+User persona: Allegado
+Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
+de allegado
+
+<img src="assets/chapter4/WF3V2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de medicos
+
+User persona: Clinica
+Explicacion de flujo: El administrador de la clinica inicia sesion, agrega un medico mediante un formulario y verifica
+que el registro haya sido exitoso.
+
+<img src="assets/chapter4/WF-4.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar un paciente a un medico
+
+User persona: Clinica
+Explicacion de flujo: Se asigna un paciente a un medico registrado, mediante un formulario para completar los datos
+personales y verificar si se asigno correctamente.
+
+<img src="assets/chapter4/WF-5.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de signos vitales
+
+User persona: Clinica
+Explicacion de flujo: Se selecciona a un paciente geriatrico para ver su historial de estado para el registro de salud,
+ademas de contar con un analisis estadistico sobre el estado actual.
+
+<img src="assets/chapter4/WF-6.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se ingresa a la plataforma y se selecciona en agregar cuidador, se completa un formulario con informacion
+personal del cuidador y se confirma el registro correcto.
+
+<img src="assets/chapter4/WF-7.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar paciente a cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona al cuidador objetivo y se selecciona en agregar paciente,
+
+<img src="assets/chapter4/WF-9.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de estado de paciente geriatrico
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona a un paciente y se verifica el historial de notificacion, ademas se puede acceder a
+un analisis estadistico en tiempo real para controlar los signos vitales.
+
+<img src="assets/chapter4/WF-8.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+### 4.4.3. Web Applications Mock-ups
+
+Los siguientes Muck-ups fueron elaborados a base de los wireframes presentados con anteoridad. Representan con fidelidad lo que nuestros usuarios van a visualizar en nuestra aplicación web.
+
+- Selección de Usuario
+
+Permite a nuestros usuarios escoger a que tipo de inicio de sesión accederán, para que posteriormente ingresen sus credenciales
+
+![Seleccionar Usuario](./assets/chapter4/seleccionar-segmento.png)
+
+- Inicio de Sesión
+
+Permite al usuario iniciar sesión a través de sus credenciales.
+
+![Inicio de Sesión](./assets/chapter4/login.png)
+
+- Escoger un plan
+
+Permite a un nuevo usuario escoger un plan previo al registro.
+
+![Escoger plan](./assets/chapter4/seleccionar-plan.png)
+
+- Registro
+
+Permite a un nuevo usuario o entidad regitrarse a la plataforma adjuntando sus datos.
+
+Registro allegado con el plan freemium:
+
+![Registro nuevo usuario freemium](./assets/chapter4/crear-cuenta-free.png)
+
+Registro allegado con el plan premium:
+
+![Registro nuevo usuario premium](./assets/chapter4/crear-cuenta-free.png)
+
+Registro de una entidad:
+
+![Registro de una entidad](./assets/chapter4/crear-cuenta-enterprise.png)
+
+- Registro de Adulto Mayor
+
+Posterior al registro del allegado se permite registrar al adulto mayor
+
+![Registro de un adulto mayor](./assets/chapter4/agregar-adulto-allegado.png)
+
+- Dashboard Allegado Freemium y Premium
+
+Luego del registro del paciente, el allegado podrá visualizar el dashboard dependiendo del plan que elegido con anterioridad.
+
+Dashboard Freemium
+
+Perfil Adulto Mayor
+
+![Perfil freemium](./assets/chapter4/prefil-free.png)
+
+Estadísticas
+
+![Estadísticas freemium](./assets/chapter4/estadisticas-free.png)
+
+Alertas
+
+![Alertas freemium](./assets/chapter4/alertas-free.png)
+
+Dashboard Premium
+
+Perfil Adulto Mayor
+
+![Perfil premium](./assets/chapter4/perfil-prem.png)
+
+Estadísticas
+
+![Estadísticas premium](./assets/chapter4/estadisticas-pre.png)
+
+Alertas
+
+![Alertas premium](./assets/chapter4/alertas-pre.png)
+
+Soporte
+
+![Soporte premium](./assets/chapter4/soporte-pre.png)
+
+- Dashboard Personal de Clínica - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una clínica ejecutará acciones con el fin de administrar a los doctores y los adultos mayores a quienes asignará un doctor encargado
+
+Dashboard del administrador sin doctores
+
+![Dashboard del administrador sin doctores](./assets/chapter4/admin-clinica-1.png)
+
+Formulario para agregar a un doctor
+
+![Formulario para agregar a un doctor](./assets/chapter4/admin-clinica-2.png)
+
+Doctor visible en el dashboard
+
+![Doctor visible en el dashboard](./assets/chapter4/admin-clinica-3.png)
+
+Asignació de un adulto mayor para el doctor
+
+![Asignació de un adulto mayor para el doctor](./assets/chapter4/admin-clinica-4.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/admin-clinica-5.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/admin-clinica-6.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/admin-clinica-7.png)
+
+- Dashboard Personal de Clínica - Doctor
+
+Se visualiza el dashboard donde el doctor registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud y dar chequeos.
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-1.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-2.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-3.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/dasboard-doctor-4.png)
+
+- Dashboard Personal de Casas de Reposo - Administrador
+
+Se visualiza el dashboard donde el administrador encargado de una casa de reposo ejecutará acciones con el fin de administrar a los cuidadores y los adultos mayores a quienes asignará un doctor encargado.
+
+Dashboard del administrador sin cuidadores
+
+![Dashboard del administrador sin cuidadores](./assets/chapter4/admin-casa-1.png)
+
+Formulario para agregar a un cuidador
+
+![Formulario para agregar a un cuidador](./assets/chapter4/admin-casa-2.png)
+
+Cuidador visible en el dashboard
+
+![Cuidador visible en el dashboard](./assets/chapter4/admin-casa-3.png)
+
+Asignació de un adulto mayor para el cuidador
+
+![Asignació de un adulto mayor para el cuidador](./assets/chapter4/admin-casa-6.png)
+
+Formulario para agregar a un adulto mayor
+
+![Formulario para agregar a un adulto mayor](./assets/chapter4/admin-casa-4.png)
+
+Adulto mayor visible en el dashboard
+
+![Adulto mayor visible en el dashboard](./assets/chapter4/admin-casa-5.png)
+
+Formulario de soporte
+
+![Formulario de soporte](./assets/chapter4/admin-casa-7.png)
+
+- Dashboard Personal de Casas de Reposo - Cuidador
+
+Se visualiza el dashboard donde el cuidador registrado de una clínica visualizará a los adultos mayores que se le fue asignado con el fin de comprabar su estado de salud.
+
+![Formulario de soporte](./assets/chapter4/cuidador-1.png)
+
+Perfil del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-2.png)
+
+Alertas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-3.png)
+
+Estadísticas del adulto mayor asignado
+
+![Formulario de soporte](./assets/chapter4/cuidador-4.png)
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+Enlace para acceder a [Lucidchard](https://lucid.app/lucidchart/a6da7c11-ad99-4658-a4c8-2b630c5794eb/edit?invitationId=inv_5c2699bb-77b5-4655-93e3-7e771f566105)
+
+#### User Goal: Registro Usuario
+
+User persona: Allegados
+Explicacion de flujo: EL usuario ingresa a la plataforma e ingresa a registrarse, seguidamente selecciona el plan de su
+preferencia y se registra en la plataforma.
+
+<img src="assets/chapter4/UG1v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro Clinica o Casa de Reposo
+
+User persona: Clinica y Casa de reposo
+Explicacion de flujo: El administrador de la clinica o casa de reposo selecciona el plan Enterprise para que se contacte
+con la platforma e ingresa sus credenciales para poder identificarse como administrador.
+
+<img src="assets/chapter4/UG2v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de paciente como allegado
+
+User persona: Allegado
+Explicacion de flujo: El allegado del paciente se registra como allegado y completa el formulario de registro de paciente
+de allegado
+
+<img src="assets/chapter4/UG3v2.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de medicos
+
+User persona: Clinica
+Explicacion de flujo: El administrador de la clinica inicia sesion, agrega un medico mediante un formulario y verifica
+que el registro haya sido exitoso.
+
+<img src="assets/chapter4/UG-RMedico.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar un paciente a un medico
+
+User persona: Clinica
+Explicacion de flujo: Se asigna un paciente a un medico registrado, mediante un formulario para completar los datos
+personales y verificar si se asigno correctamente.
+
+<img src="assets/chapter4/UG-MedicoR.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de signos vitales
+
+User persona: Clinica
+Explicacion de flujo: Se selecciona a un paciente geriatrico para ver su historial de estado para el registro de salud,
+ademas de contar con un analisis estadistico sobre el estado actual.
+
+<img src="assets/chapter4/UG-PacienteA.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Registro de cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se ingresa a la plataforma y se selecciona en agregar cuidador, se completa un formulario con informacion
+personal del cuidador y se confirma el registro correcto.
+
+<img src="assets/chapter4/UG-RCuidador.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Asignar paciente a cuidador
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona al cuidador objetivo y se selecciona en agregar paciente,
+
+<img src="assets/chapter4/UG-CuidadorR.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+#### User Goal: Analisis de estado de paciente geriatrico
+
+User persona: Casa de reposo
+Explicacion de flujo: Se selecciona a un paciente y se verifica el historial de notificacion, ademas se puede acceder a
+un analisis estadistico en tiempo real para controlar los signos vitales.
+
+<img src="assets/chapter4/UG-PacienteAC.png" alt="USER-GOAL" style="width:300px; height:auto;"/>
+
+## 4.5. Web Applications Prototyping
+
+Para poder elaborar los prototipos de la interfaz de usuario de dispositivos desktop y moviles, se opto por seguir ciertos
+criterios, tales como:
+
+1. Claridad y Usabilidad: Se buscó que la navegación dentro de la aplicación resultara sencilla e intuitiva, permitiendo a los usuarios comprender fácilmente sus funciones principales, como el registro de procesos y la consulta de reportes estadísticos.
+2. Adaptabilidad del Diseño: Se consideró fundamental implementar un diseño adaptable o responsive, asegurando que la aplicación web funcione correctamente en diferentes tamaños de pantalla, sin importar el dispositivo utilizado.
+3. Enfoque en la Información Esencial: El diseño prioriza la presentación de los datos más relevantes para el público objetivo, evitando la sobrecarga de contenido innecesario.
+
+<img src="assets/chapter4/mobileProtoyping.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+Direccionamiento al [Prototipo Mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EXz4E9NdVZtIkEk7n6GaAXwBa8DvhRgeo7SjpotPW2Xmbw?e=qvh1pP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+<img src="assets/chapter4/AppWebPrototyping.png" alt="landing-english" style="width:300px; height:auto;"/>
+
+Direccionamiento al [Prototipo WebApp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EVciWpoXIMpFoRcwCB0ujjgBQOgI-L9YpizFcXMiJbPZQw?e=VAR3eO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## 4.6. Domain-Driven Software Architecture
+
+El Domain Driven Design (DDD) busca lograr una comprensión común del dominio que define el espacio del problema. Este
+enfoque facilita la colaboración entre desarrolladores y expertos del área gracias a la perspectiva que ofrece. No se
+limita únicamente al uso de un lenguaje ubicuo, sino que incluye un conjunto de patrones, prácticas y representaciones
+arquitectónicas del sistema. Todos estos elementos tienen como finalidad alinear el software con el dominio y fortalecer
+la visión compartida que promueve DDD.
+
+### 4.6.1. Software Architecture Context Diagram
+
+Este diagrama de contexto muestra la vista de alto nivel de las relaciones entre la plataforma MediTrack y los sistemas
+externos, asi como el rol de los usuarios.
+
+<img src="assets/chapter4/Context-diagram.png" alt="context-diagram" style="width:300px; height:auto;"/>
+
+### 4.6.2. Software Architecture Container Diagrams
+
+El diagrama de contenedores ofrece una visión general de alto nivel sobre las relaciones entre las aplicaciones y las
+fuentes de datos que intervienen en la ejecución de a plataforma MediTrack
+
+<img src="assets/chapter4/container-diagram.png" alt="container-diagram" style="width:300px; height:auto;"/>
+
+### 4.6.3. Software Architecture Components Diagrams
+
+Los diagramas de componentes proporcionan una visión de las relaciones entre los principales elementos del sistema de
+software. Dichos componentes describen con mayor detalle la implementación de los módulos correspondientes dentro del programa.
+
+**User Management Bounded Context**
+
+<img src="assets/chapter4/Component-userBC.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+
+<img src="assets/chapter4/auth-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Relative Bounded Context**
+
+<img src="assets/chapter4/relative-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Organization Bounded Context**
+
+<img src="assets/chapter4/organization-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+**Shared Bounded Context**
+
+<img src="assets/chapter4/shared-bc.png" alt="component-diagram" style="width:300px; height:auto;"/>
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+En esta sección se presenta y explica el Diagrama de Clases UML correspondiente al sistema desarrollado. El propósito de este diagrama es representar de manera estructurada los elementos principales de cada producto de software y, cuando es aplicable, de cada bounded context identificado durante la fase de Event Storming.
+
+El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino también sus atributos y métodos, especificando el alcance (public, private, protected) en cada caso. Asimismo, se definen las relaciones entre clases, indicando la multiplicidad, la dirección y la calificación de los vínculos con nombres claros y consistentes.
+
+  Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama independiente por bounded context (Auth, Relative, Organization, Shared). Esto permite reflejar con precisión las responsabilidades de cada contexto y la forma en que interactúan sus entidades internas.
+
+![ClassUml](assets/chapter4/MediTrack_UML.png)
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagrams
+
+![Diagrama de base de datos.png](assets/chapter4/database-diagram.png)
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+#### Gestión de Proyecto (Project Management)
+
+**GitHub Pages**: Servicio en línea que permite publicar sitios web directamente desde un repositorio de GitHub. Brinda una manera sencilla de compartir documentación y proyectos, favoreciendo la colaboración y el acceso público o privado a los contenidos.  
+**Ruta de acceso:** [https://pages.github.com](https://pages.github.com)
+
+#### Gestión de Requisitos (Requirements Management)
+
 **Trello**: Herramienta en línea que permite organizar actividades, asignar tareas y dar seguimiento al progreso del equipo. Se usará para coordinar las responsabilidades y controlar el avance de sprints e historias de usuario.  
 **Ruta de acceso:** [https://trello.com/es](https://trello.com/es)
 
@@ -4291,6 +5263,170 @@ Back End:
 ![MediTrack-Back-1](./assets/chapter5/medi-back-1.png)
 
 ![MediTrack-Back-2](./assets/chapter5/medi-back-2.png)
+
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+
+| **Sprint #** | Sprint 4 |
+| ------------ | -------- |
+
+| **Sprint Planning Background** |                                                                                     |
+| ------------------------------ |-------------------------------------------------------------------------------------|
+| **Date**                       | 25 de noviembre del 2025.                                                           |
+| **Time**                       | 21:00 PM                                                                            |
+| **Location**                   | Vía Discord                                                                         |
+| **Prepared By**                | Barrientos Quispe Marcelo                                                           |
+| **Attendees (to planning)**    | Javier Masaru, Carlos Fernandez, Gabriel Rivera, Marcelo Barrientos                |
+
+| **Sprint 4 – Review Summary**        | El equipo logró integrar el back-end desplegado en Microsoft Azure con la aplicación web de MediTrack, implementando el **dashboard de pacientes**, la visualización de **métricas de signos vitales**, la sección de **alertas** y los primeros flujos de **autenticación, invitación de allegados y recuperación de contraseña**. Al finalizar el sprint, la plataforma cuenta con un flujo de uso end-to-end, desde el inicio de sesión hasta la consulta de información clínica básica, permitiendo realizar pruebas de validación con datos de ejemplo. |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 4 – Retrospective Summary** | Los integrantes destacaron como fortaleza la **colaboración entre los equipos de front-end y back-end** y la mejora en la calidad del código gracias a las revisiones conjuntas. Sin embargo, se identificó que algunas tareas de interfaz y pruebas de integración tomaron más tiempo del estimado, por lo que se acordó **refinar la estimación de esfuerzo**, priorizar la automatización de pruebas y documentar con mayor detalle los flujos críticos para facilitar el mantenimiento en los siguientes sprints.                       |
+
+
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint 4 Goal**              | Nuestro objetivo es **integrar completamente el backend con el front-end de MediTrack**, habilitando el dashboard principal (panel de pacientes, métricas de signos vitales, alertas y mapa de movilidad), y completar los flujos críticos de **invitación de allegados** y **recuperación de contraseña**, asegurando una experiencia coherente, estable y lista para pruebas de validación con usuarios. |
+|                                |                                                                                                                                                                                                                                                                                                                                                                          |
+| **Sprint 4 Velocity**          | 10 story points                                                                                                                                                                                                                                                                                                                                                           |
+| **Sum of Story Points**        | 10 story points                                                                                                                                                                                                                                                                                                                                                           |
+
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
+
+| **Team member (LastName, First Name)** | **GitHub UserName** | **Aspect 1: Front-end Dashboard & UI (L/C)** | **Aspect 2: Backend Integration & APIs (L/C)** | **Aspect 3: Auth & Security (L/C)** | **Aspect 4: Documentation & Deployment (L/C)** |
+|----------------------------------------| ------------------- | -------------------------------------------- | ---------------------------------------------- | ----------------------------------- | ---------------------------------------------- |
+| Gabriel Rivera                         | guestwhoo           | L                                            | C                                              | C                                 | C                                              |
+| Javier Masaru                          | MassiFlip	        | C                                            | C                                              | L                                 | C                                              |
+| Carlos Fernandez                       | u202320083          | C                                            | L                                              | C                                 | C                                              |
+| Barrientos Marcelo                     | MarceBq             | C                                            | C                                              | C                                 | L                                              |
+
+
+#### 5.2.4.3. Sprint Backlog 4
+
+Trello:
+
+![MediTrack Trello Sprint Backlog 4](./assets/chapter5/trello-s4.png)
+
+A continuación se muestra el backlog del sprint 4 con las historias de usuario y tareas asociadas.
+
+| User Story |                                                                         | Work-item/task |                                                                      |                                                                                                                                                                        | Estimation | Assigned to         | Status      |
+| ---------- |-------------------------------------------------------------------------|----------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ---------- |---------------------| ----------- |
+| ID         | Title                                                                   | ID             | Title                                                                | Description                                                                                                                                                            |            |                     |             |
+| TS-031     | Implementar Dashboard de pacientes y métricas                           | TSK-031.1      | Crear vista principal de Dashboard en front-end                      | Implementar la página de inicio de MediTrack con listado de pacientes, tarjeta de estado y acceso a métricas.                                                         | 3h         | Gabriel Rivera      | In Progress |
+|            |                                                                         | TSK-031.2      | Integrar listado de pacientes con API                                | Consumir los endpoints de Senior Citizens y mostrar los datos en el dashboard.                                                                                        | 2h         | Javier Masaru       | In Progress |
+| TS-032     | Integrar gráficos de signos vitales (frecuencia cardíaca, SpO2, presión, temperatura) | TSK-032.1      | Consumir endpoints de métricas en front-end                          | Integrar los endpoints de HeartRate, Oxygen, BloodPressure y Temperature en la capa de servicios del front-end.                                                        | 2h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-032.2      | Implementar componentes gráficos de métricas                         | Crear componentes de gráficos que muestren tendencias de signos vitales para cada paciente.                                                                           | 3h         | Gabriel Rivera      | In Progress |
+| TS-033     | Visualizar alertas generadas por los dispositivos                       | TSK-033.1      | Integrar endpoints de alertas en front-end                           | Consumir los endpoints de Alerts por dispositivo y generales para mostrarlos en una sección de notificaciones.                                                         | 2h         | Javier Masaru       | In Progress |
+|            |                                                                         | TSK-033.2      | Crear componente de listado de alertas                               | Mostrar las alertas en una tabla o listado con estado, fecha y tipo de evento.                                                                                        | 2h         | Barrientos Marcelo  | In Progress |
+| TS-034     | Implementar flujo de recuperación de contraseña                         | TSK-034.1      | Crear endpoint de recuperación de contraseña en backend (Auth)       | Implementar endpoint para iniciar recuperación (envío de correo/código) y restablecer contraseña.                                                                     | 3h         | Carlos Fernandez    | In Progress |
+|            |                                                                         | TSK-034.2      | Implementar pantallas de recuperación en front-end                   | Crear formularios de solicitud de recuperación y cambio de contraseña, conectados al backend.                                                                         | 2h         | Javier Masaru       | In Progress |
+| TS-035     | Implementar flujo de invitación de allegados (Relatives)                | TSK-035.1      | Crear endpoint para generación de invitaciones                       | Implementar endpoint para crear tokens de invitación y asociarlos con un Senior Citizen y Relative.                                                                   | 2h         | Barrientos Marcelo  | In Progress |
+|            |                                                                         | TSK-035.2      | Implementar registro de allegado vía invitación en front-end         | Implementar vista de registro para allegados que consuman el token de invitación y creen su cuenta.                                                                   | 2h         | Javier Masaru       | In Progress |
+| TS-036     | Pruebas de integración y estabilización                                 | TSK-036.1      | Pruebas end-to-end front-end & back-end                              | Ejecutar pruebas integrando dashboard, alertas, métricas y flujos de autenticación, documentando los resultados y errores encontrados.                                | 3h         | Todo el equipo      | Pending     |
+|            |                                                                         | TSK-036.2      | Corrección de bugs críticos                                          | Resolver errores de integración detectados durante las pruebas y actualizar el código correspondiente.                                                                 | 2h         | Todo el equipo      | Pending     |
+
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen de los repositorios del frontend y backend de la organización de GitHub.
+
+| Repository                                       | Branch      | Commit Id | Commit Message                                              | Commit Message Body                                      | Commited on (Date) |
+| ------------------------------------------------ |------------|---------- | ----------------------------------------------------------- | -------------------------------------------------------- | ------------------ |
+| upc-pre-202502-1asi0729-7394-alpacaflow/meditrack-platform | feature/devices | 7d6efd7      | feat(devices): implemented ACL for device creation on seniorCitizen creation       | -                                                    | Nov 20, 2025               |
+| upc-pre-202502-1asi0729-7394-alpacaflow/meditrack-frontend  | feature/organizations      | 093aeb7      | feat:relatives log, alerts, and aggregated statistics      | -                                                     | December 2, 2025               |
+| upc-pre-202502-1asi0729-7394-alpacaflow/meditrack-frontend | feature/organizations  | 9f5629e      | feat(organizations): implemented api consumption for devices measurements          | -                                                    | Nov 25, 2025               |
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante el desarrollo del Sprint 4 se trabajó principalmente en la integración del backend con la interfaz web de MediTrack y en la implementación del dashboard para visualización de pacientes, métricas y alertas.
+
+A continuación se muestran evidencias de la plataforma web integrada:
+
+![MediTrack-Dashboard-1](./assets/chapter5/dashboard-s4-1.png)  
+![MediTrack-Dashboard-2](./assets/chapter5/dashboard-s4-2.png)  
+![MediTrack-Dashboard-3](./assets/chapter5/dashboard-s4-3.png)  
+
+Se puede observar:
+
+- Listado de pacientes asociado a organizaciones.
+- Métricas de signos vitales obtenidas desde el backend.
+- Sección de alertas generadas por los dispositivos.
+
+Adicionalmente, se desarrollaron las pantallas y flujos:
+
+![MediTrack-Auth-1](./assets/chapter5/auth-s4-1.png)  
+![MediTrack-Auth-2](./assets/chapter5/relatives-s4-1.png)  
+
+- Vista de inicio de sesión integrada con el backend.
+
+Y el flujo de registro de allegados:
+
+![MediTrack-Relatives-1](./assets/chapter5/relatives-s4-1.png)
+![MediTrack-Relatives-2](./assets/chapter5/relatives-s4-2.png)
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, se actualizó la documentación de la API para reflejar los nuevos endpoints y flujos implementados:
+
+Actividades realizadas:
+
+- Actualización de la especificación Swagger/OpenAPI con:
+  - Endpoints de creacion de allegados.
+  - Endpoints de consulta de métricas y alertas utilizadas por el dashboard.
+- Documentación de ejemplos de request/response para los nuevos recursos.
+- Actualización de las descripciones de los modelos utilizados en las operaciones de Auth, Relatives, Devices y métricas.
+
+Estas mejoras permiten que el equipo de desarrollo del front-end y futuros colaboradores comprendan con mayor facilidad cómo consumir los servicios expuestos por MediTrack.
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Se mantuvo el despliegue del backend en Microsoft Azure y se actualizaron los artefactos para incluir los nuevos endpoints utilizados por el front-end.
+
+Backend desplegado en Microsoft Azure:  
+https://meditrack-platform-springboot.azurewebsites.net/swagger-ui/index.html
+
+Se realizaron pruebas para verificar:
+
+- El correcto funcionamiento de los endpoints de métricas y alertas.
+- El flujo de recuperación de contraseña.
+- La generación y consumo de tokens de invitación para allegados.
+
+#### Evidencias de despliegue:
+
+![Backend Deployment Evidence Sprint 4](./assets/chapter5/deploy-backend-ev02.png)
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración de cada integrante en los repositorios del frontend y backend.
+
+| **Alumno**                      | **GitHub User** | **Actividad**                                      |
+|---------------------------------|-----------------| ------------------------------------------------- |
+| Barrientos Quispe, Marcelo      | MarceBq         | Integración de alertas y flujo de allegados       |
+| Fernandez Camayo, Carlos Fredy  | u202320083      | Endpoints de Auth, recuperación de contraseña     |
+| Nikaido Vargas, Javier Masaru   | MassiFlip       | Integración de métricas y consumo de APIs         |
+| Rivera Ayala, Gabriel Alejandro | guestwhoo       | Implementación del dashboard y componentes UI     |
+
+#### Capturas de Insights del repositorio:
+
+Front End:
+
+![MediTrack-Front-S4-1](./assets/chapter5/medi-front-s4-1.png)  
+![MediTrack-Front-S4-2](./assets/chapter5/medi-front-s4-2.png)
+
+Back End:
+
+![MediTrack-Back-S4-1](./assets/chapter5/medi-back-s4-1.png)  
+![MediTrack-Back-S4-2](./assets/chapter5/medi-back-s4-2.png)
 
 
 ## 5.3. Validation Interviews
