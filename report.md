@@ -4344,11 +4344,9 @@ Estos commits provienen de los repositorios del frontend y backend de la organiz
 
 | Repository                                       | Branch      | Commit Id | Commit Message                                              | Commit Message Body                                      | Commited on (Date) |
 | ------------------------------------------------ |------------|---------- | ----------------------------------------------------------- | -------------------------------------------------------- | ------------------ |
-| upc-pre-202502-1asi0729-7394-alpacaflow/frontend | feature/s4-dashboard | TODO      | Implement dashboard view and patient list integration       | TODO                                                    | TODO               |
-| upc-pre-202502-1asi0729-7394-alpacaflow/backend  | feature/s4-auth      | TODO      | Add password recovery endpoints and invitation tokens       | TODO                                                    | TODO               |
-| upc-pre-202502-1asi0729-7394-alpacaflow/frontend | feature/s4-metrics   | TODO      | Integrate metrics endpoints into charts components          | TODO                                                    | TODO               |
-
-> Nota: Completar los campos `Commit Id`, `Commit Message Body` y `Commited on (Date)` con la información real de los repositorios una vez finalizado el sprint.
+| upc-pre-202502-1asi0729-7394-alpacaflow/meditrack-platform | feature/devices | 7d6efd7      | feat(devices): implemented ACL for device creation on seniorCitizen creation       | -                                                    | Nov 20, 2025               |
+| upc-pre-202502-1asi0729-7394-alpacaflow/meditrack-frontend  | feature/organizations      | 093aeb7      | feat:relatives log, alerts, and aggregated statistics      | -                                                     | December 2, 2025               |
+| upc-pre-202502-1asi0729-7394-alpacaflow/meditrack-frontend | feature/organizations  | 9f5629e      | feat(organizations): implemented api consumption for devices measurements          | -                                                    | Nov 25, 2025               |
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
@@ -4370,14 +4368,14 @@ Se puede observar:
 Adicionalmente, se desarrollaron las pantallas y flujos:
 
 ![MediTrack-Auth-1](./assets/chapter5/auth-s4-1.png)  
-![MediTrack-Auth-2](./assets/chapter5/auth-s4-2.png)  
+![MediTrack-Auth-2](./assets/chapter5/relatives-s4-1.png)  
 
 - Vista de inicio de sesión integrada con el backend.
-- Flujo de recuperación de contraseña.
 
-Y el flujo de invitación a allegados:
+Y el flujo de registro de allegados:
 
 ![MediTrack-Relatives-1](./assets/chapter5/relatives-s4-1.png)
+![MediTrack-Relatives-2](./assets/chapter5/relatives-s4-2.png)
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
@@ -4387,8 +4385,7 @@ Durante este Sprint, se actualizó la documentación de la API para reflejar los
 Actividades realizadas:
 
 - Actualización de la especificación Swagger/OpenAPI con:
-  - Endpoints de recuperación de contraseña.
-  - Endpoints de invitación de allegados.
+  - Endpoints de creacion de allegados.
   - Endpoints de consulta de métricas y alertas utilizadas por el dashboard.
 - Documentación de ejemplos de request/response para los nuevos recursos.
 - Actualización de las descripciones de los modelos utilizados en las operaciones de Auth, Relatives, Devices y métricas.
