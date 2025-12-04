@@ -5005,7 +5005,7 @@ Se configuró el despliegue automático desde Netlify seleccionando la rama deve
 
 Se verificó el despliegue exitoso del sistema en la siguiente URL pública:
 
-Frontend desplegado en Netlify: http://meditrack-open.netlify.app/
+Frontend desplegado en Firebase: https://meditrack-pro-yvaal.web.app/
 
 Se realizaron pruebas de verificación en la versión desplegada para validar la correcta carga de componentes y funcionalidades básicas como navegación, visualización de datos y responsividad.
 
@@ -5702,5 +5702,5 @@ El sprint permitió validar la importancia de la navegabilidad, el diseño respo
 | Frontend              | Enlace al repositorio del frontend     | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-frontend |
 | Backend               | Enlace al repositorio del backend      | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-backend  |
 | Deployed Landing Page | Enlace del deploy del Landing Page     | https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/       |
-| Deployed Frontend     | Enlace del deploy del frontend         | https://meditrack-open.netlify.app                                            |
+| Deployed Frontend     | Enlace del deploy del frontend         | https://meditrack-pro-yvaal.web.app/                                          |
 | Deployed Backend      | Enlace del deploy del backend          | https://meditrack-platform-springboot.azurewebsites.net/swagger-ui/index.html |
