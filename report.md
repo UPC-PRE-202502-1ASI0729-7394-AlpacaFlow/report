@@ -4,7 +4,7 @@
 
 ### Ingeniería de Software
 
-### 5TO Ciclo
+### 202520
 
 ### Código: 1ASI0729
 
@@ -70,13 +70,18 @@
 | 1.12    | 15/09/25 | Barrientos Quispe, Marcelo      | Inclusión de contenido detallado en el análisis de entrevistas.      |
 | 1.13    | 15/09/25 | Fernandez Camayo, Carlos Fredy  | Agregados resúmenes estructurados de las entrevistas.                |
 | 1.14    | 20/09/25 | Barrientos Quispe, Marcelo      | Se realizaron correcciones del informe en el capitulo 1, 3 y 5       |
-| 3.1     | 1/11/25  | Barrientos Quispe, Marcelo      | Cambio de intregrantes.                                              |
-| 3.2     | 3/11/25  | Fernandez Camayo, Carlos Fredy  | Inclusión de Diagrama de Base de Datos.                              |
-| 3.3     | 3/11/25  | Fernandez Camayo, Carlos Fredy  | Inclusión de Diagrama UML.                                           |
-| 3.4     | 3/11/25  | Barrientos Quispe, Marcelo      | Implemetanción nueva del Figma                                       |
-| 3.5     | 5/11/25  | Nikaido Vargas, Javier Masaru   | Cambio en el lenguaje ubicuo.                                        |
-| 3.6     | 6/11/25  | Rivera Ayala, Gabriel Alejandro | Implementación del Sprint 3                                          |
-| 3.7     | 8/11/25  | Nikaido Vargas, Javier Masaru   | Desarrollo del Sprint 3.                                             |
+| 3.1     | 01/11/25  | Barrientos Quispe, Marcelo      | Cambio de intregrantes.                                              |
+| 3.2     | 03/11/25  | Fernandez Camayo, Carlos Fredy  | Inclusión de Diagrama de Base de Datos.                              |
+| 3.3     | 03/11/25  | Fernandez Camayo, Carlos Fredy  | Inclusión de Diagrama UML.                                           |
+| 3.4     | 03/11/25  | Barrientos Quispe, Marcelo      | Implemetanción nueva del Figma                                       |
+| 3.5     | 05/11/25  | Nikaido Vargas, Javier Masaru   | Cambio en el lenguaje ubicuo.                                        |
+| 3.6     | 06/11/25  | Rivera Ayala, Gabriel Alejandro | Implementación del Sprint 3                                          |
+| 3.7     | 08/11/25  | Nikaido Vargas, Javier Masaru   | Desarrollo del Sprint 3.                                             |
+| 4.1     | 03/12/25 | Barrientos Quispe, Marcelo      | Revisión final del informe completo.                                 |
+| 4.2     | 02/12/25 | Fernandez Camayo, Carlos Fredy  | Revisión final de la plataforma.                                    |
+| 4.3     | 03/12/25 | Nikaido Vargas, Javier Masaru   | Revisión final del sprint 4.                                 |
+| 4.4     | 29/11/25 | Rivera Ayala, Gabriel Alejandro | Revisión final del backend.                                 |
+
 
 #### Project Report Collaboration Insights
 
@@ -242,6 +247,27 @@ En el tercero se aprecian integraciones más grandes y varios puntos de merge. N
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insigths during Sprint](#5218-team-collaboration-insigths-during-sprint)
+
+- [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+    - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+    - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+- [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+    - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+    - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+    - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+
 - [5.3. Validation Interviews](#53-validation-interviews)
 
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
