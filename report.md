@@ -165,6 +165,19 @@ TF:
 
 Team Collaboration Commits
 
+<img src="assets/chapter1/tc-sprint-4.png" alt="Team Collaboration Network" width="100%">
+
+Aquí se ve nuestro historial de commits, con un PR verificado y un ritmo constante de cambios. Nosotros hicimos la realización y conección del backend con el front end y partes del reporte como el capítulo 5, incluyendo el Spint Backlog 4.
+
+Team Collaboration Network
+
+<img src="assets/chapter1/graf-sprint-4.png" alt="Team Collaboration Network" width="100%">
+
+Team Collaboration Contributions
+
+<img src="assets/chapter1/c-sprint-4.png" alt="Team Collaboration Contributions" width="100%">
+
+
 # Contenido
 
 ## Tabla de Contenidos
@@ -5178,21 +5191,12 @@ A continuacion se muestra el backlog del sprint 3 con las historias de usuario y
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
-Estos commits provienen del repositorio del backend y frontend de la organización de GitHub.
+Estos commits provienen del repositorio del frontend de la organización de GitHub.
 
-| Repository         | Branch | Commit Id                                 | Commit Message                                                            | Commit Message Body | Commited on (Date) |
-|--------------------|--------|-------------------------------------------|---------------------------------------------------------------------------|---------------------|--------------------|
-| Meditrack-frontend | main   | 093aeb7496ad800f9da5158682c9cf03e6545bd2  | feat:relatives log, alerts, and aggregated statistics                     |                     | 02/12/2025         |
-| Meditrack-frontend | main   | 9f5629e42a823262c1b8226e0f86e0661eb63ad6  | feat(organizations): implemented api consumption for devices measurements |                     | 25/11/2025         |
-| Meditrack-frontend | main   | ceb4fab271a454a9cce24ee932354bdc8a735661  | fix(main): add redirect file                                              |                     | 16/11/2025         |
-| Meditrack-frontend | main   | e15b1a9832835ffb3d1b619936d1b247193d54ce  | feat(auth): authentication integration and routing                        |                     | 15/11/2025         |
-| Meditrack-platform | main   | edd0c1781e091c2f4258df34f8e3d7f57653f814  | fix: fixed automatic creation of devices with random measurement data     |                     | 20/11/2025         |
-| Meditrack-platform | main   | 0bdff6843f6cd64ff355bfb1f3722f5cea24ba75  | feat(devices): added getAllAlertsByDeviceId Endpoint                      |                     | 20/11/2025         |
-| Meditrack-platform | main   | 93bde1124d6286ec003fa4091447cc9dda40d26a  | fix: fixed admin creation process                                         |                     | 15/11/2025         |
-| Meditrack-platform | main   | 6448e5e7670deab56fc2393ebc1bd1e4f64e754b  | fix: fixed authentication issues                                          |                     | 15/11/2025         |
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| ---------- | ------ | --------- | -------------- | ------------------- | ------------------ |
 
-
-
+TODO
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -5715,5 +5719,5 @@ El sprint permitió validar la importancia de la navegabilidad, el diseño respo
 | Frontend              | Enlace al repositorio del frontend     |  https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-frontend |
 | Backend               | Enlace al repositorio del backend      | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-backend  |
 | Deployed Landing Page | Enlace del deploy del Landing Page     | https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/       |
-| Deployed Frontend     | Enlace del deploy del frontend         | https://meditrack-pro-yvaal.web.app/                                            |
+| Deployed Frontend     | Enlace del deploy del frontend         | https://meditrack-open.netlify.app                                            |
 | Deployed Backend      | Enlace del deploy del backend          | https://meditrack-platform-springboot.azurewebsites.net/swagger-ui/index.html |
