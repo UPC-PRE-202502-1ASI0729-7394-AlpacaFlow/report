@@ -5011,6 +5011,7 @@ Se configuró el despliegue automático desde Firebase seleccionando la rama dev
 Se verificó el despliegue exitoso del sistema en la siguiente URL pública:
 
 Frontend desplegado en Firebase: https://meditrack-pro-yvaal.web.app/
+Frontend desplegado en Firebase: https://meditrack-pro-yvaal.web.app/
 
 Se realizaron pruebas de verificación en la versión desplegada para validar la correcta carga de componentes y funcionalidades básicas como navegación, visualización de datos y responsividad.
 
