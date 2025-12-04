@@ -5512,12 +5512,16 @@ En la sección de “Validation Interviews” del proyecto Meditrack nos enfocam
 - Apellidos: Coca
 - Edad: 20
 - Distrito: Lima - Huaral
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=tUe3e7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NzM3LjI3fX0%3D) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=tUe3e7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NzM3LjI3fX0%3D
+- [Entrevistas Meditrack](https://shorturl.at/bcCUd) https://shorturl.at/bcCUd
 - Timming: 
 - Inicio:(12:17)
 - Fin:(31:11)
 
 ![video screenshoot](./assets/chapter4/relatives-andres.png "Video screenshoot relative interview 3")
+
+- Resumen:
+
+Andre Coca es un joven de 20 años que cuida a su abuela en Huaral, considera que la aplicacion meditrack es una herramienta util para el monitoreo de su familiar, ademas que la navegacion es sencilla e intuitiva, considera que las alertas son importantes para su tranquilidad y que la informacion brindada es suficiente para el monitoreo de su familiar. Asimismo recomienda la aplicacion para otros familiares que cuidan a sus seres queridos. Concluye que la aplicacion le brinda tranquilidad y confianza en el cuidado de su abuela.  
 
 
 ##### Doctor
@@ -5526,7 +5530,7 @@ En la sección de “Validation Interviews” del proyecto Meditrack nos enfocam
 - Apellidos: Ayala Maurtua
 - Edad: 56
 - Distrito: Pueblo Libre
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=TdBrlY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MC41OX19) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=TdBrlY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MC41OX19
+- [Entrevistas Meditrack](https://shorturl.at/JYMhm) https://shorturl.at/JYMhm
 - Timming: 
 - Inicio:(00:00)
 - Fin:(05:06)
@@ -5545,7 +5549,7 @@ para la interaccion de los doctores durante un tiempo prolongado, ademas que rec
 - Nombres: Cesar 
 - Apellidos: Meza
 - Distrito: Ate
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=L9ojnJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzA3Ljh9fQ%3D%3D) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=L9ojnJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzA3Ljh9fQ%3D%3D
+- Entrevistas Meditrack: (https://shorturl.at/L9Dpt) https://shorturl.at/L9Dpt
 - Timming:
 - Inicio:(05:07)
 - Fin:(12:16)
