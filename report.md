@@ -86,6 +86,7 @@
 
 
 </div>
+
 #### Project Report Collaboration Insights
 
 - Barrientos Quispe, Marcelo
@@ -159,6 +160,10 @@ En este segundo gráfico se nota cómo abrimos y cerramos ramas con cortes contr
 <img src="assets/chapter1/network-1.png" alt="Team Collaboration Network" width="100%">
 
 En el tercero se aprecian integraciones más grandes y varios puntos de merge. Nosotros hicimos consolidaciones por hitos, revisamos los cambios entre equipos y cuidamos que main quedara liberable en cualquier momento. Esto nos permitió planear despliegues seguros y medir el progreso real de nuestra aplicación.
+
+TF: 
+
+Team Collaboration Commits
 
 # Contenido
 
@@ -4994,18 +4999,18 @@ A continuación se muestran evidencias del frontend.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-Durante este Sprint, se completó la implementación de funcionalidades clave en el frontend, y se procedió con el despliegue del mismo utilizando Netlify como plataforma de publicación gratuita. Este paso tuvo como objetivo poner a disposición una versión funcional del sistema en un entorno accesible para el equipo y los stakeholders, permitiendo su revisión continua y retroalimentación oportuna.
+Durante este Sprint, se completó la implementación de funcionalidades clave en el frontend, y se procedió con el despliegue del mismo utilizando Firebase como plataforma de publicación gratuita. Este paso tuvo como objetivo poner a disposición una versión funcional del sistema en un entorno accesible para el equipo y los stakeholders, permitiendo su revisión continua y retroalimentación oportuna.
 
 Actividades realizadas:
-Se creó una cuenta en Netlify y se vinculó el repositorio del proyecto para automatizar los despliegues desde la rama principal.
+Se creó una cuenta en Firebase y se vinculó el repositorio del proyecto para automatizar los despliegues desde la rama principal.
 
-Se configuró el despliegue automático desde Netlify seleccionando la rama develop del repositorio, definiendo los comandos de build y la carpeta de salida (dist generada por Angular).
+Se configuró el despliegue automático desde Firebase seleccionando la rama develop del repositorio, definiendo los comandos de build y la carpeta de salida (dist generada por Angular).
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Se verificó el despliegue exitoso del sistema en la siguiente URL pública:
 
-Frontend desplegado en Netlify: http://meditrack-open.netlify.app/
+Frontend desplegado en Firebase: https://meditrack-pro-yvaal.web.app/
 
 Se realizaron pruebas de verificación en la versión desplegada para validar la correcta carga de componentes y funcionalidades básicas como navegación, visualización de datos y responsividad.
 
@@ -5613,7 +5618,9 @@ Enfoque en la experiencia del usuario
 El sprint permitió validar la importancia de la navegabilidad, el diseño responsive y los llamados a la acción (CTA), lo que servirá como base para seguir optimizando la usabilidad y la accesibilidad en los próximos incrementos del producto.
 
 
-https://www.youtube.com/watch?v=AiR5RI3Urig&t=1s
+<img src="./assets/chapter4/about.png" alt="Video About-the-Product" width="1000"/>
+
+Link: https://www.youtube.com/watch?v=AiR5RI3Urig&t=1s
 
 ### Conclusiones
 
@@ -5675,15 +5682,11 @@ El sprint permitió validar la importancia de la navegabilidad, el diseño respo
 
 | Título                            | Descripción                                        | Enlace                                                                                                                                                                                                                                                                                                                                                                            |
 | --------------------------------- | -------------------------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Video de exposición TB1           | Video explicativo de los avances de la entrega TB1 |                                                                                                                                                                                                                                                                                                                                                                                   |
 | Video de exposición TP            | Video explicativo de los avances de la entrega TP1 |                                                                                                                                                                                                                                                                                                                                                                                   |
-| Video de exposición TB2           | Video explicativo de los avances de la entrega TB2 |                                                                                                                                                                                                                                                                                                                                                                                   |
 | Video de exposición TF            | Video explicativo de los avances de la entrega TF1 |                                                                                                                                                                                                                                                                                                                                                                                   |
 | Needfinding interviews            | Video recopilatorio de todas las entrevistas       | https://shorturl.at/VvNz9                                                                                                                                                                                                                                                                                                                                                         |
 | Validation interviews             | Video recopilatorio de todas las entrevistas       | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=kGz1vZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xN319 |
-| Video About the Product           | Video About the Product                            |                                                                                                                                                                                                                                                                                                                                                                                   |
 | Video About the Product - YouTube | Video About the Product - YouTube                  | https://www.youtube.com/watch?v=AiR5RI3Urig&t=1s                                                                                                                                                                                                                                                                                                                                  |
-| Video About the Team              | Video About the Team                               |                                                                                                                                                                                                                                                                                                                                                                                   |
 | Video About the Team - YouTube    | Video About the Team - YouTube                     | https://www.youtube.com/watch?v=tlHsrEqvofI                                                                                                                                                                                                                                                                                                                                       |
 
 ### UX/UI
@@ -5699,8 +5702,8 @@ El sprint permitió validar la importancia de la navegabilidad, el diseño respo
 | Organización          | Enlace a la organización               | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow                    |
 | Reporte               | Enlace al repositorio del reporte      | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/report             |
 | Landing Page          | Enlace al repositorio del Landing Page | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/landing-page       |
-| Frontend              | Enlace al repositorio del frontend     | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-frontend |
+| Frontend              | Enlace al repositorio del frontend     |  https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-frontend |
 | Backend               | Enlace al repositorio del backend      | https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/meditrack-backend  |
 | Deployed Landing Page | Enlace del deploy del Landing Page     | https://upc-pre-202502-1asi0729-7394-alpacaflow.github.io/landing-page/       |
-| Deployed Frontend     | Enlace del deploy del frontend         | https://meditrack-open.netlify.app                                            |
+| Deployed Frontend     | Enlace del deploy del frontend         | https://meditrack-pro-yvaal.web.app/                                            |
 | Deployed Backend      | Enlace del deploy del backend          | https://meditrack-platform-springboot.azurewebsites.net/swagger-ui/index.html |
