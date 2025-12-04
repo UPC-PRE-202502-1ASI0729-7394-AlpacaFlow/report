@@ -2581,7 +2581,17 @@ El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino
 
 Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama independiente por bounded context (User Management, Device Management, Dashboard & Analytics, Relationship Management, Report, Identity & Access Management). Esto permite reflejar con precisión las responsabilidades de cada contexto y la forma en que interactúan sus entidades internas.
 
-<img src="assets/chapter4/UMLDiagram.png" alt="UMLDiagram" width="100%">
+<img src="./assets/chapter4/class-diagram-1.png" alt="UMLDiagram" width="100%">
+
+<img src="./assets/chapter4/class-diagram-2.png" alt="UMLDiagram" width="100%">
+
+<img src="./assets/chapter4/class-diagram-3.png" alt="UMLDiagram" width="100%"> 
+
+<img src="./assets/chapter4/class-diagram-4.png" alt="UMLDiagram" width="100%">
+
+<img src="./assets/chapter4/class-diagram-5.png" alt="UMLDiagram" width="100%">
+
+
 
 ## 4.8. Database Design
 
