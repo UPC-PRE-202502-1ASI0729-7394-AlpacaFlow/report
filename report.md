@@ -892,7 +892,7 @@ Las preguntas se adaptaron a tres segmentos clave: familiares, profesionales mé
 - Apellidos: Coca
 - Edad: 19
 - Distrito: San Miguel
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=ASgpan&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+- Video Entrevista: https://tinyurl.com/2x43rvxy
 
 - Timming:
 - Inicio:(00:00)
@@ -921,7 +921,7 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Apellidos: Chinen Guembes
 - Edad: 21
 - Distrito: Magdalena
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=c6ZOzz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4zOX19
+- Video Entrevista: https://tinyurl.com/zxj8y9w3
 - Timming Entrevista: 
 - Inicio:(1:09:55)
 - Fin:(1:14:52)
@@ -945,7 +945,7 @@ Entre las funcionalidades más relevantes para él estarían las alertas en tiem
 - Apellidos: Yokota
 - Edad: 25 años
 - Distrito: Huaral
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=1K8Qjf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMy42MX19
+- Video Entrevista: https://tinyurl.com/5n6wbany
 - Timming:
 - Inicio:(1:01:52)
 - Fin:(01:09:54)
@@ -972,7 +972,7 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Nombres: Vicente Alonso
 - Apellidos: Cuba Pareja
 - Distrito: Miraflores
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=2xlKpN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS43fX0%3D
+- Video Entrevista: https://tinyurl.com/erxs4zwp
 - Timming:
 - Inicio:(44:39)
 - Fin:(57:11)
@@ -1001,7 +1001,7 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Nombres: Valentina
 - Apellidos: Pareja Centeno
 - Distrito: Surco
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=rcTQtX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi4yOH19
+- Video Entrevista: https://tinyurl.com/3s3pxuuk
 - Timming:
 - Inicio:(57:12)
 - Fin:(1:01:51)
@@ -1031,7 +1031,7 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Apellidos: Rivera Chipana
 - Edad: 56
 - Distrito: Pueblo Libre
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=OZHZ5Q&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5Mi44Nn19
+- Video Entrevista: https://tinyurl.com/yukn88v8
 
 - Timming:
 - Inicio:(1:14:53)
@@ -1060,7 +1060,7 @@ Sin embargo, identifica posibles obstáculos para la adopción en su clínica: e
 - Apellidos: Quispe
 - Edad: 48
 - Distrito: Madrid - España
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=PCNFWG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY3LjU1fX0%3D
+- Video Entrevista: https://tinyurl.com/yrsff7aj
 
 - Timming:
 - Inicio:(09:26)
@@ -1087,7 +1087,7 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Apellidos: Mendivil
 - Edad: 57
 - Distrito: Novara - Italia
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=Ab9IpU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OS4yNn19
+- Video Entrevista: https://tinyurl.com/4j4aufnb
 
 - Timming:
 - Inicio:(34:18)
@@ -1114,7 +1114,7 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 - Apellidos: Ayala Maurtua
 - Edad: 56
 - Distrito: Pueblo Libre
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=nx0dVm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2NC4zfX0%3D
+- Video Entrevista: https://tinyurl.com/222ce85x
 
 - Timming:
 - Inicio:(1:24:23)
@@ -2544,13 +2544,17 @@ criterios, tales como:
 
 <img src="assets/chapter4/mobileProtoyping.png" alt="landing-english" style="width:300px; height:auto;"/>
 
-Direccionamiento al [Prototipo Mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EXz4E9NdVZtIkEk7n6GaAXwBa8DvhRgeo7SjpotPW2Xmbw?e=qvh1pP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Direccionamiento al [Prototipo Mobile](https://tinyurl.com/5adetyvt) 
+
+https://tinyurl.com/5adetyvt
 
 https://tinyurl.com/4ehaedhv
 
 <img src="assets/chapter4/AppWebPrototyping.png" alt="landing-english" style="width:300px; height:auto;"/>
 
-Direccionamiento al [Prototipo WebApp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EVciWpoXIMpFoRcwCB0ujjgBQOgI-L9YpizFcXMiJbPZQw?e=VAR3eO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Direccionamiento al [Prototipo WebApp](https://tinyurl.com/5y5ppek3)
+
+https://tinyurl.com/5y5ppek3
 
 https://tinyurl.com/ytm3bvr9
 
@@ -3522,11 +3526,15 @@ criterios, tales como:
 
 <img src="assets/chapter4/mobileProtoyping.png" alt="landing-english" style="width:300px; height:auto;"/>
 
-Direccionamiento al [Prototipo Mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EXz4E9NdVZtIkEk7n6GaAXwBa8DvhRgeo7SjpotPW2Xmbw?e=qvh1pP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Direccionamiento al [Prototipo Mobile](https://tinyurl.com/5adetyvt)
+
+https://tinyurl.com/5adetyvt
 
 <img src="assets/chapter4/AppWebPrototyping.png" alt="landing-english" style="width:300px; height:auto;"/>
 
-Direccionamiento al [Prototipo WebApp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EVciWpoXIMpFoRcwCB0ujjgBQOgI-L9YpizFcXMiJbPZQw?e=VAR3eO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Direccionamiento al [Prototipo WebApp](https://tinyurl.com/5y5ppek3)
+
+https://tinyurl.com/5y5ppek3
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -4486,11 +4494,15 @@ criterios, tales como:
 
 <img src="assets/chapter4/mobileProtoyping.png" alt="landing-english" style="width:300px; height:auto;"/>
 
-Direccionamiento al [Prototipo Mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EXz4E9NdVZtIkEk7n6GaAXwBa8DvhRgeo7SjpotPW2Xmbw?e=qvh1pP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Direccionamiento al [Prototipo Mobile](https://tinyurl.com/5adetyvt)
+
+https://tinyurl.com/5adetyvt
 
 <img src="assets/chapter4/AppWebPrototyping.png" alt="landing-english" style="width:300px; height:auto;"/>
 
-Direccionamiento al [Prototipo WebApp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320083_upc_edu_pe/EVciWpoXIMpFoRcwCB0ujjgBQOgI-L9YpizFcXMiJbPZQw?e=VAR3eO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Direccionamiento al [Prototipo WebApp](https://tinyurl.com/5y5ppek3)
+
+https://tinyurl.com/5y5ppek3
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -5703,7 +5715,7 @@ El sprint permitió validar la importancia de la navegabilidad, el diseño respo
 | Video de exposición TP            | Video explicativo de los avances de la entrega TP1 |                                                                                                                                                                                                                                                                                                                                                                                   |
 | Video de exposición TF            | Video explicativo de los avances de la entrega TF1 |                                                                                                                                                                                                                                                                                                                                                                                   |
 | Needfinding interviews            | Video recopilatorio de todas las entrevistas       | https://shorturl.at/VvNz9                                                                                                                                                                                                                                                                                                                                                         |
-| Validation interviews             | Video recopilatorio de todas las entrevistas       | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=kGz1vZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xN319 |
+| Validation interviews             | Video recopilatorio de todas las entrevistas       | https://tinyurl.com/yc472psk |
 | Video About the Product - YouTube | Video About the Product - YouTube                  | https://www.youtube.com/watch?v=AiR5RI3Urig&t=1s                                                                                                                                                                                                                                                                                                                                  |
 | Video About the Team - YouTube    | Video About the Team - YouTube                     | https://www.youtube.com/watch?v=tlHsrEqvofI                                                                                                                                                                                                                                                                                                                                       |
 
