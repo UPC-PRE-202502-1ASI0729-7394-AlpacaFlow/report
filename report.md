@@ -6,7 +6,7 @@
 
 ### Ingeniería de Software
 
-### Periodo: 2025-02
+### 202520
 
 ### Código: 1ASI0729
 
@@ -72,13 +72,18 @@
 | 1.12    | 15/09/25 | Barrientos Quispe, Marcelo      | Inclusión de contenido detallado en el análisis de entrevistas.      |
 | 1.13    | 15/09/25 | Fernandez Camayo, Carlos Fredy  | Agregados resúmenes estructurados de las entrevistas.                |
 | 1.14    | 20/09/25 | Barrientos Quispe, Marcelo      | Se realizaron correcciones del informe en el capitulo 1, 3 y 5       |
-| 3.1     | 1/11/25  | Barrientos Quispe, Marcelo      | Cambio de intregrantes.                                              |
-| 3.2     | 3/11/25  | Fernandez Camayo, Carlos Fredy  | Inclusión de Diagrama de Base de Datos.                              |
-| 3.3     | 3/11/25  | Fernandez Camayo, Carlos Fredy  | Inclusión de Diagrama UML.                                           |
-| 3.4     | 3/11/25  | Barrientos Quispe, Marcelo      | Implemetanción nueva del Figma                                       |
-| 3.5     | 5/11/25  | Nikaido Vargas, Javier Masaru   | Cambio en el lenguaje ubicuo.                                        |
-| 3.6     | 6/11/25  | Rivera Ayala, Gabriel Alejandro | Implementación del Sprint 3                                          |
-| 3.7     | 8/11/25  | Nikaido Vargas, Javier Masaru   | Desarrollo del Sprint 3.                                             |
+| 3.1     | 01/11/25  | Barrientos Quispe, Marcelo      | Cambio de intregrantes.                                              |
+| 3.2     | 03/11/25  | Fernandez Camayo, Carlos Fredy  | Inclusión de Diagrama de Base de Datos.                              |
+| 3.3     | 03/11/25  | Fernandez Camayo, Carlos Fredy  | Inclusión de Diagrama UML.                                           |
+| 3.4     | 03/11/25  | Barrientos Quispe, Marcelo      | Implemetanción nueva del Figma                                       |
+| 3.5     | 05/11/25  | Nikaido Vargas, Javier Masaru   | Cambio en el lenguaje ubicuo.                                        |
+| 3.6     | 06/11/25  | Rivera Ayala, Gabriel Alejandro | Implementación del Sprint 3                                          |
+| 3.7     | 08/11/25  | Nikaido Vargas, Javier Masaru   | Desarrollo del Sprint 3.                                             |
+| 4.1     | 03/12/25 | Barrientos Quispe, Marcelo      | Revisión final del informe completo.                                 |
+| 4.2     | 02/12/25 | Fernandez Camayo, Carlos Fredy  | Revisión final de la plataforma.                                    |
+| 4.3     | 03/12/25 | Nikaido Vargas, Javier Masaru   | Revisión final del sprint 4.                                 |
+| 4.4     | 29/11/25 | Rivera Ayala, Gabriel Alejandro | Revisión final del backend.                                 |
+
 
 </div>
 #### Project Report Collaboration Insights
@@ -267,8 +272,10 @@ En el tercero se aprecian integraciones más grandes y varios puntos de merge. N
     - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
     - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
     - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
-    - [5.2.4.6. Services Documentation Evidence](#5246-services-documentation-evidence)
-    - [5.2.4.7. Software Deployment Evidence](#5247-software-deployment-evidence)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+
 - [5.3. Validation Interviews](#53-validation-interviews)
 
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
@@ -867,7 +874,7 @@ Las preguntas se adaptaron a tres segmentos clave: familiares, profesionales mé
 - Apellidos: Coca
 - Edad: 19
 - Distrito: San Miguel
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=yHOF0R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=ASgpan&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
 
 - Timming:
 - Inicio:(00:00)
@@ -896,7 +903,7 @@ En conjunto, el entrevistado transmite una visión juvenil y proactiva sobre el 
 - Apellidos: Chinen Guembes
 - Edad: 21
 - Distrito: Magdalena
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=wrqpQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4yNX19
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=c6ZOzz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDE5NS4zOX19
 - Timming Entrevista: 
 - Inicio:(1:09:55)
 - Fin:(1:14:52)
@@ -920,7 +927,7 @@ Entre las funcionalidades más relevantes para él estarían las alertas en tiem
 - Apellidos: Yokota
 - Edad: 25 años
 - Distrito: Huaral
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=BhGd8H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMi43Nn19
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=1K8Qjf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzcxMy42MX19
 - Timming:
 - Inicio:(1:01:52)
 - Fin:(01:09:54)
@@ -947,7 +954,7 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Nombres: Vicente Alonso
 - Apellidos: Cuba Pareja
 - Distrito: Miraflores
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=aY7rSU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS40OX19
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=2xlKpN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjY3OS43fX0%3D
 - Timming:
 - Inicio:(44:39)
 - Fin:(57:11)
@@ -976,7 +983,7 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Nombres: Valentina
 - Apellidos: Pareja Centeno
 - Distrito: Surco
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6LYwuZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi40M319
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=rcTQtX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQzMi4yOH19
 - Timming:
 - Inicio:(57:12)
 - Fin:(1:01:51)
@@ -1006,7 +1013,7 @@ Como posibles barreras de adopción identifica la dificultad de uso, la necesida
 - Apellidos: Rivera Chipana
 - Edad: 56
 - Distrito: Pueblo Libre
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=6nZCBd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5My4wNX19
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=OZHZ5Q&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDQ5Mi44Nn19
 
 - Timming:
 - Inicio:(1:14:53)
@@ -1035,7 +1042,7 @@ Sin embargo, identifica posibles obstáculos para la adopción en su clínica: e
 - Apellidos: Quispe
 - Edad: 48
 - Distrito: Madrid - España
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=IFJU7k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY2LjQ2fX0%3D
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=PCNFWG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTY3LjU1fX0%3D
 
 - Timming:
 - Inicio:(09:26)
@@ -1062,7 +1069,7 @@ En conjunto, la entrevistada transmite una visión crítica y realista de las li
 - Apellidos: Mendivil
 - Edad: 57
 - Distrito: Novara - Italia
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=HY7RRo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OC42MX19
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=Ab9IpU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjA1OS4yNn19
 
 - Timming:
 - Inicio:(34:18)
@@ -1089,7 +1096,7 @@ En conjunto, Fanny Mendívil transmite una visión realista y empática del cuid
 - Apellidos: Ayala Maurtua
 - Edad: 56
 - Distrito: Pueblo Libre
-- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/EeSUrbOcNE1IpLshNE4fVZUBxgW-t6lyFqgtKLXuzEgR0w?e=nCgzcc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2My4wNX19
+- Video Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221g099_upc_edu_pe/IQDklK2znDRNSKS7ITROH1WVAXILYljPhf5lShdNHG1N0gE?e=nx0dVm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTA2NC4zfX0%3D
 
 - Timming:
 - Inicio:(1:24:23)
@@ -2582,13 +2589,25 @@ El nivel de detalle incluye no solo las clases, interfaces y enumeraciones, sino
 
 Para garantizar la trazabilidad del diseño, se ha elaborado un diagrama independiente por bounded context (User Management, Device Management, Dashboard & Analytics, Relationship Management, Report, Identity & Access Management). Esto permite reflejar con precisión las responsabilidades de cada contexto y la forma en que interactúan sus entidades internas.
 
-<img src="assets/chapter4/UMLDiagram.png" alt="UMLDiagram" width="100%">
+<img src="./assets/chapter4/class-diagram-1.png" alt="UMLDiagram" width="100%">
+
+<img src="./assets/chapter4/class-diagram-2.png" alt="UMLDiagram" width="100%">
+
+<img src="./assets/chapter4/class-diagram-3.png" alt="UMLDiagram" width="100%"> 
+
+<img src="./assets/chapter4/class-diagram-4.png" alt="UMLDiagram" width="100%">
+
+<img src="./assets/chapter4/class-diagram-5.png" alt="UMLDiagram" width="100%">
+
+
 
 ## 4.8. Database Design
 
+En esta sección se presenta el diseño de la base de datos relacional utilizada en el sistema. El diagrama entidad-relación (ERD) ilustra las tablas principales, sus atributos y las relaciones entre ellas. Cada tabla representa una entidad del dominio, con sus respectivas columnas que definen los datos almacenados. Las relaciones entre tablas se indican mediante líneas que muestran cómo las entidades están conectadas, incluyendo las cardinalidades (uno a uno, uno a muchos, muchos a muchos) para clarificar la naturaleza de las asociaciones. Este diseño asegura la integridad de los datos y optimiza el rendimiento de las consultas dentro del sistema.
+
 ### 4.8.1. Database Diagrams
 
-![Diagrama de base de datos.png](assets/chapter4/Diagrama%20de%20base%20de%20datos.png)
+![Diagrama de base de datos.png](./assets/chapter4/data-base.png)
 
 ## 4.1. Style Guidelines
 
@@ -5209,6 +5228,17 @@ Se realizaron pruebas para verificar el manejo correcto de datos segun operacion
 
 ![Backend Deployment Evidence](./assets/chapter5/deploy-backend-ev01.png)
 
+#### Despliegue del frontend:
+- Para el despligue del frontend se implemento el servicio de despliegue web de firebase, mediante la configuración del hosting.
+- Sitio del frontend desplegado: https://meditrack-pro-yvaal.web.app/
+#### Evidencias de despliegue frontend:
+
+![Frontend Deployment Evidence](./assets/chapter5/deploy-frontend1.png)
+![Frontend Deployment Evidence](./assets/chapter5/deploy-frontend3.png)
+![Frontend Deployment Evidence](./assets/chapter5/deploy-frontend2.png)
+
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 En esta sección se evidencia la colaboración de cada integrante en el repositorio del backend.
@@ -5457,14 +5487,28 @@ En la sección de “Validation Interviews” del proyecto Meditrack nos enfocam
 
 ### 5.3.2 Registro de Entrevistas
 
+##### Relatives
+
+- Nombres: André
+- Apellidos: Coca
+- Edad: 20
+- Distrito: Lima - Huaral
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=tUe3e7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NzM3LjI3fX0%3D) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=tUe3e7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NzM3LjI3fX0%3D
+- Timming: 
+- Inicio:(12:17)
+- Fin:(31:11)
+
+![video screenshoot](./assets/chapter4/relatives-andres.png "Video screenshoot relative interview 3")
+
+
 ##### Doctor
 
 - Nombres: Judith Jesus
 - Apellidos: Ayala Maurtua
 - Edad: 56
 - Distrito: Pueblo Libre
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=kGz1vZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xN319) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=kGz1vZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xN319
-- [Timming Entrevista Judith Ayala](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=uDIFv2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=uDIFv2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=TdBrlY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MC41OX19) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=TdBrlY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MC41OX19
+- Timming: 
 - Inicio:(00:00)
 - Fin:(05:06)
 
@@ -5482,8 +5526,8 @@ para la interaccion de los doctores durante un tiempo prolongado, ademas que rec
 - Nombres: Cesar 
 - Apellidos: Meza
 - Distrito: Ate
-- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=kGz1vZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xN319) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=kGz1vZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xN319
-- [Timming Entrevista Cesar Meza](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=QPAvCx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzA4LjA1fX0%3D) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQAPPVCrSozYQ69UNp81KJMxAdTf4dPfsQaokw-c875TfZg?e=QPAvCx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzA4LjA1fX0%3D
+- [Entrevistas Meditrack](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=L9ojnJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzA3Ljh9fQ%3D%3D) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e646_upc_edu_pe/IQApQXsGJnlzTJSVS8ufbAOJAbiB0uTnFnNBOprMzYMhC6o?e=L9ojnJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzA3Ljh9fQ%3D%3D
+- Timming:
 - Inicio:(05:07)
 - Fin:(12:16)
 
